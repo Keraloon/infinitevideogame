@@ -154,7 +154,23 @@ resultslist: {
     z-index: 1000; /* Assurez-vous qu'il se trouve au-dessus d'autres éléments */
 }
 
+#retour {
+    font-size: 15px; /* Taille de la police */
+    background-color: #bb4444; /* Couleur de fond */
+    color: #ffffff; /* Couleur du texte pour un meilleur contraste */
+    cursor: pointer; /* Changer le curseur au survol */
+    border-style: inset; /* Style de la bordure */
+    border-color: #222222; /* Couleur de la bordure */
+    position: absolute; /* Positionnement absolu */
+    top: 50px; /* Ajustez cette valeur pour la position verticale */
+    left: 20px; /* Ajustez cette valeur pour la position horizontale */
+    z-index: 1000; /* Assurez-vous qu'il se trouve au-dessus d'autres éléments */
+}
 /* Effet de survol pour améliorer l'interaction */
 #access-blitz:hover {
     background-color: #993333; /* Couleur de fond au survol */
+}
+
+#retour:hover {
+    background-color: #aa3333; /* Couleur de fond au survol */
 }
