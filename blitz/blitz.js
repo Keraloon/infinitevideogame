@@ -19,7 +19,7 @@ let currentLanguage = localStorage.getItem("language") || "fr"; // Par défaut e
 
 const backButton = document.getElementById("backButton");
 backButton.addEventListener("click", () => {
-    window.location.href = "/index.html"; // Redirection vers index.html
+    window.location.href = "/infinitevideogame/index.html"; // Redirection vers index.html
 });
 
 // Fonction de changement de langue
