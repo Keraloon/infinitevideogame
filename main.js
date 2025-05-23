@@ -6804,7 +6804,3 @@ var app = (function () {
     props: {},
   });
 })();
-
-
-
-alert("Glitch decided to stop hosting sites, this site will be migrated on Keraloon.github.io/infinitevideogame in a few days");
