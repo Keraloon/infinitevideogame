@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Infinite Heardle Mode Blitz</title>
+  <link rel="stylesheet" href="blitz.css">
+</head>
+<body>
+  <div id="header">
+    <button id="languageToggle">Changer de langue</button>
+    <button id="backButton">Retour</button>
+  </div>
+
+  
+  <div id="game-container">
+    <button id="playButton">Play</button>
+    <button id="skipButton">Skip</button>
+    <div id="timerDisplay">Time Remaining : 60s</div>
+    <input type="text" id="answerInput" placeholder="Entrez votre réponse ici">
+    <ul id="suggestionsList"></ul> <!-- Liste pour afficher les suggestions -->
+    <div id="scoreDisplay">Score : 0</div>
+    <button id="submitButton">Submit</button>
+     <div id="feedbackMessage"></div>
+    <div id="player-container">
+      <iframe id="soundcloud-player" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"></iframe>
+    </div>
+  </div>
+  
+  
+  <script defer src="https://w.soundcloud.com/player/api.js"></script>
+  <script src="/musique.js"></script>
+  <script src="/reponse.js"></script>
+  <script src="blitz.js"></script>
+  
+  
+  <div id="progressContainer">
+    <div id="progressBar"></div>
+</div>
+</body>
+</html>
