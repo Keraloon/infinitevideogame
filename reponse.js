@@ -8147,10 +8147,6 @@ window.musicListWithLinks = [
     answer: 3075,
   },
   {
-    url: "https://soundcloud.com/user-886018235/doom-eternal-urdak-paradise-lost-remix-gecklo",
-    answer: 3076,
-  },
-  {
     url: "https://soundcloud.com/doomguyvol1/command-and-control?in=blake-ender/sets/doom-eternal-ost",
     answer: 3077,
   },
