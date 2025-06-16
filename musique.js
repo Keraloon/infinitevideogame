@@ -2802,11 +2802,6 @@ window.musicNameList = [
     fr: "Doom Hunter - Doom Eternal",
   },
   {
-    id: 3076,
-    en: "Urdak (Gecklo Remix) - Doom Eternal",
-    fr: "Urdak (Gecklo Remix) - Doom Eternal",
-  },
-  {
     id: 3077,
     en: "Command and Control - Doom Eternal",
     fr: "Command and Control - Doom Eternal",
