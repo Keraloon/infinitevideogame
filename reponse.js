@@ -3670,63 +3670,63 @@ window.musicListWithLinks = [
     answer: 1687,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-nemona-battle-theme",
+    url: "https://soundcloud.com/infinitexd3/1-10-battle-nemona",
     answer: 1697,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-poco-path",
+    url: "https://soundcloud.com/infinitexd3/1-11-poco-path",
     answer: 1698,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-799713198",
+    url: "https://soundcloud.com/infinitexd3/1-17-battle-wild-pokemon-inlet",
     answer: 1702,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-arvens-battle-theme",
+    url: "https://soundcloud.com/infinitexd3/1-20-battle-arven",
     answer: 1705,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-trainers-eyes-meet",
+    url: "https://soundcloud.com/infiniteshadowx34/2-1-trainers-eyes-meet",
     answer: 1708,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-pokemon-center",
+    url: "https://soundcloud.com/infinitexd3/1-30-pokemon-center",
     answer: 1712,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-mystery-gift",
+    url: "https://soundcloud.com/infinitexd3/1-33-mystery-gift",
     answer: 1713,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-team-star-grunt-battle-theme",
+    url: "https://soundcloud.com/infinitexd3/1-39-battle-team-star",
     answer: 1719,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-professor-sada-and-turos-theme",
+    url: "https://soundcloud.com/infinitexd3/1-41-professor-sada-professor",
     answer: 1721,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-cassiopeias-theme",
+    url: "https://soundcloud.com/infinitexd3/1-42-cassiopeias-theme",
     answer: 1722,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-lets-have-some-food",
+    url: "https://soundcloud.com/infinitexd3/1-48-taste-test",
     answer: 1726,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-gym-lobby-theme",
+    url: "https://soundcloud.com/infinitexd3/1-50-gym-lobby",
     answer: 1728,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-588521923",
+    url: "https://soundcloud.com/infinitexd3/1-53-a-gym-leader-appears",
     answer: 1730,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-gym-leader-battle",
+    url: "https://soundcloud.com/infinitexd3/1-54-battle-gym-leader",
     answer: 1731,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-making-a-sandwich",
+    url: "https://soundcloud.com/infinitexd3/1-63-lets-make-a-sandwich",
     answer: 1737,
   },
   {
@@ -3734,11 +3734,11 @@ window.musicListWithLinks = [
     answer: 1738,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-levincia",
+    url: "https://soundcloud.com/infinitexd3/1-65-levincia",
     answer: 1739,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-5",
+    url: "https://soundcloud.com/infinitexd3/1-66-iono-zone",
     answer: 1740,
   },
   {
