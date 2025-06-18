@@ -18495,4 +18495,93 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/looking_swager_than_don/unbeatable-ost-proper-rhythm-2?in=looking_swager_than_don/sets/unbeatable-ost",
     answer: 5795,
   },
+  
+  {
+    url: "https://soundcloud.com/sv-dlc2/1-04-cabo-poco-pokemon-scarlet",
+    answer: 5796,
+  },
+  {
+    url: "https://soundcloud.com/infinitexd3/1-9-nemonas-theme",
+    answer: 5797,
+  },
+  {
+    url: "https://soundcloud.com/infinitexd3/1-12-battle-wild-pokemon",
+    answer: 5798,
+  },
+  {
+    url: "https://soundcloud.com/rse-548363113/houndoom-attacks-pokemon-scarlet-violet",
+    answer: 5799,
+  },
+  {
+    url: "https://soundcloud.com/infinitexd3/1-19-arvens-theme",
+    answer: 5800,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/south-province-riding-no-intro-pokemon-scarlet-violet-3",
+    answer: 5801,
+  },
+  {
+    url: "https://soundcloud.com/infinitexd3/1-23-battle-southern-pokemon",
+    answer: 5802,
+  },
+  {
+    url: "https://soundcloud.com/rse-548363113/naranjauva-academy-dorm-roomdirectors-officestaff-roomnurses-office-pokemon-scarletviolet",
+    answer: 5803,
+  },
+  {
+    url: "https://soundcloud.com/rse-548363113/west-province-riding-no-intro",
+    answer: 5804,
+  },
+  {
+    url: "https://soundcloud.com/infinitexd3/1-79-battle-western-pokemon",
+    answer: 5805,
+  },
+  {
+    url: "https://soundcloud.com/infinitexd3/1-84-cascaraffa",
+    answer: 5806,
+  },
+  {
+    url: "https://soundcloud.com/infinitexd3/1-58-battle-titan-pokemon",
+    answer: 5807,
+  },
+  {
+    url: "https://soundcloud.com/infinitexd3/1-82-medali-porto-marinada",
+    answer: 5808,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/east-province-riding-no-intro-pokemon-scarlet-violet-2",
+    answer: 5809,
+  },
+  {
+    url: "https://soundcloud.com/infinitexd3/1-71-star-barrage",
+    answer: 5810,
+  },
+  {
+    url: "https://soundcloud.com/infinitexd3/1-72-a-team-star-boss-appears",
+    answer: 5811,
+  },
+  {
+    url: "https://soundcloud.com/infiniteshadowx34/1-93-battle-northern-pokemon",
+    answer: 5812,
+  },
+  {
+    url: "https://soundcloud.com/infiniteshadowx34/1-111-battle-top-champion",
+    answer: 5813,
+  },
+  {
+    url: "https://soundcloud.com/infinitexd3/1-83-link-battle-start",
+    answer: 5814,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/mossui-town-scarletviolet-the-teal-mask-1",
+    answer: 5815,
+  },
+  {
+    url: "https://soundcloud.com/tkyo-berg/pokemon-scarlet-violetthe-1",
+    answer: 5816,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/perrins-theme-scarletviolet-the-teal-mask-2",
+    answer: 5817,
+  },
 ];
