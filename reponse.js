@@ -18640,4 +18640,148 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/sv-dlc2/6-32-battle-pecharunt-pokemon",
     answer: 5831,
   },
+  {
+    url: "https://soundcloud.com/teelopes-music/call-me-the-yotagonist?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5832,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/bauhaus-breakdown?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5833,
+  },
+  {
+    url: "https://soundcloud.com/seanbialo/hello-macaroon?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5834,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/jigs-up-penny?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5835,
+  },
+  {
+    url: "https://soundcloud.com/seanbialo/trick-of-the-wrist?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5836,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/pensive-at-the-afterparty?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5837,
+  },
+  {
+    url: "https://soundcloud.com/seanbialo/penny-in-a-pinch?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5838,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/refracting-feelings?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5839,
+  },
+  {
+    url: "https://soundcloud.com/seanbialo/sleep-no-throwdown?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5840,
+  },
+  {
+    url: "https://soundcloud.com/seanbialo/land-ho-diabolo?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5841,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/palling-around?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5842,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/sparks-of-the-cobalt-sands-1?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5843,
+  },
+  {
+    url: "https://soundcloud.com/seanbialo/scientific-method?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5844,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/tutto-finisce-a-tarallucci-e?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5845,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/sudzsy-swings-at-the-natural?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5846,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/strongman?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5847,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/mano-e-yo-yo?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5848,
+  },
+  {
+    url: "https://soundcloud.com/hunterbridges-sc/stargazer?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5849
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/breakaway?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5850,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/outside-the-eidophusikon?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5851,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/puppet-pioneer?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5852,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/balearic-birds?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5853,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/chromatic-oscillations?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5854,
+  },
+  {
+    url: "https://soundcloud.com/hunterbridges-sc/its-a-biguin-now?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5855,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/maxims-and-misfits?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5856,
+  },
+  {
+    url: "https://soundcloud.com/seanbialo/by-the-book?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5857,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/scales-of-justice?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5858,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/gigs-on-penny?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5859,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/palace-sneaktime-swing?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5860,
+  },
+  {
+    url: "https://soundcloud.com/seanbialo/triadic-ballet?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5861,
+  },
+  {
+    url: "https://soundcloud.com/seanbialo/cosmic-curtain-call?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5862,
+  },
+  {
+    url: "https://soundcloud.com/seanbialo/wind-it-up-yo?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5863,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/bop-it-comet?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5864,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/wax-lyricool?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5865,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/dont-trick-the-sun?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5866,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/proxima?in=teelopes-music/sets/pennys-big-breakaway-original",
+    answer: 5867,
+  },
 ];
