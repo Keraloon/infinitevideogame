@@ -11713,8 +11713,8 @@ window.musicNameList = [
   },
   {
     id: 1748,
-    en: "A Year and a Half Ago (Team Star Flashback) - Pokémon Scarlet/Violet",
-    fr: "Un an et demi plus tôt (Flashback de la Team Star) - Pokémon Écarlate/Violet",
+    en: "Treasure of the Stars/A Year and a Half Ago (Team Star Flashback) - Pokémon Scarlet/Violet",
+    fr: "Trésor de la team Star/Un an et demi plus tôt (Flashback de la Team Star) - Pokémon Écarlate/Violet",
   },
   {
     id: 1749,
@@ -11728,7 +11728,7 @@ window.musicNameList = [
   },
   {
     id: 1770,
-    en: "Throw Down with Ryme! ~ Rap Battle - Pokémon Scarlet/Violet",
+    en: "Soulful Beat!/Throw Down with Ryme! ~ Rap Battle - Pokémon Scarlet/Violet",
     fr: "Rap Battle - Pokémon Écarlate/Violet",
   },
   {
@@ -11775,6 +11775,11 @@ window.musicNameList = [
     id: 1790,
     en: "Battle! (Area Zero Pokémon) - Pokémon Scarlet/Violet",
     fr: "Combat! (Pokémon de la Zone Zéro) - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 1791,
+    en: "Battle! (Area Zero Pokémon 2/Paradox Lab Pokémon) - Pokémon Scarlet/Violet",
+    fr: "Combat! (Pokémon de la Zone Zéro 2/Pokémon Paradoxe du Laboratoire) - Pokémon Écarlate/Violet",
   },
   {
     id: 1794,
