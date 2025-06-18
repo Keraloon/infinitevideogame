@@ -11838,13 +11838,13 @@ window.musicNameList = [
   },
   {
     id: 5801,
-    en: "South Province (Riding) - Scarlet/Violet",
-    fr: "Zone Sud (Monture) - Écarlate/Violet",
+    en: "South Province (Riding) - Pokémon Scarlet/Violet",
+    fr: "Zone Sud (Monture) - Pokémon Écarlate/Violet",
   },
   {
     id: 5802,
-    en: "Battle! (Southern Pokémon) - Scarlet/Violet",
-    fr: "Combat! (Pokémon sauvage des régions du Sud) - Écarlate/Violet",
+    en: "Battle! (Southern Pokémon) - Pokémon Scarlet/Violet",
+    fr: "Combat! (Pokémon sauvage des régions du Sud) - Pokémon Écarlate/Violet",
   },
   {
     id: 1708,
