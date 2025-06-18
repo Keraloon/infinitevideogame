@@ -3742,27 +3742,27 @@ window.musicListWithLinks = [
     answer: 1740,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-clives-theme",
+    url: "https://soundcloud.com/infinitexd3/1-69-clives-theme",
     answer: 1742,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-mela-team-star-battle-theme",
+    url: "https://soundcloud.com/infinitexd3/1-73-battle-team-star-boss",
     answer: 1746,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-unknown-theme",
+    url: "https://soundcloud.com/infinitexd3/1-75-a-year-and-a-half-ago",
     answer: 1748,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-tera-raid-battle-theme-hqq",
+    url: "https://soundcloud.com/infinitexd3/1-76-battle-tera-raid",
     answer: 1749,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-montenevera",
+    url: "https://soundcloud.com/infiniteshadowx34/1-96-montenevera",
     answer: 1768,
   },
   {
-    url: "https://soundcloud.com/rse-548363113/throw-down-with-ryme-rap-battle-pokemon-scarlet-violet",
+    url: "https://soundcloud.com/sv-dlc2/305-soulful-beat-pokemon-scarlet-and-violet",
     answer: 1770,
   },
   {
@@ -3770,23 +3770,23 @@ window.musicListWithLinks = [
     answer: 1771,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-director-clavell-battle-theme",
+    url: "https://soundcloud.com/infiniteshadowx34/1-102-battle-director-clavell",
     answer: 1774,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-257713154",
+    url: "https://soundcloud.com/infiniteshadowx34/1-104-battle-cassiopeia",
     answer: 1776,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-elite-four-room",
+    url: "https://soundcloud.com/infiniteshadowx34/1-109-pokemon-league-lobby",
     answer: 1781,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-elite-4-battle-theme",
+    url: "https://soundcloud.com/infiniteshadowx34/1-110-battle-elite-four",
     answer: 1782,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-nemonas-final-battle-theme",
+    url: "https://soundcloud.com/ssj4-beat/pokemon-scarlet-violet-nemona-final-battle-theme-hq",
     answer: 1786,
   },
   {
@@ -3794,15 +3794,19 @@ window.musicListWithLinks = [
     answer: 1788,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-overworld-theme-area-zero",
+    url: "https://soundcloud.com/karninecrow/pokemon-scarlet-violet-area",
     answer: 1789,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-ost-wild-pokemon-battle-area-zero",
+    url: "https://soundcloud.com/karninecrow/pokemon-scarlet-and-violet-2",
     answer: 1790,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-terra-raid-battle-theme-hq",
+    url: "https://soundcloud.com/tkyo-berg/pokemon-scarlet-and-251987088",
+    answer: 1791,
+  },
+  {
+    url: "https://soundcloud.com/user-657324383/pokemon-scarlet-and-violet-vs",
     answer: 1794,
   },
   {
@@ -3810,7 +3814,7 @@ window.musicListWithLinks = [
     answer: 1798,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-ace-academy-tournament-battle",
+    url: "https://soundcloud.com/user-657324383/pokemon-scarlet-and-violet",
     answer: 1804,
   },
   {
@@ -13608,7 +13612,7 @@ window.musicListWithLinks = [
     answer: 4534,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-violet-ost-ruin-legendary-battle-theme",
+    url: "https://soundcloud.com/infiniteshadowx34/1-134-battle-legendary-pokemon",
     answer: 4535,
   },
   {
