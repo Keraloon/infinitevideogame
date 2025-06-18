@@ -7811,27 +7811,27 @@ window.musicListWithLinks = [
     answer: 2990,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-843161973?in=user-675036643/sets/pokemon-scarlet-violet-the-teal-mask-dlc-soundtrack",
+    url: "https://soundcloud.com/ya-boi-tart/battle-carmine-pok-mon-scarlet",
     answer: 2991,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-342037150?in=user-675036643/sets/pokemon-scarlet-violet-the-teal-mask-dlc-soundtrack",
+    url: "https://soundcloud.com/ya-boi-tart/battle-kieran-pok-mon-scarlet",
     answer: 2992,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-164810716?in=user-675036643/sets/pokemon-scarlet-violet-the-teal-mask-dlc-soundtrack",
+    url: "https://soundcloud.com/ya-boi-tart/battle-kieran-final-pok-mon",
     answer: 2993,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-429101160?in=user-675036643/sets/pokemon-scarlet-violet-the-teal-mask-dlc-soundtrack",
+    url: "https://soundcloud.com/ya-boi-tart/battle-loyal-three-pok-mon",
     answer: 2994,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-431791152?in=user-675036643/sets/pokemon-scarlet-violet-the-teal-mask-dlc-soundtrack",
+    url: "https://soundcloud.com/user-398209245/battle-ogerpon-pokemon-scarlet-and-violet-the-teal-mask-dlc",
     answer: 2995,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-violet-the-4?in=user-675036643/sets/pokemon-scarlet-violet-the-teal-mask-dlc-soundtrack",
+    url: "https://soundcloud.com/sv-dlc2/the-loyal-three-wreak-havoc-scarletviolet-the-teal-mask-5",
     answer: 2996,
   },
   {
@@ -8075,31 +8075,31 @@ window.musicListWithLinks = [
     answer: 3056,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-297147943",
+    url: "https://soundcloud.com/sv-dlc2/5-35-terarium-coastal-biome",
     answer: 3057,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-728008214",
+    url: "https://soundcloud.com/sv-dlc2/6-01-terarium-central-plaza",
     answer: 3058,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-862688405",
+    url: "https://soundcloud.com/sv-dlc2/6-26-star-training-centers",
     answer: 3059,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-653226363",
+    url: "https://soundcloud.com/sv-dlc2/6-20-battle-terapagos-pokemon",
     answer: 3060,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-104565681",
+    url: "https://soundcloud.com/sv-dlc2/5-34-battle-pokemon-in-the",
     answer: 3061,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-562002519",
+    url: "https://soundcloud.com/sv-dlc2/6-15-battle-champion-kieran",
     answer: 3062,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-and-222449509",
+    url: "https://soundcloud.com/sv-dlc2/6-11-battle-bb-league-elite",
     answer: 3063,
   },
   {
@@ -13500,7 +13500,7 @@ window.musicListWithLinks = [
     answer: 4480,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-scarlet-393914917",
+    url: "https://soundcloud.com/ya-boi-tart/battle-kitakami-region-pok-mon",
     answer: 4481,
   },
   {
@@ -13616,11 +13616,11 @@ window.musicListWithLinks = [
     answer: 4535,
   },
   {
-    url: "https://soundcloud.com/sv-dlc2/6-03-daily-life-at-the-academy?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+    url: "https://soundcloud.com/sv-dlc2/6-03-daily-life-at-the-academy",
     answer: 4536,
   },
   {
-    url: "https://soundcloud.com/sv-dlc2/6-24-caught-the-terapagos?in=sv-dlc2/sets/pokemon-scarletviolet-the-indigo-disk",
+    url: "https://soundcloud.com/sv-dlc2/6-24-caught-the-terapagos",
     answer: 4537,
   },
   {
