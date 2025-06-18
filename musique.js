@@ -11898,8 +11898,8 @@ window.musicNameList = [
   },
   {
     id: 5815,
-    en: "Mossui Town - Pokémon Scarlet/Violet",
-    fr: "Jaderaude - Pokémon Écarlate/Violet",
+    en: "Mossui Town - Pokémon Scarlet/Violet (The Teal Mask)",
+    fr: "Jaderaude - Pokémon Écarlate/Violet (Le Masque Turquoise)",
   },
   {
     id: 2991,
@@ -11918,8 +11918,8 @@ window.musicNameList = [
   },
   {
     id: 5816,
-    en: "Kitakami - Pokémon Scarlet/Violet",
-    fr: "Septentria - Pokémon Écarlate/Violet",
+    en: "Kitakami - Pokémon Scarlet/Violet (The Teal Mask)",
+    fr: "Septentria - Pokémon Écarlate/Violet (Le Masque Turquoise)",
   },
   {
     id: 4481,
@@ -11928,8 +11928,8 @@ window.musicNameList = [
   },
   {
     id: 5817,
-    en: "Perrin's Theme - Pokémon Scarlet/Violet",
-    fr: "Thème de Lithia - Pokémon Écarlate/Violet",
+    en: "Perrin's Theme - Pokémon Scarlet/Violet (The Teal Mask)",
+    fr: "Thème de Lithia - Pokémon Écarlate/Violet (Le Masque Turquoise)",
   },
   {
     id: 2994,
@@ -11947,6 +11947,36 @@ window.musicNameList = [
     fr: "Thème des Adoramis - Pokémon Écarlate/Violet (Le Masque Turquoise)",
   },
   {
+    id: 5818,
+    en: "Ogre Oustin' - Pokémon Scarlet/Violet (The Teal Mask)",
+    fr: "Chasse aux monstres - Pokémon Écarlate/Violet (Le Masque Turquoise)",
+  },
+  {
+    id: 5819,
+    en: "The Real History - Pokémon Scarlet/Violet (The Teal Mask)",
+    fr: "La véritable histoire du Monstre - Pokémon Écarlate/Violet (Le Masque Turquoise)",
+  },
+  {
+    id: 5820,
+    en: "Crystal Pool - Pokémon Scarlet/Violet (The Teal Mask)",
+    fr: "Lac Cristallin - Pokémon Écarlate/Violet (Le Masque Turquoise)",
+  },
+  {
+    id: 5821,
+    en: "They're Relaxed Now - Pokémon Scarlet/Violet (The Teal Mask)",
+    fr: "Ils sont détendus maintenant - Pokémon Écarlate/Violet (Le Masque Turquoise)",
+  },
+  {
+    id: 5822,
+    en: "Blueberry Academy - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Institut Myrtille - Pokémon Écarlate/Violet (Le Disque Indigo)",
+  },
+  {
+    id: 5823,
+    en: "Battle! (Academy Trainer) - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Combat! (Dresseur de l'Institut Myrtille) - Pokémon Écarlate/Violet (Le Disque Indigo)",
+  },
+  {
     id: 4536,
     en: "Daily Life at the Academy - Pokémon Scarlet/Violet (The Indigo Disk)",
     fr: "Vie Quotidienne à l'Institut - Pokémon Écarlate/Violet (Le Disque Indigo)",
@@ -11962,9 +11992,34 @@ window.musicNameList = [
     fr: "Terra-Dôme (Poste Central) - Pokémon Écarlate/Violet (Le Disque Indigo)",
   },
   {
+    id: 3061,
+    en: "Battle! (Wild Terarium Pokémon) - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Combat! (Pokémon Sauvage du Dôme) - Pokémon Écarlate/Violet (Le Disque Indigo)",
+  },
+  {
+    id: 5824,
+    en: "Battle! (Tera Pokémon in the Terarium) - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Combat! (Pokémon téracristallisé du dôme) - Pokémon Écarlate/Violet (Le Disque Indigo)",
+  },
+  {
     id: 3059,
     en: "Star Training Centers!/Former Team Star Members - Pokémon Scarlet/Violet (The Indigo Disk)",
     fr: "Centres d'Entraînement Star!/Anciens Membres de la Team Star - Pokémon Écarlate/Violet (Le Disque Indigo)",
+  },
+  {
+    id: 5825,
+    en: "True Intentions - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Vraies intentions - Pokémon Écarlate/Violet (Le Disque Indigo)",
+  },
+  {
+    id: 5826,
+    en: "Area Zero Underdepths - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Abîme Zéro - Pokémon Écarlate/Violet (Le Disque Indigo)",
+  },
+  {
+    id: 5827,
+    en: "Conditions of the Hidden Treasure - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Les conditions du trésor enfoui - Pokémon Écarlate/Violet (Le Disque Indigo)",
   },
   {
     id: 3060,
@@ -11972,14 +12027,14 @@ window.musicNameList = [
     fr: "Combat! (Terapagos Phase 1) - Pokémon Écarlate/Violet (Le Disque Indigo)",
   },
   {
+    id: 5828,
+    en: "Battle! (Terapagos ~ The Hidden Treasure of Area Zero (Stellar Form)) - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Combat! (Terapagos ~ le trésor enfoui de la Zone Zéro (Forme Stellaire)) - Pokémon Écarlate/Violet (Le Disque Indigo)",
+  },
+  {
     id: 4537,
     en: "Caught the Terapagos! - Pokémon Scarlet/Violet (The Indigo Disk)",
     fr: "Terapagos Attrapé! - Pokémon Écarlate/Violet (Le Disque Indigo)",
-  },
-  {
-    id: 3061,
-    en: "Battle! (Wild Terarium Pokémon) - Pokémon Scarlet/Violet (The Indigo Disk)",
-    fr: "Combat! (Pokémon Sauvage du Dôme) - Pokémon Écarlate/Violet (Le Disque Indigo)",
   },
   {
     id: 3062,
@@ -11990,6 +12045,21 @@ window.musicNameList = [
     id: 3063,
     en: "Battle! (Blueberry Elite 4) - Pokémon Scarlet/Violet (The Indigo Disk)",
     fr: "Combat! (Conseil 4 Ligue Myrtille) - Pokémon Écarlate/Violet (Le Disque Indigo)",
+  },
+  {
+    id: 5829,
+    en: "Once Again, Starting from Zero - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Une fois de plus, on repart de zéro - Pokémon Écarlate/Violet (Le Disque Indigo)",
+  },
+  {
+    id: 5830,
+    en: "Mochi Mayhem - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "La Nuit des Kibi - Pokémon Écarlate/Violet (Le Disque Indigo)",
+  },
+  {
+    id: 5831,
+    en: "Battle! (Pecharunt) - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Combat! (Pêchaminus) - Pokémon Écarlate/Violet (Le Disque Indigo)",
   },
   {
     id: 2100,
