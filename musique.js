@@ -11663,7 +11663,7 @@ window.musicNameList = [
   },
   {
     id: 1726,
-    en: "Taste Test - Pokémon Scarlet/Violet",
+    en: "Taste Test (Let's Eat!) - Pokémon Scarlet/Violet",
     fr: "Dégustation d'un plat - Pokémon Écarlate/Violet",
   },
   {
@@ -11688,8 +11688,8 @@ window.musicNameList = [
   },
   {
     id: 1738,
-    en: "In the Cave with Arven - Pokémon Scarlet/Violet",
-    fr: "Dans la cave avec Pepper - Pokémon Écarlate/Violet",
+    en: "Just a Moment/In the Cave with Arven - Pokémon Scarlet/Violet",
+    fr: "Un instant/Dans la cave avec Pepper - Pokémon Écarlate/Violet",
   },
   {
     id: 1739,
@@ -11698,8 +11698,8 @@ window.musicNameList = [
   },
   {
     id: 1740,
-    en: "Iono Zone - Pokémon Scarlet/Violet",
-    fr: "Les Machins de Mashynn - Pokémon Écarlate/Violet",
+    en: "'Ello, 'ello, hola! Ciao and bonjour!/Iono Zone - Pokémon Scarlet/Violet",
+    fr: "Hello, Buenos, Salut!/Les Machins de Mashynn - Pokémon Écarlate/Violet",
   },
   {
     id: 1742,
