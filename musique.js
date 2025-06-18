@@ -11617,9 +11617,24 @@ window.musicNameList = [
     fr: "Combat! (Menzi) - Pokémon Écarlate/Violet",
   },
   {
+    id: 5796,
+    en: "Cabo Poco - Pokémon Scarlet/Violet",
+    fr: "Cuchalaga  - Pokémon Écarlate/Violet",
+  },
+  {
     id: 1698,
     en: "Poco Path - Pokémon Scarlet/Violet",
     fr: "Route de Cuchalaga  - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5797,
+    en: "Nemona's Theme/Let's Try to Get Stronger! - Pokémon Scarlet/Violet",
+    fr: "Thème de Menzi/Essayons d'être plus forts!  - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5798,
+    en: "Battle! (Wild Pokémon ~ Poco Path) - Pokémon Scarlet/Violet",
+    fr: "Combat! (Pokémon sauvage ~ Route de Cuchalaga)  - Pokémon Écarlate/Violet",
   },
   {
     id: 1702,
@@ -11627,9 +11642,29 @@ window.musicNameList = [
     fr: "Combat! (Pokémon sauvage ~ Caverne de la Crique) - Pokémon Écarlate/Violet",
   },
   {
+    id: 5799,
+    en: "Escape from the Cave!/Houndoom Attacks! - Pokémon Scarlet/Violet",
+    fr: "Échapper de la Caverne !/Attaque du Démolosse  - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5800,
+    en: "Arven's Theme/It's a Test of Strength! - Pokémon Scarlet/Violet",
+    fr: "Thème de Pepper/C'est un test de force! - Pokémon Écarlate/Violet",
+  },
+  {
     id: 1705,
     en: "Battle! (Arven) - Pokémon Scarlet/Violet",
     fr: "Combat! (Pepper) - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5801,
+    en: "South Province (Riding) - Scarlet/Violet",
+    fr: "Zone Sud (Monture) - Écarlate/Violet",
+  },
+  {
+    id: 5802,
+    en: "Battle! (Southern Pokémon) - Scarlet/Violet",
+    fr: "Combat! (Pokémon sauvage des régions du Sud) - Écarlate/Violet",
   },
   {
     id: 1708,
@@ -11650,6 +11685,11 @@ window.musicNameList = [
     id: 1719,
     en: "Battle! (Team Star) - Pokémon Scarlet/Violet",
     fr: "Combat! (Team Star) - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5803,
+    en: "Naranja/Uva Academy ~ Dorm Room/Director's Office/Staff Room/Nurse's Office - Pokémon Scarlet/Violet",
+    fr: "Académie Orange/Raisin ~ Chambres/Bureau du proviseur/Salle des professeurs/Infirmerie - Pokémon Écarlate/Violet",
   },
   {
     id: 1721,
@@ -11692,6 +11732,21 @@ window.musicNameList = [
     fr: "Un instant/Dans la cave avec Pepper - Pokémon Écarlate/Violet",
   },
   {
+    id: 5804,
+    en: "West Province (Riding) - Pokémon Scarlet/Violet",
+    fr: "Zone Ouest (Monture) - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5805,
+    en: "Battle! (Western Pokémon) - Pokémon Scarlet/Violet",
+    fr: "Combat! (Pokémon sauvage des régions de l'Ouest) - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5806,
+    en: "Cascarrafa - Pokémon Scarlet/Violet",
+    fr: "Jarramanca - Pokémon Écarlate/Violet",
+  },
+  {
     id: 1739,
     en: "Levincia - Pokémon Scarlet/Violet",
     fr: "Levalendura - Pokémon Écarlate/Violet",
@@ -11702,9 +11757,39 @@ window.musicNameList = [
     fr: "Hello, Buenos, Salut!/Les Machins de Mashynn - Pokémon Écarlate/Violet",
   },
   {
+    id: 1749,
+    en: "Battle! (Tera Raid) - Pokémon Scarlet/Violet",
+    fr: "Combat! (Raid Téracristal) - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5807,
+    en: "Battle! (Titan Pokémon) - Pokémon Scarlet/Violet",
+    fr: "Combat! (Pokémon Dominant) - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5808,
+    en: "Medali/Porto Marinada - Pokémon Scarlet/Violet",
+    fr: "Mezclamora/Porto Marinada - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5809,
+    en: "East Province (Riding) - Pokémon Scarlet/Violet",
+    fr: "Zone Est (Monture) - Pokémon Écarlate/Violet",
+  },
+  {
     id: 1742,
     en: "Clive's Theme - Pokémon Scarlet/Violet",
     fr: "Thème de Clove - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5810,
+    en: "Star Barrage! - Pokémon Scarlet/Violet",
+    fr: "Star-Assaut! - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5811,
+    en: "A Team Star Boss Appears! - Pokémon Scarlet/Violet",
+    fr: "Un Boss de la Team Star apparaît! - Pokémon Écarlate/Violet",
   },
   {
     id: 1746,
@@ -11717,9 +11802,9 @@ window.musicNameList = [
     fr: "Trésor de la team Star/Un an et demi plus tôt (Flashback de la Team Star) - Pokémon Écarlate/Violet",
   },
   {
-    id: 1749,
-    en: "Battle! (Tera Raid) - Pokémon Scarlet/Violet",
-    fr: "Combat! (Raid Téracristal) - Pokémon Écarlate/Violet",
+    id: 5812,
+    en: "Battle! (Northern Pokémon) - Pokémon Scarlet/Violet",
+    fr: "Combat! (Pokémon sauvage des régions du Nord) - Pokémon Écarlate/Violet",
   },
   {
     id: 1768,
@@ -11755,6 +11840,11 @@ window.musicNameList = [
     id: 1782,
     en: "Battle! (Elite Four) - Pokémon Scarlet/Violet",
     fr: "Combat! (Conseil 4) - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5813,
+    en: "Battle! (Top Champion Geeta) - Pokémon Scarlet/Violet",
+    fr: "Combat! (Alisma la Maîtresse en Chef) - Pokémon Écarlate/Violet",
   },
   {
     id: 1786,
@@ -11802,6 +11892,16 @@ window.musicNameList = [
     fr: "Combat! (Quatuor Légendaire/Trésor du Fléau) - Pokémon Écarlate/Violet",
   },
   {
+    id: 5814,
+    en: "Battle Stadium - Pokémon Scarlet/Violet",
+    fr: "Stade de Combat - Pokémon Écarlate/Violet",
+  },
+  {
+    id: 5815,
+    en: "Mossui Town - Pokémon Scarlet/Violet",
+    fr: "Jaderaude - Pokémon Écarlate/Violet",
+  },
+  {
     id: 2991,
     en: "Battle! (Carmine) - Pokémon Scarlet/Violet (The Teal Mask)",
     fr: "Combat! (Roseille) - Pokémon Écarlate/Violet (Le Masque Turquoise)",
@@ -11817,9 +11917,19 @@ window.musicNameList = [
     fr: "Combat Décisif! (Kassis) - Pokémon Écarlate/Violet (Le Masque Turquoise)",
   },
   {
+    id: 5816,
+    en: "Kitakami - Pokémon Scarlet/Violet",
+    fr: "Septentria - Pokémon Écarlate/Violet",
+  },
+  {
     id: 4481,
     en: "Battle! (Kitakami Pokémon) - Pokémon Scarlet/Violet (The Teal Mask)",
     fr: "Combat! (Pokémon de Septentria) - Pokémon Écarlate/Violet (Le Masque Turquoise)",
+  },
+  {
+    id: 5817,
+    en: "Perrin's Theme - Pokémon Scarlet/Violet",
+    fr: "Thème de Lithia - Pokémon Écarlate/Violet",
   },
   {
     id: 2994,
