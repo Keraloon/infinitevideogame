@@ -11813,8 +11813,8 @@ window.musicNameList = [
   },
   {
     id: 2993,
-    en: "Battle! (Kieran Final) - Pokémon Scarlet/Violet (The Teal Mask)",
-    fr: "Combat! (Kassis Final) - Pokémon Écarlate/Violet (Le Masque Turquoise)",
+    en: "Decisive Battle! (Kieran) - Pokémon Scarlet/Violet (The Teal Mask)",
+    fr: "Combat Décisif! (Kassis) - Pokémon Écarlate/Violet (Le Masque Turquoise)",
   },
   {
     id: 4481,
@@ -11843,18 +11843,18 @@ window.musicNameList = [
   },
   {
     id: 3057,
-    en: "Coastal Biome - Pokémon Scarlet/Violet (The Indigo Disk)",
-    fr: "Zone Cotière - Pokémon Écarlate/Violet (Le Disque Indigo)",
+    en: "Terarium Coastal Biome - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Terra-Dôme Zone Cotière - Pokémon Écarlate/Violet (Le Disque Indigo)",
   },
   {
     id: 3058,
-    en: "Drayton Theme - Pokémon Scarlet/Violet (The Indigo Disk)",
-    fr: "Thème d'Irido - Pokémon Écarlate/Violet (Le Disque Indigo)",
+    en: "Terarium (Central Plaza) - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Terra-Dôme (Poste Central) - Pokémon Écarlate/Violet (Le Disque Indigo)",
   },
   {
     id: 3059,
-    en: "Former Team Star Members - Pokémon Scarlet/Violet (The Indigo Disk)",
-    fr: "Anciens Membres de la Team Star - Pokémon Écarlate/Violet (Le Disque Indigo)",
+    en: "Star Training Centers!/Former Team Star Members - Pokémon Scarlet/Violet (The Indigo Disk)",
+    fr: "Centres d'Entraînement Star!/Anciens Membres de la Team Star - Pokémon Écarlate/Violet (Le Disque Indigo)",
   },
   {
     id: 3060,
