@@ -18584,4 +18584,60 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/sv-dlc2/perrins-theme-scarletviolet-the-teal-mask-2",
     answer: 5817,
   },
+  {
+    url: "https://soundcloud.com/diamondpearl-886539488/ogre-oustin-theme",
+    answer: 5818,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/the-real-history-scarletviolet-the-teal-mask-4",
+    answer: 5819,
+  },
+  {
+    url: "https://soundcloud.com/ya-boi-tart/crystal-pool-pok-mon-scarlet",
+    answer: 5820,
+  },
+  {
+    url: "https://soundcloud.com/diamondpearl-886539488/end-of-the-field-trip-pokemon-scarletviolet-the-teal-mask",
+    answer: 5821,
+  },      
+  {
+    url: "https://soundcloud.com/sv-dlc2/5-30-blueberry-academy-pokemon",
+    answer: 5822,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/5-37-battle-academy-trainer",
+    answer: 5823,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/6-07-battle-tera-pokemon-in",
+    answer: 5824,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/6-13-true-intentions-pokemon",
+    answer: 5825,
+  },     
+  {
+    url: "https://soundcloud.com/sv-dlc2/6-18-area-zero-underdepths",
+    answer: 5826,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/6-21-conditions-of-the-hidden",
+    answer: 5827,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/6-23-battle-terapagos-stellar",
+    answer: 5828,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/6-25-once-again-starting-from",
+    answer: 5829,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/6-30-mochi-mayhem-pokemon",
+    answer: 5830,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/6-32-battle-pecharunt-pokemon",
+    answer: 5831,
+  },
 ];
