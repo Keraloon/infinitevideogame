@@ -7687,6 +7687,186 @@ window.musicNameList = [
     fr: "Solaris & Lunaris - Path Of Exile",
   },
   {
+    id: 5832,
+    en: "Call Me the Yotagonist - Penny's Big Breakaway",
+    fr: "Call Me the Yotagonist - Penny's Big Breakaway",
+  },
+  {
+    id: 5833,
+    en: "Bauhaus Breakdown - Penny's Big Breakaway",
+    fr: "Bauhaus Breakdown - Penny's Big Breakaway",
+  },
+  {
+    id: 5834,
+    en: "Hello Macaroon - Penny's Big Breakaway",
+    fr: "Hello Macaroon - Penny's Big Breakaway",
+  },
+  {
+    id: 5835,
+    en: "Jig's up, Penny - Penny's Big Breakaway",
+    fr: "Jig's up, Penny - Penny's Big Breakaway",
+  },
+  {
+    id: 5836,
+    en: "Trick of the Wrist - Penny's Big Breakaway",
+    fr: "Trick of the Wrist - Penny's Big Breakaway",
+  },
+  {
+    id: 5837,
+    en: "Pensive at the Afterparty - Penny's Big Breakaway",
+    fr: "Pensive at the Afterparty - Penny's Big Breakaway",
+  },
+  {
+    id: 5838,
+    en: "Penny in a Pinch - Penny's Big Breakaway",
+    fr: "Penny in a Pinch - Penny's Big Breakaway",
+  },
+  {
+    id: 5839,
+    en: "Refracting Feelings - Penny's Big Breakaway",
+    fr: "Refracting Feelings - Penny's Big Breakaway",
+  },
+  {
+    id: 5840,
+    en: "Sleep? No, Throwdown! - Penny's Big Breakaway",
+    fr: "Sleep? No, Throwdown! - Penny's Big Breakaway",
+  },
+  {
+    id: 5841,
+    en: "Land-ho Diabolo! - Penny's Big Breakaway",
+    fr: "Land-ho Diabolo! - Penny's Big Breakaway",
+  },
+  {
+    id: 5842,
+    en: "Palling Around - Penny's Big Breakaway",
+    fr: "Palling Around - Penny's Big Breakaway",
+  },
+  {
+    id: 5843,
+    en: "Sparks of the Cobalt Sands - Penny's Big Breakaway",
+    fr: "Sparks of the Cobalt Sands - Penny's Big Breakaway",
+  },
+  {
+    id: 5844,
+    en: "Scientific Method - Penny's Big Breakaway",
+    fr: "Scientific Method - Penny's Big Breakaway",
+  },
+  {
+    id: 5845,
+    en: "Tutto Finisce a Tarallucci e Vino - Penny's Big Breakaway",
+    fr: "Tutto Finisce a Tarallucci e Vino - Penny's Big Breakaway",
+  },
+  {
+    id: 5846,
+    en: "Sudzsy Swings at the Natural Springs - Penny's Big Breakaway",
+    fr: "Sudzsy Swings at the Natural Springs - Penny's Big Breakaway",
+  },
+  {
+    id: 5847,
+    en: "Strongman - Penny's Big Breakaway",
+    fr: "Strongman - Penny's Big Breakaway",
+  },
+  {
+    id: 5848,
+    en: "Mano-e-Yo-Yo - Penny's Big Breakaway",
+    fr: "Mano-e-Yo-Yo - Penny's Big Breakaway",
+  },
+  {
+    id: 5849,
+    en: "Stargazer - Penny's Big Breakaway",
+    fr: "Stargazer - Penny's Big Breakaway",
+  },
+  {
+    id: 5850,
+    en: "Breakaway - Penny's Big Breakaway",
+    fr: "Breakaway - Penny's Big Breakaway",
+  },
+  {
+    id: 5851,
+    en: "Outside the Eidophusikon - Penny's Big Breakaway",
+    fr: "Outside the Eidophusikon - Penny's Big Breakaway",
+  },
+  {
+    id: 5852,
+    en: "Puppet Pioneer - Penny's Big Breakaway",
+    fr: "Puppet Pioneer - Penny's Big Breakaway",
+  },
+  {
+    id: 5853,
+    en: "Balearic Birds - Penny's Big Breakaway",
+    fr: "Balearic Birds - Penny's Big Breakaway",
+  },
+  {
+    id: 5854,
+    en: "Chromatic Oscillations - Penny's Big Breakaway",
+    fr: "Chromatic Oscillations - Penny's Big Breakaway",
+  },
+  {
+    id: 5855,
+    en: "It's a Biguin Now! - Penny's Big Breakaway",
+    fr: "It's a Biguin Now! - Penny's Big Breakaway",
+  },
+  {
+    id: 5856,
+    en: "Maxims and Misfits - Penny's Big Breakaway",
+    fr: "Maxims and Misfits - Penny's Big Breakaway",
+  },
+  {
+    id: 5857,
+    en: "By the Book - Penny's Big Breakaway",
+    fr: "By the Book - Penny's Big Breakaway",
+  },
+  {
+    id: 5858,
+    en: "Scales of Justice - Penny's Big Breakaway",
+    fr: "Scales of Justice - Penny's Big Breakaway",
+  },
+  {
+    id: 5859,
+    en: "Gig's on, Penny - Penny's Big Breakaway",
+    fr: "Gig's on, Penny - Penny's Big Breakaway",
+  },
+  {
+    id: 5860,
+    en: "Palace Sneaktime Swing - Penny's Big Breakaway",
+    fr: "Palace Sneaktime Swing - Penny's Big Breakaway",
+  },
+  {
+    id: 5861,
+    en: "Triadic Ballet - Penny's Big Breakaway",
+    fr: "Triadic Ballet - Penny's Big Breakaway",
+  },
+  {
+    id: 5862,
+    en: "Cosmic Curtain Call - Penny's Big Breakaway",
+    fr: "Cosmic Curtain Call - Penny's Big Breakaway",
+  },
+  {
+    id: 5863,
+    en: "Wind it up Yo - Penny's Big Breakaway",
+    fr: "Wind it up Yo - Penny's Big Breakaway",
+  },
+  {
+    id: 5864,
+    en: "Bop-it Comet - Penny's Big Breakaway",
+    fr: "Bop-it Comet - Penny's Big Breakaway",
+  },
+  {
+    id: 5865,
+    en: "Wax Lyricool - Penny's Big Breakaway",
+    fr: "Wax Lyricool - Penny's Big Breakaway",
+  },
+  {
+    id: 5866,
+    en: "Don't Trick the Sun - Penny's Big Breakaway",
+    fr: "Don't Trick the Sun - Penny's Big Breakaway",
+  },
+  {
+    id: 5867,
+    en: "Proxima - Penny's Big Breakaway",
+    fr: "Proxima - Penny's Big Breakaway",
+  },
+  {
     id: 3193,
     en: "Venarius - Path Of Exile",
     fr: "Venarius - Path Of Exile",
