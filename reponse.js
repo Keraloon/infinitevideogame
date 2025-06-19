@@ -18784,4 +18784,100 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/teelopes-music/proxima?in=teelopes-music/sets/pennys-big-breakaway-original",
     answer: 5867,
   },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-title-screen?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5868,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-bridge-island-act-1?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5869,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-bridge-island-zone-act-fruit?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5870,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-speed-jungle-act-1?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5871,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-speed-jungle-act-2?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5872,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-speed-jungle-act-sonic?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5873,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-sky-temple-act-1?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5874,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-pinball-carnival-act-1?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5875,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-pinball-carnival-act-2?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5876,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-pinball-carnival-zone-act-fruit?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5877,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-lagoon-city-act-1?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5878,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-sand-sanctuary?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5879,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-press-factory-act-1?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5880,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-golden-capital-act-2?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5881,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-cyber-station?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5882,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-frozen-base-act-tails?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5883,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-egg-fortress-act-1?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5884,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-egg-fortress-act-2?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5885,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-special-stage?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5886,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-trip-and-fang-argument?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5887,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-fang-the-hunter-boss?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5888,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-fang-mk-2?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5889,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-late-game-boss?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5890,
+  },
+  {
+    url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-cyber-station-boss-8-bit?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
+    answer: 5891,
+  },
 ];
