@@ -11017,14 +11017,39 @@ window.musicNameList = [
     fr: "Laboratoire Pokémon - Pokémon Soleil/Lune",
   },
   {
+    id: 5921,
+    en: "Have a Break at the Café - Pokémon Sun/Moon",
+    fr: "Café - Pokémon Soleil/Lune",
+  },
+  {
     id: 1164,
     en: "Festival Plaza (Day) - Pokémon Sun/Moon",
     fr: "Place Festival (Jour) - Pokémon Soleil/Lune",
   },
   {
+    id: 5922,
+    en: "Hau'oli City (Day) - Pokémon Sun/Moon",
+    fr: "Ekaeka (Jour) - Pokémon Soleil/Lune", 
+  },
+  {
     id: 1171,
     en: "Hau'oli City (Night) - Pokémon Sun/Moon",
     fr: "Ekaeka (Nuit) - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5923,
+    en: "Salon - Pokémon Sun/Moon",
+    fr: "Salon Salle à Mèches - Pokémon Soleil/Lune",      
+  },
+  {
+    id: 5924,
+    en: "Apparel Shop - Pokémon Sun/Moon",
+    fr: "Boutique de Vêtements Alola Mode - Pokémon Soleil/Lune",     
+  },
+  {
+    id: 5925,
+    en: "Malasada Shop - Pokémon Sun/Moon",
+    fr: "Malasa'Délices - Pokémon Soleil/Lune",    
   },
   {
     id: 1177,
@@ -11037,9 +11062,39 @@ window.musicNameList = [
     fr: "Combat! (Team Skull) - Pokémon Soleil/Lune",
   },
   {
+    id: 5926,
+    en: "Ferry Terminal - Pokémon Sun/Moon",
+    fr: "Embarcadère - Pokémon Soleil/Lune",  
+  },
+  {
+    id: 5927,
+    en: "Route 2/3 on Melemele Island/Kala'e Bay - Pokémon Sun/Moon",
+    fr: "Route 2/3 de Mele-Mele/Baie de Kala'e - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5928,
+    en: "Team Skull Appears! - Pokémon Sun/Moon",
+    fr: "La Team Skull apparaît! - Pokémon Soleil/Lune",
+  },
+  {
     id: 1184,
     en: "Verdant Cavern/Lush Jungle ~A Trial Site~ - Pokémon Sun/Moon",
     fr: "Grotte Verdoyante/Jungle Sombrefeuille ~Une Zone d'Épreuve~ - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5929,
+    en: "Battle! (Totem Pokémon) - Pokémon Sun/Moon",
+    fr: "Combat! (Pokémon Dominant) - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5930,
+    en: "Seaward Cave - Pokémon Sun/Moon",
+    fr: "Grotte Verlamer - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5931,
+    en: "Island Kahuna's Theme - Pokémon Sun/Moon",
+    fr: "Thème des Doyens - Pokémon Soleil/Lune",
   },
   {
     id: 1191,
@@ -11047,9 +11102,24 @@ window.musicNameList = [
     fr: "Combat! (Doyen) - Pokémon Soleil/Lune",
   },
   {
+    id: 5932,
+    en: "Ride Pokémon (Land) - Pokémon Sun/Moon",
+    fr: "Poké Monture (Terre) - Pokémon Soleil/Lune", 
+  },
+  {
+    id: 5933,
+    en: "Ten Carat Hill/Resolution Cave - Pokémon Sun/Moon",
+    fr: "Colline Dicarat/Caverne Coda - Pokémon Soleil/Lune",   
+  },
+  {
     id: 1196,
     en: "Heahea City (Day) - Pokémon Sun/Moon",
     fr: "Ho'ohale (Jour) - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5934,
+    en: "Paniola Town (Day) - Pokémon Sun/Moon",
+    fr: "Ohana (Jour) - Pokémon Soleil/Lune",     
   },
   {
     id: 1200,
@@ -11067,6 +11137,16 @@ window.musicNameList = [
     fr: "Combat! (Gladio) - Pokémon Soleil/Lune",
   },
   {
+    id: 5935,
+    en: "Ride Pokémon (Aquatic) - Pokémon Sun/Moon",
+    fr: "Poké Monture (Mer) - Pokémon Soleil/Lune",     
+  },
+  {
+    id: 5936,
+    en: "Royal Avenue - Pokémon Sun/Moon",
+    fr: "Rue du Dôme Royal - Pokémon Soleil/Lune",     
+  },
+  {
     id: 1206,
     en: "Thrifty Megamart - Pokémon Sun/Moon",
     fr: "Bradley Prix - Pokémon Soleil/Lune",
@@ -11082,6 +11162,16 @@ window.musicNameList = [
     fr: "Poké Loisir (Jour) - Pokémon Soleil/Lune",
   },
   {
+    id: 5937,
+    en: "Burnet's Lab/Hokulani Observatory - Pokémon Sun/Moon",
+    fr: "Centre de Recherche Interdimensionnelle (Labo de la Professeure Pimprenelle)/Observatoire - Pokémon Soleil/Lune",    
+  },
+  {
+    id: 5938,
+    en: "Konikoni City (Day) - Pokémon Sun/Moon",
+    fr: "Konikoni (Jour) - Pokémon Soleil/Lune",     
+  },
+  {
     id: 1215,
     en: "Konikoni City (Night) - Pokémon Sun/Moon",
     fr: "Konikoni (Nuit) - Pokémon Soleil/Lune",
@@ -11090,6 +11180,11 @@ window.musicNameList = [
     id: 1216,
     en: "Battle! (Team Skull Admin Plumeria) - Pokémon Sun/Moon",
     fr: "Combat! (Apocyne l'Admin Team Skull) - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5939,
+    en: "Aether Paradise - Pokémon Sun/Moon",
+    fr: "Paradis Aether - Pokémon Soleil/Lune",      
   },
   {
     id: 1217,
@@ -11107,9 +11202,29 @@ window.musicNameList = [
     fr: "Malié (Jour) - Pokémon Soleil/Lune",
   },
   {
+    id: 5940,
+    en: "Route 10/11/12/13/14/15/16/17 on Ula'ula Island/Tapu Village/Mount Hokulani/Ula'ula Meadow - Pokémon Sun/Moon",
+    fr: "Route 10/11/12/13/14/15/16/17 de Ula-Ula/Village Toko/Mont Hokulani/Jardin d'Ula-Ula - Pokémon Soleil/Lune",    
+  },
+  {
+    id: 5941,
+    en: "Guzma's Theme - Pokémon Sun/Moon",
+    fr: "Thème de Guzma - Pokémon Soleil/Lune",    
+  },
+  {
     id: 1227,
     en: "Battle! (Team Skull Boss Guzma) - Pokémon Sun/Moon",
     fr: "Combat! (Guzma le Boss de la Team Skull) - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5942,
+    en: "Acerola's Trial - Pokémon Sun/Moon",
+    fr: "Épreuve de Margie - Pokémon Soleil/Lune",   
+  },
+  {
+    id: 5943,
+    en: "Po Town - Pokémon Sun/Moon",
+    fr: "Kokohio - Pokémon Soleil/Lune",   
   },
   {
     id: 1232,
@@ -11122,6 +11237,11 @@ window.musicNameList = [
     fr: "La face cachée du Paradis Aether (Thème de Saubohne) - Pokémon Soleil/Lune",
   },
   {
+    id: 5944,
+    en: "Trainers' Eyes Meet (Aether Foundation) - Pokémon Sun/Moon",
+    fr: "Rencontre avec un Dresseur (Fondation Aether) - Pokémon Soleil/Lune",  
+  },
+  {
     id: 1236,
     en: "Battle! (Aether Foundation) - Pokémon Sun/Moon",
     fr: "Combat! (Fondation Aether) - Pokémon Soleil/Lune",
@@ -11132,9 +11252,24 @@ window.musicNameList = [
     fr: "Village Flottant (Jour) - Pokémon Soleil/Lune",
   },
   {
+    id: 5945,
+    en: "Ancient Poni Path/Poni Wilds/Poni Breaker Coast/Exeggutor Island/Poni Grove/Poni Plains/Poni Meadow/Poni Coast/Poni Gauntlet - Pokémon Sun/Moon",
+    fr: "Vieille Route/Prairie de Poni/Récif de Poni/Île Noadkoko/Forêt de Poni/Plaine de Poni/Jardin de Poni/Côte de Poni/Chemin du Défi - Pokémon Soleil/Lune",   
+  },
+  {
     id: 1247,
     en: "Vast Poni Canyon - Pokémon Sun/Moon",
     fr: "Grand Canyon de Poni - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5946,
+    en: "To the Altar... (Lake/Altar of the Sunne/Moone) - Pokémon Sun/Moon",
+    fr: "Vers l'autel... (Lac du Halo Solaire/Lunaire & Autel du Soleil/de la Lune) - Pokémon Soleil/Lune",    
+  },
+  {
+    id: 5947,
+    en: "Ultra Space - Pokémon Sun/Moon",
+    fr: "Ultra-Dimension - Pokémon Soleil/Lune",
   },
   {
     id: 1253,
@@ -11147,9 +11282,24 @@ window.musicNameList = [
     fr: "Combat! (Solgaleo/Lunala) - Pokémon Soleil/Lune",
   },
   {
+    id: 5948,
+    en: "Blue's Theme - Pokémon Sun/Moon",
+    fr: "Thème de Blue - Pokémon Soleil/Lune",
+  },
+  {
     id: 1261,
     en: "Battle! (Battle Tree Boss) - Pokémon Sun/Moon",
     fr: "Combat! (Dresseurs de Légende) - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5949,
+    en: "The Path to the League/Mount Lanakila - Pokémon Sun/Moon",
+    fr: "Le chemin vers la Ligue/Mont Lanakila - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5950,
+    en: "The Summit of Mount Lanakila - Pokémon Sun/Moon",
+    fr: "Sommet du Mont Lanakila - Pokémon Soleil/Lune",
   },
   {
     id: 1265,
@@ -11162,6 +11312,11 @@ window.musicNameList = [
     fr: "Combat! (Toko) - Pokémon Soleil/Lune",
   },
   {
+    id: 5951,
+    en: "Trainers' Eyes Meet! (Ultra Recon Squad) - Pokémon Ultra Sun/Ultra Moon",
+    fr: "Rencontre avec un Dresseur (Ultra-Commando) - Pokémon Ultra-Soleil/Ultra-Lune",
+  },
+  {
     id: 1278,
     en: "Beach Spot - Pokémon Ultra Sun/Ultra Moon",
     fr: "Spot de la plage - Pokémon Ultra-Soleil/Ultra-Lune",
@@ -11172,10 +11327,25 @@ window.musicNameList = [
     fr: "Surf Démanta - Pokémon Ultra-Soleil/Ultra-Lune",
   },
   {
+      id: 5952,
+      en: "Alola Photoclub - Pokémon Ultra Sun/Ultra Moon",
+      fr: "Studio Photo d'Alola - Pokémon Ultra-Soleil/Ultra-Lune",
+    },
+  {
     id: 1281,
     en: "Battle! (Ultra Recon Squad) - Pokémon Ultra Sun/Ultra Moon",
     fr: "Combat! (Ultra-Commando) - Pokémon Ultra-Soleil/Ultra-Lune",
   },
+  {
+      id: 5953,
+      en: "Battle! (Dusk Mane/Dawn Wings Necrozma) - Pokémon Ultra Sun/Ultra Moon",
+      fr: "Combat! (Necrozma Crinière du Couchant/Ailes de l'Aurore) - Pokémon Ultra-Soleil/Ultra-Lune",
+    },
+    {
+      id: 5954,
+      en: "Ultra Wormhole - Pokémon Ultra Sun/Ultra Moon",
+      fr: "Ultra-Brèche - Pokémon Ultra-Soleil/Ultra-Lune",
+    },
   {
     id: 1287,
     en: "Ultra Megalopolis - Pokémon Ultra Sun/Ultra Moon",
@@ -11192,6 +11362,17 @@ window.musicNameList = [
     fr: "Ultra-Centrale (Câblifère) - Pokémon Ultra-Soleil/Ultra-Lune",
   },
   {
+      id: 5955,
+      en: "Ultra Crater Theme (Celesteela) - Pokémon Ultra Sun/Ultra Moon",
+      fr: "Ultra-Vallée (Bamboiselle) - Pokémon Ultra-Soleil/Ultra-Lune",
+    },
+
+    {
+      id: 5956,
+      en: "Ultra Forest Theme (Kartana) - Pokémon Ultra Sun/Ultra Moon",
+      fr: "Ultra-Forêt (Katagami) - Pokémon Ultra-Soleil/Ultra-Lune",
+    },
+  {
     id: 1294,
     en: "Ultra Jungle Theme (Buzzwole) - Pokémon Ultra Sun/Ultra Moon",
     fr: "Ultra-Jungle (Mouscoto) - Pokémon Ultra-Soleil/Ultra-Lune",
@@ -11201,6 +11382,21 @@ window.musicNameList = [
     en: "Ultra Ruin Theme (Guzzlord) - Pokémon Ultra Sun/Ultra Moon",
     fr: "Ultra-Gratte-Ciel (Engloutyran) - Pokémon Ultra-Soleil/Ultra-Lune",
   },
+  {
+      id: 5957,
+      en: "Kantonian Gym - Pokémon Ultra Sun/Ultra Moon",
+      fr: "Arène de Kanto - Pokémon Ultra-Soleil/Ultra-Lune",
+    },
+    {
+      id: 5958,
+      en: "Team Rocket's Castle - Pokémon Ultra Sun/Ultra Moon",
+      fr: "Château Rocket - Pokémon Ultra-Soleil/Ultra-Lune",
+    },
+    {
+      id: 5959,
+      en: "Trainers' Eyes Meet! (Team Rainbow Rocket) - Pokémon Ultra Sun/Ultra Moon",
+      fr: "Rencontre avec un Dresseur (Team Rainbow Rocket) - Pokémon Ultra-Soleil/Ultra-Lune",
+    },
   {
     id: 1300,
     en: "Battle! (Team Rainbow Rocket) - Pokémon Ultra Sun/Ultra Moon",
@@ -11217,40 +11413,125 @@ window.musicNameList = [
     fr: "Combat! (Hélio de la Team Galaxie) - Pokémon Ultra-Soleil/Ultra-Lune",
   },
   {
+      id: 5960,
+      en: "Battle! (Team Plasma Boss Ghetsis) - Pokémon Ultra Sun/Ultra Moon",
+      fr: "Combat! (Ghetis de la Team Plasma) - Pokémon Ultra-Soleil/Ultra-Lune",
+    },
+    {
+      id: 5961,
+      en: "Battle! (Team Flare Boss Lysandre) - Pokémon Ultra Sun/Ultra Moon",
+      fr: "Combat! (Lysandre de la Team Flare) - Pokémon Ultra-Soleil/Ultra-Lune",
+    },
+    {
+      id: 5962,
+      en: "Trainers' Eyes Meet! (Giovanni) - Pokémon Ultra Sun/Ultra Moon",
+      fr: "Rencontre avec un Dresseur (Giovanni) - Pokémon Ultra-Soleil/Ultra-Lune",
+    },
+  {
     id: 1306,
     en: "Battle! (Team Rocket Boss Giovanni) - Pokémon Ultra Sun/Ultra Moon",
     fr: "Combat! (Giovanni de la Team Rainbow Rocket) - Pokémon Ultra-Soleil/Ultra-Lune",
   },
+    {
+      id: 5963,
+      en: "Ending Theme - Pokémon Ultra Sun/Ultra Moon",
+      fr: "Générique de fin - Pokémon Ultra-Soleil/Ultra-Lune",
+    },
+  {
+      id: 5964,
+      en: "Choose Your Language - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "Choisissez la langue de votre jeu - Pokémon Let's Go, Pikachu/Évoli",
+    },
+  {
+      id: 5965,
+      en: "Route 1/2 (Road to Viridian City: Leaving Pallet Town)/Underground Path - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "Route 1/2 (De Bourg Palette à Jadielle)/Souterrain - Pokémon Let's Go, Pikachu/Évoli",
+    },
   {
     id: 1320,
     en: "Viridian Forest/Diglett's Cave/Seafoam Islands - Pokémon Let's Go, Pikachu/Eevee!",
     fr: "Forêt de Jade/Grotte Taupiqueur/Îles Écume - Pokémon Let's Go, Pikachu/Évoli",
   },
   {
+      id: 5966,
+      en: "Trainers' Eyes Meet! (Girl) - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "Rencontre avec un Dresseur (Fille) - Pokémon Let's Go, Pikachu/Évoli",
+    },
+  {
     id: 1324,
     en: "Pewter City/Viridian City/Saffron City Theme - Pokémon Let's Go, Pikachu/Eevee!",
     fr: "Argenta/Jadielle/Safrania - Pokémon Let's Go, Pikachu/Évoli",
   },
+  {
+      id: 5967,
+      en: "Pokémon Gym - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "Arène Pokémon - Pokémon Let's Go, Pikachu/Évoli",
+    },
+    {
+      id: 5968,
+      en: "Battle! (Gym Leader) - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "Combat! (Champion d'Arène) - Pokémon Let's Go, Pikachu/Évoli",
+    },
+    {
+      id: 5969,
+      en: "Blue’s Theme - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "Thème de Blue - Pokémon Let's Go, Pikachu/Évoli",
+    },
+    {
+      id: 5970,
+      en: "Route 3/4/5/6/7/8/9/10/16 (East)/18 (East)/19/20/21/22 (Road to Cerulean City: Leaving Mt. Moon) - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "Route 3/4/5/6/7/8/9/10/16 (Est)/18 (Est)/19/20/21/22 (Du Mont Sélénite à Azuria) - Pokémon Let's Go, Pikachu/Évoli",   
+    },
+    {
+      id: 5971,
+      en: "Caves of Mt. Moon/Rock Tunnel/Cerulean Cave/Victory Road - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "Mont Sélénite/Grotte Sombre/Caverne Azurée/Route Victoire - Pokémon Let's Go, Pikachu/Évoli",   
+    },
   {
     id: 1332,
     en: "Jessie & James - Pokémon Let's Go, Pikachu/Eevee!",
     fr: "Jessie & James - Pokémon Let's Go, Pikachu/Évoli",
   },
   {
+      id: 5972,
+      en: "Cerulean City/Fuchsia City Theme - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "Azuria/Parmanie - Pokémon Let's Go, Pikachu/Évoli",    
+    },
+  {
     id: 1336,
     en: "Vermilion City Theme - Pokémon Let's Go, Pikachu/Eevee!",
     fr: "Carmin sur Mer - Pokémon Let's Go, Pikachu/Évoli",
   },
+  {
+      id: 5973,
+      en: "The S.S. Anne - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "L'Océane - Pokémon Let's Go, Pikachu/Évoli",     
+    },
+    {
+      id: 5974,
+      en: "Route 11/12/13/14/15 (Road to Lavender Town: Leaving Vermilion City) - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "Route 11/12/13/14/15 (De Carmin sur Mer à Lavanville) - Pokémon Let's Go, Pikachu/Évoli",  
+    },
   {
     id: 1340,
     en: "Pokémon Tower - Pokémon Let's Go, Pikachu/Eevee!",
     fr: "Tour Pokémon - Pokémon Let's Go, Pikachu/Évoli",
   },
   {
+      id: 5975,
+      en: "Celadon City Theme - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "Céladopole - Pokémon Let's Go, Pikachu/Évoli",
+    },
+  {
     id: 1343,
     en: "Battle! (Legendary) - Pokémon Let's Go, Pikachu/Eevee!",
     fr: "Combat! (Pokémon légendaire) - Pokémon Let's Go, Pikachu/Évoli",
   },
+  {
+      id: 5976,
+      en: "GO Park - Pokémon Let's Go, Pikachu/Eevee!",
+      fr: "GO Park - Pokémon Let's Go, Pikachu/Évoli",
+    },
   {
     id: 1346,
     en: "Catch! (GO Park) - Pokémon Let's Go, Pikachu/Eevee!",
