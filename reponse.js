@@ -18964,4 +18964,36 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/tobyfox-music/catswing?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
     answer: 5912,
   },
+  {
+    url: "https://soundcloud.com/user-633637319/alola-region-theme-feat-masaya",
+    answer: 5913,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/my-home",
+    answer: 5914,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/professor-kukuis-theme",
+    answer: 5915,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/iki-town-day-feat-takahiro",
+    answer: 5916,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/lillies-theme",
+    answer: 5917,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/haus-theme",
+    answer: 5918,
+  },
+    {
+      url: "https://soundcloud.com/user-633637319/battle-hau",
+      answer: 5919,
+    },
+    {
+      url: "https://soundcloud.com/user-633637319/the-pokemon-research-lab",
+      answer: 5920,
+    },
 ];
