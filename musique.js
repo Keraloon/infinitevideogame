@@ -17252,6 +17252,126 @@ window.musicNameList = [
     fr: "Vandalize (Fin 3 par One OK Rock) - Sonic Frontiers",
   },
   {
+    id: 5868,
+    en: "Title Screen - Sonic Superstars",
+    fr: "Ecran Titre - Sonic Superstars",
+  },
+  {
+    id: 5869,
+    en: "Bridge Island Act 1 - Sonic Superstars",
+    fr: "Bridge Island Act 1 - Sonic Superstars",
+  },
+  {
+    id: 5870,
+    en: "Bridge Island Act Fruits - Sonic Superstars",
+    fr: "Bridge Island Act Fruits - Sonic Superstars",
+  },
+  {
+    id: 5871,
+    en: "Speed Jungle Act 1 - Sonic Superstars",
+    fr: "Speed Jungle Act 1 - Sonic Superstars",
+  },
+  {
+    id: 5872,
+    en: "Speed Jungle Act 2 - Sonic Superstars",
+    fr: "Speed Jungle Act 2 - Sonic Superstars",
+  },
+  {
+    id: 5873,
+    en: "Speed Jungle Act Sonic - Sonic Superstars",
+    fr: "Speed Jungle Act Sonic - Sonic Superstars",
+  },
+  {
+    id: 5874,
+    en: "Sky Temple - Sonic Superstars",
+    fr: "Sky Temple - Sonic Superstars",
+  },
+  {
+    id: 5875,
+    en: "Pinball Carnival Act 1 - Sonic Superstars",
+    fr: "Pinball Carnival Act 1 - Sonic Superstars",
+  },
+  {
+    id: 5876,
+    en: "Pinball Carnival Act 2 - Sonic Superstars",
+    fr: "Pinball Carnival Act 2 - Sonic Superstars",
+  },
+  {
+    id: 5877,
+    en: "Pinball Carnival Act Fruits - Sonic Superstars",
+    fr: "Pinball Carnival Act Fruits - Sonic Superstars",
+  },
+  {
+    id: 5878,
+    en: "Lagoon City Act 1 - Sonic Superstars",
+    fr: "Lagoon City Act 1 - Sonic Superstars",
+  },
+  {
+    id: 5879,
+    en: "Sand Sanctuary - Sonic Superstars",
+    fr: "Sand Sanctuary - Sonic Superstars",
+  },
+  {
+    id: 5880,
+    en: "Press Factory Act 1 - Sonic Superstars",
+    fr: "Press Factory Act 1 - Sonic Superstars",
+  },
+  {
+    id: 5881,
+    en: "Golden Capital Act 2 - Sonic Superstars",
+    fr: "Golden Capital Act 2 - Sonic Superstars",
+  },
+  {
+    id: 5882,
+    en: "Cyber Station - Sonic Superstars",
+    fr: "Cyber Station - Sonic Superstars",
+  },
+  {
+    id: 5883,
+    en: "Frozen Base Act Tails - Sonic Superstars",
+    fr: "Frozen Base Act Tails - Sonic Superstars",
+  },
+  {
+    id: 5884,
+    en: "Egg Fortress Act 1 - Sonic Superstars",
+    fr: "Egg Fortress Act 1 - Sonic Superstars",
+  },
+  {
+    id: 5885,
+    en: "Egg Fortress Act 2 - Sonic Superstars",
+    fr: "Egg Fortress Act 2 - Sonic Superstars",
+  },
+  {
+    id: 5886,
+    en: "Special Stage - Sonic Superstars",
+    fr: "Special Stage - Sonic Superstars",
+  },
+  {
+    id: 5887,
+    en: "Event : Trip and Fang - Sonic Superstars",
+    fr: "Evenement : Trip et Fang - Sonic Superstars",
+  },
+  {
+    id: 5888,
+    en: "Boss (Fang the Hunter) - Sonic Superstars",
+    fr: "Boss (Fang the Hunter) - Sonic Superstars",
+  },
+  {
+    id: 5889,
+    en: "Boss (Egg Fortress - Fang MK 2) - Sonic Superstars",
+    fr: "Boss (Egg Fortress - Fang MK 2) - Sonic Superstars",
+  },
+  {
+    id: 5890,
+    en: "Boss 2 - Sonic Superstars",
+    fr: "Boss 2 - Sonic Superstars",
+  },
+  {
+    id: 5891,
+    en: "Boss (Prototype/Cyber Station) - Sonic Superstars",
+    fr: "Boss (Prototype/Cyber Station) - Sonic Superstars",
+  },
+  {
     id: 5396,
     en: "Green Hill (Classic) - Sonic Generations",
     fr: "Green Hill (Classic) - Sonic Generations",
