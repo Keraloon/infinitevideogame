@@ -22312,8 +22312,8 @@ window.musicNameList = [
   },
   {
     id: 3211,
-    en: "Rude Baster - Deltarune",
-    fr: "Rude Baster - Deltarune",
+    en: "Rude Buster - Deltarune",
+    fr: "Rude Buster - Deltarune",
   },
   {
     id: 3212,
@@ -22344,6 +22344,111 @@ window.musicNameList = [
     id: 3217,
     en: "You Can Always Come Home - Deltarune",
     fr: "You Can Always Come Home - Deltarune",
+  },
+  {
+    id: 5892,
+    en: "Queen - Deltarune",
+    fr: "Queen - Deltarune",
+  },
+  {
+    id: 5893,
+    en: "A CYBER'S WORLD? - Deltarune",
+    fr: "A CYBER'S WORLD? - Deltarune",
+  },
+  {
+    id: 5894,
+    en: "Berdly - Deltarune",
+    fr: "Berdly - Deltarune",
+  },
+  {
+    id: 5895,
+    en: "WELCOME TO THE CITY - Deltarune",
+    fr: "WELCOME TO THE CITY - Deltarune",
+  },
+  {
+    id: 5896,
+    en: "NOW'S YOUR CHANCE TO BE A - Deltarune",
+    fr: "NOW'S YOUR CHANCE TO BE A - Deltarune",
+  },
+  {
+    id: 5897,
+    en: "Pandora Palace - Deltarune",
+    fr: "Pandora Palace - Deltarune",
+  },
+  {
+    id: 5898,
+    en: "It's Pronounced 'Rules' - Deltarune",
+    fr: "It's Pronounced 'Rules' - Deltarune",
+  },
+  {
+    id: 5899,
+    en: "Attack of the Killer Queen - Deltarune",
+    fr: "Attack of the Killer Queen - Deltarune",
+  },
+  {
+    id: 5900,
+    en: "BIG SHOT - Deltarune",
+    fr: "BIG SHOT - Deltarune",
+  },
+  {
+    id: 5901,
+    en: "Ruder Buster - Deltarune",
+    fr: "Ruder Buster - Deltarune",
+  },
+  {
+    id: 5902,
+    en: "Welcome to the Green Room - Deltarune",
+    fr: "Welcome to the Green Room - Deltarune",
+  },
+  {
+    id: 5903,
+    en: "Paradise, Paradise - Deltarune",
+    fr: "Paradise, Paradise - Deltarune",
+  },
+  {
+    id: 5904,
+    en: "TV WORLD - Deltarune",
+    fr: "TV WORLD - Deltarune",
+  },
+  {
+    id: 5905,
+    en: "It's TV Time! - Deltarune",
+    fr: "It's TV Time! - Deltarune",
+  },
+  {
+    id: 5906,
+    en: "Black Knife - Deltarune",
+    fr: "Black Knife - Deltarune",
+  },
+  {
+    id: 5907,
+    en: "Castle Funk - Deltarune",
+    fr: "Castle Funk - Deltarune",
+  },
+  {
+    id: 5908,
+    en: "From Now On (Battle 2) - Deltarune",
+    fr: "From Now On (Battle 2) - Deltarune",
+  },
+  {
+    id: 5909,
+    en: "A DARK ZONE - Deltarune",
+    fr: "A DARK ZONE - Deltarune",
+  },
+  {
+    id: 5910,
+    en: "Hammer of Justice - Deltarune",
+    fr: "Hammer of Justice - Deltarune",
+  },
+  {
+    id: 5911,
+    en: "SPAWN - Deltarune",
+    fr: "SPAWN - Deltarune",
+  },
+  {
+    id: 5912,
+    en: "Catswing - Deltarune",
+    fr: "Catswing - Deltarune",
   },
   {
     id: 3843,
