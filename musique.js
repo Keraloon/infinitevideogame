@@ -10957,14 +10957,49 @@ window.musicNameList = [
     fr: "Combat! (Team Aqua) (BETA) - Pokémon Rubis Oméga/Saphir Alpha",
   },
   {
+    id: 5913,
+    en: "Alola Region Theme - Pokémon Sun/Moon",
+    fr: "Thème de la région d'Alola - Pokémon Soleil/Lune",
+  },
+  {
     id: 1144,
     en: "Escape! - Pokémon Sun/Moon",
     fr: "Fuite! - Pokémon Soleil/Lune",
   },
   {
+    id: 5914,
+    en: "My Home - Pokémon Sun/Moon",
+    fr: "Maison du joueur - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5915,
+    en: "Professor Kukui's Theme - Pokémon Sun/Moon",
+    fr: "Thème de Professeur Euphorbe - Pokémon Soleil/Lune",
+  },
+  {
     id: 1147,
     en: "Route 1 on Melemele Island/Hau'oli Cemetery - Pokémon Sun/Moon",
     fr: "Route 1 de Mele-Mele/Cimetière d'Ekaeka - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5916,
+    en: "Iki Town (Day) - Pokémon Sun/Moon",
+    fr: "Lili'i (Jour) - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5917,
+    en: "Lillie's Theme - Pokémon Sun/Moon",
+    fr: "Thème de Lilie - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5918,
+    en: "Hau's Theme - Pokémon Sun/Moon",
+    fr: "Thème de Tili - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5919,
+    en: "Battle! (Hau) - Pokémon Sun/Moon",
+    fr: "Combat! (Tili) - Pokémon Soleil/Lune",
   },
   {
     id: 1155,
@@ -10975,6 +11010,11 @@ window.musicNameList = [
     id: 1157,
     en: "The Festival in Iki Town - Pokémon Sun/Moon",
     fr: "Festival de Lili'i - Pokémon Soleil/Lune",
+  },
+  {
+    id: 5920,
+    en: "The Pokémon Research Lab - Pokémon Sun/Moon",
+    fr: "Laboratoire Pokémon - Pokémon Soleil/Lune",
   },
   {
     id: 1164,
