@@ -18988,12 +18988,235 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/user-633637319/haus-theme",
     answer: 5918,
   },
+  {
+    url: "https://soundcloud.com/user-633637319/battle-hau",
+    answer: 5919,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/the-pokemon-research-lab",
+    answer: 5920,
+  },
     {
-      url: "https://soundcloud.com/user-633637319/battle-hau",
-      answer: 5919,
-    },
-    {
-      url: "https://soundcloud.com/user-633637319/the-pokemon-research-lab",
-      answer: 5920,
-    },
+    url: "https://soundcloud.com/user-633637319/have-a-break-at-the-cafe",
+    answer: 5921,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/hauoli-city-day-feat-takahiro",
+    answer: 5922,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/salon",
+    answer: 5923,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/apparel-shop",
+    answer: 5924,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/malasada-shop",
+    answer: 5925,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/ferry-terminal",
+    answer: 5926,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/route-2-on-melemele-island",
+    answer: 5927,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/team-skull-appears-feat",
+    answer: 5928,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/battle-totem-pokemon",
+    answer: 5929,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/seaward-cave",
+    answer: 5930,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/island-kahunas-theme",
+    answer: 5931,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/ride-pokemon-land",
+    answer: 5932,
+  },
+  {
+    url: "https://soundcloud.com/user-633637319/ten-carat-hill",
+    answer: 5933,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/paniola-town-day",
+    answer: 5934,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/ride-pokemon-aquatic",
+    answer: 5935,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/royal-avenue",
+    answer: 5936,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/burnets-lab",
+    answer: 5937,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/konikoni-city-day",
+    answer: 5938,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/aether-paradise",
+    answer: 5939,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/route-10-on-ulaula-island",
+    answer: 5940,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/guzmas-theme-feat-kyotaro",
+    answer: 5941,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/acerolas-trial",
+    answer: 5942,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/po-town",
+    answer: 5943,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/trainers-eyes-meet-aether",
+    answer: 5944,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/ancient-poni-path",
+    answer: 5945,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/to-the-altar",
+    answer: 5946,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/ultra-space",
+    answer: 5947,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/blues-theme",
+    answer: 5948,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/the-path-to-the-league",
+    answer: 5949,
+  },
+  {
+    url: "https://soundcloud.com/user-451976318/the-summit-of-mount-lanakila",
+    answer: 5950,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/ultra-recon-squad-hq-pokemon-ultra-sun-ultra-moon",
+    answer: 5951,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/alola-photoclub-pokemon-ultra-sun-ultra-moon",
+    answer: 5952,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/battle-ultra-necrozma",
+    answer: 5953,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/ultra-wormhole-pokemon-ultra-sun-ultra-moon",
+    answer: 5954,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/ultra-space-1-pokemon-ultra-sun-ultra-moon",
+    answer: 5955,
+  {
+    url: "https://soundcloud.com/user-681426033/ultra-space-3-pokemon-ultra-sun-ultra-moon",
+    answer: 5956,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/kantonian-gym-pokemon-ultra-sun-ultra-moon",
+    answer: 5957,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/team-rainbow-rocket-hq-pokemon-ultra-sun-ultra-moon",
+    answer: 5958,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/encounter-team-rainbow-rocket-pokemon-ultra-sun-ultra-moon",
+    answer: 5959,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/bgm-mj-vs05dspadpcm",
+    answer: 5960,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/battle-lysandre-pokemon-ultra-sun-ultra-moon",
+    answer: 5961,
+  },
+  {
+    url: "https://soundcloud.com/ddd-ddd-203678012/pokemon-ultra-sun-ultra-moon-2",
+    answer: 5962,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/the-end-pokemon-ultra-sun-ultra-moon",
+    answer: 5963,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/surf-version-2-pokemon-lets-go-pikachu-lets-go-eevee",
+    answer: 5964,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/route-1-pokemon-lets-go-pikachu-lets-go-eevee",
+    answer: 5965,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/a-trainer-appears-girl-pokemon-lets-go-pikachu-lets-go-eevee",
+    answer: 5966,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/gym-pokemon-lets-go-pikachu-lets-go-eevee",
+    answer: 5967,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/battle-gym-leader-pokemon-lets-go-pikachu-lets-go-eevee",
+    answer: 5968,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/rivals-theme-pokemon-lets-go-pikachu-lets-go-eevee",
+    answer: 5969,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/route-3-4-pokemon-lets-go-pikachu-lets-go-eevee",
+    answer: 5970,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/mt-moon-pokemon-lets-go-pikachu-lets-go-eevee",
+    answer: 5971,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/cerulean-city-pokemon-lets-go-pikachu-lets-go-eevee",
+    answer: 5972,
+  },
+  {
+    url: "https://soundcloud.com/diamondpearl-886539488/the-s-s-anne-pokemon-lets-go",
+    answer: 5973,
+  },
+  {
+    url: "https://soundcloud.com/user-681426033/route-11-pokemon-lets-go-pikachu-lets-go-eevee",
+    answer: 5974,
+  },
+  {
+    url: "https://soundcloud.com/vgm-vaccine/celadon-city-theme-pokemon-lets-go-1",
+    answer: 5975,
+  },
+  {
+    url: "https://soundcloud.com/user-104839658/go-park-pokemon-lets-go-ost",
+    answer: 5976,
+  },
 ];
