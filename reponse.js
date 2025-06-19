@@ -18880,4 +18880,88 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/leonel-cisneros-378688411/sonic-superstars-ost-cyber-station-boss-8-bit?in=leonel-cisneros-378688411/sets/sonic-superstars-ost",
     answer: 5891,
   },
+  {
+    url: "https://soundcloud.com/tobyfox-music/queen?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5892,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/a-cybers-world?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5893,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/berdly?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5894,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/welcome-to-the-city?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5895,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/nows-your-chance-to-be-a?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5896,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/pandora-palace?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5897,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/its-pronounced-rules?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5898,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/attack-of-the-killer-queen?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5899,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/big-shot?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5900,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/ruder-buster?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5901,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/welcome-to-the-green-room?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5902,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/paradise-paradise?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5903,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/tv-world?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5904,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/its-tv-time?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5905,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/black-knife?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5906,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/castle-funk?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5907,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/from-now-on-battle-2?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5908,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/a-dark-zone?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5909,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/hammer-of-justice?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5910,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/spawn?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5911,
+  },
+  {
+    url: "https://soundcloud.com/tobyfox-music/catswing?in=a-random-knoose/sets/deltarune-chapter-1-2-ost",
+    answer: 5912,
+  },
 ];
