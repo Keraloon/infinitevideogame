@@ -222,10 +222,12 @@ var app = (function () {
     const volumeSlider = document.getElementById("volume-slider");
     const playerS = document.getElementById("player");
     const blitzS = document.getElementById("access-blitz");
+    const retourS = document.getElementById("retour");
     document.body.innerHTML = "";
     document.body.appendChild(volumeSlider.cloneNode(true));
     document.body.appendChild(playerS.cloneNode(true));
     document.body.appendChild(blitzS.cloneNode(true));
+    document.body.appendChild(retourS.cloneNode(true));
   }
 
   function nextMusic() {
