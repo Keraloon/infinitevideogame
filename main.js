@@ -72,8 +72,8 @@ var app = (function () {
  
 
   const flags = {
-    fr: "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/1f1eb-1f1f7.png",
-    en: "https://cdn.glitch.global/689a1d86-ffe0-4981-a89f-b548a3ccd61a/1f1fa-1f1f8.png",
+    fr: "https://keraloon.github.io/infinitevideogame/FR.png",
+    en: "https://keraloon.github.io/infinitevideogame/US.png",
   };
 
   const aboutT = { fr: "A propos", en: "about" };
@@ -90,13 +90,13 @@ var app = (function () {
   const supportT = { fr: "support", en: "support" };
   const supportPopupT = {
     fr:
-      '<p class="mb-3">Vous pouvez jouer au <a href="https://infinitevideogame.glitch.me/" title="Games Heardle">Games Heardle</a> tous les jours!</p><p class="mb-3">Si vous pensez qu\'une musique ou un jeu manque a l\'appel, faites le moi savoir sur <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter!</a></p><p class="mb-3">Vous pouvez regarder le Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">ici!</a></p><p class="mb-3">Nombre de musiques présentes: ' +
+      '<p class="mb-3">Vous pouvez jouer au <a href="https://keraloon.github.io/infinitevideogame/index.html" title="Games Heardle">Games Heardle</a> tous les jours!</p><p class="mb-3">Si vous pensez qu\'une musique ou un jeu manque a l\'appel, faites le moi savoir sur <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter!</a></p><p class="mb-3">Vous pouvez regarder le Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">ici!</a></p><p class="mb-3">Nombre de musiques présentes: ' +
       filteredMusicListWithLinks.length +
       "/" +
       musicListWithLinks.length +
       "</p>",
     en:
-      '<p class="mb-3">You can also play <a href="https://infinitevideogame.glitch.me/" title="Games Heardle">Games Heardle</a> daily!</p><p class="mb-3">If you think a music or a game should be here, let me know on <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter!</a></p><p class="mb-3">You can look at the Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">here!</a></p><p class="mb-3">Number of songs available: ' +
+      '<p class="mb-3">You can also play <a href="https://keraloon.github.io/infinitevideogame/index.html" title="Games Heardle">Games Heardle</a> daily!</p><p class="mb-3">If you think a music or a game should be here, let me know on <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter!</a></p><p class="mb-3">You can look at the Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">here!</a></p><p class="mb-3">Number of songs available: ' +
       filteredMusicListWithLinks.length +
       "/" +
       musicListWithLinks.length +
@@ -4322,7 +4322,7 @@ var app = (function () {
         (n = w("div")),
           (n.innerHTML =
             aboutPopupT[language] +
-            ' \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://glitch.com/">Glitch</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
+            ' \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
           M(n, "class", "text");
       },
       m(e, t) {
