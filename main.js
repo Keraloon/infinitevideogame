@@ -153,8 +153,8 @@ var app = (function () {
   const langListT = { fr: "Langues", en: "Languages" };
 
   const volumeT = {
-    fr: "Augmentez le volume et appuyez pour lancer la musique !",
-    en: "Turn up the volume and tap to start the track!",
+    fr: "Ajustez le volume et appuyez pour lancer la musique !",
+    en: "Change the volume and tap to start the track!",
   };
   const submitT = { fr: "Soumettre", en: "Submit" };
   const placeholderT = {
