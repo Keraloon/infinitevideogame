@@ -6804,5 +6804,3 @@ var app = (function () {
     props: {},
   });
 })();
-
-console.log(music.title + music.title)
