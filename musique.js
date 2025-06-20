@@ -5043,6 +5043,61 @@ window.musicNameList = [
     fr: "Krank, Contagion Capitalist - Have A Nice Death",
   },
   {
+    id: 626,
+    en: "Snake Escape - Hiveswap",
+    fr: "Snake Escape - Hiveswap",
+  },
+  {
+    id: 629,
+    en: "Table for Tooth - Hiveswap",
+    fr: "Table for Tooth - Hiveswap",
+  },
+  {
+    id: 639,
+    en: "That's How I Beat Snake - Hiveswap",
+    fr: "That's How I Beat Snake - Hiveswap",
+  },
+  {
+    id: 631,
+    en: "Living Legend - Hiveswap",
+    fr: "Living Legend - Hiveswap",
+  },
+  {
+    id: 632,
+    en: "Final Spice - Hiveswap",
+    fr: "Final Spice - Hiveswap",
+  },
+  {
+    id: 633,
+    en: "Ticket to Ride - Rusty - Hiveswap",
+    fr: "Ticket to Ride - Rusty - Hiveswap",
+  },
+  {
+    id: 634,
+    en: "Ticket to Ride - Quadrant Confusion - Hiveswap",
+    fr: "Ticket to Ride - Quadrant Confusion - Hiveswap",
+  },
+  {
+    id: 635,
+    en: "Objection - Hiveswap",
+    fr: "Objection - Hiveswap",
+  },
+  {
+    id: 636,
+    en: "Cross Examination - Hiveswap",
+    fr: "Cross Examination - Hiveswap",
+  },
+  {
+    id: 637,
+    en: "Cornered - Hiveswap",
+    fr: "Cornered - Hiveswap",
+  },
+  {
+    id: 638,
+    en: "Conductor's Cabin - Hiveswap",
+    fr: "Conductor's Cabin - Hiveswap",
+  },
+  {
     id: 2260,
     en: "Dirtmouth - Hollow Knight",
     fr: "Dirtmouth - Hollow Knight",
