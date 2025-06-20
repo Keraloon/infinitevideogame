@@ -68,6 +68,7 @@ var app = (function () {
   let filteredMusicListWithLinks = [];
   filterMusicLists();
   var firstLoad = true;
+  console.log(music.title + music.artist);
      
  
 
