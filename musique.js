@@ -20032,8 +20032,8 @@ window.musicNameList = [
   },
   {
     id: 3689,
-    en: "Title - Mario & Luigi Superstar Saga",
-    fr: "Titre - Mario & Luigi Superstar Saga",
+    en: "Title/A New Adventure Begins! - Mario & Luigi Superstar Saga",
+    fr: "Titre/Une Nouvelle Aventure Commence - Mario & Luigi Superstar Saga",
   },
   {
     id: 3690,
