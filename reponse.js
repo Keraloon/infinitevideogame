@@ -2560,8 +2560,44 @@ window.musicListWithLinks = [
     answer: 639,
   },
   {
+    url: "https://soundcloud.com/user-338850232/damon-gant-swimming-anyone?in=user-338850232/sets/phoenix-wright-ace-attorney-ost",
+    answer: 640,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/detention-center-jailers-elegy?in=user-338850232/sets/phoenix-wright-ace-attorney-ost",
+    answer: 641,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/ema-skye-turnabout-sisters?in=user-338850232/sets/phoenix-wright-ace-attorney-ost",
+    answer: 642,
+  },
+  {
     url: "https://soundcloud.com/mystery-room/pokemon-black-and-white-team-plasma-battle-theme",
     answer: 643,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/end?in=user-338850232/sets/phoenix-wright-ace-attorney-ost",
+    answer: 644,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/investigation-opening-2001?in=user-338850232/sets/phoenix-wright-ace-attorney-ost",
+    answer: 645,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/jake-marshall-the-detective?in=user-338850232/sets/phoenix-wright-ace-attorney-ost",
+    answer: 646,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/marvin-grossberg-old-age?in=user-338850232/sets/phoenix-wright-ace-attorney-ost",
+    answer: 647,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/maya-fey-turnabout-sisters?in=user-338850232/sets/phoenix-wright-ace-attorney-ost",
+    answer: 648,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/recollection-the-dl-6-incident?in=user-338850232/sets/phoenix-wright-ace-attorney-ost",
+    answer: 649,
   },
   {
     url: "https://soundcloud.com/diamondpearl-886539488/pokemon-gym-pokemon-black",
@@ -2570,6 +2606,14 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/joremaster/pokemon-black-and-white-battle-gym-leader",
     answer: 651,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/telling-the-truth-2001?in=user-338850232/sets/phoenix-wright-ace-attorney-ost",
+    answer: 652,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/the-steel-samurai?in=user-338850232/sets/phoenix-wright-ace-attorney-ost",
+    answer: 653,
   },
   {
     url: "https://soundcloud.com/pkmn-black-and-white/gate-pokemon-black-and-white",
