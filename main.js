@@ -4744,23 +4744,6 @@ var app = (function () {
       }
     );
   }
-
-  function jt(e, t, n) {
-    let r;
-    return (
-      P(async function () {
-        (async function () {
-          const e = await fetch(
-            "https://wjsn-heardle.glitch.me/supporters.json"
-          );
-          return await e.json();
-        })().then((e) => {
-          n(0, (r = e.supporters));
-        });
-      }),
-      [r]
-    );
-  }
   class Bt extends se {
     constructor(e) {
       super(), re(this, e, jt, Et, i, {});
