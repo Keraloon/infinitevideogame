@@ -68,7 +68,6 @@ var app = (function () {
   let filteredMusicListWithLinks = [];
   filterMusicLists();
   var firstLoad = true;
-  console.log(music.title + music.artist);
      
  
 
@@ -246,6 +245,7 @@ var app = (function () {
       });
       quiet();
     }
+    console.log(music.title + music.artist);
   }
 
   function filterMusicLists() {
