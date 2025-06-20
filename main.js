@@ -6805,4 +6805,4 @@ var app = (function () {
   });
 })();
 
-console.log('{title} {artist}')
+console.log(music.title + music.title)
