@@ -230,7 +230,6 @@ var app = (function () {
 
   function nextMusic() {
     currentIndex += 1;
-    console.log(music.title + music.artist);
     if (currentIndex >= filteredMusicListWithLinks.length) {
       window.location.reload();
     } else {
@@ -239,6 +238,7 @@ var app = (function () {
         constructor(e) {
           super();
           re(this, e, jn, En, i, {}, null, [-1, -1]);
+          console.log(music.title + music.artist);
         }
       })({
         target: document.body,
