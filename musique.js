@@ -11114,11 +11114,6 @@ window.musicNameList = [
     fr: "Paradis Aether - Pokémon Soleil/Lune",      
   },
   {
-    id: 1217,
-    en: "Aether Paradise - Pokémon Sun/Moon",
-    fr: "Paradis Aether - Pokémon Soleil/Lune",
-  },
-  {
     id: 1222,
     en: "Battle! (Ultra Beast) - Pokémon Sun/Moon",
     fr: "Combat! (Ultra-Chimère) - Pokémon Soleil/Lune",
@@ -15042,16 +15037,6 @@ window.musicNameList = [
     id: 4530,
     en: "Prophecy - Secret Of Mana",
     fr: "Prophecy - Secret Of Mana",
-  },
-  {
-    id: 4531,
-    en: "Steel and Snare - Secret Of Mana",
-    fr: "Steel and Snare - Secret Of Mana",
-  },
-  {
-    id: 4532,
-    en: "Morning is Here - Secret Of Mana",
-    fr: "Morning is Here - Secret Of Mana",
   },
   {
     id: 3323,
@@ -20235,11 +20220,6 @@ window.musicNameList = [
     fr: "Sous l'Océan - Super Monkey Ball",
   },
   {
-    id: 3538,
-    en: "Main Theme - Super Monkey Ball 2",
-    fr: "Thème Principal - Super Monkey Ball 2",
-  },
-  {
     id: 3539,
     en: "World 1 : Jungle - Super Monkey Ball 2",
     fr: "Monde 1 : Jungle - Super Monkey Ball 2",
@@ -20258,11 +20238,6 @@ window.musicNameList = [
     id: 3542,
     en: "World 7 : Bubbly Washing Machine - Super Monkey Ball 2",
     fr: "Monde 7 : Machine à Laver - Super Monkey Ball 2",
-  },
-  {
-    id: 3543,
-    en: "Monkey Tennis : Menu - Super Monkey Ball 2",
-    fr: "Monkey Tennis : Menu - Super Monkey Ball 2",
   },
   {
     id: 3544,
@@ -23463,11 +23438,6 @@ window.musicNameList = [
     fr: "Fly - Yakuza 3",
   },
   {
-    id: 5057,
-    en: "Urgency - Yakuza 3",
-    fr: "Urgency - Yakuza 3",
-  },
-  {
     id: 5058,
     en: "Dead Run - Yakuza 3",
     fr: "Dead Run - Yakuza 3",
@@ -23516,11 +23486,6 @@ window.musicNameList = [
     id: 5067,
     en: "Another Demiworld - Yakuza 3",
     fr: "Another Demiworld - Yakuza 3",
-  },
-  {
-    id: 5068,
-    en: "End Point - Yakuza 3",
-    fr: "End Point - Yakuza 3",
   },
   {
     id: 5069,
