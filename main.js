@@ -192,9 +192,9 @@ var app = (function () {
     return template
       .replace("{title}", music.title)
       .replace("{artist}", music.artist);
-      alert(music.title + music.artist);
   }
-
+  console.log(music.title + music.artist);
+  
   for (let lg of Object.keys(flags)) {
     flags[lg] =
       '<img style="width:16px;height:16px" src="' + flags[lg] + '" alt="" />';
