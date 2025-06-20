@@ -141,19 +141,6 @@ resultslist: {
   noresults: true; /* ou une autre propriété dépendant de la bibliothèque */
 }
 
-#access-blitz {
-    font-size: 15px; /* Taille de la police */
-    background-color: #bb4444; /* Couleur de fond */
-    color: #ffffff; /* Couleur du texte pour un meilleur contraste */
-    cursor: pointer; /* Changer le curseur au survol */
-    border-style: inset; /* Style de la bordure */
-    border-color: #222222; /* Couleur de la bordure */
-    position: absolute; /* Positionnement absolu */
-    top: 50px; /* Ajustez cette valeur pour la position verticale */
-    left: 20px; /* Ajustez cette valeur pour la position horizontale */
-    z-index: 1000; /* Assurez-vous qu'il se trouve au-dessus d'autres éléments */
-}
-
 #retour {
     font-size: 15px; /* Taille de la police */
     background-color: #aa4444; /* Couleur de fond */
