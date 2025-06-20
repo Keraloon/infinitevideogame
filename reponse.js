@@ -2504,7 +2504,11 @@ window.musicListWithLinks = [
     answer: 625,
   },
   {
-    url: " https://soundcloud.com/mike-dreamurr/pokemon-black-and-white-route-1",
+    url: "https://soundcloud.com/tirantbacon/hiveswap-act-1-ost-002-snake-escape?in=maxy3/sets/hiveswap-act-1-ost",
+    answer: 626,
+  },
+  {
+    url: "https://soundcloud.com/mike-dreamurr/pokemon-black-and-white-route-1",
     answer: 627,
   },
   {
@@ -2512,8 +2516,48 @@ window.musicListWithLinks = [
     answer: 628,
   },
   {
+    url: "https://soundcloud.com/tirantbacon/table-for-tooth?in=maxy3/sets/hiveswap-act-1-ost",
+    answer: 629,
+  },
+  {
     url: "https://soundcloud.com/luisleite11/accumula-town",
     answer: 630,
+  },
+  {
+    url: "https://soundcloud.com/tirantbacon/living-legend?in=sn33k3rsss/sets/hiveswap-act-1-2-ost",
+    answer: 631,
+  },
+  {
+    url: "https://soundcloud.com/tirantbacon/final-spice?in=maxy3/sets/hiveswap-act-1-ost",
+    answer: 632,
+  },
+  {
+    url: "https://soundcloud.com/koolu-pop/hiveswap-act-2-ost-8-ticket-to-ride-rusty?in=sn33k3rsss/sets/hiveswap-act-1-2-ost",
+    answer: 633,
+  },
+  {
+    url: "https://soundcloud.com/koolu-pop/hiveswap-act-2-ost-9-ticket-to-ride-quadrant-confusion?in=sn33k3rsss/sets/hiveswap-act-1-2-ost",
+    answer: 634,
+  },
+  {
+    url: "https://soundcloud.com/koolu-pop/hiveswap-act-2-ost-13-objection?in=sn33k3rsss/sets/hiveswap-act-1-2-ost",
+    answer: 635,
+  },
+  {
+    url: "https://soundcloud.com/koolu-pop/hiveswap-act-2-ost-14-cross-examination?in=sn33k3rsss/sets/hiveswap-act-1-2-ost",
+    answer: 636,
+  },
+  {
+    url: "https://soundcloud.com/koolu-pop/hiveswap-act-2-ost-15-cornered?in=sn33k3rsss/sets/hiveswap-act-1-2-ost",
+    answer: 637,
+  },
+  {
+    url: "https://soundcloud.com/koolu-pop/hiveswap-act-2-ost-18-conductors-cabin?in=sn33k3rsss/sets/hiveswap-act-1-2-ost",
+    answer: 638,
+  },
+  {
+    url: "https://soundcloud.com/karkat-vantas-572064532/hiveswap-act-1-ost-7-thats-how-i-beat-snake",
+    answer: 639,
   },
   {
     url: "https://soundcloud.com/mystery-room/pokemon-black-and-white-team-plasma-battle-theme",
