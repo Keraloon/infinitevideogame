@@ -10644,83 +10644,83 @@ window.musicListWithLinks = [
     answer: 3688,
   },
   {
-    url: "https://soundcloud.com/vgmc/title-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/01-a-new-adventure-begins?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3689,
   },
   {
-    url: "https://soundcloud.com/vgmc/panic-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/07-fawful-music?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3690,
   },
   {
-    url: "https://soundcloud.com/vgmc/toadtown-square-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/peachs-castle?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3691,
   },
   {
-    url: "https://soundcloud.com/vgmc/suspense-theme-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/08-bowsers-road?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3692,
   },
   {
-    url: "https://soundcloud.com/vgmc/battle-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/13-come-on?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3693,
   },
   {
-    url: "https://soundcloud.com/vgmc/boss-battle-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/16-we-cant-lose?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3694,
   },
   {
-    url: "https://soundcloud.com/vgmc/stardust-fields-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/12-stardust-fields-area-64?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3695,
   },
   {
-    url: "https://soundcloud.com/vgmc/hoohoo-village-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/17-beanish-people?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3696,
   },
   {
-    url: "https://soundcloud.com/vgmc/hoohoo-mountain-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/18-hoohoo-mountaintop?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3697,
   },
   {
-    url: "https://soundcloud.com/vgmc/beanbean-fields?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/20-the-kingdom-called-beanbean?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3698,
   },
   {
-    url: "https://soundcloud.com/vgmc/cackletta-theme-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/36-cackletta-the-fiercest-foe?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3699,
   },
   {
-    url: "https://soundcloud.com/vgmc/popple-battle-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/23-the-marvelous-duo?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3700,
   },
   {
-    url: "https://soundcloud.com/vgmc/gwarhar-lagoon-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/29-sweet-surfin?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3701,
   },
   {
-    url: "https://soundcloud.com/vgmc/prof-egadd-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/26-professor-e-gadd?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3702,
   },
   {
-    url: "https://soundcloud.com/vgmc/teehee-valley-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/32-dont-dwell-on-danger?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3703,
   },
   {
-    url: "https://soundcloud.com/vgmc/bowletta-anger-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/36-cackletta-the-fiercest-foe?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3704,
   },
   {
-    url: "https://soundcloud.com/vgmc/bowser-castle-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/37-decisive-battleground?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3705,
   },
   {
-    url: "https://soundcloud.com/vgmc/decisive-battle-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/38-time-to-settle-this?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3706,
   },
   {
-    url: "https://soundcloud.com/vgmc/final-cackletta-battle-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/39-showdown-with-cackletta?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3707,
   },
   {
-    url: "https://soundcloud.com/vgmc/ending-theme-mario-luigi-superstar-saga-2003?in=user-406137838-225440039/sets/mario-and-luigi-superstar-saga",
+    url: "https://soundcloud.com/silly-person-52110284/41-going-home?in=silly-person-52110284/sets/mario-luigi-superstar-saga-ost",
     answer: 3708,
   },
   {
