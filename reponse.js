@@ -14488,6 +14488,14 @@ window.musicListWithLinks = [
     answer: 4753,
   },
   {
+    url: "https://soundcloud.com/faded_boo/twinkle-park-twinkle-cart",
+    answer: 4768,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/speed-highway-run-through-the-speed-highway?in=faded_boo/sets/sonic-adventure",
+    answer: 4768,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/perfect-chaos-open-your-heart?in=faded_boo/sets/sonic-adventure",
     answer: 4770,
   },
