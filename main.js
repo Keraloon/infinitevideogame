@@ -6804,3 +6804,13 @@ var app = (function () {
     props: {},
   });
 })();
+
+function logMissingAnswers(max = 5976) {
+  const usedAnswers = new Set(window.musicListWithLinks.map(item => item.answer));
+  const missing = [];
+  for (let i = 0; i <= max; i++) {
+    if (!usedAnswers.has(i)) missing.push(i);
+  }
+  console.log('Missing answer numbers:', missing);
+}
+logMissingAnswers();
