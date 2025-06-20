@@ -193,8 +193,6 @@ var app = (function () {
       .replace("{title}", music.title)
       .replace("{artist}", music.artist);
   }
-  console.log(12);
-  console.log(music.title + music.artist);
   
   for (let lg of Object.keys(flags)) {
     flags[lg] =
@@ -232,6 +230,7 @@ var app = (function () {
 
   function nextMusic() {
     currentIndex += 1;
+    console.log(music.title + music.artist);
     if (currentIndex >= filteredMusicListWithLinks.length) {
       window.location.reload();
     } else {
