@@ -90,13 +90,13 @@ var app = (function () {
   const supportT = { fr: "support", en: "support" };
   const supportPopupT = {
     fr:
-      '<p class="mb-3">Vous pouvez jouer au <a href="https://keraloon.github.io/infinitevideogame/index.html" title="Games Heardle">Games Heardle</a> tous les jours!</p><p class="mb-3">Si vous pensez qu\'une musique ou un jeu manque a l\'appel, faites le moi savoir sur <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter!</a></p><p class="mb-3">Vous pouvez regarder le Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">ici!</a></p><p class="mb-3">Nombre de musiques présentes: ' +
+      '<p class="mb-3">Vous pouvez jouer au <a href="https://keraloon.github.io/infinitevideogame/index.html" title="Games Heardle">Games Heardle</a> tous les jours!</p><p class="mb-3">Si vous pensez qu\'une musique ou un jeu manque a l\'appel, faites le moi savoir sur <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter</a> ou <a href="https://bsky.app/profile/keraloon.bsky.social" title="@Keraloon">Bluesky!</a></p><p class="mb-3">Vous pouvez regarder le Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">ici!</a></p><p class="mb-3">Nombre de musiques présentes: ' +
       filteredMusicListWithLinks.length +
       "/" +
       musicListWithLinks.length +
       "</p>",
     en:
-      '<p class="mb-3">You can also play <a href="https://keraloon.github.io/infinitevideogame/index.html" title="Games Heardle">Games Heardle</a> daily!</p><p class="mb-3">If you think a music or a game should be here, let me know on <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter!</a></p><p class="mb-3">You can look at the Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">here!</a></p><p class="mb-3">Number of songs available: ' +
+      '<p class="mb-3">You can also play <a href="https://keraloon.github.io/infinitevideogame/index.html" title="Games Heardle">Games Heardle</a> daily!</p><p class="mb-3">If you think a music or a game should be here, let me know on <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter</a> or <a href="https://bsky.app/profile/keraloon.bsky.social" title="@Keraloon">Bluesky!</a></p><p class="mb-3">You can look at the Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">here!</a></p><p class="mb-3">Number of songs available: ' +
       filteredMusicListWithLinks.length +
       "/" +
       musicListWithLinks.length +
