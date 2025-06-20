@@ -238,7 +238,6 @@ var app = (function () {
         constructor(e) {
           super();
           re(this, e, jn, En, i, {}, null, [-1, -1]);
-          console.log(music.title + music.artist);
         }
       })({
         target: document.body,
@@ -6788,3 +6787,6 @@ var app = (function () {
     props: {},
   });
 })();
+
+
+console.log(listenToT);
