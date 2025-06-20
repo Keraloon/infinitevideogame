@@ -4744,86 +4744,6 @@ var app = (function () {
       }
     );
   }
-
-  function jt(e, t, n) {
-    let r;
-    return (
-      P(async function () {
-        (async function () {
-          const e = await fetch(
-            "https://wjsn-heardle.glitch.me/supporters.json"
-          );
-          return await e.json();
-        })().then((e) => {
-          n(0, (r = e.supporters));
-        });
-      }),
-      [r]
-    );
-  }
-  class Bt extends se {
-    constructor(e) {
-      super(), re(this, e, jt, Et, i, {});
-    }
-  }
-
-  function zt(t) {
-    let n, r, s, i, o, a, l, u, c;
-    return (
-      (a = new Rt({})),
-      (u = new Bt({})),
-      {
-        c() {
-          (n = w("p")),
-            (s = w("p")),
-            (n.innerHTML = supportPopupT[language]),
-            (r = x()),
-            (s = w("p")),
-            (i = x()),
-            (o = w("div")),
-            Q(a.$$.fragment),
-            (l = x()),
-            Q(u.$$.fragment),
-            M(n, "class", "mb-3"),
-            M(s, "class", "mb-3"),
-            M(o, "class", "pt-6");
-        },
-        m(e, t) {
-          g(e, n, t),
-            g(e, r, t),
-            g(e, s, t),
-            g(e, i, t),
-            g(e, o, t),
-            ee(a, o, null),
-            g(e, l, t),
-            ee(u, e, t),
-            (c = !0);
-        },
-        p: e,
-        i(e) {
-          c || (Z(a.$$.fragment, e), Z(u.$$.fragment, e), (c = !0));
-        },
-        o(e) {
-          q(a.$$.fragment, e), q(u.$$.fragment, e), (c = !1);
-        },
-        d(e) {
-          e && y(n),
-            e && y(r),
-            e && y(s),
-            e && y(i),
-            e && y(o),
-            te(a),
-            e && y(l),
-            te(u, e);
-        },
-      }
-    );
-  }
-  class Ut extends se {
-    constructor(e) {
-      super(), re(this, e, null, zt, i, {});
-    }
-  }
   const Vt = {
       attemptInterval: 1.5e3,
       attemptIntervalAlt: [1e3, 2e3, 4e3, 7e3, 11e3, 16e3],
@@ -5389,7 +5309,6 @@ var app = (function () {
             "\n\n" +
             t +
             "\n\n";
-          // + "https://etrian-infinite-heardle.glitch.me/"
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
