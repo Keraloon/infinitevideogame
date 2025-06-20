@@ -13528,9 +13528,24 @@ window.musicNameList = [
     fr: "Hall de la Salle d'Audience (Début de L'Ouverture) - Phoenix Wright Ace Attorney",
   },
   {
+    id: 640,
+    en: "Damon Gant ~ Swimming, Anyone - Phoenix Wright Ace Attorney",
+    fr: "Damien Gant ~  La Natation, Quelqu'un - Phoenix Wright Ace Attorney",
+  },
+  {
+    id: 641,
+    en: "Detention Center ~ Jailers' Elegy - Phoenix Wright Ace Attorney",
+    fr: "Centre de Détention ~ Elégie du Geolier - Phoenix Wright Ace Attorney",
+  },
+  {
     id: 2836,
     en: "Dick Gumshoe ~ Detective Gumshoe, Pal - Phoenix Wright Ace Attorney",
     fr: "Dick Tektiv ~ Inspecteur Tektiv, mon gars - Phoenix Wright Ace Attorney",
+  },
+  {
+    id: 642,
+    en: "Ema Skye ~ Turnabout Sisters Theme 2005 - Phoenix Wright Ace Attorney",
+    fr: "Ema Skye ~ Thème de la Volte-Face des Soeurs 2005 - Phoenix Wright Ace Attorney",
   },
   {
     id: 2837,
@@ -13539,8 +13554,18 @@ window.musicNameList = [
   },
   {
     id: 2838,
-    en: "Investigation - Phoenix Wright Ace Attorney",
-    fr: "Investigation - Phoenix Wright Ace Attorney",
+    en: "Investigation ~ Core 2001 - Phoenix Wright Ace Attorney",
+    fr: "Investigation ~ Coeur 2001 - Phoenix Wright Ace Attorney",
+  },
+  {
+    id: 645,
+    en: "Investigation ~ Opening 2001 - Phoenix Wright Ace Attorney",
+    fr: "Investigation ~ Ouverture 2001 - Phoenix Wright Ace Attorney",
+  },
+  {
+    id: 646,
+    en: "Jake Marshall ~ The Detectice From The Wild West - Phoenix Wright Ace Attorney",
+    fr: "Alex Marshall ~ Le Détective du Far West - Phoenix Wright Ace Attorney",
   },
   {
     id: 2839,
@@ -13548,19 +13573,34 @@ window.musicNameList = [
     fr: "Logique et Astuce - Phoenix Wright Ace Attorney",
   },
   {
+    id: 647,
+    en: "Marvin Grossberg ~ Old Age, Regret, Retribution - Phoenix Wright Ace Attorney",
+    fr: "Samuel Rosenberg ~ Vieil Age, Regret, Rétribution - Phoenix Wright Ace Attorney",
+  },
+  {
+    id: 648,
+    en: "Maya Fey ~ Turnabout Sisters Theme 2001 - Phoenix Wright Ace Attorney",
+    fr: "Maya Fey ~ Thème de la Volte-Face des Soeurs 2001 - Phoenix Wright Ace Attorney",
+  },
+  {
     id: 2840,
-    en: "Objection! - Phoenix Wright Ace Attorney",
-    fr: "Objection! - Phoenix Wright Ace Attorney",
+    en: "Objection! 2001 - Phoenix Wright Ace Attorney",
+    fr: "Objection! 2001 - Phoenix Wright Ace Attorney",
   },
   {
     id: 2841,
-    en: "Pursuit - Phoenix Wright Ace Attorney",
+    en: "Pursuit ~ Cornered - Phoenix Wright Ace Attorney",
     fr: "Acculé (Pursuit) - Phoenix Wright Ace Attorney",
   },
   {
     id: 2842,
-    en: "Questioning - Phoenix Wright Ace Attorney",
-    fr: "Questionnement - Phoenix Wright Ace Attorney",
+    en: "Questioning ~ Moderato 2001 - Phoenix Wright Ace Attorney",
+    fr: "Questionnement ~ Moderato 2001 - Phoenix Wright Ace Attorney",
+  },
+  {
+    id: 649,
+    en: "The DL-6 Incident - Phoenix Wright Ace Attorney",
+    fr: "L'Affaire DL-6 - Phoenix Wright Ace Attorney",
   },
   {
     id: 2843,
@@ -13568,9 +13608,19 @@ window.musicNameList = [
     fr: "Suspens - Phoenix Wright Ace Attorney",
   },
   {
+    id: 652,
+    en: "Telling The Truth 2001 - Phoenix Wright Ace Attorney",
+    fr: "Dire La Vérité 2001 - Phoenix Wright Ace Attorney",
+  },
+  {
     id: 2844,
-    en: "Blue Badger - Phoenix Wright Ace Attorney",
-    fr: "Lutin Bleu - Phoenix Wright Ace Attorney",
+    en: "Blue Badger ~ I Want To Protect You - Phoenix Wright Ace Attorney",
+    fr: "Lutin Bleu ~ Je Veux Te Protéger - Phoenix Wright Ace Attorney",
+  },
+  {
+    id: 653,
+    en: "The Steel Samurai - Phoenix Wright Ace Attorney",
+    fr: "Le Samouraï d'Acier - Phoenix Wright Ace Attorney",
   },
   {
     id: 2845,
@@ -13578,10 +13628,16 @@ window.musicNameList = [
     fr: "Procès - Phoenix Wright Ace Attorney",
   },
   {
-    id: 3229,
-    en: "Godot ~ The Fragrance of Dark Coffee - Phoenix Wright Ace Attorney",
-    fr: "Godot ~ Le Parfum d'un Café Noir - Phoenix Wright Ace Attorney",
+    id: 644,
+    en: "End - Phoenix Wright Ace Attorney",
+    fr: "Fin - Phoenix Wright Ace Attorney",
   },
+  {
+    id: 3229,
+    en: "Godot ~ The Fragrance of Dark Coffee - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Godot ~ Le Parfum d'un Café Noir - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  
   {
     id: 2846,
     en: "World Map - Rayman",
