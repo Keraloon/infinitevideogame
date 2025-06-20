@@ -153,8 +153,8 @@ var app = (function () {
   const langListT = { fr: "Langues", en: "Languages" };
 
   const volumeT = {
-    fr: "Ajustez le volume et appuyez pour lancer la musique !",
-    en: "Change the volume and tap to start the track!",
+    fr: "Augmentez le volume et appuyez pour lancer la musique !",
+    en: "Turn up the volume and tap to start the track!",
   };
   const submitT = { fr: "Soumettre", en: "Submit" };
   const placeholderT = {
@@ -4744,7 +4744,8 @@ var app = (function () {
       }
     );
   }
-  function jt(e, t, n) {Add commentMore actions
+
+  function jt(e, t, n) {
     let r;
     return (
       P(async function () {
@@ -4820,7 +4821,7 @@ var app = (function () {
   }
   class Ut extends se {
     constructor(e) {
-      super(), re(this, e, null, zt, i, {});Add commentMore actions
+      super(), re(this, e, null, zt, i, {});
     }
   }
   const Vt = {
@@ -5388,6 +5389,7 @@ var app = (function () {
             "\n\n" +
             t +
             "\n\n";
+          // + "https://etrian-infinite-heardle.glitch.me/"
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
