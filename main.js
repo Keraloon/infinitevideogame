@@ -6788,5 +6788,5 @@ var app = (function () {
   });
 })();
 
-
-console.log(listenToT);
+let music;
+console.log(music.title + music.artist);
