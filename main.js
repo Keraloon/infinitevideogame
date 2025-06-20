@@ -192,6 +192,7 @@ var app = (function () {
     return template
       .replace("{title}", music.title)
       .replace("{artist}", music.artist);
+      console.log(music.title + music.artist);
   }
 
   for (let lg of Object.keys(flags)) {
@@ -245,7 +246,6 @@ var app = (function () {
       });
       quiet();
     }
-    console.log(music.title + music.artist);
   }
 
   function filterMusicLists() {
