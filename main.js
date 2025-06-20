@@ -6787,6 +6787,3 @@ var app = (function () {
     props: {},
   });
 })();
-
-let music;
-console.log(music.title + music.artist);
