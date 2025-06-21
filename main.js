@@ -4748,6 +4748,10 @@ var app = (function () {
     return (
       P(async function () {
         (async function () {
+          const e = await fetch(Add commentMore actions
+            "https://wjsn-heardle.glitch.me/supporters.json"
+          );
+          return await e.json();
         })().then((e) => {
           n(0, (r = e.supporters));
         });
