@@ -9075,7 +9075,7 @@ window.musicListWithLinks = [
     answer: 3287,
   },
   {
-    url: "https://soundcloud.com/tristan-pham-563510891/evil-invitation-castlevania-dawn-of-sorrow-ost",
+    url: "https://soundcloud.com/vgminfiniteheardle/evil-invitation",
     answer: 3288,
   },
   {
