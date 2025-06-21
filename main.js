@@ -4743,6 +4743,19 @@ var app = (function () {
       }
     );
   }
+  function jt(e, t, n) {Add commentMore actions
+    let r;
+    return (
+      P(async function () {
+        (async function () {
+        })().then((e) => {
+          n(0, (r = e.supporters));
+        });
+      }),
+      [r]
+    );
+  }
+  
   class Bt extends se {
     constructor(e) {
       super(), re(this, e, jt, Et, i, {});
