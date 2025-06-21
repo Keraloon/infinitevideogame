@@ -4743,12 +4743,12 @@ var app = (function () {
       }
     );
   }
-  function jt(e, t, n)
+  function jt(e, t, n) {
     let r;
     return (
       P(async function () {
         (async function () {
-          const e = await fetch
+          const e = await fetch(
             "https://wjsn-heardle.glitch.me/supporters.json"
           );
           return await e.json();
