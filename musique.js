@@ -8156,7 +8156,7 @@ window.musicNameList = [
   {
     id: 704,
     en: "Mondays (Floor 1 Pizza Tower Lobby) - Pizza Tower",
-    fr: "Mondays (Lobby Pizza Tower Etage 1) - Pizza Tower",
+    fr: "Mondays (Pizza Tower Etage 1) - Pizza Tower",
   },
   {
     id: 705,
@@ -8192,6 +8192,211 @@ window.musicNameList = [
     id: 714,
     en: "Dungeon Freakshow (Bloodsauce Dungeon) - Pizza Tower",
     fr: "Dungeon Freakshow (La Geôlognaise) - Pizza Tower",
+  },
+  {
+    id: 715,
+    en: "Tuesdays (Floor 2 Western District) - Pizza Tower",
+    fr: "Tuesdays (Ruée vers l'Origan Etage 2) - Pizza Tower",
+  },
+  {
+    id: 716,
+    en: "Oregano Mirage (Oregano Desert) - Pizza Tower",
+    fr: "Oregano Mirage (Saharaclette) - Pizza Tower",
+  },
+  {
+    id: 718,
+    en: "Oregano UFO (Oregano Desert B) - Pizza Tower",
+    fr: "Oregano UFO (Saharaclette B) - Pizza Tower",
+  },
+  {
+    id: 719,
+    en: "Mort's Farm (Fun Farm) - Pizza Tower",
+    fr: "Mort's Farm (Ferme en Lactique) - Pizza Tower",
+  },
+  {
+    id: 720,
+    en: "What's On The Kids Menu? (Fun Farm B) - Pizza Tower",
+    fr: "What's On The Kids Menu? (Ferme en Lactique B) - Pizza Tower",
+  },
+  {
+    id: 722,
+    en: "Yeehaw Deliveryboy (FastFood Saloon) - Pizza Tower",
+    fr: "Yeehaw Deliveryboy (Western Spaghetti) - Pizza Tower",
+  },
+  {
+    id: 723,
+    en: "Wednesdays (Floor 3 Vacation Resort) - Pizza Tower",
+    fr: "Wednesdays (Club Medscarpone Etage 3) - Pizza Tower",
+  },
+  {
+    id: 724,
+    en: "Tropical Crust (Crust Cove) - Pizza Tower",
+    fr: "Tropical Crust (Criques aux Croutes) - Pizza Tower",
+  },
+  {
+    id: 725,
+    en: "mmm yess put the tree on my pizza (Gnome Forest) - Pizza Tower",
+    fr: "mmm yess put the tree on my pizza (Forêt du Nainpolitain) - Pizza Tower",
+  },
+  {
+    id: 726,
+    en: "Wudpecker (Gnome Forest B) - Pizza Tower",
+    fr: "Wudpecker (Forêt du Nainpolitain B) - Pizza Tower",
+  },
+  {
+    id: 727,
+    en: "Good Eatin' (Golf)  - Pizza Tower",
+    fr: "Good Eatin' (Golf) - Pizza Tower",
+  },
+  {
+    id: 728,
+    en: "Extraterrestrial Wahwahs (Deep-Dish 9)  - Pizza Tower",
+    fr: "Extraterrestrial Wahwahs (L'Etoile de la Morbier) - Pizza Tower",
+  },
+  {
+    id: 729,
+    en: "Thursdays (Floor 4 Slum)  - Pizza Tower",
+    fr: "Thursdays (Bidonville Etage 4) - Pizza Tower",
+  },
+  {
+    id: 730,
+    en: "Bite The Crust (The Pig City)  - Pizza Tower",
+    fr: "Bite The Crust (La Cité Porcéenne) - Pizza Tower",
+  },
+  {
+    id: 731,
+    en: "Way Of The Pig (The Pig City)  - Pizza Tower",
+    fr: "Way Of The Pig (La Cité Porcéenne) - Pizza Tower",
+  },
+  {
+    id: 735,
+    en: "Pizza Engineer (Peppibot Factory)  - Pizza Tower",
+    fr: "Pizza Engineer (Robocoppa) - Pizza Tower",
+  },
+  {
+    id: 737,
+    en: "Peppino's Sauce Machine (Peppibot Factory B)  - Pizza Tower",
+    fr: "Peppino's Sauce Machine (Robocoppa B) - Pizza Tower",
+  },
+  {
+    id: 738,
+    en: "Tubular Trash Zone (Oh Shit!)  - Pizza Tower",
+    fr: "Tubular Trash Zone (Oh Merde!) - Pizza Tower",
+  },
+  {
+    id: 734,
+    en: "Don't Preheat Your Oven Because If You Do The Song Won't Play (Refrigerator-Refrigerador-Freezerator)  - Pizza Tower",
+    fr: "Don't Preheat Your Oven Because If You Do The Song Won't Play (Frigorificotta) - Pizza Tower",
+  },
+  {
+    id: 739,
+    en: "Celcius Troubles (Refrigerator-Refrigerador-Freezerator B)  - Pizza Tower",
+    fr: "Celcius Troubles (Frigorificotta B) - Pizza Tower",
+  },
+  {
+    id: 740,
+    en: "On The Rocks (Satan's Choice Pizza)  - Pizza Tower",
+    fr: "On The Rocks (Satan's Choice Pizza) - Pizza Tower",
+  },
+  {
+    id: 741,
+    en: "Okay Campers, Rise And Shine! (Tunnel Chase)  - Pizza Tower",
+    fr: "Okay Campers, Rise And Shine! (Poursuite dans le Tunnel) - Pizza Tower",
+  },
+  {
+    id: 742,
+    en: "Fridays (Floor 5 Staff Only)  - Pizza Tower",
+    fr: "Fridays (Personnel Uniquement Etage 5) - Pizza Tower",
+  },
+  {
+    id: 743,
+    en: "There's a Bone in My Spaghetti! (Pizzascare)  - Pizza Tower",
+    fr: "There's a Bone in My Spaghetti! (Fantômate) - Pizza Tower",
+  },
+  {
+    id: 744,
+    en: "Hard Drive to Munch You (Toppin Monster Alerted)  - Pizza Tower",
+    fr: "Hard Drive to Munch You (Toppin Monster Alertés) - Pizza Tower",
+  },
+  {
+    id: 745,
+    en: "Thousand March (WAR)  - Pizza Tower",
+    fr: "Thousand March (GUERRE/Guerre et Paixcorino) - Pizza Tower",
+  },
+  {
+    id: 748,
+    en: "Bye Bye There! (The Crumbling Tower of Pizza)  - Pizza Tower",
+    fr: "Bye Bye There! (La Pizza Tower S'Ecroule) - Pizza Tower",
+  },
+  {
+    id: 749,
+    en: "Pizza Pie-Ing (Ending Cutscene)  - Pizza Tower",
+    fr: "Pizza Pie-Ing (Générique de Fin) - Pizza Tower",
+  },
+  {
+    id: 750,
+    en: "Hip to be Italian (Peppino's Final Judgement)  - Pizza Tower",
+    fr: "Hip to be Italian (Jugement Final de Peppino) - Pizza Tower",
+  },
+  {
+    id: 752,
+    en: "Pepperman Strikes! (Boss 1 Pepperman)  - Pizza Tower",
+    fr: "Pepperman Strikes! (Boss 1 Pepperman) - Pizza Tower",
+  },
+  {
+    id: 753,
+    en: "Calzonification (Boss 2 The Vigilante)  - Pizza Tower",
+    fr: "Calzonification (Boss 2 The Vigilante) - Pizza Tower",
+  },
+  {
+    id: 754,
+    en: "Pumpin’ Hot Stuff (Boss 3 The Noise)  - Pizza Tower",
+    fr: "Pumpin’ Hot Stuff (Boss 3 The Noise) - Pizza Tower",
+  },
+  {
+    id: 755,
+    en: "Pizza Time Never Ends (Boss 4 Peppino)  - Pizza Tower",
+    fr: "Pizza Time Never Ends (Boss 4 Peppino) - Pizza Tower",
+  },
+  {
+    id: 746,
+    en: "Unexpectancy, Part 1 (Boss Final/Pizzaface)  - Pizza Tower",
+    fr: "Unexpectancy, Part 1 (Boss Final/Pizzaface) - Pizza Tower",
+  },
+  {
+    id: 747,
+    en: "Unexpectancy, Part 2 (Boss Final/Pizzahead)  - Pizza Tower",
+    fr: "Unexpectancy, Part 2 (Boss Final/Pizzahead) - Pizza Tower",
+  },
+  {
+    id: 756,
+    en: "The Noise's Jam-Packed Radical Anthem  - Pizza Tower",
+    fr: "The Noise's Jam-Packed Radical Anthem - Pizza Tower",
+  },
+  {
+    id: 757,
+    en: "DISTASTEFUL ANCHOVI (JC RE-EDIT) (Pizza Time! The Noise) - Pizza Tower",
+    fr: "DISTASTEFUL ANCHOVI (JC RE-EDIT) (Pizza Time! The Noise) - Pizza Tower",
+  },
+  {
+    id: 758,
+    en: "World Wide Noise - Pizza Tower",
+    fr: "World Wide Noise - Pizza Tower",
+  },
+  {
+    id: 759,
+    en: "Unexpectancy [CLASCYJITTO GATCHA REMIX] - Pizza Tower",
+    fr: "Unexpectancy [CLASCYJITTO GATCHA REMIX] - Pizza Tower",
+  },
+  {
+    id: 762,
+    en: "hmmm look what u done did you found a secret :) (Pizzascape Secret) - Pizza Tower",
+    fr: "hmmm look what u done did you found a secret :) (Secret Poud'lard Fumé) - Pizza Tower",
+  },
+  {
+    id: 763,
+    en: "A Hidden Pepperoni In The Cage (Bloodsauce Dungeon Secret) - Pizza Tower",
+    fr: "A Hidden Pepperoni In The Cage (Secret La Geôlognaise) - Pizza Tower",
   },
   {
     id: 3325,
