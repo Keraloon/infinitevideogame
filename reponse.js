@@ -5783,19 +5783,19 @@ window.musicListWithLinks = [
     answer: 2340,
   },
   {
-    url: "https://soundcloud.com/lanaraine-music/infinite-amethyst",
+    url: "https://soundcloud.com/netyler00/lena-raine-infinite-amethyst-2",
     answer: 2341,
   },
   {
-    url: "https://soundcloud.com/lanaraine-music/otherside",
+    url: "https://soundcloud.com/spencer-tupac/otherside-lena-raine-caves-and",
     answer: 2342,
   },
   {
-    url: "https://soundcloud.com/lanaraine-music/wending",
+    url: "https://soundcloud.com/sebastian-eslava-722051881/creator-minecraft-lena-raine",
     answer: 2343,
   },
   {
-    url: "https://soundcloud.com/lanaraine-music/pigstep-stereo-mix",
+    url: "https://soundcloud.com/peterworre/one-hour-minecraft-pigstep",
     answer: 2344,
   },
   {
