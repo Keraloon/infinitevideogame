@@ -2628,16 +2628,44 @@ window.musicListWithLinks = [
     answer: 656,
   },
   {
+    url: "https://soundcloud.com/fjyy/brat-overflow-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 657,
+  },
+  {
+    url: "https://soundcloud.com/fjyy/valine-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 658,
+  },
+  {
+    url: "https://soundcloud.com/fjyy/in-the-doldrums-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 659,
+  },
+  {
     url: "https://soundcloud.com/pkmn-black-and-white/raimon-city-pokemon-black-and",
     answer: 660,
+  },
+  {
+    url: "https://soundcloud.com/fjyy/leucine-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 661,
   },
   {
     url: "https://soundcloud.com/pkmn-black-and-white/unwavering-emotions-pokemon",
     answer: 662,
   },
   {
+    url: "https://soundcloud.com/fjyy/isoleucine-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 663,
+  },
+  {
     url: "https://soundcloud.com/pkmn-black-and-white/battle-n-pokemon-black-and",
     answer: 664,
+  },
+  {
+    url: "https://soundcloud.com/fjyy/halcyon-days-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 665,
+  },
+  {
+    url: "https://soundcloud.com/fjyy/good-times-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 666,
   },
   {
     url: "https://soundcloud.com/pkmn-black-and-white/champion-adeku-pokemon-black",
@@ -2651,16 +2679,42 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/revimpx/pokemon-black-white-driftveil-city",
     answer: 669,
   },
-
+  {
+    url: "https://soundcloud.com/fjyy/bad-omen-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 670,
+  },
+  {
+    url: "https://soundcloud.com/fjyy/lysine-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 671,
+  },
   {
     url: "https://soundcloud.com/rse-548363113/route-6-7-8-9-17-18-summer-pokemon-black-white",
     answer: 672,
   },
   {
+    url: "https://soundcloud.com/fjyy/threonine-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 673,
+  },
+  {
+    url: "https://soundcloud.com/fjyy/methionine-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 674,
+  },
+  {
+    url: "https://soundcloud.com/fjyy/buddies-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 675,
+  },
+  {
     url: "https://soundcloud.com/pkmn-black-and-white/fukiyose-city-pokemon-black",
     answer: 676,
   },
-
+  {
+    url: "https://soundcloud.com/fjyy/bright-days-ahead-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 677,
+  },
+  {
+    url: "https://soundcloud.com/fjyy/high-alert-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 678,
+  },
   {
     url: "https://soundcloud.com/user-367734782/icirrus-city",
     answer: 679,
@@ -2670,8 +2724,40 @@ window.musicListWithLinks = [
     answer: 680,
   },
   {
+    url: "https://soundcloud.com/fjyy/seaside-vacation-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 681,
+  },
+  {
+    url: "https://soundcloud.com/fjyy/voyage-to-tomorrow-13-sentinels-aegis-rim-ost?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 682,
+  },
+  {
+    url: "https://soundcloud.com/user-844623037/metal-demon-13-sentinels-aegis?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 683,
+  },
+  {
     url: "https://soundcloud.com/user-367734782/relic-castle",
     answer: 684,
+  },
+  {
+    url: "https://soundcloud.com/user-844623037/hack-and-crash-13-sentinels?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 685,
+  },
+  {
+    url: "https://soundcloud.com/user-844623037/go-sentinels-go-13-sentinels?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 686,
+  },
+  {
+    url: "https://soundcloud.com/user-844623037/deafening-silence-13-sentinels?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 687,
+  },
+  {
+    url: "https://soundcloud.com/user-844623037/466f756e64205521-13-sentinels?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 688,
+  },
+  {
+    url: "https://soundcloud.com/user-844623037/ribose-13-sentinels-aegis-rim?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 689,
   },
   {
     url: "https://soundcloud.com/user-367734782/route-10",
@@ -2682,12 +2768,36 @@ window.musicListWithLinks = [
     answer: 691,
   },
   {
+    url: "https://soundcloud.com/user-844623037/to-the-final-battle-13?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 692,
+  },
+  {
+    url: "https://soundcloud.com/user-844623037/resolution-13-sentinels-aegis?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 693,
+  },
+  {
     url: "https://soundcloud.com/user-367734782/battle-elite-four",
     answer: 694,
   },
   {
+    url: "https://soundcloud.com/user-844623037/last-line-of-defence-13?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 695,
+  },
+  {
+    url: "https://soundcloud.com/user-844623037/a-bridge-from-the-past-13?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 696,
+  },
+  {
     url: "https://soundcloud.com/user-367734782/ns-castle",
     answer: 697,
+  },
+  {
+    url: "https://soundcloud.com/user-844623037/tryptophan-13-sentinels-aegis?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 698,
+  },
+  {
+    url: "https://soundcloud.com/user-844623037/histidine-13-sentinels-aegis?in=fjyy/sets/13-sentinels-aegis-rim-ost",
+    answer: 699,
   },
   {
     url: "https://soundcloud.com/user-367734782/battle-zekrom",
