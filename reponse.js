@@ -13137,11 +13137,11 @@ window.musicListWithLinks = [
     answer: 4238,
   },
   {
-    url: "https://soundcloud.com/moon_music/crystals",
+    url: "https://soundcloud.com/giammarco-simonelli/crystals-m-o-o-n-hotline-miami",
     answer: 4239,
   },
   {
-    url: "https://soundcloud.com/moon_music/hydrogen",
+    url: "https://soundcloud.com/zadykian/hydrogen",
     answer: 4240,
   },
   {
