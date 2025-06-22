@@ -6579,8 +6579,8 @@ window.musicNameList = [
   },
   {
     id: 2343,
-    en: "Wending (Lena Raine) - Minecraft",
-    fr: "Wending (Lena Raine) - Minecraft",
+    en: "Creator (Lena Raine) - Minecraft",
+    fr: "Creator (Lena Raine) - Minecraft",
   },
   {
     id: 2344,
