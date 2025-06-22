@@ -13157,7 +13157,7 @@ window.musicListWithLinks = [
     answer: 4243,
   },
   {
-    url: "https://soundcloud.com/moon_music/dust",
+    url: "https://soundcloud.com/jz-frijol/moon-dust-hotline-miami-2-wrong-number-soundtrack",
     answer: 4244,
   },
   {
@@ -13189,7 +13189,7 @@ window.musicListWithLinks = [
     answer: 4251,
   },
   {
-    url: "https://soundcloud.com/moon_music/delay-master",
+    url: "https://soundcloud.com/kebab-boy-609735913/delay-hotline-miami-2",
     answer: 4252,
   },
   {
@@ -13197,7 +13197,7 @@ window.musicListWithLinks = [
     answer: 4253,
   },
   {
-    url: "https://soundcloud.com/moon_music/quixotic",
+    url: "https://soundcloud.com/sourcepony/quixotic-hotline-miami-2-wrong",
     answer: 4254,
   },
   {
