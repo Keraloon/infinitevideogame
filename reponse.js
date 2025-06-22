@@ -2800,8 +2800,32 @@ window.musicListWithLinks = [
     answer: 699,
   },
   {
+    url: "https://soundcloud.com/peppino-pizza/time-for-a-smackdown?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 700,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/pizza-deluxe?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 701,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/funiculi-holiday?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 702,
+  },
+  {
     url: "https://soundcloud.com/user-367734782/battle-zekrom",
     answer: 703,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/mondays?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 704,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/its-pizza-time?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 705,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/hot-spaghetti?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 706,
   },
   {
     url: "https://soundcloud.com/user-367734782/battle-ghetsis",
@@ -2814,6 +2838,26 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/user-367734782/ending-to-their-respective",
     answer: 709,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/cold-spaghetti?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 710,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/theatrical-shenanigans?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 711,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/put-on-a-show?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 712,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/the-death-that-i-deservioli?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 713,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/dungeon-freakshow?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 714,
   },
   {
     url: "https://soundcloud.com/user-367734782/spin-trade",
