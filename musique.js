@@ -8139,6 +8139,61 @@ window.musicNameList = [
     fr: "Pictionary - Pictionary",
   },
   {
+    id: 700,
+    en: "Time For A Smackdown (Opening) - Pizza Tower",
+    fr: "Time For A Smackdown (Ouverture) - Pizza Tower",
+  },
+  {
+    id: 701,
+    en: "Pizza Deluxe (Title Screen) - Pizza Tower",
+    fr: "Pizza Deluxe (Ecran Titre) - Pizza Tower",
+  },
+  {
+    id: 702,
+    en: "funiculi holiday (Tutorial) - Pizza Tower",
+    fr: "funiculi holiday (Tutoriel) - Pizza Tower",
+  },
+  {
+    id: 704,
+    en: "Mondays (Floor 1 Pizza Tower Lobby) - Pizza Tower",
+    fr: "Mondays (Lobby Pizza Tower Etage 1) - Pizza Tower",
+  },
+  {
+    id: 705,
+    en: "It's Pizza Time! - Pizza Tower",
+    fr: "It's Pizza Time! - Pizza Tower",
+  },
+  {
+    id: 706,
+    en: "Hot Spaghetti (Pizzascape) - Pizza Tower",
+    fr: "Hot Spaghetti (Poud'lard Fumé) - Pizza Tower",
+  },
+  {
+    id: 710,
+    en: "Cold Spaghetti (Pizzascape B) - Pizza Tower",
+    fr: "Cold Spaghetti (Poud'lard Fumé B) - Pizza Tower",
+  },
+  {
+    id: 711,
+    en: "Theatrical Shenanigans (The Ancient Cheese) - Pizza Tower",
+    fr: "Theatrical Shenanigans (Parmesantiquité) - Pizza Tower",
+  },
+  {
+    id: 712,
+    en: "Put On A Show (The Ancient Cheese B) - Pizza Tower",
+    fr: "Put On A Show (Parmesantiquité B) - Pizza Tower",
+  },
+  {
+    id: 713,
+    en: "The Death That I Deservioli (Lap 2) - Pizza Tower",
+    fr: "The Death That I Deservioli (2ème Tour) - Pizza Tower",
+  },
+  {
+    id: 714,
+    en: "Dungeon Freakshow (Bloodsauce Dungeon) - Pizza Tower",
+    fr: "Dungeon Freakshow (La Geôlognaise) - Pizza Tower",
+  },
+  {
     id: 3325,
     en: "Main Theme - Plok!",
     fr: "Thème Principal - Plok!",
