@@ -5531,127 +5531,127 @@ window.musicListWithLinks = [
     answer: 2258,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/dirtmouth?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/dirtmouth",
     answer: 2260,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/false-knight?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/false-knight",
     answer: 2261,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/greenpath?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/greenpath",
     answer: 2262,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/hornet?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/hornet",
     answer: 2263,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/mantis-lords?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/mantis-lords",
     answer: 2264,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/city-of-tears?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/city-of-tears",
     answer: 2265,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/dung-defender?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/dung-defender",
     answer: 2266,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/crystal-peak?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/crystal-peak",
     answer: 2267,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/fungal-wastes?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/fungal-wastes",
     answer: 2268,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/decisive-battle?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/decisive-battle",
     answer: 2269,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/soul-sanctum?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/soul-sanctum",
     answer: 2270,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/resting-grounds?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/resting-grounds",
     answer: 2271,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/kingdoms-edge?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/kingdoms-edge",
     answer: 2272,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/nosk?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/nosk",
     answer: 2273,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/dream-battle?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/dream-battle",
     answer: 2274,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/white-palace?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/white-palace",
     answer: 2275,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/radiance?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/radiance",
     answer: 2276,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/hollow-knight?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/hollow-knight",
     answer: 2277,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/hive-knight?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/hive-knight",
     answer: 2278,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/truth-beauty-and-hatred?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/truth-beauty-and-hatred",
     answer: 2279,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/the-grimm-troupe?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/the-grimm-troupe",
     answer: 2280,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/nightmare-king?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/nightmare-king",
     answer: 2281,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/white-defender?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/white-defender",
     answer: 2282,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/gods-glory?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/gods-glory",
     answer: 2283,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/daughter-of-hallownest?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/daughter-of-hallownest",
     answer: 2284,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/godhome?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/godhome",
     answer: 2285,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/sisters-of-battle?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/sisters-of-battle",
     answer: 2286,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/furious-gods?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/furious-gods",
     answer: 2287,
   },
   {
-    url: "https://soundcloud.com/aceaxer-37823992/pure-vessel?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/aceaxer-37823992/pure-vessel",
     answer: 2288,
   },
   {
-    url: "https://soundcloud.com/brayden-mentzer-821191369/the-eternal-ordeal?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/brayden-mentzer-821191369/the-eternal-ordeal",
     answer: 2289,
   },
   {
-    url: "https://soundcloud.com/brayden-mentzer-821191369/the-eternal-ordeal-title?in=brayden944/sets/hollow-knight-ost-1",
+    url: "https://soundcloud.com/brayden-mentzer-821191369/the-eternal-ordeal-title",
     answer: 2290,
   },
   {
