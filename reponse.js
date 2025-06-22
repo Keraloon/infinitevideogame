@@ -8280,31 +8280,31 @@ window.musicListWithLinks = [
     answer: 3006,
   },
   {
-    url: "https://soundcloud.com/pkcute/hard-rain?in=pkcute/sets/mother-3-ost",
+    url: "https://soundcloud.com/mother3hqupload1/hard-rain?in=mother-3-802539280/sets/mother-3",
     answer: 3007,
   },
   {
-    url: "https://soundcloud.com/pkcute/monkeys-delivery-service?in=pkcute/sets/mother-3-ost",
+    url: "https://soundcloud.com/mother3hqupload1/monkeys-delivery-service?in=mother-3-802539280/sets/mother-3",
     answer: 3008,
   },
   {
-    url: "https://soundcloud.com/pkcute/volcano-inferno?in=pkcute/sets/mother-3-ost",
+    url: "https://soundcloud.com/mother3scburner2/volcano-inferno?in=mother-3-802539280/sets/mother-3",
     answer: 3009,
   },
   {
-    url: "https://soundcloud.com/pkcute/theme-of-bad-boy?in=pkcute/sets/mother-3-ost",
+    url: "https://soundcloud.com/ebsounds/mother-3i-theme-of-bad-boy",
     answer: 3010,
   },
   {
-    url: "https://soundcloud.com/ultimate_chimera/family-matters-2nd-movement-mother-3-soundtrack-hq?in=ultimate_chimera/sets/mother-3-ost",
+    url: "https://soundcloud.com/mother3hqupload1/family-matters-2nd-movement?in=mother-3-802539280/sets/mother-3",
     answer: 3011,
   },
   {
-    url: "https://soundcloud.com/ultimate_chimera/f-f-fire-mother-3-soundtrack-hq?in=ultimate_chimera/sets/mother-3-ost",
+    url: "https://soundcloud.com/mother3hqupload1/f-f-fire?in=mother-3-802539280/sets/mother-3",
     answer: 3012,
   },
   {
-    url: "https://soundcloud.com/user-514497182/unfounded-revenge?in=user-514497182/sets/mother-3-ost-but-its-only-the-songs-i-like",
+    url: "https://soundcloud.com/mother3hqupload1/unfounded-revenge?in=mother-3-802539280/sets/mother-3",
     answer: 3013,
   },
   {
