@@ -2860,13 +2860,72 @@ window.musicListWithLinks = [
     answer: 714,
   },
   {
+    url: "https://soundcloud.com/peppino-pizza/tuesdays?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 715,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/oregano-mirage?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 716,
+  },
+  {
     url: "https://soundcloud.com/user-367734782/spin-trade",
     answer: 717,
   },
-
+  {
+    url: "https://soundcloud.com/peppino-pizza/oregano-ufo?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 718,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/morts-farm?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 719,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/whats-on-the-kids-menu?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 720,
+  },
   {
     url: "https://soundcloud.com/user-367734782/battle-subway-trainer",
     answer: 721,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/yeehaw-deliveryboy?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 722,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/wednesdays?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 723,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/tropical-crust?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 724,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/tropical-crust?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 725,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/wudpecker?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 726,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/good-eatin?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 727,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/extraterrestrial-wahwahs?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 728,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/thursdays?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 729,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/bite-the-crust?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 730,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/way-of-the-pig?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 731,
   },
   {
     url: "https://soundcloud.com/user-367734782/battle-legendary-pokemon",
@@ -2877,12 +2936,108 @@ window.musicListWithLinks = [
     answer: 733,
   },
   {
+    url: "https://soundcloud.com/peppino-pizza/dont-preheat-your-oven-because?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 734,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/pizza-engineer?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 735,
+  },
+  {
     url: "https://soundcloud.com/user-367734782/route-12-summer",
     answer: 736,
   },
   {
+    url: "https://soundcloud.com/peppino-pizza/peppinos-sauce-machine?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 737,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/tubular-trash-zone?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 738,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/celcius-troubles?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 739,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/on-the-rocks?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 740,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/okay-campers-rise-and-shine?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 741,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/fridays?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 742,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/theres-a-bone-in-my-spaghetti?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 743,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/hard-drive-to-munch-you?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 744,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/thousand-march?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 745,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/unexpectancy-part-1-of-3?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 746,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/unexpectancy-part-2-of-3?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 747,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/bye-bye-there?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 748,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/pizza-pie-ing?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 749,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/hip-to-be-italian?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 750,
+  },
+  {
     url: "https://soundcloud.com/user-367734782/undella-town-summer",
     answer: 751,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/pepperman-strikes?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 752,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/pepperman-strikes?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 753,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/pumpin-hot-stuff?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 754,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/pizza-time-never-ends?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 755,
+  },
+  {
+    url: "https://soundcloud.com/wheeeeeeeeeeeeeeeeeeeeeee/the-noises-jam-packed-radical?in=wheeeeeeeeeeeeeeeeeeeeeee/sets/pizza-tower-noise-update-osy",
+    answer: 756,
+  },
+  {
+    url: "https://soundcloud.com/clascyjitto/distasteful-anchovi-jc-re-edit?in=wheeeeeeeeeeeeeeeeeeeeeee/sets/pizza-tower-noise-update-osy",
+    answer: 757,
+  },
+  {
+    url: "https://soundcloud.com/clascyjitto/world-wide-noise?in=wheeeeeeeeeeeeeeeeeeeeeee/sets/pizza-tower-noise-update-osy",
+    answer: 758,
+  },
+  {
+    url: "https://soundcloud.com/clascyjitto/unexpectancy-clascyjitto-gatcha-remix?in=wheeeeeeeeeeeeeeeeeeeeeee/sets/pizza-tower-noise-update-osy",
+    answer: 759,
   },
   {
     url: "https://soundcloud.com/user-367734782/lacunosa-town",
@@ -2891,6 +3046,14 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/user-367734782/village-bridge",
     answer: 761,
+  },
+  {
+    url: "https://soundcloud.com/peppino-pizza/secret-hoppin-tower-mix?in=peppino-pizza/sets/pizza-tower-ost",
+    answer: 762,
+  },
+  {
+    url: "https://soundcloud.com/froggy-dj/dungeonsecret",
+    answer: 763,
   },
   {
     url: "https://soundcloud.com/user-367734782/battle-champion",
