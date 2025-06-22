@@ -11861,31 +11861,31 @@ window.musicListWithLinks = [
     answer: 3917,
   },
   {
-    url: "https://soundcloud.com/geiforkendrick/colony-ship-2008?in=lucius-ibershoff/sets/ftl-faster-than-light",
+    url: "https://soundcloud.com/themightytog/ftl-ae-ost-colony-ship-2008?in=william-wareham-310219147/sets/ftl-faster-than-light-ost",
     answer: 3918,
   },
   {
-    url: "https://soundcloud.com/geiforkendrick/hacking-malfunction-battle?in=lucius-ibershoff/sets/ftl-faster-than-light",
+    url: "https://soundcloud.com/geiforkendrick/hacking-malfunction-battle?in=william-wareham-310219147/sets/ftl-faster-than-light-ost",
     answer: 3919,
   },
   {
-    url: "https://soundcloud.com/geiforkendrick/milkyway-battle?in=lucius-ibershoff/sets/ftl-faster-than-light",
+    url: "https://soundcloud.com/geiforkendrick/milkyway-battle?in=william-wareham-310219147/sets/ftl-faster-than-light-ost",
     answer: 3920,
   },
   {
-    url: "https://soundcloud.com/geiforkendrick/debris-battle?in=lucius-ibershoff/sets/ftl-faster-than-light",
+    url: "https://soundcloud.com/geiforkendrick/debris-battle?in=william-wareham-310219147/sets/ftl-faster-than-light-ost",
     answer: 3921,
   },
   {
-    url: "https://soundcloud.com/geiforkendrick/mantis-battle?in=lucius-ibershoff/sets/ftl-faster-than-light",
+    url: "https://soundcloud.com/geiforkendrick/mantis-battle?in=william-wareham-310219147/sets/ftl-faster-than-light-ost",
     answer: 3922,
   },
   {
-    url: "https://soundcloud.com/geiforkendrick/colonial-battle?in=lucius-ibershoff/sets/ftl-faster-than-light",
+    url: "https://soundcloud.com/geiforkendrick/colonial-battle?in=william-wareham-310219147/sets/ftl-faster-than-light-ost",
     answer: 3923,
   },
   {
-    url: "https://soundcloud.com/geiforkendrick/zoltan-battle?in=lucius-ibershoff/sets/ftl-faster-than-light",
+    url: "https://soundcloud.com/geiforkendrick/zoltan-battle?in=william-wareham-310219147/sets/ftl-faster-than-light-ost",
     answer: 3924,
   },
   {
