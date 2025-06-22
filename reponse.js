@@ -8828,47 +8828,47 @@ window.musicListWithLinks = [
     answer: 3145,
   },
   {
-    url: "https://soundcloud.com/user-675036643/tifas-theme?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/tifas-theme?in=cyalm/sets/final-fantasy-vii",
     answer: 3146,
   },
   {
-    url: "https://soundcloud.com/user-675036643/barrets-theme?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/barrets-theme?in=cyalm/sets/final-fantasy-vii",
     answer: 3147,
   },
   {
-    url: "https://soundcloud.com/user-675036643/lurking-in-the-darkness?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/lurking-in-the-darkness?in=cyalm/sets/final-fantasy-vii",
     answer: 3148,
   },
   {
-    url: "https://soundcloud.com/user-675036643/fighting?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/fighting?in=cyalm/sets/final-fantasy-vii",
     answer: 3149,
   },
   {
-    url: "https://soundcloud.com/user-675036643/fanfare-4?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/fanfare?in=cyalm/sets/final-fantasy-vii",
     answer: 3150,
   },
   {
-    url: "https://soundcloud.com/user-675036643/who-are-you?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/who-are-you?in=cyalm/sets/final-fantasy-vii",
     answer: 3151,
   },
   {
-    url: "https://soundcloud.com/user-675036643/still-more-fighting?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/still-more-fighting?in=cyalm/sets/final-fantasy-vii",
     answer: 3152,
   },
   {
-    url: "https://soundcloud.com/user-675036643/electric-de-chocobo?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/electric-de-chocobo?in=cyalm/sets/final-fantasy-vii",
     answer: 3153,
   },
   {
-    url: "https://soundcloud.com/user-675036643/j-e-n-o-v-a?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/j-e-n-o-v-a?in=cyalm/sets/final-fantasy-vii",
     answer: 3154,
   },
   {
-    url: "https://soundcloud.com/user-675036643/stolen-materia?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/stolen-materia?in=cyalm/sets/final-fantasy-vii",
     answer: 3155,
   },
   {
-    url: "https://soundcloud.com/user-675036643/one-winged-angel?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/one-winged-angel?in=cyalm/sets/final-fantasy-vii",
     answer: 3156,
   },
   {
@@ -14241,87 +14241,87 @@ window.musicListWithLinks = [
     answer: 4590,
   },
   {
-    url: "https://soundcloud.com/user-675036643/bombing-mission?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/bombing-mission?in=cyalm/sets/final-fantasy-vii",
     answer: 4591,
   },
   {
-    url: "https://soundcloud.com/user-675036643/hurry?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/hurry?in=cyalm/sets/final-fantasy-vii",
     answer: 4592,
   },
   {
-    url: "https://soundcloud.com/user-675036643/shinra-corporation?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/shinra-corporation?in=cyalm/sets/final-fantasy-vii",
     answer: 4593,
   },
   {
-    url: "https://soundcloud.com/user-675036643/underneath-the-rotting-pizza?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/underneath-the-rotting-pizza?in=cyalm/sets/final-fantasy-vii",
     answer: 4594,
   },
   {
-    url: "https://soundcloud.com/user-675036643/honeybee-manor?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/honeybee-manor?in=cyalm/sets/final-fantasy-vii",
     answer: 4595,
   },
   {
-    url: "https://soundcloud.com/user-675036643/the-birth-of-god?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/the-birth-of-god?in=cyalm/sets/final-fantasy-vii",
     answer: 4596,
   },
   {
-    url: "https://soundcloud.com/user-675036643/jenova-absolute?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/jenova-absolute?in=cyalm/sets/final-fantasy-vii",
     answer: 4597,
   },
   {
-    url: "https://soundcloud.com/user-675036643/if-you-open-your-heart?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/if-you-open-your-heart?in=cyalm/sets/final-fantasy-vii",
     answer: 4598,
   },
   {
-    url: "https://soundcloud.com/user-675036643/the-countdown-begins?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/the-countdown-begins?in=cyalm/sets/final-fantasy-vii",
     answer: 4599,
   },
   {
-    url: "https://soundcloud.com/user-675036643/on-the-other-side-of-the?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/on-the-other-side-of-the?in=cyalm/sets/final-fantasy-vii",
     answer: 4600,
   },
   {
-    url: "https://soundcloud.com/user-675036643/off-the-edge-of-despair?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/off-the-edge-of-despair?in=cyalm/sets/final-fantasy-vii",
     answer: 4601,
   },
   {
-    url: "https://soundcloud.com/user-675036643/parochial-town?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/parochial-town?in=cyalm/sets/final-fantasy-vii",
     answer: 4602,
   },
   {
-    url: "https://soundcloud.com/user-675036643/a-secret-sleeping-in-the-deep?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/a-secret-sleeping-in-the-deep?in=cyalm/sets/final-fantasy-vii",
     answer: 4603,
   },
   {
-    url: "https://soundcloud.com/user-675036643/full-scale-attack?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/full-scale-attack?in=cyalm/sets/final-fantasy-vii",
     answer: 4604,
   },
   {
-    url: "https://soundcloud.com/user-675036643/who-am-i?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/who-am-i?in=cyalm/sets/final-fantasy-vii",
     answer: 4605,
   },
   {
-    url: "https://soundcloud.com/user-675036643/reunion?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/reunion?in=cyalm/sets/final-fantasy-vii",
     answer: 4606,
   },
   {
-    url: "https://soundcloud.com/user-675036643/buried-in-the-snow?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/buried-in-the-snow?in=cyalm/sets/final-fantasy-vii",
     answer: 4607,
   },
   {
-    url: "https://soundcloud.com/user-675036643/aeris-theme?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/aeris-theme?in=cyalm/sets/final-fantasy-vii",
     answer: 4608,
   },
   {
-    url: "https://soundcloud.com/user-675036643/you-can-hear-the-cry-of-the?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/you-can-hear-the-cry-of-the?in=cyalm/sets/final-fantasy-vii",
     answer: 4609,
   },
   {
-    url: "https://soundcloud.com/user-675036643/forested-temple?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/forested-temple?in=cyalm/sets/final-fantasy-vii",
     answer: 4610,
   },
   {
-    url: "https://soundcloud.com/user-675036643/tango-of-tears?in=user-675036643/sets/final-fantasy-vii-soundtrack",
+    url: "https://soundcloud.com/cyalm/tango-of-tears?in=cyalm/sets/final-fantasy-vii",
     answer: 4611,
   },
   {
