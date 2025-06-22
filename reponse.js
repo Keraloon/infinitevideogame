@@ -7588,23 +7588,23 @@ window.musicListWithLinks = [
     answer: 2829,
   },
   {
-    url: "https://soundcloud.com/user367453475/07-flower-garden-bgm",
+    url: "https://soundcloud.com/supernintendosounds/yoshis-island-flower-garden?in=whyisyouhere/sets/yoshis-island-music",
     answer: 2830,
   },
   {
-    url: "https://soundcloud.com/user367453475/09-goal-score",
+    url: "https://soundcloud.com/nightshadex766/goal-score?in=nightshadex766/sets/super-mario-world-2-yoshis-1",
     answer: 2831,
   },
   {
-    url: "https://soundcloud.com/user367453475/10-underground-bgm",
+    url: "https://soundcloud.com/kerenon/yoshis-island-underground?in=whyisyouhere/sets/yoshis-island-music",
     answer: 2832,
   },
   {
-    url: "https://soundcloud.com/user367453475/21-castle-fortress-bgm",
+    url: "https://soundcloud.com/kerenon/yoshis-island-castle-fortress?in=whyisyouhere/sets/yoshis-island-music",
     answer: 2833,
   },
   {
-    url: "https://soundcloud.com/user367453475/15-athletic-bgm",
+    url: "https://soundcloud.com/kerenon/yoshis-island-athletic?in=whyisyouhere/sets/yoshis-island-music",
     answer: 2834,
   },
   {
