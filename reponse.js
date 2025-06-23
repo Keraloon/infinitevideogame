@@ -14821,75 +14821,75 @@ window.musicListWithLinks = [
     answer: 4735,
   },
   {
-    url: "https://soundcloud.com/user-513599586/waterfall",
+    url: "https://soundcloud.com/thomas-niemu/waterfall",
     answer: 4736,
   },
   {
-    url: "https://soundcloud.com/uch-ost/pier",
+    url: "https://soundcloud.com/thomas-niemu/pier",
     answer: 4737,
   },
   {
-    url: "https://soundcloud.com/uch-ost/challenge-mode",
+    url: "https://soundcloud.com/ultimate-chicken-horse/challenge-mode",
     answer: 4738,
   },
   {
-    url: "https://soundcloud.com/uch-ost/old-house",
+    url: "https://soundcloud.com/thomas-niemu/old-house",
     answer: 4739,
   },
   {
-    url: "https://soundcloud.com/uch-ost/farm",
+    url: "https://soundcloud.com/thomas-niemu/farm",
     answer: 4740,
   },
   {
-    url: "https://soundcloud.com/uch-ost/nuclear-plant",
+    url: "https://soundcloud.com/ultimate-chicken-horse/nuclear-plant",
     answer: 4741,
   },
   {
-    url: "https://soundcloud.com/uch-ost/chimply-amazing-update",
+    url: "https://soundcloud.com/ultimate-chicken-horse/chimply-amazing-update",
     answer: 4742,
   },
   {
-    url: "https://soundcloud.com/uch-ost/dance-party",
+    url: "https://soundcloud.com/thomas-niemu/dance-party",
     answer: 4743,
   },
   {
-    url: "https://soundcloud.com/uch-ost/mainframe",
+    url: "https://soundcloud.com/ultimate-chicken-horse/mainframe",
     answer: 4744,
   },
   {
-    url: "https://soundcloud.com/uch-ost/rooftop",
+    url: "https://soundcloud.com/thomas-niemu/rooftop",
     answer: 4745,
   },
   {
-    url: "https://soundcloud.com/uch-ost/main-title",
+    url: "https://soundcloud.com/thomas-niemu/main-titles",
     answer: 4746,
   },
   {
-    url: "https://soundcloud.com/uch-ost/metal-plant",
+    url: "https://soundcloud.com/thomas-niemu/metal-plant",
     answer: 4747,
   },
   {
-    url: "https://soundcloud.com/uch-ost/party-mode",
+    url: "https://soundcloud.com/thomas-niemu/party-mode",
     answer: 4748,
   },
   {
-    url: "https://soundcloud.com/uch-ost/iceberg",
+    url: "https://soundcloud.com/thomas-niemu/iceberg",
     answer: 4749,
   },
   {
-    url: "https://soundcloud.com/uch-ost/volcano",
+    url: "https://soundcloud.com/ultimate-chicken-horse/volcano",
     answer: 4750,
   },
   {
-    url: "https://soundcloud.com/uch-ost/free-play",
+    url: "https://soundcloud.com/thomas-niemu/freeplay",
     answer: 4751,
   },
   {
-    url: "https://soundcloud.com/uch-ost/pyramid",
+    url: "https://soundcloud.com/thomas-niemu/pyramid",
     answer: 4752,
   },
   {
-    url: "https://soundcloud.com/uch-ost/crumbling-bridge",
+    url: "https://soundcloud.com/ultimate-chicken-horse/crumbling-bridge",
     answer: 4753,
   },
   {
