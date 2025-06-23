@@ -12702,7 +12702,7 @@ window.musicListWithLinks = [
     answer: 4130,
   },
   {
-    url: "https://soundcloud.com/user-675036643/mario-and-luigi-731725316",
+    url: "https://soundcloud.com/the-bruhboy/comedic-curtains",
     answer: 4131,
   },
   {
@@ -12742,7 +12742,7 @@ window.musicListWithLinks = [
     answer: 4140,
   },
   {
-    url: "https://soundcloud.com/user-675036643/mario-and-luigi-927950519",
+    url: "https://soundcloud.com/lazy-j-891995525/breezy-mushrise-park",
     answer: 4141,
   },
   {
@@ -12774,7 +12774,7 @@ window.musicListWithLinks = [
     answer: 4148,
   },
   {
-    url: "https://soundcloud.com/user-675036643/mario-and-luigi-857914604",
+    url: "https://soundcloud.com/drvgm/rose-broquet-mario-luigi-dream-team",
     answer: 4149,
   },
   {
