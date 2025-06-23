@@ -7841,7 +7841,7 @@ window.musicListWithLinks = [
     answer: 2896,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-smash-bros-362128510",
+    url: "https://soundcloud.com/andres-garza-467181473/fragments-of-sorrow-super",
     answer: 2897,
   },
   {
@@ -7849,19 +7849,19 @@ window.musicListWithLinks = [
     answer: 2898,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-smash-bros-533860161",
+    url: "https://soundcloud.com/cunning_crusher/one-winged-angel-final-fantasy",
     answer: 2899,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-smash-bros-983623763",
+    url: "https://soundcloud.com/ssbu-ost/ground-theme-super-mario-bros-2-remix",
     answer: 2900,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-smash-bros-427582919",
+    url: "https://soundcloud.com/user-460195848/vs-parasite-queen-super-smash-bros-ultimate",
     answer: 2901,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-smash-bros-290624159",
+    url: "https://soundcloud.com/bluerhapzody14/fire-emblem-three-houses-1",
     answer: 2902,
   },
   {
