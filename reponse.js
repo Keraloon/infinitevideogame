@@ -8813,15 +8813,11 @@ window.musicListWithLinks = [
     answer: 3142,
   },
   {
-    url: "https://soundcloud.com/user-675036643/select-rail-route",
-    answer: 3143,
-  },
-  {
-    url: "https://soundcloud.com/user-675036643/overworld-adventure",
+    url: "https://soundcloud.com/user-767636085/the-legend-of-zelda-spirit-tracks-music-realm-overworld",
     answer: 3144,
   },
   {
-    url: "https://soundcloud.com/user-675036643/battle-on-the-tracks",
+    url: "https://soundcloud.com/doktor-vgm/battle-on-the-tracks-the-legend-of-zelda-spirit-tracks",
     answer: 3145,
   },
   {
