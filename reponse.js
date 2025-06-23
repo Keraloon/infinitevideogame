@@ -6067,47 +6067,47 @@ window.musicListWithLinks = [
     answer: 2425,
   },
   {
-    url: "https://soundcloud.com/vgmc/title-theme-the-legend-of",
+    url: "https://soundcloud.com/zelda-soundtracks/n64-ocarina-of-time-title",
     answer: 2430,
   },
   {
-    url: "https://soundcloud.com/vgmc/shop-the-legend-of-zelda",
+    url: "https://soundcloud.com/ocarina-of-time-ost/10-shop",
     answer: 2431,
   },
   {
-    url: "https://soundcloud.com/vgmc/hyrule-field-main-theme-the",
+    url: "https://soundcloud.com/ocarina-of-time-ost/32-hyrule-field-morning-theme",
     answer: 2432,
   },
   {
-    url: "https://soundcloud.com/vgmc/kepora-geboras-theme-the",
+    url: "https://soundcloud.com/ocarina-of-time-ost/20-kepora-geboras-theme",
     answer: 2433,
   },
   {
-    url: "https://soundcloud.com/vgmc/market-the-legend-of-zelda",
+    url: "https://soundcloud.com/ocarina-of-time-ost/21-market",
     answer: 2434,
   },
   {
-    url: "https://soundcloud.com/vgmc/hyrule-castle-courtyard-the",
+    url: "https://soundcloud.com/ocarina-of-time-ost/23-hyrule-castle-courtyard",
     answer: 2435,
   },
   {
-    url: "https://soundcloud.com/vgmc/kakariko-village-the-legend-of",
+    url: "https://soundcloud.com/ocarina-of-time-ost/30-kakariko-village",
     answer: 2436,
   },
   {
-    url: "https://soundcloud.com/vgmc/lost-woods-the-legend-of-zelda",
+    url: "https://soundcloud.com/ocarina-of-time-ost/35-lost-woods",
     answer: 2437,
   },
   {
-    url: "https://soundcloud.com/vgmc/horse-race-the-legend-of-zelda",
+    url: "https://soundcloud.com/ocarina-of-time-ost/51-horse-race",
     answer: 2438,
   },
   {
-    url: "https://soundcloud.com/vgmc/windmill-hut-the-legend-of",
+    url: "https://soundcloud.com/ocarina-of-time-ost/57-windmill-hut",
     answer: 2439,
   },
   {
-    url: "https://soundcloud.com/vgmc/forest-temple-the-legend-of",
+    url: "https://soundcloud.com/ocarina-of-time-ost/59-forest-temple",
     answer: 2440,
   },
   {
@@ -8664,7 +8664,7 @@ window.musicListWithLinks = [
     answer: 3103,
   },
   {
-    url: "https://soundcloud.com/moi666007/gerudo-valley",
+    url: "https://soundcloud.com/ocarina-of-time-ost/68-gerudo-valley",
     answer: 3104,
   },
   {
