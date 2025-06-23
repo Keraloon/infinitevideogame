@@ -3056,12 +3056,72 @@ window.musicListWithLinks = [
     answer: 763,
   },
   {
+    url: "https://soundcloud.com/user-338850232/beauty-hermitage",
+    answer: 764,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/courtroom-lobby-neverending",
+    answer: 765,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/dahlia-hawthorne-distant",
+    answer: 766,
+  },
+  {
     url: "https://soundcloud.com/user-367734782/battle-champion",
     answer: 767,
   },
   {
+    url: "https://soundcloud.com/user-338850232/furio-tigre-swingin-tiger",
+    answer: 768,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/investigation-middle-stage-1",
+    answer: 769,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/investigation-opening-2004",
+    answer: 770,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/larry-butz-when-something",
+    answer: 771,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/luke-atmey-i-just-want-love",
+    answer: 772,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/mask-demasque-pleeeeease",
+    answer: 773,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/phoenix-wright-objection-2004",
+    answer: 774,
+  },
+  {
     url: "https://soundcloud.com/criticalelement/pokemon-black-white-2-ost",
     answer: 775,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/pursuit-caught",
+    answer: 776,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/pursuit-cornered-2004",
+    answer: 777,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/questioning-allegro-2004",
+    answer: 778,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/telling-the-truth-2004",
+    answer: 779,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/victor-kudo-a-painful",
+    answer: 780,
   },
   {
     url: "https://soundcloud.com/bw2-187523711/floccesy-ranch-pokemon-black-2",
