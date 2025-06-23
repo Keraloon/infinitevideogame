@@ -15036,71 +15036,71 @@ window.musicListWithLinks = [
     answer: 4814,
   },
   {
-    url: "https://soundcloud.com/user-675036643/1-04-theme-of-skyward-sword",
+    url: "https://soundcloud.com/sunniea-416990841/theme-of-skyward-sword-ballad-of-the-goddess",
     answer: 4815,
   },
   {
-    url: "https://soundcloud.com/user-675036643/1-05-file-select-great-fairys",
+    url: "https://soundcloud.com/sunniea-416990841/file-select-great-fairys-fountain",
     answer: 4816,
   },
   {
-    url: "https://soundcloud.com/user-675036643/1-09-knights-academy",
+    url: "https://soundcloud.com/sunniea-416990841/knights-academy",
     answer: 4817,
   },
   {
-    url: "https://soundcloud.com/user-675036643/1-10-skyloft",
+    url: "https://soundcloud.com/sunniea-416990841/skyloft",
     answer: 4818,
   },
   {
-    url: "https://soundcloud.com/user-675036643/1-13-zeldas-theme",
+    url: "https://soundcloud.com/sunniea-416990841/zeldas-theme",
     answer: 4819,
   },
   {
-    url: "https://soundcloud.com/user-675036643/1-14-grooses-theme",
+    url: "https://soundcloud.com/sunniea-416990841/grooses-theme",
     answer: 4820,
   },
   {
-    url: "https://soundcloud.com/user-675036643/1-20-crimson-loftwing",
+    url: "https://soundcloud.com/sunniea-416990841/crimson-loftwing",
     answer: 4821,
   },
   {
-    url: "https://soundcloud.com/user-675036643/1-21-leaping-from-the-clouds",
+    url: "https://soundcloud.com/sunniea-416990841/leaping-from-the-clouds",
     answer: 4822,
   },
   {
-    url: "https://soundcloud.com/user-675036643/1-22-loftwing-training",
+    url: "https://soundcloud.com/sunniea-416990841/loftwing-training",
     answer: 4823,
   },
   {
-    url: "https://soundcloud.com/user-675036643/1-24-loftwing-race",
+    url: "https://soundcloud.com/sunniea-416990841/loftwing-race",
     answer: 4824,
   },
   {
-    url: "https://soundcloud.com/user-675036643/1-27-tension",
+    url: "https://soundcloud.com/sunniea-416990841/tension",
     answer: 4825,
   },
   {
-    url: "https://soundcloud.com/user-675036643/1-30-chasing-fi",
+    url: "https://soundcloud.com/sunniea-416990841/chasing-fi",
     answer: 4826,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-32-magmanos-moldorm-mini",
+    url: "https://soundcloud.com/sunniea-416990841/mini-boss-battle-2-lizalfos-magmanos-moldorm",
     answer: 4827,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-38-pyroclastic-fiend",
+    url: "https://soundcloud.com/sunniea-416990841/pyroclastic-fiend-scaldera-abyss-leviathan-tentalus-battle",
     answer: 4828,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-01-exploring-the-skies",
+    url: "https://soundcloud.com/sunniea-416990841/exploring-the-skies-overworld",
     answer: 4829,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-07-faron-woods",
+    url: "https://soundcloud.com/sunniea-416990841/faron-woods",
     answer: 4830,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-08-battle",
+    url: "https://soundcloud.com/sunniea-416990841/battle",
     answer: 4831,
   },
   {
@@ -15336,124 +15336,108 @@ window.musicListWithLinks = [
     answer: 4889,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-10-lopsas-theme",
+    url: "https://soundcloud.com/sunniea-416990841/lopsas-theme-theme-of-the-kikwis",
     answer: 4890,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-13-skyview-temple",
+    url: "https://soundcloud.com/sunniea-416990841/skyview-temple",
     answer: 4891,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-15-stalfos-stalmaster-mini",
+    url: "https://soundcloud.com/sunniea-416990841/mini-boss-battle-1-stalfos-stalmaster",
     answer: 4892,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-17-ghirahims-theme",
+    url: "https://soundcloud.com/sunniea-416990841/ghirahims-theme",
     answer: 4893,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-18-demon-lord-ghirahim-first",
+    url: "https://soundcloud.com/sunniea-416990841/demon-lord-ghirahim-first-battle",
     answer: 4894,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-25-eldin-volcano",
+    url: "https://soundcloud.com/sunniea-416990841/eldin-volcano",
     answer: 4895,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-26-ledd-cobals-theme",
+    url: "https://soundcloud.com/sunniea-416990841/ledd-cobals-theme-theme-of-the-mogmas",
     answer: 4896,
   },
   {
-    url: "https://soundcloud.com/user-675036643/2-29-thrill-digger",
+    url: "https://soundcloud.com/sunniea-416990841/thrill-digger",
     answer: 4897,
   },
   {
-    url: "https://soundcloud.com/user-675036643/3-01-lanayru-desert",
+    url: "https://soundcloud.com/sunniea-416990841/lanayru-desert",
     answer: 4898,
   },
   {
-    url: "https://soundcloud.com/user-675036643/3-02-lanayru-mining-facility",
+    url: "https://soundcloud.com/sunniea-416990841/lanayru-mining-facility",
     answer: 4899,
   },
   {
-    url: "https://soundcloud.com/user-675036643/3-03-duel-at-the-temple-of",
+    url: "https://soundcloud.com/sunniea-416990841/duel-at-the-temple-of-time-impa-vs-ghirahim",
     answer: 4900,
   },
   {
-    url: "https://soundcloud.com/user-675036643/3-12-scrappers-theme",
+    url: "https://soundcloud.com/sunniea-416990841/scrappers-theme",
     answer: 4901,
   },
   {
-    url: "https://soundcloud.com/user-675036643/3-20-farores-silent-realm",
+    url: "https://soundcloud.com/sunniea-416990841/farores-silent-realm-faron-woods",
     answer: 4902,
   },
   {
-    url: "https://soundcloud.com/user-675036643/3-28-ancient-automaton",
+    url: "https://soundcloud.com/jorge-guerra-55/koloktos-moldarach",
     answer: 4903,
   },
   {
-    url: "https://soundcloud.com/user-675036643/3-32-beedles-airshop",
+    url: "https://soundcloud.com/nathan-obrien-429136221/beedles-shop-1",
     answer: 4904,
   },
   {
-    url: "https://soundcloud.com/user-675036643/3-34-the-lumpy-pumpkin",
+    url: "https://soundcloud.com/procrastinating-reality/the-lumpy-pumpkin-skyward-sword",
     answer: 4905,
   },
   {
-    url: "https://soundcloud.com/user-675036643/3-35-the-pumpkin-song",
-    answer: 4906,
-  },
-  {
-    url: "https://soundcloud.com/user-675036643/3-36-fun-fun-island",
+    url: "https://soundcloud.com/extrapolation/fun-fun-island-the-legend-of-zelda-skyward-sword",
     answer: 4907,
   },
   {
-    url: "https://soundcloud.com/user-675036643/3-38-the-monster",
+    url: "https://soundcloud.com/extrapolation/monster-of-skyloft-the-legend-of-zelda-skyward-sword",
     answer: 4908,
   },
   {
-    url: "https://soundcloud.com/user-675036643/3-39-batreauxs-theme",
-    answer: 4909,
-  },
-  {
-    url: "https://soundcloud.com/user-675036643/4-09-guardian-pursuit",
+    url: "https://soundcloud.com/chloe-j-england/skyward-sword-music-guardians",
     answer: 4910,
   },
   {
-    url: "https://soundcloud.com/user-675036643/4-38-the-imprisoned-battle",
+    url: "https://soundcloud.com/extrapolation/imprisoned-final-the-legend-of-zelda-skyward-sword",
     answer: 4911,
   },
   {
-    url: "https://soundcloud.com/user-675036643/5-10-great-spirit-of-the-skies",
+    url: "https://soundcloud.com/vgmdoc/great-spirit-of-the-skies-levias-battle",
     answer: 4912,
   },
   {
-    url: "https://soundcloud.com/user-675036643/5-11-ocular-parasite-bilocyte",
+    url: "https://soundcloud.com/jorge-guerra-55/bilocyte",
     answer: 4913,
   },
   {
-    url: "https://soundcloud.com/user-675036643/5-13-bamboo-island",
+    url: "https://soundcloud.com/kjelloman/bamboo-island-the-legend-of-zelda-skyward-swordgui",
     answer: 4914,
   },
   {
-    url: "https://soundcloud.com/user-675036643/6-02-the-hordes-of-darkness",
+    url: "https://soundcloud.com/user-121188349/kumite-the-legend-of-zelda",
     answer: 4915,
   },
   {
-    url: "https://soundcloud.com/user-675036643/6-07-long-live-the-dark-king",
-    answer: 4916,
-  },
-  {
-    url: "https://soundcloud.com/user-675036643/6-11-the-demon-king-demise",
+    url: "https://soundcloud.com/derkmakes/the-demon-king-demise-battle-rising",
     answer: 4917,
   },
   {
-    url: "https://soundcloud.com/user-675036643/theme-of-skyward-sword-staff",
+    url: "https://soundcloud.com/craigcaleb/skyward-sword-staff-roll",
     answer: 4918,
-  },
-  {
-    url: "https://soundcloud.com/user-675036643/6-23-theme-of-gerudo-village",
-    answer: 4919,
   },
   {
     url: "https://soundcloud.com/everythingparappa_ptr2/noodle-monster",
