@@ -8416,11 +8416,11 @@ window.musicListWithLinks = [
     answer: 3040,
   },
   {
-    url: "https://soundcloud.com/megawoofy/majestic-castle-the-legend-of",
+    url: "https://soundcloud.com/anderouspi/hyrule-castle-the-legend-of-1?in=anderouspi/sets/the-legend-of-zelda-a-link-to-the-past",
     answer: 3041,
   },
   {
-    url: "https://soundcloud.com/megawoofy/dark-golden-land-the-legend-of",
+    url: "https://soundcloud.com/anderouspi/the-dark-world-the-legend-of?in=anderouspi/sets/the-legend-of-zelda-a-link-to-the-past",
     answer: 3042,
   },
   {
