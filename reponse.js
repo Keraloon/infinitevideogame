@@ -7568,7 +7568,7 @@ window.musicListWithLinks = [
     answer: 2824,
   },
   {
-    url: "https://soundcloud.com/sonic_complete/marble-zone",
+    url: "https://soundcloud.com/mwasdq0/marble-zone",
     answer: 2825,
   },
   {
@@ -7576,7 +7576,7 @@ window.musicListWithLinks = [
     answer: 2826,
   },
   {
-    url: "https://soundcloud.com/sonic_complete/labyrinth-zone",
+    url: "https://soundcloud.com/user-33622085/sonic-the-hedgehog-labyrinth-zone",
     answer: 2827,
   },
   {
