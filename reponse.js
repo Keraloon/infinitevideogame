@@ -5135,7 +5135,7 @@ window.musicListWithLinks = [
     answer: 2156,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mario-kart-8?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mario-kart-8",
     answer: 2160,
   },
   {
@@ -5143,127 +5143,127 @@ window.musicListWithLinks = [
     answer: 2161,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-mario-kart-stadium?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-mario-kart-stadium",
     answer: 2162,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-water-park?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-water-park",
     answer: 2163,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-sweet-sweet-canyon?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-sweet-sweet-canyon",
     answer: 2164,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-thwomp-ruins?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-thwomp-ruins",
     answer: 2165,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mario-circuit?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mario-circuit",
     answer: 2166,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-toad-harbor?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ostd",
+    url: "https://soundcloud.com/user-602684896/mk8-toad-harbor",
     answer: 2167,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-twisted-mansion?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-twisted-mansion",
     answer: 2168,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-shy-guy-falls?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-shy-guy-falls",
     answer: 2169,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-sunshine-airport?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-sunshine-airport",
     answer: 2170,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-dolphin-shoals?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-dolphin-shoals",
     answer: 2171,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-electrodrome?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-electrodrome",
     answer: 2172,
   },
   {
-    url: "https://soundcloud.com/infiniteshadowx766/mount-wario-1st-place?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/infiniteshadowx766/mount-wario-1st-place",
     answer: 2173,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-cloudtop-cruise?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-cloudtop-cruise",
     answer: 2174,
   },
   {
-    url: "https://soundcloud.com/infiniteshadowx766/bone-dry-dunes?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/infiniteshadowx766/bone-dry-dunes",
     answer: 2175,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-bowsers-castle?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-bowsers-castle",
     answer: 2176,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-rainbow-road?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-rainbow-road",
     answer: 2177,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-moo-moo-meadows?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-moo-moo-meadows",
     answer: 2178,
   },
   {
-    url: "https://soundcloud.com/user-602684896/gba-mario-circuit?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/gba-mario-circuit",
     answer: 2179,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-ds-cheep-cheep-beach?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-ds-cheep-cheep-beach",
     answer: 2180,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-n64-toads-turnpike?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-n64-toads-turnpike",
     answer: 2181,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-gcn-dry-dry-desert?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-gcn-dry-dry-desert",
     answer: 2182,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-n64-royal-raceway?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-n64-royal-raceway",
     answer: 2183,
   },
   {
-    url: "https://soundcloud.com/user-602684896/3ds-dk-jungle?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/3ds-dk-jungle",
     answer: 2184,
   },
   {
-    url: "https://soundcloud.com/infiniteshadowx766/waluigi-pinball-wario-1?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/infiniteshadowx766/waluigi-pinball-wario-1",
     answer: 2185,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-gcn-sherbet-land?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-gcn-sherbet-land",
     answer: 2186,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-3ds-music-park?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-3ds-music-park",
     answer: 2187,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-yoshi-valley?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-yoshi-valley",
     answer: 2188,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-ds-tick-tock-clock?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-ds-tick-tock-clock",
     answer: 2189,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-3ds-piranha-plant-slide?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-3ds-piranha-plant-slide",
     answer: 2190,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-wii-grumble-volcano?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-wii-grumble-volcano",
     answer: 2191,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-n64-rainbow-road?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-n64-rainbow-road",
     answer: 2192,
   },
   {
@@ -5275,35 +5275,35 @@ window.musicListWithLinks = [
     answer: 2194,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-gcn-yoshi-circuit?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-gcn-yoshi-circuit",
     answer: 2195,
   },
   {
-    url: "https://soundcloud.com/infiniteshadowx766/excitebike-arena?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/infiniteshadowx766/excitebike-arena",
     answer: 2196,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-dragon-driftway?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-dragon-driftway",
     answer: 2197,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-mute-city?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-mute-city",
     answer: 2198,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-wii-warios-gold-mine?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-wii-warios-gold-mine",
     answer: 2199,
   },
   {
-    url: "https://soundcloud.com/user-602684896/snes-rainbow-road?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/snes-rainbow-road",
     answer: 2200,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-ice-ice-outpost?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-ice-ice-outpost",
     answer: 2201,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-hyrule-circuit?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-hyrule-circuit",
     answer: 2202,
   },
   {
@@ -5311,223 +5311,223 @@ window.musicListWithLinks = [
     answer: 2203,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-gcn-baby-park?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-gcn-baby-park",
     answer: 2204,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-gba-cheese-land?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-gba-cheese-land",
     answer: 2205,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-wild-woods?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-wild-woods",
     answer: 2206,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-animal-crossing-summer?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-animal-crossing-summer",
     answer: 2207,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-3ds-neo-bowser-city?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-3ds-neo-bowser-city",
     answer: 2208,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-gba-ribbon-road?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-gba-ribbon-road",
     answer: 2209,
   },
   {
-    url: "https://soundcloud.com/infiniteshadowx766/super-bell-subway?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/infiniteshadowx766/super-bell-subway",
     answer: 2210,
   },
   {
-    url: "https://soundcloud.com/user-602684896/mk8-big-blue?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/user-602684896/mk8-big-blue",
     answer: 2211,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-paris-promenade?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-paris-promenade",
     answer: 2212,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/3ds-toad-circuit?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/3ds-toad-circuit",
     answer: 2213,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/n64-choco-mountain?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/n64-choco-mountain",
     answer: 2214,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/wii-coconut-mall?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/wii-coconut-mall",
     answer: 2215,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-tokyo-blur?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-tokyo-blur",
     answer: 2216,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/ds-shroom-ridge?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/ds-shroom-ridge",
     answer: 2217,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/gba-sky-garden?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/gba-sky-garden",
     answer: 2218,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/ninja-hideaway?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/ninja-hideaway",
     answer: 2219,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-new-york-minute?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-new-york-minute",
     answer: 2220,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/snes-mario-circuit-3?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/snes-mario-circuit-3",
     answer: 2221,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/n64-kalimari-desert?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/n64-kalimari-desert",
     answer: 2222,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-sydney-sprint?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-sydney-sprint",
     answer: 2223,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/gba-snow-land?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/gba-snow-land",
     answer: 2224,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/wii-mushroom-gorge?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/wii-mushroom-gorge",
     answer: 2225,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/sky-high-sundae?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/sky-high-sundae",
     answer: 2226,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/3ds-rainbow-road-main-track?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/3ds-rainbow-road-main-track",
     answer: 2227,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/3ds-rock-rock-mountain?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/3ds-rock-rock-mountain",
     answer: 2228,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/ds-peach-gardens?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/ds-peach-gardens",
     answer: 2229,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/gba-boo-lake?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/gba-boo-lake",
     answer: 2230,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-berlin-byways?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-berlin-byways",
     answer: 2231,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/merry-mountain?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/merry-mountain",
     answer: 2232,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/wii-maple-treeway?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/wii-maple-treeway",
     answer: 2233,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/gba-riverside-park?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/gba-riverside-park",
     answer: 2234,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/ds-mario-circuit?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/ds-mario-circuit",
     answer: 2235,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/wii-dk-summit?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/wii-dk-summit",
     answer: 2236,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/gcn-waluigi-stadium?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/gcn-waluigi-stadium",
     answer: 2237,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/yoshis-island?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/yoshis-island",
     answer: 2238,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-singapore-speedway-main?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-singapore-speedway-main",
     answer: 2239,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-amsterdam-drift?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-amsterdam-drift",
     answer: 2240,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-bangkok-rush?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-bangkok-rush",
     answer: 2241,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/squeaky-clean-sprint?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/squeaky-clean-sprint",
     answer: 2242,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-athens-dash-1?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-athens-dash-1",
     answer: 2243,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/gba-sunset-wilds?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/gba-sunset-wilds",
     answer: 2244,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/wii-moonview-highway-main?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/wii-moonview-highway-main",
     answer: 2245,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/gcn-daisy-cruiser?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/gcn-daisy-cruiser",
     answer: 2246,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/wii-koopa-cape-normal?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/wii-koopa-cape-normal",
     answer: 2247,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/wii-rainbow-road?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/wii-rainbow-road",
     answer: 2248,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/snes-bowsers-castle-3?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/snes-bowsers-castle-3",
     answer: 2249,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/3ds-rosalinas-ice-world?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/3ds-rosalinas-ice-world",
     answer: 2250,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-madrid-drive-normal?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-madrid-drive-normal",
     answer: 2251,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/piranha-plant-cove?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/piranha-plant-cove",
     answer: 2252,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/wii-daisy-circuit?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/wii-daisy-circuit",
     answer: 2253,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/gcn-dk-mountain?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/gcn-dk-mountain",
     answer: 2254,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-rome-avanti?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-rome-avanti",
     answer: 2255,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-vancouver-velocity?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-vancouver-velocity",
     answer: 2256,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-london-loop?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-london-loop",
     answer: 2257,
   },
   {
-    url: "https://soundcloud.com/mk8dxbcpost/tour-los-angeles-laps?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/mk8dxbcpost/tour-los-angeles-laps",
     answer: 2258,
   },
   {
@@ -7516,7 +7516,7 @@ window.musicListWithLinks = [
     answer: 2811,
   },
   {
-    url: "https://soundcloud.com/infiniteshadowx766/f-zero-results?in=caleb-tennant-135300663/sets/mario-kart-8-deluxe-ost",
+    url: "https://soundcloud.com/infiniteshadowx766/f-zero-results",
     answer: 2812,
   },
   {
@@ -7588,23 +7588,23 @@ window.musicListWithLinks = [
     answer: 2829,
   },
   {
-    url: "https://soundcloud.com/supernintendosounds/yoshis-island-flower-garden?in=whyisyouhere/sets/yoshis-island-music",
+    url: "https://soundcloud.com/supernintendosounds/yoshis-island-flower-garden",
     answer: 2830,
   },
   {
-    url: "https://soundcloud.com/nightshadex766/goal-score?in=nightshadex766/sets/super-mario-world-2-yoshis-1",
+    url: "https://soundcloud.com/nightshadex766/goal-score",
     answer: 2831,
   },
   {
-    url: "https://soundcloud.com/kerenon/yoshis-island-underground?in=whyisyouhere/sets/yoshis-island-music",
+    url: "https://soundcloud.com/kerenon/yoshis-island-underground",
     answer: 2832,
   },
   {
-    url: "https://soundcloud.com/kerenon/yoshis-island-castle-fortress?in=whyisyouhere/sets/yoshis-island-music",
+    url: "https://soundcloud.com/kerenon/yoshis-island-castle-fortress",
     answer: 2833,
   },
   {
-    url: "https://soundcloud.com/kerenon/yoshis-island-athletic?in=whyisyouhere/sets/yoshis-island-music",
+    url: "https://soundcloud.com/kerenon/yoshis-island-athletic",
     answer: 2834,
   },
   {
