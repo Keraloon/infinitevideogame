@@ -14033,6 +14033,86 @@ window.musicNameList = [
     fr: "Fin - Phoenix Wright Ace Attorney",
   },
   {
+    id: 784,
+    en: "Berry Big Circus - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Cirque Hullere - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 786,
+    en: "Courtroom Lobby (Another Overture) - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Hall de la Salle d'Audience (Une Autre Ouverture) - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 787,
+    en: "Eccentric - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Excentrique - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 788,
+    en: "End Part 1 - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Fin Partie 1 - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 789,
+    en: "Great Revival ~ Franziska Von Karma - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Grand Renouveau ~ Franziska Von Karma - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 790,
+    en: "Hotline of Fate - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Ligne Directe du Destin - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 791,
+    en: "Investigation ~ Opening 2002 - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Investigation ~ Ouverture 2002 - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 792,
+    en: "Maya Fey ~ Turnabout Sisters Theme 2002 - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Maya Fey ~ Thème de la Volte-Face des Soeurs 2002 - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 793,
+    en: "More Happy People - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Plus de Gens Heureux - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 794,
+    en: "Pearl Fey ~ Pearly Questioning - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Pearl Fey ~ Pearly se Questionne - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 795,
+    en: "Objection! 2002 - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Objection! 2002 - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 796,
+    en: "Psyche - Lock - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Verrous-Psyché - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 797,
+    en: "Pursuit ~ Questioned - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Pursuit ~ Questionné - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 798,
+    en: "Questioning ~ Moderato 2002 - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Questionnement ~ Moderato 2002 - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 799,
+    en: "Trial - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Procès - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
+    id: 800,
+    en: "Trick And Magic - Phoenix Wright Ace Attorney : Justice For All",
+    fr: "Tour et Magie - Phoenix Wright Ace Attorney : Justice For All",
+  },
+  {
     id: 764,
     en: "Beauty Hermitage/Trés Bien - Phoenix Wright Ace Attorney : Trials and Tribulations",
     fr: "Hermitage de Beauté/Trés Bien (Bellissima) - Phoenix Wright Ace Attorney : Trials and Tribulations",
