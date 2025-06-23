@@ -15825,15 +15825,15 @@ window.musicListWithLinks = [
     answer: 5012,
   },
   {
-    url: "https://soundcloud.com/saariemi/treasure-master-nes-world-1",
+    url: "https://soundcloud.com/vgminfiniteheardle/treasure-master-world-1-4",
     answer: 5013,
   },
   {
-    url: "https://soundcloud.com/saariemi/treasure-master-nes-world-2",
+    url: "https://soundcloud.com/vgminfiniteheardle/treasure-master-world-2-1",
     answer: 5014,
   },
   {
-    url: "https://soundcloud.com/cris-846553689/treasure-master-music-nes-title-theme",
+    url: "https://soundcloud.com/vgminfiniteheardle/treasure-master-title-theme-3",
     answer: 5015,
   },
   {
@@ -15841,7 +15841,7 @@ window.musicListWithLinks = [
     answer: 5016,
   },
   {
-    url: "https://soundcloud.com/user-548852169/m11-treasure-master-world-4",
+    url: "https://soundcloud.com/vgminfiniteheardle/treasure-master-world-4-2",
     answer: 5017,
   },
   {
