@@ -21523,13 +21523,13 @@ window.musicNameList = [
   },
   {
     id: 2438,
-    en: "Fast, Faster Epona! - The Legend of Zelda : Ocarina Of Time",
-    fr: "Plus vite Epona! - The Legend of Zelda : Ocarina Of Time",
+    en: "Horse Race/Fast, Faster Epona! - The Legend of Zelda : Ocarina Of Time",
+    fr: "Course de Chevaux/Plus vite Epona! - The Legend of Zelda : Ocarina Of Time",
   },
   {
     id: 2439,
-    en: "Song Of Storms - The Legend of Zelda : Ocarina Of Time",
-    fr: "Chant des Tempêtes - The Legend of Zelda : Ocarina Of Time",
+    en: "Song Of Storms/Windmill Hut - The Legend of Zelda : Ocarina Of Time",
+    fr: "Chant des Tempêtes/Moulin - The Legend of Zelda : Ocarina Of Time",
   },
   {
     id: 2440,
