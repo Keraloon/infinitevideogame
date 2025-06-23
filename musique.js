@@ -19271,7 +19271,7 @@ window.musicNameList = [
   },
   {
     id: 2147,
-    en: "Koopa Castle - Super Mario RPG",
+    en: "Koopa/Bowser Castle - Super Mario RPG",
     fr: "Château de Bowser - Super Mario RPG",
   },
   {
