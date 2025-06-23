@@ -3136,8 +3136,72 @@ window.musicListWithLinks = [
     answer: 783,
   },
   {
+    url: "https://soundcloud.com/user-338850232/berry-big-circus?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 784,
+  },
+  {
     url: "https://soundcloud.com/tonlindo/pokemon-black-white-2-ost-gym-roxie-english",
     answer: 785,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/courtroom-lobby-another?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 786,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/eccentric?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 787,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/end-1?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 788,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/great-revival-franziska-von?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 789,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/hotline-of-fate?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 790,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/investigation-opening-2002?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 791,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/maya-fey-turnabout-sisters-1?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 792,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/more-happy-people?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 793,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/pearl-fey-pearly-questioning?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 794,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/phoenix-wright-objection-2002?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 795,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/psyche-lock?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 796,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/pursuit-questioned?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 797,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/questioning-moderato-2002?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 798,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/trial-1?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 799,
+  },
+  {
+    url: "https://soundcloud.com/user-338850232/trick-and-magic?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    answer: 800,
   },
   {
     url: "https://soundcloud.com/bw2-187523711/castelia-sewers-pokemon-black",
