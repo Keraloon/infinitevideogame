@@ -1712,13 +1712,13 @@ window.musicNameList = [
   },
   {
     id: 806,
-    en: "Lumière : Promenade dans Lumière : Clair Obscur: Expedition 33",
-    fr: "Lumière : Promenade dans Lumière : Clair Obscur: Expedition 33",
+    en: "Lumière : Promenade dans Lumière - Clair Obscur: Expedition 33",
+    fr: "Lumière : Promenade dans Lumière - Clair Obscur: Expedition 33",
   },
   {
     id: 807,
-    en: "Lumière : Le Grand Café de Lumière : Clair Obscur: Expedition 33",
-    fr: "Lumière : Le Grand Café de Lumière : Clair Obscur: Expedition 33",
+    en: "Lumière : Le Grand Café de Lumière - Clair Obscur: Expedition 33",
+    fr: "Lumière : Le Grand Café de Lumière - Clair Obscur: Expedition 33",
   },
   {
     id: 811,
@@ -1727,8 +1727,8 @@ window.musicNameList = [
   },
   {
     id: 813,
-    en: "Lumière : Rêveries dans Lumière : Clair Obscur: Expedition 33",
-    fr: "Lumière : Rêveries dans Lumière : Clair Obscur: Expedition 33",
+    en: "Lumière : Rêveries dans Lumière - Clair Obscur: Expedition 33",
+    fr: "Lumière : Rêveries dans Lumière - Clair Obscur: Expedition 33",
   },
   {
     id: 815,
