@@ -21468,8 +21468,8 @@ window.musicNameList = [
   },
   {
     id: 3041,
-    en: "Majestic Castle - The Legend of Zelda : A Link To The Past",
-    fr: "Château Majestueux (Hyrule) - The Legend of Zelda : A Link To The Past",
+    en: "Hyrule Castle - The Legend of Zelda : A Link To The Past",
+    fr: "Château d'Hyrule - The Legend of Zelda : A Link To The Past",
   },
   {
     id: 3042,
