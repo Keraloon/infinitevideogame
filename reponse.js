@@ -6953,7 +6953,7 @@ window.musicListWithLinks = [
     answer: 2667,
   },
   {
-    url: "https://soundcloud.com/creide13/shrine-theme",
+    url: "https://soundcloud.com/zelda-soundtracks/switch-breath-of-the-wild-shrine-of-trials-blessing-shrine",
     answer: 2668,
   },
   {
@@ -6961,7 +6961,7 @@ window.musicListWithLinks = [
     answer: 2669,
   },
   {
-    url: "https://soundcloud.com/creide13/guardian-battle",
+    url: "https://soundcloud.com/mikebasic/the-legend-of-zelda-breath-of-the-wild-ost",
     answer: 2670,
   },
   {
@@ -6969,7 +6969,7 @@ window.musicListWithLinks = [
     answer: 2671,
   },
   {
-    url: "https://soundcloud.com/creide13/hinox-battle",
+    url: "https://soundcloud.com/alvaro-iradi-de-andres/hinox-battle-zelda-breath-of-the-wild",
     answer: 2672,
   },
   {
@@ -6981,38 +6981,37 @@ window.musicListWithLinks = [
     answer: 2674,
   },
   {
-    url: "https://soundcloud.com/creide13/vah-ruta-map-obtained",
+    url: "https://soundcloud.com/vah-ruta-posting/aboard-divine-beast-vah-ruta-1",
     answer: 2675,
   },
   {
-    url: "https://soundcloud.com/creide13/vah-naboris-map-obtained",
+    url: "https://soundcloud.com/divine-beast-vah-naboris/aboard-divine-beast-vah-1",
     answer: 2676,
   },
   {
-    url: "https://soundcloud.com/creide13/vah-rudania-map-obtained",
+    url: "https://soundcloud.com/divine-beast-vah-rudania/aboard-divine-beast-vah-1",
     answer: 2677,
   },
   {
-    url: "https://soundcloud.com/creide13/vah-medoh-map-obtained",
+    url: "https://soundcloud.com/divine-beast-vah-medoh/aboard-divine-beast-vah-1",
     answer: 2678,
   },
   {
-    url: "https://soundcloud.com/creide13/blight-ganon",
+    url: "https://soundcloud.com/blight-ganon/boss-waterblight-ganon-phase-1",
     answer: 2679,
   },
   {
-    url: "https://soundcloud.com/creide13/hyrule-castle",
+    url: "https://soundcloud.com/anthony-vial-521031791/hyrule-castle-the-legend-of-zelda-breath-of-the-wild-ost",
     answer: 2680,
   },
   {
-    url: "https://soundcloud.com/creide13/calamity-ganon-phase-1",
+    url: "https://soundcloud.com/user-736704402/calamity-ganon-phase-1-zelda-breath-of-the-wild-soundtrack",
     answer: 2681,
   },
   {
-    url: "https://soundcloud.com/creide13/beast-ganon-phase-1",
+    url: "https://soundcloud.com/chillkj/dark-beast-ganon-phase-1-the-legend-of-zelda-breath-of-the-wild-ost",
     answer: 2682,
   },
-
   {
     url: "https://soundcloud.com/pokemonmastercam/geometry-dash-menu-theme",
     answer: 2683,
