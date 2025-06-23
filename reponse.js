@@ -18609,15 +18609,15 @@ window.musicListWithLinks = [
     answer: 5736,
   },
   {
-    url: "https://soundcloud.com/sonicfrontiera2022/space-colony-ark-sonic-x",
+    url: "https://soundcloud.com/shadow-generations/space-colony-ark-act-1-teddyloid-x-jun-senoue-remix-24",
     answer: 5737,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-ost-space-colony-ark-act-2",
+    url: "https://soundcloud.com/shadow-generations/space-colony-ark-act-2-25",
     answer: 5738,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-4",
+    url: "https://soundcloud.com/shadow-generations/rail-canyon-act-1-26",
     answer: 5739,
   },
   {
@@ -18625,51 +18625,51 @@ window.musicListWithLinks = [
     answer: 5740,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-3",
+    url: "https://soundcloud.com/shadow-generations/rail-canyon-act-2-27",
     answer: 5741,
   },
   {
-    url: "https://soundcloud.com/james-smith-555071498/kingdom-valley-whitespace",
+    url: "https://soundcloud.com/shadow-generations/gate-kingdom-valley-35",
     answer: 5742,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-6",
+    url: "https://soundcloud.com/shadow-generations/kingdom-valley-act-1-28",
     answer: 5743,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-8",
+    url: "https://soundcloud.com/shadow-generations/kingdom-valley-act-2-29",
     answer: 5744,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-2",
+    url: "https://soundcloud.com/shadow-generations/sunset-heights-act-1-30",
     answer: 5745,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-ost-sunset-heights-act-2",
+    url: "https://soundcloud.com/shadow-generations/sunset-heights-act-2-12",
     answer: 5746,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-730109433",
+    url: "https://soundcloud.com/shadow-generations/gate-chaos-island-37",
     answer: 5747,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-ost-chaos-island-act-1",
+    url: "https://soundcloud.com/shadow-generations/chaos-island-act-1-13",
     answer: 5748,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-9",
+    url: "https://soundcloud.com/shadow-generations/chaos-island-act-2-14",
     answer: 5749,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-741013736",
+    url: "https://soundcloud.com/shadow-generations/radical-highway-act-1-15",
     answer: 5750,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-907949116",
+    url: "https://soundcloud.com/shadow-generations/radical-highway-act-2-16",
     answer: 5751,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-686890798",
+    url: "https://soundcloud.com/shadow-generations/gate-boss-39",
     answer: 5752,
   },
   {
@@ -18677,27 +18677,27 @@ window.musicListWithLinks = [
     answer: 5753,
   },
   {
-    url: "https://soundcloud.com/sonicfrontiera2022/what-im-made-of-metal-overlord",
+    url: "https://soundcloud.com/shadow-generations/boss-battle-metal-overlord-what-im-made-of-10",
     answer: 5754,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-ost-vs-mephiles-phase-1",
+    url: "https://soundcloud.com/shadow-generations/boss-battle-mephiles-pt-i-6",
     answer: 5755,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-ost-vs-mephiles-phase-2",
+    url: "https://soundcloud.com/shadow-generations/boss-battle-mephiles-pt-ii-5",
     answer: 5756,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-ost-final-boss-phase-1",
+    url: "https://soundcloud.com/shadow-generations/boss-battle-devil-doom-4",
     answer: 5757,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-generations-ost-final-boss-phase-2",
+    url: "https://soundcloud.com/shadow-generations/boss-battle-neo-devil-doom-all-hail-shadow-symphonic-ver-3",
     answer: 5758,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sonic-x-shadow-548996236",
+    url: "https://soundcloud.com/shadow-generations/collection-room-32",
     answer: 5759,
   },
   {
