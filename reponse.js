@@ -11378,15 +11378,15 @@ window.musicListWithLinks = [
     answer: 3794,
   },
   {
-    url: "https://soundcloud.com/user-675036643/mario-kart-ds-ost-battle-1",
+    url: "https://soundcloud.com/trainiax/battle-mode-mario-kart-ds",
     answer: 3795,
   },
   {
-    url: "https://soundcloud.com/user-675036643/mario-kart-ds-ost-mission-6",
+    url: "https://soundcloud.com/itz-hi/mission-mode-mario-kart-ds",
     answer: 3796,
   },
   {
-    url: "https://soundcloud.com/user-675036643/mario-kart-ds-ost-boss-1",
+    url: "https://soundcloud.com/user-656159334/mario-kart-ds-ost-boss-battle",
     answer: 3797,
   },
   {
