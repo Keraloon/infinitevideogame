@@ -22093,23 +22093,23 @@ window.musicNameList = [
   },
   {
     id: 2675,
-    en: "Vah Ruta - The Legend of Zelda : Breath Of The Wild",
-    fr: "Vah Ruta - The Legend of Zelda : Breath Of The Wild",
+    en: "Vah Ruta (1 Terminal) - The Legend of Zelda : Breath Of The Wild",
+    fr: "Vah Ruta (1 Terminal) - The Legend of Zelda : Breath Of The Wild",
   },
   {
     id: 2676,
-    en: "Vah Naboris - The Legend of Zelda : Breath Of The Wild",
-    fr: "Vah Naboris - The Legend of Zelda : Breath Of The Wild",
+    en: "Vah Naboris (1 Terminal) - The Legend of Zelda : Breath Of The Wild",
+    fr: "Vah Naboris (1 Terminal) - The Legend of Zelda : Breath Of The Wild",
   },
   {
     id: 2677,
-    en: "Vah Rudania - The Legend of Zelda : Breath Of The Wild",
-    fr: "Vah Rudania - The Legend of Zelda : Breath Of The Wild",
+    en: "Vah Rudania (1 Terminal) - The Legend of Zelda : Breath Of The Wild",
+    fr: "Vah Rudania (1 Terminal) - The Legend of Zelda : Breath Of The Wild",
   },
   {
     id: 2678,
-    en: "Vah Medoh - The Legend of Zelda : Breath Of The Wild",
-    fr: "Vah Medoh - The Legend of Zelda : Breath Of The Wild",
+    en: "Vah Medoh (1 Terminal) - The Legend of Zelda : Breath Of The Wild",
+    fr: "Vah Medoh (1 Terminal) - The Legend of Zelda : Breath Of The Wild",
   },
   {
     id: 2679,
