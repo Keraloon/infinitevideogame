@@ -16066,15 +16066,15 @@ window.musicListWithLinks = [
     answer: 5080,
   },
   {
-    url: "https://soundcloud.com/user-675036643/title-screen-prologue",
+    url: "https://soundcloud.com/vgminfiniteheardle/zelda-ii-title-theme-5?in=vgminfiniteheardle/sets/zelda-ii",
     answer: 5081,
   },
   {
-    url: "https://soundcloud.com/user-675036643/overworld",
+    url: "https://soundcloud.com/vgminfiniteheardle/zelda-ii-overworld-3?in=vgminfiniteheardle/sets/zelda-ii",
     answer: 5082,
   },
   {
-    url: "https://soundcloud.com/user-675036643/battle-theme-1",
+    url: "https://soundcloud.com/vgminfiniteheardle/zelda-ii-battle-6?in=vgminfiniteheardle/sets/zelda-ii",
     answer: 5083,
   },
   {
