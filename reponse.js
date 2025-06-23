@@ -6259,60 +6259,58 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/pit2/02-dogs-theme-kid-icarus-uprising",
     answer: 2485,
   },
-
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/super-mario-64-soundrack-002",
+    url: "https://soundcloud.com/smart-gaming-166773353/title",
     answer: 2486,
   },
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/super-mario-64-main-theme",
+    url: "https://soundcloud.com/smart-gaming-166773353/main-theme",
     answer: 2487,
   },
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/super-mario-64-soundtrack-006-slider",
+    url: "https://soundcloud.com/smart-gaming-166773353/slider",
     answer: 2488,
   },
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/super-mario-64-soundtrack-007-inside-the-castle-walls",
+    url: "https://soundcloud.com/smart-gaming-166773353/inside-the-castle-walls",
     answer: 2489,
   },
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/super-mario-64-soundtrack-009-dire-dire-docks",
+    url: "https://soundcloud.com/viral-vlogs/dire-dire-docks-ost-version-super-mario-64-music-extended",
     answer: 2490,
   },
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/super-mario-64-soundtrack-010-lava-land",
+    url: "https://soundcloud.com/smart-gaming-166773353/lethal-lava-land",
     answer: 2491,
   },
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/super-mario-64-soundtrack-011-snow-mountain",
+    url: "https://soundcloud.com/smart-gaming-166773353/snow-mountain",
     answer: 2492,
   },
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/merry-go-round",
+    url: "https://soundcloud.com/smart-gaming-166773353/merry-go-round",
     answer: 2493,
   },
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/super-mario-64-soundtrack-017-metal-mario",
+    url: "https://soundcloud.com/smart-gaming-166773353/metal-mario",
     answer: 2494,
   },
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/super-mario-64-soundtrack-018-file",
+    url: "https://soundcloud.com/smart-gaming-166773353/file-select",
     answer: 2495,
   },
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/koopas-theme",
+    url: "https://soundcloud.com/smart-gaming-166773353/bowsers-theme",
     answer: 2496,
   },
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/super-mario-64-soundtrack-032-ulti-koopa",
+    url: "https://soundcloud.com/smart-gaming-166773353/ultimate-bowser",
     answer: 2497,
   },
   {
-    url: "https://soundcloud.com/henry-stickmin-805451431/super-mario-64-soundtrack-035-credits",
+    url: "https://soundcloud.com/smart-gaming-166773353/staff-roll",
     answer: 2498,
   },
-
   {
     url: "https://soundcloud.com/fawfulhasfury/4-sonic-spinball-toxic-caves",
     answer: 2499,
@@ -8415,11 +8413,11 @@ window.musicListWithLinks = [
     answer: 3040,
   },
   {
-    url: "https://soundcloud.com/anderouspi/hyrule-castle-the-legend-of-1?in=anderouspi/sets/the-legend-of-zelda-a-link-to-the-past",
+    url: "https://soundcloud.com/anderouspi/hyrule-castle-the-legend-of-1",
     answer: 3041,
   },
   {
-    url: "https://soundcloud.com/anderouspi/the-dark-world-the-legend-of?in=anderouspi/sets/the-legend-of-zelda-a-link-to-the-past",
+    url: "https://soundcloud.com/anderouspi/the-dark-world-the-legend-of",
     answer: 3042,
   },
   {
