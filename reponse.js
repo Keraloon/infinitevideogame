@@ -3136,7 +3136,7 @@ window.musicListWithLinks = [
     answer: 783,
   },
   {
-    url: "https://soundcloud.com/user-338850232/berry-big-circus?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/berry-big-circus",
     answer: 784,
   },
   {
@@ -3144,68 +3144,92 @@ window.musicListWithLinks = [
     answer: 785,
   },
   {
-    url: "https://soundcloud.com/user-338850232/courtroom-lobby-another?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/courtroom-lobby-another",
     answer: 786,
   },
   {
-    url: "https://soundcloud.com/user-338850232/eccentric?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/eccentric",
     answer: 787,
   },
   {
-    url: "https://soundcloud.com/user-338850232/end-1?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/end-1",
     answer: 788,
   },
   {
-    url: "https://soundcloud.com/user-338850232/great-revival-franziska-von?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/great-revival-franziska-von",
     answer: 789,
   },
   {
-    url: "https://soundcloud.com/user-338850232/hotline-of-fate?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/hotline-of-fate",
     answer: 790,
   },
   {
-    url: "https://soundcloud.com/user-338850232/investigation-opening-2002?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/investigation-opening-2002",
     answer: 791,
   },
   {
-    url: "https://soundcloud.com/user-338850232/maya-fey-turnabout-sisters-1?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/maya-fey-turnabout-sisters-1",
     answer: 792,
   },
   {
-    url: "https://soundcloud.com/user-338850232/more-happy-people?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/more-happy-people",
     answer: 793,
   },
   {
-    url: "https://soundcloud.com/user-338850232/pearl-fey-pearly-questioning?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/pearl-fey-pearly-questioning",
     answer: 794,
   },
   {
-    url: "https://soundcloud.com/user-338850232/phoenix-wright-objection-2002?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/phoenix-wright-objection-2002",
     answer: 795,
   },
   {
-    url: "https://soundcloud.com/user-338850232/psyche-lock?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/psyche-lock",
     answer: 796,
   },
   {
-    url: "https://soundcloud.com/user-338850232/pursuit-questioned?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/pursuit-questioned",
     answer: 797,
   },
   {
-    url: "https://soundcloud.com/user-338850232/questioning-moderato-2002?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/questioning-moderato-2002",
     answer: 798,
   },
   {
-    url: "https://soundcloud.com/user-338850232/trial-1?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/trial-1",
     answer: 799,
   },
   {
-    url: "https://soundcloud.com/user-338850232/trick-and-magic?in=user-338850232/sets/phoenix-wright-ace-attorney-justice-for-all-ost",
+    url: "https://soundcloud.com/user-338850232/trick-and-magic",
     answer: 800,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/alicia",
+    answer: 801,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/gustave",
+    answer: 802,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lumiere",
+    answer: 803,
   },
   {
     url: "https://soundcloud.com/bw2-187523711/castelia-sewers-pokemon-black",
     answer: 804,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lumi-re-lumi-re-laube",
+    answer: 805,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lumiere-promenade-dans-lumiere",
+    answer: 806,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lumi-re-le-grand-caf-de-lumi",
+    answer: 807,
   },
   {
     url: "https://soundcloud.com/bw2-187523711/colresss-theme-pokemon-black-2",
@@ -3220,20 +3244,144 @@ window.musicListWithLinks = [
     answer: 810,
   },
   {
+    url: "https://soundcloud.com/lorientestard/lumiere-continuer-a-taimer",
+    answer: 811,
+  },
+  {
     url: "https://soundcloud.com/bw2-187523711/nimbasa-city-gym-runway",
     answer: 812,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lumiere-reveries-dans-lumiere",
+    answer: 813,
   },
   {
     url: "https://soundcloud.com/bw2-187523711/nimbasa-city-gym-stage-pokemon",
     answer: 814,
   },
   {
+    url: "https://soundcloud.com/lorientestard/lumiere-nocturne-pour-lumiere",
+    answer: 815,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lumiere-the-departure",
+    answer: 816,
+  },
+  {
     url: "https://soundcloud.com/yohaamon/driftveil-city-gym",
     answer: 817,
   },
   {
+    url: "https://soundcloud.com/lorientestard/spring-meadows-cello-motifs",
+    answer: 818,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/spring-meadows-eveil",
+    answer: 819,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/spring-meadows-get-up-for",
+    answer: 820,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/spring-meadows-battling-breeze",
+    answer: 821,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/spring-meadows-beneath-the",
+    answer: 822,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/spring-meadows-tomorrow-is",
+    answer: 823,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/spring-meadows-nightfall",
+    answer: 824,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/spring-meadows-laurore-aux",
+    answer: 825,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lune",
+    answer: 826,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/world-map-taking-down-the",
+    answer: 827,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/world-map-in-lumieres-name",
+    answer: 828,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/world-map-until-youre-gone",
+    answer: 829,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/world-map-forlorn",
+    answer: 830,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/flying-waters-submerged-lights",
+    answer: 831,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/flying-waters-electric-tides",
+    answer: 832,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/flying-waters-goblu",
+    answer: 833,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/flying-waters-rain-from-the",
+    answer: 834,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/the-curator",
+    answer: 835,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/un-33-decembre-a-paris",
+    answer: 836,
+  },
+  {
     url: "https://soundcloud.com/bw2-187523711/lentimas-town-pokemon-black-2",
     answer: 837,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/ancient-sanctuary-path-on-the",
+    answer: 838,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/ancient-sanctuary-bonzaie",
+    answer: 839,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/ancient-sanctuary-lake",
+    answer: 840,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/ancient-sanctuary-gestral",
+    answer: 841,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/ancient-sanctuary-megabot-33",
+    answer: 842,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/ancient-sanctuary-entrance-of",
+    answer: 843,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/gestral-village-gestral-market",
+    answer: 844,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/gestral-viillage-gestral",
+    answer: 845,
   },
   {
     url: "https://soundcloud.com/nate-conley-2/pokemon-black-white-2-ost-team",
@@ -3244,24 +3392,176 @@ window.musicListWithLinks = [
     answer: 847,
   },
   {
+    url: "https://soundcloud.com/lorientestard/gestral-village-alicia",
+    answer: 848,
+  },
+  {
     url: "https://soundcloud.com/user822952949/humilau-city-pokemon-black-and",
     answer: 849,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/gestral-village-continuer-a",
+    answer: 850,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/gestral-village-gestral-arena",
+    answer: 851,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/gestral-village-golgra",
+    answer: 852,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/sciel",
+    answer: 853,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/esquies-nest-esquies-bath",
+    answer: 854,
   },
   {
     url: "https://soundcloud.com/lrr-1/pokemon-black-white-2-ost-plasma-boss-colress-battle",
     answer: 855,
   },
   {
+    url: "https://soundcloud.com/lorientestard/esquies-nest-francois",
+    answer: 856,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/firecamp-sciel",
+    answer: 857,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/firecamp-lune",
+    answer: 858,
+  },
+  {
     url: "https://soundcloud.com/pikacatz/pokemon-black-white-2-ost",
     answer: 859,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/stone-wave-cliffs-lights-of",
+    answer: 860,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/stone-wave-cliffs-warding",
+    answer: 861,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/stone-wave-cliffs-lampmaster",
+    answer: 862,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/loin-delle",
+    answer: 863,
   },
   {
     url: "https://soundcloud.com/bw2-187523711/ns-theme-pokemon-black-2-white",
     answer: 864,
   },
   {
+    url: "https://soundcloud.com/lorientestard/verso",
+    answer: 865,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/forgotten-battlefied-over-the",
+    answer: 866,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/forgotten-battlefied-divided",
+    answer: 867,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/forgotten-battlefied-dualliste",
+    answer: 868,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/forgotten-battlefied-red-birds",
+    answer: 869,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lost-voice",
+    answer: 870,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/monocos-station-follow-the",
+    answer: 871,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/monocos-station-grandis-domain",
+    answer: 872,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/monocos-station-tics-tacs",
+    answer: 873,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/monocos-station-grandis-refuge",
+    answer: 874,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/monocos-station-twirling",
+    answer: 875,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/monoco",
+    answer: 876,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/gestral-beach-id-rather-play-p",
+    answer: 877,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/gestral-beach-my-grandma-hits",
+    answer: 878,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/gestral-beach-is-it-a-gestral",
+    answer: 879,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/yellow-forest-numbers-the",
+    answer: 880,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/yellow-forest-honey-and",
+    answer: 881,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/yellow-forest-nightfall",
+    answer: 882,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/falling-leaves-cave",
+    answer: 883,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/falling-leaves-autumns-brush",
+    answer: 884,
+  },
+  {
     url: "https://soundcloud.com/user-367734782/relic-song",
     answer: 885,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/sacred-river-river-dream",
+    answer: 886,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/world-map-dechire-la-toile",
+    answer: 887,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/world-map-of-virtuosity-and",
+    answer: 888,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/world-map-gustaves-legacy",
+    answer: 889,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lumiere-seteint",
+    answer: 890,
   },
   {
     url: "https://soundcloud.com/3p9onpybdq4e/route-1-vaniville-pathway",
@@ -3272,6 +3572,26 @@ window.musicListWithLinks = [
     answer: 892,
   },
   {
+    url: "https://soundcloud.com/lorientestard/old-lumiere-reverence",
+    answer: 893,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lamour-dun-pere",
+    answer: 894,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/sirene-robe-de-jour",
+    answer: 895,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/sirene-tisser-la-beaute",
+    answer: 896,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/sirene-rouge-diris",
+    answer: 897,
+  },
+  {
     url: "https://soundcloud.com/3p9onpybdq4e/santalune-forest-route-20",
     answer: 898,
   },
@@ -3280,12 +3600,52 @@ window.musicListWithLinks = [
     answer: 899,
   },
   {
+    url: "https://soundcloud.com/lorientestard/sirene-poeme-damour",
+    answer: 900,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/visages-nocturne-pour-un-1",
+    answer: 901,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/visages-ideal-mental",
+    answer: 902,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/atelier-de-clea-peindre-la",
+    answer: 903,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/atelier-de-clea-contre-le",
+    answer: 904,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lamour-dune-soeur",
+    answer: 905,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/clea",
+    answer: 906,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/the-reacher-vers-le-sommet",
+    answer: 907,
+  },
+  {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-battle-gym-leader",
     answer: 908,
   },
   {
+    url: "https://soundcloud.com/lorientestard/the-reacher-entre-les-marais",
+    answer: 909,
+  },
+  {
     url: "https://soundcloud.com/3p9onpybdq4e/route-4-5-6-7-22-parterre-way",
     answer: 910,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/paintress",
+    answer: 911,
   },
   {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-sina-and-dexio",
@@ -3300,8 +3660,40 @@ window.musicListWithLinks = [
     answer: 914,
   },
   {
+    url: "https://soundcloud.com/lorientestard/lettre-a-maelle",
+    answer: 915,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/we-lost",
+    answer: 916,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/verso-music-box",
+    answer: 917,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/gustave-music-box",
+    answer: 918,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lumiere-music-box",
+    answer: 919,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/sciel-music-box",
+    answer: 920,
+  },
+  {
     url: "https://soundcloud.com/user-744542609/pokemon-xy-parfum-palace",
     answer: 921,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/lune-music-box",
+    answer: 922,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/alicia-music-box",
+    answer: 923,
   },
   {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-spotted-butler",
@@ -3312,12 +3704,36 @@ window.musicListWithLinks = [
     answer: 925,
   },
   {
+    url: "https://soundcloud.com/lorientestard/world-map-our-painted-hatred",
+    answer: 926,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/renoir",
+    answer: 927,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/endless-light",
+    answer: 928,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/until-next-life",
+    answer: 929,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/maelle",
+    answer: 930,
+  },
+  {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-cyllage-city",
     answer: 931,
   },
   {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-bicycle",
     answer: 932,
+  },
+  {
+    url: "https://soundcloud.com/captain-weegi/fight-for-the-win-ono-puncho-1",
+    answer: 933,
   },
   {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-geosenge-town",
