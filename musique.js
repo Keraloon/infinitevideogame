@@ -21882,11 +21882,6 @@ window.musicNameList = [
     fr: "Citrouille Perchée - The Legend of Zelda : Skyward Sword",
   },
   {
-    id: 4906,
-    en: "Pumpkin Song - The Legend of Zelda : Skyward Sword",
-    fr: "Chanson de la Citrouille - The Legend of Zelda : Skyward Sword",
-  },
-  {
     id: 4907,
     en: "Fun Fun Island - The Legend of Zelda : Skyward Sword",
     fr: "Ile Roulette - The Legend of Zelda : Skyward Sword",
@@ -21895,11 +21890,6 @@ window.musicNameList = [
     id: 4908,
     en: "The Monster - The Legend of Zelda : Skyward Sword",
     fr: "Le Monstre - The Legend of Zelda : Skyward Sword",
-  },
-  {
-    id: 4909,
-    en: "Batreaux - The Legend of Zelda : Skyward Sword",
-    fr: "Morcego - The Legend of Zelda : Skyward Sword",
   },
   {
     id: 4910,
@@ -21932,11 +21922,6 @@ window.musicNameList = [
     fr: "Horde de Démons - The Legend of Zelda : Skyward Sword",
   },
   {
-    id: 4916,
-    en: "Long Live the Dark King - The Legend of Zelda : Skyward Sword",
-    fr: "Longue Vie au Roi des Ténèbres - The Legend of Zelda : Skyward Sword",
-  },
-  {
     id: 4917,
     en: "Demon King Demise Battle (Finale) - The Legend of Zelda : Skyward Sword",
     fr: "Avatar du Néant (Final) - The Legend of Zelda : Skyward Sword",
@@ -21945,11 +21930,6 @@ window.musicNameList = [
     id: 4918,
     en: "Skyward Sword (Staff Role) - The Legend of Zelda : Skyward Sword",
     fr: "Skyward Sword (Crédits de Fin) - The Legend of Zelda : Skyward Sword",
-  },
-  {
-    id: 4919,
-    en: "Gerudo Valley - The Legend of Zelda : Skyward Sword",
-    fr: "Vallée Gerudo - The Legend of Zelda : Skyward Sword",
   },
   {
     id: 2647,
