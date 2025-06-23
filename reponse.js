@@ -5027,111 +5027,111 @@ window.musicListWithLinks = [
     answer: 2121,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-fight-against-monsters",
+    url: "https://soundcloud.com/super-mario-rpg-switch/battling-monsters",
     answer: 2130,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-fight-against-culex",
+    url: "https://soundcloud.com/super-mario-rpg-switch/battling-culex-3d",
     answer: 2131,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-and-my-names-booster",
+    url: "https://soundcloud.com/super-mario-rpg-switch/and-that-makes-me-booster",
     answer: 2132,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-1",
+    url: "https://soundcloud.com/super-mario-rpg-switch/where-to",
     answer: 2133,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-sad-song",
+    url: "https://soundcloud.com/super-mario-rpg-switch/elegy",
     answer: 2134,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-beware-the-forests-mushrooms",
+    url: "https://soundcloud.com/super-mario-rpg-switch/beware-of-forest-mushrooms",
     answer: 2135,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-fight-against-a-somewhat-stronger-monster",
+    url: "https://soundcloud.com/super-mario-rpg-switch/battling-strongish-monsters",
     answer: 2136,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-fight-against-an-armed-boss",
+    url: "https://soundcloud.com/super-mario-rpg-switch/battling-a-weapon-boss",
     answer: 2137,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-383718440",
+    url: "https://soundcloud.com/super-mario-rpg-switch/barrel-volcano",
     answer: 2138,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-299147436",
+    url: "https://soundcloud.com/super-mario-rpg-switch/moleville-mountain-rail",
     answer: 2139,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-332570732",
+    url: "https://soundcloud.com/super-mario-rpg-switch/dodo-has-arrived",
     answer: 2140,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-114907521",
+    url: "https://soundcloud.com/super-mario-rpg-switch/battling-bowser",
     answer: 2141,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-63823076",
+    url: "https://soundcloud.com/super-mario-rpg-switch/battling-smithys-many-forms",
     answer: 2142,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-879404529",
+    url: "https://soundcloud.com/super-mario-rpg-switch/greetings-from-the-pipes",
     answer: 2143,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-152635692",
+    url: "https://soundcloud.com/super-mario-rpg-switch/shopping-at-seaside-town",
     answer: 2144,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-228814527",
+    url: "https://soundcloud.com/super-mario-rpg-switch/fun-adventure-cheerful",
     answer: 2145,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-876935501",
+    url: "https://soundcloud.com/super-mario-rpg-switch/hello-happy-kingdom",
     answer: 2146,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-702128214",
+    url: "https://soundcloud.com/super-mario-rpg-switch/bowsers-keep-second-visit",
     answer: 2147,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-280025709",
+    url: "https://soundcloud.com/super-mario-rpg-switch/lets-take-the-midas-river",
     answer: 2148,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-391655592",
+    url: "https://soundcloud.com/super-mario-rpg-switch/super-mario-house",
     answer: 2149,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-my",
+    url: "https://soundcloud.com/super-mario-rpg-switch/monstro-town-our-paradise",
     answer: 2150,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-67000745",
+    url: "https://soundcloud.com/super-mario-rpg-switch/lets-get-fluffy",
     answer: 2151,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-65136789",
+    url: "https://soundcloud.com/super-mario-rpg-switch/the-sunken-ship",
     answer: 2152,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-7",
+    url: "https://soundcloud.com/super-mario-rpg-switch/valen-valentina",
     answer: 2153,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-6",
+    url: "https://soundcloud.com/super-mario-rpg-switch/victory-over-culex-3d",
     answer: 2154,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-4",
+    url: "https://soundcloud.com/super-mario-rpg-switch/the-factory",
     answer: 2155,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-rpg-remake-ost-5",
+    url: "https://soundcloud.com/super-mario-rpg-switch/victory",
     answer: 2156,
   },
   {
