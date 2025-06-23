@@ -17490,47 +17490,47 @@ window.musicListWithLinks = [
     answer: 5461,
   },
   {
-    url: "https://soundcloud.com/richard95moore/menu",
+    url: "https://soundcloud.com/th1s1srandom/menu",
     answer: 5462,
   },
   {
-    url: "https://soundcloud.com/richard95moore/menu-forever",
+    url: "https://soundcloud.com/th1s1srandom/menu-forever",
     answer: 5463,
   },
   {
-    url: "https://soundcloud.com/richard95moore/stadium-pulp-remix",
+    url: "https://soundcloud.com/th1s1srandom/stadium-pulp-remix",
     answer: 5464,
   },
   {
-    url: "https://soundcloud.com/richard95moore/stadium-start-off-remix",
+    url: "https://soundcloud.com/th1s1srandom/stadium-start-off-remix",
     answer: 5465,
   },
   {
-    url: "https://soundcloud.com/richard95moore/stadium-tictac-remix",
+    url: "https://soundcloud.com/th1s1srandom/stadium-tictac-remix",
     answer: 5466,
   },
   {
-    url: "https://soundcloud.com/richard95moore/island",
+    url: "https://soundcloud.com/th1s1srandom/island",
     answer: 5467,
   },
   {
-    url: "https://soundcloud.com/richard95moore/rallye",
+    url: "https://soundcloud.com/th1s1srandom/rallye",
     answer: 5468,
   },
   {
-    url: "https://soundcloud.com/richard95moore/desert",
+    url: "https://soundcloud.com/th1s1srandom/desert",
     answer: 5469,
   },
   {
-    url: "https://soundcloud.com/richard95moore/bay",
+    url: "https://soundcloud.com/th1s1srandom/bay",
     answer: 5470,
   },
   {
-    url: "https://soundcloud.com/richard95moore/snow",
+    url: "https://soundcloud.com/th1s1srandom/snow",
     answer: 5471,
   },
   {
-    url: "https://soundcloud.com/richard95moore/coast",
+    url: "https://soundcloud.com/th1s1srandom/coast",
     answer: 5472,
   },
   {
