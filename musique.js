@@ -1702,8 +1702,8 @@ window.musicNameList = [
   },
   {
     id: 803,
-    en: "Lumière : Clair Obscur: Expedition 33",
-    fr: "Lumière : Clair Obscur: Expedition 33",
+    en: "Lumière - Clair Obscur: Expedition 33",
+    fr: "Lumière - Clair Obscur: Expedition 33",
   },
   {
     id: 805,
