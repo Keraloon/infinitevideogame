@@ -21498,8 +21498,8 @@ window.musicNameList = [
   },
   {
     id: 2434,
-    en: "Bazar - The Legend of Zelda : Ocarina Of Time",
-    fr: "Bazar - The Legend of Zelda : Ocarina Of Time",
+    en: "Bazar/Market - The Legend of Zelda : Ocarina Of Time",
+    fr: "Bazar/Marché - The Legend of Zelda : Ocarina Of Time",
   },
   {
     id: 2435,
