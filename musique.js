@@ -1691,6 +1691,526 @@ window.musicNameList = [
     fr: "Rare Animal Squad Extinctioner - Chulip",
   },
   {
+    id: 801,
+    en: "Alicia - Clair Obscur: Expedition 33",
+    fr: "Alicia - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 802,
+    en: "Gustave - Clair Obscur: Expedition 33",
+    fr: "Gustave - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 803,
+    en: "Lumière - Clair Obscur: Expedition 33",
+    fr: "Lumière - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 805,
+    en: "Lumière - Lumière à l'Aube - Clair Obscur: Expedition 33",
+    fr: "Lumière - Lumière à l'Aube - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 806,
+    en: "Lumière - Promenade dans Lumière - Clair Obscur: Expedition 33",
+    fr: "Lumière - Promenade dans Lumière - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 807,
+    en: "Lumière - Le Grand Café de Lumière - Clair Obscur: Expedition 33",
+    fr: "Lumière - Le Grand Café de Lumière - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 811,
+    en: "Lumière - Continuer à t'aimer (Lune) - Clair Obscur: Expedition 33",
+    fr: "Lumière - Continuer à t'aimer (Lune) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 813,
+    en: "Lumière - Rêveries dans Lumière - Clair Obscur: Expedition 33",
+    fr: "Lumière - Rêveries dans Lumière - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 815,
+    en: "Lumière - Nocturne pour Lumière (Violoncelle) - Clair Obscur: Expedition 33",
+    fr: "Lumière - Nocturne pour Lumière (Violoncelle) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 816,
+    en: "Lumière - The Departure - Clair Obscur: Expedition 33",
+    fr: "Lumière - The Departure - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 818,
+    en: "Spring Meadows - Cello Motifs - Clair Obscur: Expedition 33",
+    fr: "Spring Meadows - Cello Motifs (Vallons Fleuris) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 819,
+    en: "Spring Meadows - Eveil - Clair Obscur: Expedition 33",
+    fr: "Spring Meadows - Eveil (Vallons Fleuris) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 820,
+    en: "Spring Meadows - Get Up! For Lumière! - Clair Obscur: Expedition 33",
+    fr: "Spring Meadows - Get Up! For Lumière! (Vallons Fleuris) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 821,
+    en: "Spring Meadows - Battling Breeze - Clair Obscur: Expedition 33",
+    fr: "Spring Meadows - Battling Breeze (Vallons Fleuris) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 822,
+    en: "Spring Meadows - Beneath the Blue Tree - Clair Obscur: Expedition 33",
+    fr: "Spring Meadows - Beneath the Blue Tree (Vallons Fleuris) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 823,
+    en: "Spring Meadows - Tomorrow is Here - Clair Obscur: Expedition 33",
+    fr: "Spring Meadows - Tomorrow is Here (Vallons Fleuris) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 824,
+    en: "Spring Meadows - Nightfall - Clair Obscur: Expedition 33",
+    fr: "Spring Meadows - Nightfall (Vallons Fleuris) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 825,
+    en: "Spring Meadows - L'Aurore aux Doigts de Roses - Clair Obscur: Expedition 33",
+    fr: "Spring Meadows - L'Aurore aux Doigts de Roses (Vallons Fleuris) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 826,
+    en: "Lune - Clair Obscur: Expedition 33",
+    fr: "Lune - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 827,
+    en: "World Map - Taking Down the Paintress - Clair Obscur: Expedition 33",
+    fr: "World Map - Taking Down the Paintress - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 828,
+    en: "World Map - In Lumière's Name - Clair Obscur: Expedition 33",
+    fr: "World Map - In Lumière's Name - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 829,
+    en: "World Map - Until You're Gone - Clair Obscur: Expedition 33",
+    fr: "World Map - Until You're Gone - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 830,
+    en: "World Map - Forlorn - Clair Obscur: Expedition 33",
+    fr: "World Map - Forlorn - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 831,
+    en: "Flying Waters - Submerged Lights - Clair Obscur: Expedition 33",
+    fr: "Flying Waters - Submerged Lights (Océan Suspendu) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 832,
+    en: "Flying Waters - Electric Tides - Clair Obscur: Expedition 33",
+    fr: "Flying Waters - Electric Tides (Océan Suspendu) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 833,
+    en: "Flying Waters - Goblu - Clair Obscur: Expedition 33",
+    fr: "Flying Waters - Goblu (Océan Suspendu) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 834,
+    en: "Flying Waters - Rain from the Ground - Clair Obscur: Expedition 33",
+    fr: "Flying Waters - Rain from the Ground (Océan Suspendu) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 835,
+    en: "The Curator - Clair Obscur: Expedition 33",
+    fr: "The Curator - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 836,
+    en: "Un 33 Décembre à Paris - Clair Obscur: Expedition 33",
+    fr: "Un 33 Décembre à Paris - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 838,
+    en: "Ancient Sanctuary - Path on the Roots - Clair Obscur: Expedition 33",
+    fr: "Ancient Sanctuary - Path on the Roots (Sanctuaire Ancien) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 839,
+    en: "Ancient Sanctuary - Bonzaie Clairing - Clair Obscur: Expedition 33",
+    fr: "Ancient Sanctuary - Bonzaie Clairing (Sanctuaire Ancien) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 840,
+    en: "Ancient Sanctuary - Lake - Clair Obscur: Expedition 33",
+    fr: "Ancient Sanctuary - Lake (Sanctuaire Ancien) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 841,
+    en: "Ancient Sanctuary - Gestral Summer Party - Clair Obscur: Expedition 33",
+    fr: "Ancient Sanctuary - Gestral Summer Party (Sanctuaire Ancien) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 842,
+    en: "Ancient Sanctuary - Megabot#33 - Clair Obscur: Expedition 33",
+    fr: "Ancient Sanctuary - Megabot#33 (Sanctuaire Ancien) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 843,
+    en: "Ancient Sanctuary - Entrance of the Village - Clair Obscur: Expedition 33",
+    fr: "Ancient Sanctuary - Entrance of the Village (Sanctuaire Ancien) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 844,
+    en: "Gestral Village - Gestral Market - Clair Obscur: Expedition 33",
+    fr: "Gestral Village - Gestral Market (Village des Gestrals) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 845,
+    en: "Gestral Village - Gestral Merchant - Clair Obscur: Expedition 33",
+    fr: "Gestral Village - Gestral Merchant (Village des Gestrals) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 848,
+    en: "Gestral Village - Alicia (Gestrals) - Clair Obscur: Expedition 33",
+    fr: "Gestral Village - Alicia (Gestrals) (Village des Gestrals) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 850,
+    en: "Gestral Village - Continuer à t'aimer (Gestrals) - Clair Obscur: Expedition 33",
+    fr: "Gestral Village - Continuer à t'aimer (Gestrals) (Village des Gestrals) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 851,
+    en: "Gestral Village - Gestral Arena - Clair Obscur: Expedition 33",
+    fr: "Gestral Village - Gestral Arena (Village des Gestrals) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 852,
+    en: "Gestral Village - Golgra - Clair Obscur: Expedition 33",
+    fr: "Gestral Village - Golgra (Village des Gestrals) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 853,
+    en: "Sciel - Clair Obscur: Expedition 33",
+    fr: "Sciel - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 854,
+    en: "Esquie's Nest - Esquie's Bath - Clair Obscur: Expedition 33",
+    fr: "Esquie's Nest - Esquie's Bath (Nid d'Esquie) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 856,
+    en: "Esquie's Nest - François - Clair Obscur: Expedition 33",
+    fr: "Esquie's Nest - François (Nid d'Esquie) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 857,
+    en: "Firecamp - Sciel - Clair Obscur: Expedition 33",
+    fr: "Firecamp - Sciel (Feu de Camp) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 858,
+    en: "Firecamp - Lune - Clair Obscur: Expedition 33",
+    fr: "Firecamp - Lune (Feu de Camp) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 860,
+    en: "Stone Wave Cliffs - Lights of the Past - Clair Obscur: Expedition 33",
+    fr: "Stone Wave Cliffs - Lights of the Past (Falaises de Rochevague) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 861,
+    en: "Stone Wave Cliffs - Warding Blades - Clair Obscur: Expedition 33",
+    fr: "Stone Wave Cliffs - Warding Blades (Falaises de Rochevague) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 862,
+    en: "Stone Wave Cliffs - Lampmaster - Clair Obscur: Expedition 33",
+    fr: "Stone Wave Cliffs - Lampmaster (Falaises de Rochevague) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 863,
+    en: "Loin d'Elle - Clair Obscur: Expedition 33",
+    fr: "Loin d'Elle - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 865,
+    en: "Verso - Clair Obscur: Expedition 33",
+    fr: "Verso - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 866,
+    en: "Forgotten Battlefields - Over the Fallen - Clair Obscur: Expedition 33",
+    fr: "Forgotten Battlefields - Over the Fallen (Terres Oubliées) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 867,
+    en: "Forgotten Battlefields - Divided Swords - Clair Obscur: Expedition 33",
+    fr: "Forgotten Battlefields - Divided Swords (Terres Oubliées) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 868,
+    en: "Forgotten Battlefields - Dualliste - Clair Obscur: Expedition 33",
+    fr: "Forgotten Battlefields - Dualliste (Terres Oubliées) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 869,
+    en: "Forgotten Battlefields - Red Birds are Tied to the Ground - Clair Obscur: Expedition 33",
+    fr: "Forgotten Battlefields - Red Birds are Tied to the Ground (Terres Oubliées) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 870,
+    en: "Lost Voice - Clair Obscur: Expedition 33",
+    fr: "Lost Voice - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 871,
+    en: "Monoco's Station - Follow the Steps of Monoco - Clair Obscur: Expedition 33",
+    fr: "Monoco's Station - Follow the Steps of Monoco (Gare de Monoco) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 872,
+    en: "Monoco's Station - Grandis Domain - Clair Obscur: Expedition 33",
+    fr: "Monoco's Station - Grandis Domain (Gare de Monoco) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 873,
+    en: "Monoco's Station - Tics Tacs - Clair Obscur: Expedition 33",
+    fr: "Monoco's Station - Tics Tacs (Gare de Monoco) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 874,
+    en: "Monoco's Station - Grandis Refuge - Clair Obscur: Expedition 33",
+    fr: "Monoco's Station - Grandis Refuge (Gare de Monoco) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 875,
+    en: "Monoco's Station - Twirling Voices - Clair Obscur: Expedition 33",
+    fr: "Monoco's Station - Twirling Voices (Gare de Monoco) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 876,
+    en: "Monoco - Clair Obscur: Expedition 33",
+    fr: "Monoco - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 877,
+    en: "Gestral Beach - I'd Rather Play Pétanque! - Clair Obscur: Expedition 33",
+    fr: "Gestral Beach - I'd Rather Play Pétanque! (Plage Gestral) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 878,
+    en: "Gestral Beach - My Grandma Hits Harder! - Clair Obscur: Expedition 33",
+    fr: "Gestral Beach - My Grandma Hits Harder! (Plage Gestral) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 879,
+    en: "Gestral Beach - Is it a Gestral or a Volleyball? - Clair Obscur: Expedition 33",
+    fr: "Gestral Beach - Is it a Gestral or a Volleyball? (Plage Gestral) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 880,
+    en: "Yellow Forest - Numbers the Hours - Clair Obscur: Expedition 33",
+    fr: "Yellow Forest - Numbers the Hours (Moisson Dorée) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 881,
+    en: "Yellow Forest - Honey and Clayworks - Clair Obscur: Expedition 33",
+    fr: "Yellow Forest - Honey and Clayworks (Moisson Dorée) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 882,
+    en: "Yellow Forest - Nightfall - Clair Obscur: Expedition 33",
+    fr: "Yellow Forest - Nightfall (Moisson Dorée) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 883,
+    en: "Falling Leaves - Cave - Clair Obscur: Expedition 33",
+    fr: "Falling Leaves - Cave (Feuilles Ambrées) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 884,
+    en: "Falling Leaves - Autumn's Brush - Clair Obscur: Expedition 33",
+    fr: "Falling Leaves - Autumn's Brush (Feuilles Ambrées) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 886,
+    en: "Sacred River - River Dream - Clair Obscur: Expedition 33",
+    fr: "Sacred River - River Dream (Fleuve Sacré) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 887,
+    en: "World Map - Déchire la Toile - Clair Obscur: Expedition 33",
+    fr: "World Map - Déchire la Toile - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 888,
+    en: "World Map - Of Virtuosity and Heart - Clair Obscur: Expedition 33",
+    fr: "World Map - Of Virtuosity and Heart - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 889,
+    en: "World Map - Gustave's Legacy - Clair Obscur: Expedition 33",
+    fr: "World Map - Gustave's Legacy - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 890,
+    en: "Lumière s'éteint - Clair Obscur: Expedition 33",
+    fr: "Lumière s'éteint - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 893,
+    en: "Old Lumière - Révérence - Clair Obscur: Expedition 33",
+    fr: "Old Lumière - Révérence (Vieille Lumière) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 894,
+    en: "L'Amour d'un Père - Clair Obscur: Expedition 33",
+    fr: "L'Amour d'un Père - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 895,
+    en: "Sirène - Robe de Jour - Clair Obscur: Expedition 33",
+    fr: "Sirène - Robe de Jour - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 896,
+    en: "Sirène - Tisser la Beauté - Clair Obscur: Expedition 33",
+    fr: "Sirène - Tisser la Beauté - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 897,
+    en: "Sirène - Rouge d'Iris - Clair Obscur: Expedition 33",
+    fr: "Sirène - Rouge d'Iris - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 900,
+    en: "Sirène - Poème d'Amour - Clair Obscur: Expedition 33",
+    fr: "Sirène - Poème d'Amour - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 901,
+    en: "Visages - Nocturne pour un Masque de Tristesse - Clair Obscur: Expedition 33",
+    fr: "Visages - Nocturne pour un Masque de Tristesse - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 902,
+    en: "Visages - Idéal Mental - Clair Obscur: Expedition 33",
+    fr: "Visages - Idéal Mental - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 903,
+    en: "Atelier de Clea - Peindre la Perfection - Clair Obscur: Expedition 33",
+    fr: "Atelier de Clea - Peindre la Perfection - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 904,
+    en: "Atelier de Clea - Contre le Coeur - Clair Obscur: Expedition 33",
+    fr: "Atelier de Clea - Contre le Coeur - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 905,
+    en: "L'Amour d'une Soeur - Clair Obscur: Expedition 33",
+    fr: "L'Amour d'une Soeur - Contre le Coeur - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 906,
+    en: "Clea - Clair Obscur: Expedition 33",
+    fr: "Clea - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 907,
+    en: "The Reacher - Vers le Sommet - Clair Obscur: Expedition 33",
+    fr: "The Reacher - Vers le Sommet (L'Aspirante) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 909,
+    en: "The Reacher - Entre les Marais et les Cimes - Clair Obscur: Expedition 33",
+    fr: "The Reacher - Entre les Marais et les Cimes (L'Aspirante) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 911,
+    en: "Paintress - Clair Obscur: Expedition 33",
+    fr: "Paintress - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 915,
+    en: "Lettre à Maelle - Clair Obscur: Expedition 33",
+    fr: "Lettre à Maelle - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 916,
+    en: "We Lost - Clair Obscur: Expedition 33",
+    fr: "We Lost - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 917,
+    en: "Verso (Music Box) - Clair Obscur: Expedition 33",
+    fr: "Verso (Music Box) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 918,
+    en: "Gustave (Music Box) - Clair Obscur: Expedition 33",
+    fr: "Gustave (Music Box) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 919,
+    en: "Lumière (Music Box) - Clair Obscur: Expedition 33",
+    fr: "Lumière (Music Box) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 920,
+    en: "Sciel (Music Box) - Clair Obscur: Expedition 33",
+    fr: "Sciel (Music Box) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 922,
+    en: "Lune (Music Box) - Clair Obscur: Expedition 33",
+    fr: "Lune (Music Box) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 923,
+    en: "Alicia (Music Box) - Clair Obscur: Expedition 33",
+    fr: "Alicia (Music Box) - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 926,
+    en: "World Map - Our Painted Hatred - Clair Obscur: Expedition 33",
+    fr: "World Map - Our Painted Hatred - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 927,
+    en: "Renoir - Clair Obscur: Expedition 33",
+    fr: "Renoir - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 928,
+    en: "Endless Light - Clair Obscur: Expedition 33",
+    fr: "Endless Light - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 929,
+    en: "Until Next Life - Clair Obscur: Expedition 33",
+    fr: "Until Next Life - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 930,
+    en: "Maelle - Clair Obscur: Expedition 33",
+    fr: "Maelle - Clair Obscur: Expedition 33",
+  },
+  {
+    id: 933,
+    en: "Fight for the Win (Ono Puncho) - Clair Obscur: Expedition 33",
+    fr: "Fight for the Win (Ono Puncho) - Clair Obscur: Expedition 33",
+  },
+  {
     id: 3124,
     en: "Main Theme - Code Vein",
     fr: "Thème Principal - Code Vein",
