@@ -504,7 +504,7 @@ window.musicListWithLinks = [
     answer: 125,
   },
   {
-    url: "https://soundcloud.com/payton-lyle/pokemon-brilliant-diamond-2",
+    url: "https://soundcloud.com/sv-dlc2/battle-team-galactic-commander-pokemon-brilliant-diamond-shining-pearl",
     answer: 126,
   },
   {
@@ -3916,7 +3916,7 @@ window.musicListWithLinks = [
     answer: 1505,
   },
   {
-    url: "https://soundcloud.com/payton-lyle/pokemon-brilliant-diamond",
+    url: "https://soundcloud.com/matthew-treich/pokemon-bdsp-battle-team-galactic-grunt",
     answer: 1513,
   },
   {
@@ -3949,7 +3949,7 @@ window.musicListWithLinks = [
     answer: 1537,
   },
   {
-    url: "https://soundcloud.com/payton-lyle/pokemon-brilliant-diamond-4",
+    url: "https://soundcloud.com/sv-dlc2/battle-dialga-palkia-pokemon-brilliant-diamond-shining-pearl",
     answer: 1540,
   },
   {
