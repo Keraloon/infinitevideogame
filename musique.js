@@ -13990,7 +13990,7 @@ window.musicNameList = [
   {
     id: 2841,
     en: "Pursuit ~ Cornered - Phoenix Wright Ace Attorney",
-    fr: "Acculé (Pursuit) - Phoenix Wright Ace Attorney",
+    fr: "Pursuit ~ Acculé - Phoenix Wright Ace Attorney",
   },
   {
     id: 2842,
@@ -14033,11 +14033,85 @@ window.musicNameList = [
     fr: "Fin - Phoenix Wright Ace Attorney",
   },
   {
+    id: 764,
+    en: "Beauty Hermitage/Trés Bien - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Hermitage de Beauté/Trés Bien (Bellissima) - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 765,
+    en: "Courtroom Lobby ~ Neverending Overture - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Hall de la Salle d'Audience (Ouverture Sans Fin) - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 766,
+    en: "Dahlia Hawthorne ~ Distant Traces Of Beauty - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Dahlia Plantule ~ Traces Lointaines de Beauté - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 768,
+    en: "Furio Tigre ~ Swingin' Tiger - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Furio Tigre ~ Tigre Oscillant - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
     id: 3229,
     en: "Godot ~ The Fragrance of Dark Coffee - Phoenix Wright Ace Attorney : Trials and Tribulations",
     fr: "Godot ~ Le Parfum d'un Café Noir - Phoenix Wright Ace Attorney : Trials and Tribulations",
   },
-  
+  {
+    id: 769,
+    en: "Investigation ~ Middle Stage 2004 - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Investigation ~ Stade Intermédiaire 2004 - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 770,
+    en: "Investigation ~ Opening 2004 - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Investigation ~ Ouverture 2004 - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 771,
+    en: "Larry Butz ~ When Something Smells, It's Usually Me - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Paul Defès ~ Quand Quelque Chose Pue, C'est Souvent Moi - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 772,
+    en: "Luke Atmey ~ I Just Want Love - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Matt Moissat ~ Je Veux Juste de l'Amour - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 773,
+    en: "Mask☆deMasque ~ Pleeeeease Listen! - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Mask☆deMasque ~ Ecoutez S'il Vous Plaaaaait! - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 774,
+    en: "Objection! 2004 - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Objection! 2004 - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 776,
+    en: "Pursuit ~ Caught - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Pursuit ~ Attrapé - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 777,
+    en: "Pursuit ~ Cornered 2004 - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Pursuit ~ Acculé 2004 - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 778,
+    en: "Questioning  ~ Allegro 2004 - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Questionnement  ~ Allegro 2004 - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 779,
+    en: "Telling The Truth 2004 - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Dire La Vérité 2004 - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
+  {
+    id: 780,
+    en: "Victor Kudo ~ A Painful Declaration, And A War Song - Phoenix Wright Ace Attorney : Trials and Tribulations",
+    fr: "Victor Kudo ~ Une Déclaration Douloureuse, Et Un Chant de Guerre - Phoenix Wright Ace Attorney : Trials and Tribulations",
+  },
   {
     id: 2846,
     en: "World Map - Rayman",
