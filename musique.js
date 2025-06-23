@@ -21503,8 +21503,8 @@ window.musicNameList = [
   },
   {
     id: 2435,
-    en: "Garden Of Love - The Legend of Zelda : Ocarina Of Time",
-    fr: "Jardin - The Legend of Zelda : Ocarina Of Time",
+    en: "Hyrule Castle Courtyard - The Legend of Zelda : Ocarina Of Time",
+    fr: "Cour du Chateau d'Hyrule - The Legend of Zelda : Ocarina Of Time",
   },
   {
     id: 2436,
