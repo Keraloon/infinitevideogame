@@ -21597,11 +21597,6 @@ window.musicNameList = [
     fr: "Citadelle d'Hyrule - The Legend of Zelda : Spirit Tracks",
   },
   {
-    id: 3143,
-    en: "Select Rail Route - The Legend of Zelda : Spirit Tracks",
-    fr: "Sélection du Trajet - The Legend of Zelda : Spirit Tracks",
-  },
-  {
     id: 3144,
     en: "Overworld Adventure (Train) - The Legend of Zelda : Spirit Tracks",
     fr: "Aventure dans le Monde (Train) - The Legend of Zelda : Spirit Tracks",
