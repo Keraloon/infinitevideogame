@@ -2128,7 +2128,7 @@ window.musicListWithLinks = [
     answer: 531,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-smash-bros-245368250",
+    url: "https://soundcloud.com/super-smash-bros-anthology-181177228/mute-city-melee",
     answer: 532,
   },
   {
@@ -16078,31 +16078,31 @@ window.musicListWithLinks = [
     answer: 5083,
   },
   {
-    url: "https://soundcloud.com/user-675036643/village",
+    url: "https://soundcloud.com/vgminfiniteheardle/zelda-ii-town-4",
     answer: 5084,
   },
   {
-    url: "https://soundcloud.com/user-675036643/indoors-theme-1",
+    url: "https://soundcloud.com/vgminfiniteheardle/zelda-ii-inside-house-2",
     answer: 5085,
   },
   {
-    url: "https://soundcloud.com/user-675036643/palace-theme-1",
+    url: "https://soundcloud.com/vgminfiniteheardle/zelda-ii-dungeon-8",
     answer: 5086,
   },
   {
-    url: "https://soundcloud.com/user-675036643/boss-battle-6",
+    url: "https://soundcloud.com/vgminfiniteheardle/zelda-ii-boss",
     answer: 5087,
   },
   {
-    url: "https://soundcloud.com/user-675036643/great-palace-theme",
+    url: "https://soundcloud.com/vgminfiniteheardle/zelda-ii-final-dungeon-1",
     answer: 5088,
   },
   {
-    url: "https://soundcloud.com/user-675036643/dark-link-battle",
+    url: "https://soundcloud.com/vgminfiniteheardle/zelda-ii-dark-link-7",
     answer: 5089,
   },
   {
-    url: "https://soundcloud.com/user-675036643/ending-9",
+    url: "https://soundcloud.com/vgminfiniteheardle/zelda-ii-ending-9",
     answer: 5090,
   },
   {
