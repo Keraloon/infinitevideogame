@@ -3740,8 +3740,32 @@ window.musicListWithLinks = [
     answer: 934,
   },
   {
+    url: "https://soundcloud.com/hihelloiexist/awaria-ost-zerohour-mittsies",
+    answer: 935,
+  },
+  {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-spotted-black-belt",
     answer: 936,
+  },
+  {
+    url: "https://soundcloud.com/hihelloiexist/awaria-ost-omnispeak-mittsies",
+    answer: 937,
+  },
+  {
+    url: "https://soundcloud.com/hihelloiexist/awaria-ost-soulwalker-mittsies",
+    answer: 938,
+  },
+  {
+    url: "https://soundcloud.com/hihelloiexist/awaria-ost-metallurgy-mittsies",
+    answer: 939,
+  },
+  {
+    url: "https://soundcloud.com/hihelloiexist/awaria-ost-defect-mittsies",
+    answer: 940,
+  },
+  {
+    url: "https://soundcloud.com/hihelloiexist/awaria-ost-heartbreaker",
+    answer: 941,
   },
   {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-coumarine-city",
