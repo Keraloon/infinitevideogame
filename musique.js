@@ -670,6 +670,36 @@ window.musicNameList = [
     fr: "Via Dolca (Thème de Lola Pop) - ARMS",
   },
   {
+    id: 935,
+    en: "Zerohour - Awaria",
+    fr: "Zerohour - Awaria",
+  },
+  {
+    id: 937,
+    en: "Omnispeak - Awaria",
+    fr: "Omnispeak - Awaria",
+  },
+  {
+    id: 938,
+    en: "Soulwalker - Awaria",
+    fr: "Soulwalker - Awaria",
+  },
+  {
+    id: 939,
+    en: "Metallurgy - Awaria",
+    fr: "Metallurgy - Awaria",
+  },
+  {
+    id: 940,
+    en: "Defect - Awaria",
+    fr: "Defect - Awaria",
+  },
+  {
+    id: 941,
+    en: "Heartbreaker - Awaria",
+    fr: "Heartbreaker - Awaria",
+  },
+  {
     id: 3665,
     en: "Main Theme - Balatro",
     fr: "Thème Principal - Balatro",
