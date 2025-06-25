@@ -3768,12 +3768,28 @@ window.musicListWithLinks = [
     answer: 941,
   },
   {
+    url: "https://soundcloud.com/chrischristodouloumusic/risk-of-rain-2-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 942,
+  },
+  {
+    url: "https://soundcloud.com/chrischristodouloumusic/evapotranspiration-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 943,
+  },
+  {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-coumarine-city",
     answer: 944,
   },
   {
+    url: "https://soundcloud.com/chrischristodouloumusic/thermodynamic-equilibrium-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 945,
+  },
+  {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-the-kalos-power",
     answer: 946,
+  },
+  {
+    url: "https://soundcloud.com/chrischristodouloumusic/disdrometer-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 947,
   },
   {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-battle-team-flare",
@@ -3784,12 +3800,48 @@ window.musicListWithLinks = [
     answer: 949,
   },
   {
+    url: "https://soundcloud.com/chrischristodouloumusic/parjanya-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 950,
+  },
+  {
+    url: "https://soundcloud.com/chrischristodouloumusic/hydrophobia-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 951,
+  },
+  {
+    url: "https://soundcloud.com/chrischristodouloumusic/antarctic-oscillation-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 952,
+  },
+  {
+    url: "https://soundcloud.com/chrischristodouloumusic/the-rain-formerly-known-as?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 953,
+  },
+  {
+    url: "https://soundcloud.com/chrischristodouloumusic/youre-gonna-need-a-bigger?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 954,
+  },
+  {
+    url: "https://soundcloud.com/chrischristodouloumusic/having-fallen-it-was-blood?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 955,
+  },
+  {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-anistar-city",
     answer: 956,
   },
   {
+    url: "https://soundcloud.com/chrischristodouloumusic/once-in-a-lullaby?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 957,
+  },
+  {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-lysandre-labs",
     answer: 958,
+  },
+  {
+    url: "https://soundcloud.com/chrischristodouloumusic/a-boat-made-from-a-sheet-of?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 959,
+  },
+  {
+    url: "https://soundcloud.com/chrischristodouloumusic/the-face-of-the-deep?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    answer: 960,
   },
   {
     url: "https://soundcloud.com/3p9onpybdq4e/battle-xerneas-yveltal-zygarde",
