@@ -15084,6 +15084,71 @@ window.musicNameList = [
     fr: "Chanson d'Automne.. - Risk Of Rain",
   },
   {
+    id: 942,
+    en: "Risk Of Rain 2 - Risk Of Rain 2",
+    fr: "Risk Of Rain 2 - Risk Of Rain 2",
+  },
+  {
+    id: 943,
+    en: "Evapotranspiration - Risk Of Rain 2",
+    fr: "Evapotranspiration - Risk Of Rain 2",
+  },
+  {
+    id: 945,
+    en: "Thermodynamic Equilibrium - Risk Of Rain 2",
+    fr: "Thermodynamic Equilibrium - Risk Of Rain 2",
+  },
+  {
+    id: 947,
+    en: "Disdrometer - Risk Of Rain 2",
+    fr: "Disdrometer - Risk Of Rain 2",
+  },
+  {
+    id: 950,
+    en: "Parjanya - Risk Of Rain 2",
+    fr: "Parjanya - Risk Of Rain 2",
+  },
+  {
+    id: 951,
+    en: "Hydrophobia - Risk Of Rain 2",
+    fr: "Hydrophobia - Risk Of Rain 2",
+  },
+  {
+    id: 952,
+    en: "Antarctic Oscillation - Risk Of Rain 2",
+    fr: "Antarctic Oscillation - Risk Of Rain 2",
+  },
+  {
+    id: 953,
+    en: "The Rain Formerly Known As Purple - Risk Of Rain 2",
+    fr: "The Rain Formerly Known As Purple - Risk Of Rain 2",
+  },
+  {
+    id: 954,
+    en: "You're Gonna Need A Bigger Ukulele - Risk Of Rain 2",
+    fr: "You're Gonna Need A Bigger Ukulele - Risk Of Rain 2",
+  },
+  {
+    id: 955,
+    en: "Having Fallen, It Was Blood - Risk Of Rain 2",
+    fr: "Having Fallen, It Was Blood - Risk Of Rain 2",
+  },
+  {
+    id: 957,
+    en: "Once In A Lullaby - Risk Of Rain 2",
+    fr: "Once In A Lullaby - Risk Of Rain 2",
+  },
+  {
+    id: 959,
+    en: "A Boat Made From A Sheet Of Newspaper - Risk Of Rain 2",
+    fr: "A Boat Made From A Sheet Of Newspaper - Risk Of Rain 2",
+  },
+  {
+    id: 960,
+    en: "The Face Of The Deep - Risk Of Rain 2",
+    fr: "The Face Of The Deep - Risk Of Rain 2",
+  },
+  {
     id: 3036,
     en: "Planet Flora (Shooting Star) - Ristar",
     fr: "Planet Flora (Shooting Star) - Ristar",
