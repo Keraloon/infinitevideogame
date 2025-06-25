@@ -3768,11 +3768,11 @@ window.musicListWithLinks = [
     answer: 941,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/risk-of-rain-2-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/risk-of-rain-2-1",
     answer: 942,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/evapotranspiration-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/evapotranspiration-1",
     answer: 943,
   },
   {
@@ -3780,7 +3780,7 @@ window.musicListWithLinks = [
     answer: 944,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/thermodynamic-equilibrium-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/thermodynamic-equilibrium-1",
     answer: 945,
   },
   {
@@ -3788,7 +3788,7 @@ window.musicListWithLinks = [
     answer: 946,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/disdrometer-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/disdrometer-1",
     answer: 947,
   },
   {
@@ -3800,27 +3800,27 @@ window.musicListWithLinks = [
     answer: 949,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/parjanya-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/parjanya-1",
     answer: 950,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/hydrophobia-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/hydrophobia-1",
     answer: 951,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/antarctic-oscillation-1?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/antarctic-oscillation-1",
     answer: 952,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/the-rain-formerly-known-as?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/the-rain-formerly-known-as",
     answer: 953,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/youre-gonna-need-a-bigger?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/youre-gonna-need-a-bigger",
     answer: 954,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/having-fallen-it-was-blood?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/having-fallen-it-was-blood",
     answer: 955,
   },
   {
@@ -3828,7 +3828,7 @@ window.musicListWithLinks = [
     answer: 956,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/once-in-a-lullaby?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/once-in-a-lullaby",
     answer: 957,
   },
   {
@@ -3836,12 +3836,20 @@ window.musicListWithLinks = [
     answer: 958,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/a-boat-made-from-a-sheet-of?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/a-boat-made-from-a-sheet-of",
     answer: 959,
   },
   {
-    url: "https://soundcloud.com/chrischristodouloumusic/the-face-of-the-deep?in=aquatis-gd/sets/risk-of-rain-2-ost-survivors",
+    url: "https://soundcloud.com/chrischristodouloumusic/the-face-of-the-deep",
     answer: 960,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/smell-of-the-game-new-guilty-gear-promotion-music?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 961,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/find-your-one-way?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 962,
   },
   {
     url: "https://soundcloud.com/3p9onpybdq4e/battle-xerneas-yveltal-zygarde",
@@ -3852,8 +3860,32 @@ window.musicListWithLinks = [
     answer: 964,
   },
   {
+    url: "https://soundcloud.com/yu-mcd/the-roar-of-the-spark?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 965,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/the-disaster-of-passion?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 966,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/out-of-the-box?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 967,
+  },
+  {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-az",
     answer: 968,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/fight-like-a-tiger?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 969,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/society?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 970,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/colors?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 971,
   },
   {
     url: "https://soundcloud.com/3p9onpybdq4e/how-about-a-song-jubilife-city",
@@ -3884,28 +3916,128 @@ window.musicListWithLinks = [
     answer: 978,
   },
   {
-    url: " https://soundcloud.com/user-744542609/poke-mon-xy-friend-safari",
+    url: "https://soundcloud.com/yu-mcd/love-the-subhuman-self?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 979,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/let-me-carve-your-way?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 980,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/necessary-discrepancy?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 981,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/hellfire?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 982,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/what-do-you-fight-for?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 983,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/trigger?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 984,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/rock-parade?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 985,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/requiem?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 986,
+  },
+  {
+    url: "https://soundcloud.com/user-744542609/poke-mon-xy-friend-safari",
     answer: 987,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/crawl?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 988,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/the-name-of-heaven?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 989,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/the-kiss-of-death?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 990,
   },
   {
     url: "https://soundcloud.com/3p9onpybdq4e/boutique",
     answer: 991,
   },
   {
+    url: "https://soundcloud.com/yu-mcd/perfection-cant-please-me?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 992,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/drift?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 993,
+  },
+  {
     url: "https://soundcloud.com/iipurple-man/lookers-theme-pokemon-x-y",
     answer: 994,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/mirror-of-the-world?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 995,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/like-a-weed-naturally-as-a-matter-of-course?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 996,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/the-town-inside-me?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 997,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/the-hourglass?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 998,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/the-circle?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 999,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/the-gravity?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 1000,
   },
   {
     url: "https://soundcloud.com/bw2-187523711/head-it",
     answer: 1001,
   },
   {
+    url: "https://soundcloud.com/yu-mcd/just-lean?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 1002,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/extras?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 1003,
+  },
+  {
     url: "https://soundcloud.com/mk-starstorm-mkstarstorm/pokemon-x-and-y-super-training",
     answer: 1004,
   },
   {
+    url: "https://soundcloud.com/yu-mcd/symphony?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 1005,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/ups-and-downs?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 1006,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/radiant-dawn?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 1007,
+  },
+  {
     url: "https://soundcloud.com/bw2-187523711/a-poke-radar-hit",
     answer: 1008,
+  },
+  {
+    url: "https://soundcloud.com/yu-mcd/get-over-nightmares?in=yu-mcd/sets/guilty-gear-strive",
+    answer: 1009,
   },
   {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-wonder-trade",
