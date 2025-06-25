@@ -5533,6 +5533,176 @@ window.musicNameList = [
     fr: "Tableau du Classement - Guacamelee! 2",
   },
   {
+    id: 961,
+    en: "Smell of the Game (Opening) - Guilty Gear Strive",
+    fr: "Smell of the Game (Ouverture) - Guilty Gear Strive",
+  },
+  {
+    id: 962,
+    en: "Find Your One Way (Sol) - Guilty Gear Strive",
+    fr: "Find Your One Way (Sol) - Guilty Gear Strive",
+  },
+  {
+    id: 965,
+    en: "The Roar of the Spark (Ky) - Guilty Gear Strive",
+    fr: "The Roar of the Spark (Ky) - Guilty Gear Strive",
+  },
+  {
+    id: 966,
+    en: "The Disaster of Passion (May) - Guilty Gear Strive",
+    fr: "The Disaster of Passion (May) - Guilty Gear Strive",
+  },
+  {
+    id: 967,
+    en: "Out of the Box (Axl) - Guilty Gear Strive",
+    fr: "Out of the Box (Axl) - Guilty Gear Strive",
+  },
+  {
+    id: 969,
+    en: "Play the Hero (Chipp) - Guilty Gear Strive",
+    fr: "Play the Hero (Chipp) - Guilty Gear Strive",
+  },
+  {
+    id: 970,
+    en: "Armor-clad Faith (Potemkin) - Guilty Gear Strive",
+    fr: "Armor-clad Faith (Potemkin) - Guilty Gear Strive",
+  },
+  {
+    id: 971,
+    en: "Alone Infection (Faust) - Guilty Gear Strive",
+    fr: "Alone Infection (Faust) - Guilty Gear Strive",
+  },
+  {
+    id: 979,
+    en: "Love the Subhuman Self (Millia) - Guilty Gear Strive",
+    fr: "Love the Subhuman Self (Millia) - Guilty Gear Strive",
+  },
+  {
+    id: 980,
+    en: "Let Me Carve Your Way (Zato) - Guilty Gear Strive",
+    fr: "Let Me Carve Your Way (Zato) - Guilty Gear Strive",
+  },
+  {
+    id: 981,
+    en: "Necessary Discrepancy (Ramlethal) - Guilty Gear Strive",
+    fr: "Necessary Discrepancy (Ramlethal) - Guilty Gear Strive",
+  },
+  {
+    id: 982,
+    en: "Hellfire (Leo) - Guilty Gear Strive",
+    fr: "Hellfire (Leo) - Guilty Gear Strive",
+  },
+  {
+    id: 983,
+    en: "What do you fight for (Nagoriyuki) - Guilty Gear Strive",
+    fr: "What do you fight for (Nagoriyuki) - Guilty Gear Strive",
+  },
+  {
+    id: 984,
+    en: "Trigger (Giovanna) - Guilty Gear Strive",
+    fr: "Trigger (Giovanna) - Guilty Gear Strive",
+  },
+  {
+    id: 985,
+    en: "Rock Parade (Anji) - Guilty Gear Strive",
+    fr: "Rock Parade (Anji) - Guilty Gear Strive",
+  },
+  {
+    id: 986,
+    en: "Requiem (I-No) - Guilty Gear Strive",
+    fr: "Requiem (I-No) - Guilty Gear Strive",
+  },
+  {
+    id: 988,
+    en: "Crawl (Arcade Mode Boss) - Guilty Gear Strive",
+    fr: "Crawl (Boss Mode Arcade) - Guilty Gear Strive",
+  },
+  {
+    id: 989,
+    en: "The Name of Heaven  (Arcade Ending) - Guilty Gear Strive",
+    fr: "The Name of Heaven (Fin Arcade) - Guilty Gear Strive",
+  },
+  {
+    id: 990,
+    en: "The Kiss of Death (Goldlewis) - Guilty Gear Strive",
+    fr: "The Kiss of Death (Goldlewis) - Guilty Gear Strive",
+  },
+  {
+    id: 992,
+    en: "Perfection Can't Please Me (Jack-O) - Guilty Gear Strive",
+    fr: "Perfection Can't Please Me (Jack-O) - Guilty Gear Strive",
+  },
+  {
+    id: 993,
+    en: "Drift (Happy Chaos) - Guilty Gear Strive",
+    fr: "Drift (Happy Chaos) - Guilty Gear Strive",
+  },
+  {
+    id: 995,
+    en: "Mirror Of The World (Baiken) - Guilty Gear Strive",
+    fr: "Mirror Of The World (Baiken) - Guilty Gear Strive",
+  },
+  {
+    id: 996,
+    en: "Like A Weed Naturally As A Matter Of Course (Testament) - Guilty Gear Strive",
+    fr: "Like A Weed Naturally As A Matter Of Course (Testament) - Guilty Gear Strive",
+  },
+  {
+    id: 997,
+    en: "The Town Inside Me (Bridget) - Guilty Gear Strive",
+    fr: "The Town Inside Me (Bridget) - Guilty Gear Strive",
+  },
+  {
+    id: 998,
+    en: "The Hourglass (Sin Kiske) - Guilty Gear Strive",
+    fr: "The Hourglass (Sin Kiske) - Guilty Gear Strive",
+  },
+  {
+    id: 999,
+    en: "The Circle (Bedman?) - Guilty Gear Strive",
+    fr: "The Circle (Bedman?) - Guilty Gear Strive",
+  },
+  {
+    id: 1000,
+    en: "The Gravity (Asuka) - Guilty Gear Strive",
+    fr: "The Gravity (Asuka) - Guilty Gear Strive",
+  },
+  {
+    id: 1002,
+    en: "Just Lean (Johnny) - Guilty Gear Strive",
+    fr: "Just Lean (Johnny) - Guilty Gear Strive",
+  },
+  {
+    id: 1003,
+    en: "Extras (Elphelt) - Guilty Gear Strive",
+    fr: "Extras (Elphelt) - Guilty Gear Strive",
+  },
+  {
+    id: 1005,
+    en: "Symphony (A.B.A) - Guilty Gear Strive",
+    fr: "Symphony (A.B.A) - Guilty Gear Strive",
+  },
+  {
+    id: 1006,
+    en: "Ups And Downs (Slayer) - Guilty Gear Strive",
+    fr: "Ups And Downs (Slayer) - Guilty Gear Strive",
+  },
+  {
+    id: 1007,
+    en: "Radiant Dawn (Queen Dizzy) - Guilty Gear Strive",
+    fr: "Radiant Dawn (Queen Dizzy) - Guilty Gear Strive",
+  },
+  {
+    id: 1009,
+    en: "Get Over Nightmares (Ky & Sin) - Guilty Gear Strive",
+    fr: "Get Over Nightmares (Ky & Sin) - Guilty Gear Strive",
+  },
+  {
+    id: 1010,
+    en: "A Tenth of Myself (Venom) - Guilty Gear Strive",
+    fr: "A Tenth of Myself (Venom) - Guilty Gear Strive",
+  },
+  {
     id: 2769,
     en: "No Escape - Hades",
     fr: "No Escape - Hades",
