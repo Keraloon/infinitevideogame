@@ -3844,11 +3844,11 @@ window.musicListWithLinks = [
     answer: 960,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/smell-of-the-game-new-guilty-gear-promotion-music?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/smell-of-the-game-new-guilty-gear-promotion-music",
     answer: 961,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/find-your-one-way?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/find-your-one-way",
     answer: 962,
   },
   {
@@ -3860,15 +3860,15 @@ window.musicListWithLinks = [
     answer: 964,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/the-roar-of-the-spark?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/the-roar-of-the-spark",
     answer: 965,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/the-disaster-of-passion?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/the-disaster-of-passion",
     answer: 966,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/out-of-the-box?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/out-of-the-box",
     answer: 967,
   },
   {
@@ -3876,15 +3876,15 @@ window.musicListWithLinks = [
     answer: 968,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/fight-like-a-tiger?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/fight-like-a-tiger",
     answer: 969,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/society?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/society",
     answer: 970,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/colors?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/colors",
     answer: 971,
   },
   {
@@ -3916,35 +3916,35 @@ window.musicListWithLinks = [
     answer: 978,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/love-the-subhuman-self?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/love-the-subhuman-self",
     answer: 979,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/let-me-carve-your-way?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/let-me-carve-your-way",
     answer: 980,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/necessary-discrepancy?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/necessary-discrepancy",
     answer: 981,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/hellfire?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/hellfire",
     answer: 982,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/what-do-you-fight-for?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/what-do-you-fight-for",
     answer: 983,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/trigger?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/trigger",
     answer: 984,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/rock-parade?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/rock-parade",
     answer: 985,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/requiem?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/requiem",
     answer: 986,
   },
   {
@@ -3952,15 +3952,15 @@ window.musicListWithLinks = [
     answer: 987,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/crawl?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/crawl",
     answer: 988,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/the-name-of-heaven?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/the-name-of-heaven",
     answer: 989,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/the-kiss-of-death?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/the-kiss-of-death",
     answer: 990,
   },
   {
@@ -3968,11 +3968,11 @@ window.musicListWithLinks = [
     answer: 991,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/perfection-cant-please-me?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/perfection-cant-please-me",
     answer: 992,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/drift?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/drift",
     answer: 993,
   },
   {
@@ -3980,27 +3980,27 @@ window.musicListWithLinks = [
     answer: 994,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/mirror-of-the-world?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/mirror-of-the-world",
     answer: 995,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/like-a-weed-naturally-as-a-matter-of-course?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/like-a-weed-naturally-as-a-matter-of-course",
     answer: 996,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/the-town-inside-me?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/the-town-inside-me",
     answer: 997,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/the-hourglass?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/the-hourglass",
     answer: 998,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/the-circle?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/the-circle",
     answer: 999,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/the-gravity?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/the-gravity",
     answer: 1000,
   },
   {
@@ -4008,11 +4008,11 @@ window.musicListWithLinks = [
     answer: 1001,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/just-lean?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/just-lean",
     answer: 1002,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/extras?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/extras",
     answer: 1003,
   },
   {
@@ -4020,15 +4020,15 @@ window.musicListWithLinks = [
     answer: 1004,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/symphony?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/symphony",
     answer: 1005,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/ups-and-downs?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/ups-and-downs",
     answer: 1006,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/radiant-dawn?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/radiant-dawn",
     answer: 1007,
   },
   {
@@ -4036,8 +4036,12 @@ window.musicListWithLinks = [
     answer: 1008,
   },
   {
-    url: "https://soundcloud.com/yu-mcd/get-over-nightmares?in=yu-mcd/sets/guilty-gear-strive",
+    url: "https://soundcloud.com/yu-mcd/get-over-nightmares",
     answer: 1009,
+  },
+  {
+    url: "https://soundcloud.com/user-226969133/a-tenth-of-myself",
+    answer: 1010,
   },
   {
     url: "https://soundcloud.com/user-744542609/poke-mon-xy-wonder-trade",
