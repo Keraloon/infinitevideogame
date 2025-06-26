@@ -22062,7 +22062,7 @@ window.musicNameList = [
   {
     id: 3409,
     en: "Empress Of Light - Terraria",
-    fr: "Impératrice de Lumière : Terraria",
+    fr: "Impératrice de Lumière - Terraria",
   },
   {
     id: 3410,
