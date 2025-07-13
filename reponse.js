@@ -288,7 +288,7 @@ window.musicListWithLinks = [
     answer: 71,
   },
   {
-    url: "https://soundcloud.com/user-675036643/pokemon-firered-and-404769877",
+    url: "https://soundcloud.com/sv-dlc2/pewter-city-theme-pokemon-firered-leafgreen",
     answer: 72,
   },
   {
