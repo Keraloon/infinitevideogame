@@ -460,7 +460,7 @@ window.musicListWithLinks = [
     answer: 114,
   },
   {
-    url: "https://soundcloud.com/robokdt/lake-caverns",
+    url: "https://soundcloud.com/sv-dlc2/lake-caverns-pokemon-diamond-pearl",
     answer: 115,
   },
   {
