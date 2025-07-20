@@ -4112,12 +4112,36 @@ window.musicListWithLinks = [
     answer: 1027,
   },
   {
+    url: "https://soundcloud.com/user-227502204-594364584/mario-kart-64-theme",
+    answer: 1028,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/setup-kart-select",
+    answer: 1029,
+  },
+  {
     url: "https://soundcloud.com/user-881529531/route-104-pokemon-omega-ruby",
     answer: 1030,
   },
   {
     url: "https://soundcloud.com/user-881529531/dewford-town-pokemon-omega",
     answer: 1031,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/wario-stadium",
+    answer: 1032,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/moo-moo-farm-yoshi-valley",
+    answer: 1033,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/koopa-troopa-beach",
+    answer: 1034,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/banshee-boardwalk",
+    answer: 1035,
   },
   {
     url: "https://soundcloud.com/user-881529531/wallys-theme-pokemon-omega",
@@ -4136,12 +4160,40 @@ window.musicListWithLinks = [
     answer: 1039,
   },
   {
+    url: "https://soundcloud.com/user-227502204-594364584/kalimari-desert",
+    answer: 1040,
+  },
+  {
     url: "https://soundcloud.com/user-881529531/oceanic-museum-pokemon-omega",
     answer: 1041,
   },
   {
+    url: "https://soundcloud.com/user-227502204-594364584/dks-jungle-parkway",
+    answer: 1042,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/toads-turnpike",
+    answer: 1043,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/rainbow-road-1",
+    answer: 1044,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/bowsers-castle",
+    answer: 1045,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/choco-mountain-battle-arenas",
+    answer: 1046,
+  },
+  {
     url: "https://soundcloud.com/user-881529531/slateport-city-pokemon-omega",
     answer: 1047,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/battle-arenas",
+    answer: 1048,
   },
   {
     url: "https://soundcloud.com/user-881529531/bicycle-pokemon-omega-ruby",
