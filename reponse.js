@@ -1408,7 +1408,7 @@ window.musicListWithLinks = [
     answer: 351,
   },
   {
-    url: "https://soundcloud.com/7hesickest/pokemon-diamond-pearl-platinum-bicycle-music",
+    url: "https://soundcloud.com/kaleb-sikora/bicycle-dp",
     answer: 352,
   },
   {
@@ -1764,7 +1764,7 @@ window.musicListWithLinks = [
     answer: 440,
   },
   {
-    url: "https://soundcloud.com/mason-eller/pokemon-diamondpearlplatinum-battle-elite-four",
+    url: "https://soundcloud.com/kaleb-sikora/battle-the-elite-four-dp",
     answer: 441,
   },
   {
@@ -2504,7 +2504,7 @@ window.musicListWithLinks = [
     answer: 625,
   },
   {
-    url: "https://soundcloud.com/tirantbacon/hiveswap-act-1-ost-002-snake-escape",
+    url: "https://soundcloud.com/karkat-vantas-572064532/hiveswap-act-1-ost-snake-escape-track-2-hiveswap-act-1-soundtrack",
     answer: 626,
   },
   {
@@ -2516,7 +2516,7 @@ window.musicListWithLinks = [
     answer: 628,
   },
   {
-    url: "https://soundcloud.com/tirantbacon/table-for-tooth",
+    url: "https://soundcloud.com/karkat-vantas-572064532/hiveswap-act-1-ost-table-for-tooth-track-9-hiveswap-act-1-soundtrack",
     answer: 629,
   },
   {
@@ -2524,11 +2524,7 @@ window.musicListWithLinks = [
     answer: 630,
   },
   {
-    url: "https://soundcloud.com/tirantbacon/living-legend",
-    answer: 631,
-  },
-  {
-    url: "https://soundcloud.com/tirantbacon/final-spice",
+    url: "https://soundcloud.com/karkat-vantas-572064532/hiveswap-act-1-ost-10-final-spice",
     answer: 632,
   },
   {
@@ -4766,7 +4762,7 @@ window.musicListWithLinks = [
     answer: 1626,
   },
   {
-    url: "https://soundcloud.com/cypcyp77/pokemon-legends-arceus-wild-battle-theme",
+    url: "https://soundcloud.com/trevor-walton-136612129/pokemon-legends-arceus-wild",
     answer: 1628,
   },
   {
@@ -5739,7 +5735,7 @@ window.musicListWithLinks = [
     answer: 2111,
   },
   {
-    url: "https://soundcloud.com/meintheincel/amp-plains-pokemon-mystery-dungeon-explorers-of-time-darkness-sky",
+    url: "https://soundcloud.com/sento2/amp-plains",
     answer: 2112,
   },
   {
@@ -6940,7 +6936,7 @@ window.musicListWithLinks = [
     answer: 2460,
   },
   {
-    url: "https://soundcloud.com/lol-shiny-big-fat/yooh-heracles-ex",
+    url: "https://soundcloud.com/user-416504684/heracles-extended-adofai",
     answer: 2461,
   },
   {
@@ -8245,7 +8241,7 @@ window.musicListWithLinks = [
     answer: 2806,
   },
   {
-    url: "https://soundcloud.com/user-223498532/f-zero-ost-silence",
+    url: "https://soundcloud.com/moogle-knights-3-try-hard/telu-best-falcon-eu-noraj-killu",
     answer: 2807,
   },
   {
@@ -8589,7 +8585,7 @@ window.musicListWithLinks = [
     answer: 2895,
   },
   {
-    url: "https://soundcloud.com/lunooki/ramen-bowl-super-smash-bros-ultimate",
+    url: "https://soundcloud.com/jamminjamsmusic/arms-ramen-bowl",
     answer: 2896,
   },
   {
@@ -9529,11 +9525,11 @@ window.musicListWithLinks = [
    answer: 3132,
   },
   {
-    url: "https://soundcloud.com/megawoofy/minish-village-the-minish-cap",
+    url: "https://soundcloud.com/user485151016/minish-village-the-legend-of",
     answer: 3133,
   },
   {
-    url: "https://soundcloud.com/megawoofy/boss-the-minish-cap-soundtrack",
+    url: "https://soundcloud.com/user616095954/the-legend-of-zelda-the-minish-cap-boss-battle",
     answer: 3134,
   },
   {
@@ -11802,51 +11798,47 @@ window.musicListWithLinks = [
     answer: 3712,
   },
   {
-    url: "https://soundcloud.com/user-675036643/title-bgm",
+    url: "https://soundcloud.com/vincent-thompson-763471057/1-title-bgm",
     answer: 3713,
   },
   {
-    url: "https://soundcloud.com/user-675036643/map-1-yoster-island",
+    url: "https://soundcloud.com/vincent-thompson-763471057/2-map-1-yoshi-039s-island",
     answer: 3714,
   },
   {
-    url: "https://soundcloud.com/user-675036643/map-2-overworld",
+    url: "https://soundcloud.com/vincent-thompson-763471057/3-map-2-overworld",
     answer: 3715,
   },
   {
-    url: "https://soundcloud.com/user-675036643/map-3-vanilla-dome",
+    url: "https://soundcloud.com/vincent-thompson-763471057/4-map-3-vanilla-dome",
     answer: 3716,
   },
   {
-    url: "https://soundcloud.com/user-675036643/map-5-forest-of-illusion",
+    url: "https://soundcloud.com/vincent-thompson-763471057/6-map-5-forest-of-illusion",
     answer: 3717,
   },
   {
-    url: "https://soundcloud.com/user-675036643/map-6-koopa-castle",
+    url: "https://soundcloud.com/vincent-thompson-763471057/8-map-6-koopa-castle",
     answer: 3718,
   },
   {
-    url: "https://soundcloud.com/user-675036643/overworld-bgm-1",
+    url: "https://soundcloud.com/vincent-thompson-763471057/10-overworld-bgm",
     answer: 3719,
   },
   {
-    url: "https://soundcloud.com/user-675036643/athletic-bgm-1",
+    url: "https://soundcloud.com/vincent-thompson-763471057/11-athletic-bgm",
     answer: 3720,
   },
   {
-    url: "https://soundcloud.com/user-675036643/haunted-house-bgm",
+    url: "https://soundcloud.com/vincent-thompson-763471057/14-haunted-house-bgm",
     answer: 3721,
   },
   {
-    url: "https://soundcloud.com/user-675036643/sub-castle-bgm",
-    answer: 3722,
-  },
-  {
-    url: "https://soundcloud.com/user-675036643/koopa-junior-bgm",
+    url: "https://soundcloud.com/vincent-thompson-763471057/20-koopa-junior-bgm",
     answer: 3723,
   },
   {
-    url: "https://soundcloud.com/user-675036643/the-evil-king-koopa-bgm",
+    url: "https://soundcloud.com/vincent-thompson-763471057/26-the-evil-king-koopa-bgm",
     answer: 3724,
   },
   {
@@ -12306,7 +12298,7 @@ window.musicListWithLinks = [
     answer: 3841,
   },
   {
-    url: "https://soundcloud.com/user-675036643/super-mario-sunshine-ost-hotel",
+    url: "https://soundcloud.com/user-667082446/super-mario-sunshine-hotel-delfino",
     answer: 3842,
   },
   {
@@ -14526,7 +14518,7 @@ window.musicListWithLinks = [
     answer: 4445,
   },
   {
-    url: "https://soundcloud.com/astralstasis/scootin-through-clocktowers-beneath-the-sea-a-hat-in-time",
+    url: "https://soundcloud.com/user-456666150-229330530/scootin-through-clocktowers",
     answer: 4446,
   },
   {
@@ -14802,8 +14794,8 @@ window.musicListWithLinks = [
     answer: 4544,
   },
   {
-    url: "https://soundcloud.com/vgmplanet/14-strange-world",
-    //answer: 4545,
+    url: "https://soundcloud.com/vgminfiniteheardle/dragon-warrior-monsters-06-its",
+    answer: 4545,
   },
   {
     url: "https://soundcloud.com/negativeneon/slival-battle-dragon-quest-heroes-rocket-slime",
@@ -16170,7 +16162,7 @@ window.musicListWithLinks = [
     answer: 4913,
   },
   {
-    url: "https://soundcloud.com/kjelloman/bamboo-island-the-legend-of-zelda-skyward-swordgui",
+    url: "https://soundcloud.com/kjelloman/bamboo-island-the-legend-of-zelda-skyward-sword",
     answer: 4914,
   },
   {
