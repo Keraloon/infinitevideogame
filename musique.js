@@ -12770,8 +12770,8 @@ window.musicNameList = [
   },
   {
     id: 1384,
-    en: "Max Raid Capture - Pokémon Sword/Shield",
-    fr: "Capture en Raid Dynamax - Pokémon Épée/Bouclier",
+    en: "Max Raid Capture/Victory - Pokémon Sword/Shield",
+    fr: "Victoire/Capture en Raid Dynamax - Pokémon Épée/Bouclier",
   },
   {
     id: 1389,
