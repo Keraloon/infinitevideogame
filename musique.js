@@ -2241,6 +2241,71 @@ window.musicNameList = [
     fr: "Fight for the Win (Ono Puncho) - Clair Obscur: Expedition 33",
   },
   {
+    id: 631,
+    en: "Epoch - Cobalt Core",
+    fr: "Epoch - Cobalt Core",
+  },
+  {
+    id: 1013,
+    en: "DT - Cobalt Core",
+    fr: "DT - Cobalt Core",
+  },
+  {
+    id: 1014,
+    en: "Mean Machine (Intro) - Cobalt Core",
+    fr: "Mean Machine (Intro) - Cobalt Core",
+  },
+  {
+    id: 1017,
+    en: "Mean Machine - Cobalt Core",
+    fr: "Mean Machine - Cobalt Core",
+  },
+  {
+    id: 1018,
+    en: "Lawless - Cobalt Core",
+    fr: "Lawless - Cobalt Core",
+  },
+  {
+    id: 1019,
+    en: "Shop - Cobalt Core",
+    fr: "Shop - Cobalt Core",
+  },
+  {
+    id: 1020,
+    en: "Aqua - Cobalt Core",
+    fr: "Aqua - Cobalt Core",
+  },
+  {
+    id: 1022,
+    en: "Self-Defense - Cobalt Core",
+    fr: "Self-Defense - Cobalt Core",
+  },
+  {
+    id: 1023,
+    en: "Gravity Well - Cobalt Core",
+    fr: "Gravity Well - Cobalt Core",
+  },
+  {
+    id: 1024,
+    en: "Defiance - Cobalt Core",
+    fr: "Defiance - Cobalt Core",
+  },
+  {
+    id: 1025,
+    en: "Weird Foe - Cobalt Core",
+    fr: "Weird Foe - Cobalt Core",
+  },
+  {
+    id: 1026,
+    en: "Polytrope - Cobalt Core",
+    fr: "Polytrope - Cobalt Core",
+  },
+  {
+    id: 1027,
+    en: "Beneath A Birchen Moon - Cobalt Core",
+    fr: "Beneath A Birchen Moon - Cobalt Core",
+  },
+  {
     id: 3124,
     en: "Main Theme - Code Vein",
     fr: "Thème Principal - Code Vein",
