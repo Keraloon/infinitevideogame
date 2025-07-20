@@ -2524,6 +2524,10 @@ window.musicListWithLinks = [
     answer: 630,
   },
   {
+    url: "https://soundcloud.com/maxisdoingwell/epoch",
+    answer: 631,
+  },
+  {
     url: "https://soundcloud.com/karkat-vantas-572064532/hiveswap-act-1-ost-10-final-spice",
     answer: 632,
   },
@@ -4048,6 +4052,14 @@ window.musicListWithLinks = [
     answer: 1012,
   },
   {
+    url: "https://soundcloud.com/maxisdoingwell/dt",
+    answer: 1013,
+  },
+  {
+    url: "https://soundcloud.com/maxisdoingwell/mean-machine-intro",
+    answer: 1014,
+  },
+  {
     url: "https://soundcloud.com/user-881529531/professor-birchs-laboratory",
     answer: 1015,
   },
@@ -4056,8 +4068,48 @@ window.musicListWithLinks = [
     answer: 1016,
   },
   {
+    url: "https://soundcloud.com/maxisdoingwell/mean-machine",
+    answer: 1017,
+  },
+  {
+    url: "https://soundcloud.com/maxisdoingwell/lawless",
+    answer: 1018,
+  },
+  {
+    url: "https://soundcloud.com/maxisdoingwell/shop",
+    answer: 1019,
+  },
+  {
+    url: "https://soundcloud.com/maxisdoingwell/aqua",
+    answer: 1020,
+  },
+  {
     url: "https://soundcloud.com/user-881529531/oldale-town-pokemon-omega-ruby",
     answer: 1021,
+  },
+  {
+    url: "https://soundcloud.com/maxisdoingwell/self-defense",
+    answer: 1022,
+  },
+  {
+    url: "https://soundcloud.com/maxisdoingwell/gravity-well",
+    answer: 1023,
+  },
+  {
+    url: "https://soundcloud.com/maxisdoingwell/defiance",
+    answer: 1024,
+  },
+  {
+    url: "https://soundcloud.com/maxisdoingwell/weird-foe",
+    answer: 1025,
+  },
+  {
+    url: "https://soundcloud.com/maxisdoingwell/polytrope",
+    answer: 1026,
+  },
+  {
+    url: "https://soundcloud.com/maxisdoingwell/beneath-a-birchen-moon",
+    answer: 1027,
   },
   {
     url: "https://soundcloud.com/user-881529531/route-104-pokemon-omega-ruby",
