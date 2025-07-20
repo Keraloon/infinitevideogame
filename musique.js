@@ -20519,6 +20519,71 @@ window.musicNameList = [
     fr: "Au Dessus des Nuages - Super Mario Odyssey",
   },
   {
+    id: 1028,
+    en: "Title Screen - Mario Kart 64",
+    fr: "Ecran Titre - Mario Kart 64",
+  },
+  {
+    id: 1029,
+    en: "Select Screen - Mario Kart 64",
+    fr: "Ecran de Sélection - Mario Kart 64",
+  },
+  {
+    id: 1032,
+    en: "Mario/Luigi/Royal Raceway & Wario Stadium - Mario Kart 64",
+    fr: "Autodrome Luigi/Mario/Royal & Stade Wario - Mario Kart 64",
+  },
+  {
+    id: 1033,
+    en: "Moo Moo Farm & Yoshi Valley - Mario Kart 64",
+    fr: "Ferme Meuh Meuh & Vallée Yoshi - Mario Kart 64",
+  },
+  {
+    id: 1034,
+    en: "Koopa Troopa Beach - Mario Kart 64",
+    fr: "Plage Koopa - Mario Kart 64",
+  },
+  {
+    id: 1035,
+    en: "Banshee Boardwalk - Mario Kart 64",
+    fr: "Ponton Lugubre - Mario Kart 64",
+  },
+  {
+    id: 1040,
+    en: "Kalimari Desert - Mario Kart 64",
+    fr: "Désert Kalimari - Mario Kart 64",
+  },
+  {
+    id: 1042,
+    en: "DK's Jungle Parkway - Mario Kart 64",
+    fr: "Jungle DK - Mario Kart 64",
+  },
+  {
+    id: 1043,
+    en: "Toad's Turnpike - Mario Kart 64",
+    fr: "Autoroute Toad - Mario Kart 64",
+  },
+  {
+    id: 1044,
+    en: "Rainbow Road - Mario Kart 64",
+    fr: "Route Arc-En-Ciel - Mario Kart 64",
+  },
+  {
+    id: 1045,
+    en: "Bowser's Castle - Mario Kart 64",
+    fr: "Château de Bowser - Mario Kart 64",
+  },
+  {
+    id: 1046,
+    en: "Choco Mountain - Mario Kart 64",
+    fr: "Montagne Choco - Mario Kart 64",
+  },
+  {
+    id: 1048,
+    en: "Battle Arenas - Mario Kart 64",
+    fr: "Arènes de Bataille - Mario Kart 64",
+  },
+  {
     id: 3793,
     en: "Main Menu - Mario Kart DS",
     fr: "Menu Principal - Mario Kart DS",
