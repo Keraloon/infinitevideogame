@@ -5918,11 +5918,6 @@ window.musicNameList = [
     fr: "That's How I Beat Snake - Hiveswap",
   },
   {
-    id: 631,
-    en: "Living Legend - Hiveswap",
-    fr: "Living Legend - Hiveswap",
-  },
-  {
     id: 632,
     en: "Final Spice - Hiveswap",
     fr: "Final Spice - Hiveswap",
@@ -20107,11 +20102,6 @@ window.musicNameList = [
     id: 3721,
     en: "Haunted House - Super Mario World",
     fr: "Maison Hantée - Super Mario World",
-  },
-  {
-    id: 3722,
-    en: "Fortress - Super Mario World",
-    fr: "Forteresse - Super Mario World",
   },
   {
     id: 3723,
