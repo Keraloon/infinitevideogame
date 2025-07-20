@@ -12794,11 +12794,6 @@ window.musicNameList = [
     fr: "Combat! (Travis) - Pokémon Épée/Bouclier",
   },
   {
-    id: 1399,
-    en: "The Secret Of Stow-On-Side's Mural (Galar Legends) - Pokémon Sword/Shield",
-    fr: "Le secret de la fresque d'Old Chister (Légendes de Galar) - Pokémon Épée/Bouclier",
-  },
-  {
     id: 1405,
     en: "Battle! (Gym Leader) - Pokémon Sword/Shield",
     fr: "Combat! (Champion d'Arène) - Pokémon Épée/Bouclier",
@@ -12822,6 +12817,11 @@ window.musicNameList = [
     id: 1418,
     en: "Stow-On-Side - Pokémon Sword/Shield",
     fr: "Old Chister - Pokémon Épée/Bouclier",
+  },
+   {
+    id: 1399,
+    en: "The Secret Of Stow-On-Side's Mural/Truth of the Ruins (Galar Legends) - Pokémon Sword/Shield",
+    fr: "Le secret de la fresque d'Old Chister/La vérité sur les ruines (Légendes de Galar) - Pokémon Épée/Bouclier",
   },
   {
     id: 1419,
