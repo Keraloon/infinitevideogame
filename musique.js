@@ -12709,6 +12709,21 @@ window.musicNameList = [
     fr: "Générique de fin - Pokémon Let's Go, Pikachu/Évoli",
   },
   {
+    id: 1049,
+    en: "Title Screen - Pokémon Sword/Shield",
+    fr: "Ecran Titre - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1050,
+    en: "Postwick - Pokémon Sword/Shield",
+    fr: "Paddoxton - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1052,
+    en: "Hop's Theme - Pokémon Sword/Shield",
+    fr: "Thème de Nabil - Pokémon Épée/Bouclier",
+  },
+  {
     id: 1364,
     en: "Route 1/2 - Pokémon Sword/Shield",
     fr: "Route 1/2 - Pokémon Épée/Bouclier",
@@ -12754,9 +12769,54 @@ window.musicNameList = [
     fr: "Centre Pokémon - Pokémon Épée/Bouclier",
   },
   {
+    id: 1053,
+    en: "Wild Area Station - Pokémon Sword/Shield",
+    fr: "Gare des Terres Sauvages - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1054,
+    en: "Wild Area (South) - Pokémon Sword/Shield",
+    fr: "Terres Sauvages (Sud) - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1055,
+    en: "Let's Make Curry! - Pokémon Sword/Shield",
+    fr: "Préparons du Curry! - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1056,
+    en: "Motostoke - Pokémon Sword/Shield",
+    fr: "Motorby - Pokémon Épée/Bouclier",
+  },
+  {
     id: 1376,
     en: "Boutique (Shop Music) - Pokémon Sword/Shield",
     fr: "Magasin de vêtements - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1058,
+    en: "Legends of History - Pokémon Sword/Shield",
+    fr: "Légendes de l'histoire - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1059,
+    en: "Team Yell Appears! - Pokémon Sword/Shield",
+    fr: "La Team Yell apparaît! - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1060,
+    en: "Gym Challenge Opening Ceremony - Pokémon Sword/Shield",
+    fr: "Cérémonie d'ouverture du Défi des Arènes - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1061,
+    en: "Chairman Rose's Theme - Pokémon Sword/Shield",
+    fr: "Thème du Président Shehroz - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1062,
+    en: "Route 3/4/5/Motostoke Outskirts - Pokémon Sword/Shield",
+    fr: "Route 3/4/5/Abords de Motorby - Pokémon Épée/Bouclier",
   },
   {
     id: 1377,
@@ -12767,6 +12827,11 @@ window.musicNameList = [
     id: 1379,
     en: "Battle! (Trainer) - Pokémon Sword/Shield",
     fr: "Combat! (Dresseur) - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1063,
+    en: "Galar Mines - Pokémon Sword/Shield",
+    fr: "Mines de Galar - Pokémon Épée/Bouclier",
   },
   {
     id: 1384,
@@ -12794,9 +12859,29 @@ window.musicNameList = [
     fr: "Combat! (Travis) - Pokémon Épée/Bouclier",
   },
   {
+    id: 1066,
+    en: "Trainers' Eyes Meet! (Pokémon Breeder) - Pokémon Sword/Shield",
+    fr: "Rencontre avec un Dresseur (Éleveur/Éleveuse) - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1069,
+    en: "Turffield - Pokémon Sword/Shield",
+    fr: "Greenbury - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1070,
+    en: "Trainers' Eyes Meet! (Gym Trainer) - Pokémon Sword/Shield",
+    fr: "Rencontre avec un Dresseur (Dresseur d'Arène) - Pokémon Épée/Bouclier",
+  },
+  {
     id: 1405,
     en: "Battle! (Gym Leader) - Pokémon Sword/Shield",
     fr: "Combat! (Champion d'Arène) - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1071,
+    en: "Hulbury - Pokémon Sword/Shield",
+    fr: "Skifford - Pokémon Épée/Bouclier",
   },
   {
     id: 1410,
@@ -12814,6 +12899,16 @@ window.musicNameList = [
     fr: "Kickenham - Pokémon Épée/Bouclier",
   },
   {
+    id: 1072,
+    en: "Salon - Pokémon Sword/Shield",
+    fr: "Salon Salle à Mèches - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1073,
+    en: "Trainers' Eyes Meet! (Artist) - Pokémon Sword/Shield",
+    fr: "Rencontre avec un Dresseur (Artiste) - Pokémon Épée/Bouclier",
+  },
+  {
     id: 1418,
     en: "Stow-On-Side - Pokémon Sword/Shield",
     fr: "Old Chister - Pokémon Épée/Bouclier",
@@ -12829,6 +12924,16 @@ window.musicNameList = [
     fr: "Forêt de Lumirinth - Pokémon Épée/Bouclier",
   },
   {
+    id: 1074,
+    en: "Ballonlea - Pokémon Sword/Shield",
+    fr: "Corrifey - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1075,
+    en: "Circhester - Pokémon Sword/Shield",
+    fr: "Ludester - Pokémon Épée/Bouclier",
+  },
+  {
     id: 1422,
     en: "Spikemuth - Pokémon Sword/Shield",
     fr: "Smashings - Pokémon Épée/Bouclier",
@@ -12839,14 +12944,39 @@ window.musicNameList = [
     fr: "Combat! (Peterson le Champion d'Arène) - Pokémon Épée/Bouclier",
   },
   {
+    id: 1076,
+    en: "Route 10 - Pokémon Sword/Shield",
+    fr: "Route 10 - Pokémon Épée/Bouclier",
+  },
+  {
     id: 1425,
     en: "Wyndon - Pokémon Sword/Shield",
     fr: "Winscor - Pokémon Épée/Bouclier",
   },
   {
+    id: 1077,
+    en: "Wyndon Stadium - Pokémon Sword/Shield",
+    fr: "Stade de Winscor (Siège de la Ligue) - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1078,
+    en: "Decisive Battle! (Hop) - Pokémon Sword/Shield",
+    fr: "Combat décisif! (Nabil) - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1079,
+    en: "Rose Tower - Pokémon Sword/Shield",
+    fr: "Shehroz Tower - Pokémon Épée/Bouclier",
+  },
+  {
     id: 1432,
     en: "Battle! (Oleana) - Pokémon Sword/Shield",
     fr: "Combat! (Liv) - Pokémon Épée/Bouclier",
+  },
+  {
+    id: 1080,
+    en: "Final Tournament Begin! - Pokémon Sword/Shield",
+    fr: "Le tournoi final commence! - Pokémon Épée/Bouclier",
   },
   {
     id: 1433,
