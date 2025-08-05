@@ -4196,12 +4196,64 @@ window.musicListWithLinks = [
     answer: 1048,
   },
   {
+    url: "https://soundcloud.com/user-939541039/title-screen-pokemon-sword-and",
+    answer: 1049,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/postwick-pokemon-sword-and",
+    answer: 1050,
+  },
+  {
     url: "https://soundcloud.com/user-881529531/bicycle-pokemon-omega-ruby",
     answer: 1051,
   },
   {
+    url: "https://soundcloud.com/user-939541039/hops-theme-pokemon-sword-and",
+    answer: 1052,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/railway-station-pokemon-sword",
+    answer: 1053,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/wild-area-version-1-pokemon",
+    answer: 1054,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/1-25-lets-make-curry-pokemon",
+    answer: 1055,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/motostoke-pokemon-sword-and",
+    answer: 1056,
+  },
+  {
     url: "https://soundcloud.com/user-881529531/mt-chimney-pokemon-omega-ruby",
     answer: 1057,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/once-upon-a-time-pokemon-sword",
+    answer: 1058,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/team-yell-appears-pokemon",
+    answer: 1059,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/the-gym-challenge-pokemon",
+    answer: 1060,
+  },
+  {
+    url: "https://soundcloud.com/joremaster/chairman-rose-encounter-theme-pokemon-sword-shield",
+    answer: 1061,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/route-3-pokemon-sword-and",
+    answer: 1062,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/galar-mines-pokemon-sword-and",
+    answer: 1063,
   },
   {
     url: "https://soundcloud.com/user-881529531/surf-pokemon-omega-ruby-alpha",
@@ -4212,12 +4264,64 @@ window.musicListWithLinks = [
     answer: 1065,
   },
   {
+    url: "https://soundcloud.com/user-939541039/trainers-eyes-meet-farmer",
+    answer: 1066,
+  },
+  {
     url: "https://soundcloud.com/vinicius-machado-961615358/explosive-situation-red-or",
     answer: 1067,
   },
   {
     url: "https://soundcloud.com/user-881529531/fortree-city-pokemon-omega",
     answer: 1068,
+  },
+  {
+    url: "https://soundcloud.com/goldmatt/pokemon-sword-and-shield-turffield-ost",
+    answer: 1069,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/trainers-eyes-meet-gym-trainer",
+    answer: 1070,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/hulbury-pokemon-sword-and",
+    answer: 1071,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/salon-pokemon-sword-and-shield",
+    answer: 1072,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/trainers-eyes-meet-weird",
+    answer: 1073,
+  },
+  {
+    url: "https://soundcloud.com/diamondpearl-886539488/ballonea-town-pokemon-sword",
+    answer: 1074,
+  },
+  {
+    url: "https://soundcloud.com/savvychappie/circhester-poke-mon-sword-and",
+    answer: 1075,
+  },
+  {
+    url: "https://soundcloud.com/sv-dlc2/3-04-route-10-pokemon-sword",
+    answer: 1076,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/tournament-lobby-pokemon-sword",
+    answer: 1077,
+  },
+  {
+    url: "https://soundcloud.com/clockwork-259735541/hop-final-battle-pokemon-swordshield",
+    answer: 1078,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/storming-rose-tower-pokemon",
+    answer: 1079,
+  },
+  {
+    url: "https://soundcloud.com/user-939541039/tournament-opening-ceremony",
+    answer: 1080,
   },
   {
     url: "https://soundcloud.com/user-881529531/mt-pyre-outer-wall-pokemon",
