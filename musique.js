@@ -13009,6 +13009,16 @@ window.musicNameList = [
     fr: "Combat! (Tour de Combat) - Pokémon Épée/Bouclier",
   },
   {
+    id: 1081,
+    en: "Klara's Theme - Pokémon Sword/Shield (The Isle of Armor)",
+    fr: "Thème de Sophora - Pokémon Épée/Bouclier (L'île solitaire de l'Armure)",
+  },
+  {
+    id: 1083,
+    en: "Avery's Theme - Pokémon Sword/Shield (The Isle of Armor)",
+    fr: "Thème de Saturnin - Pokémon Épée/Bouclier (L'île solitaire de l'Armure)",
+  },
+  {
     id: 1453,
     en: "Battle! (Avery) - Pokémon Sword/Shield (The Isle of Armor)",
     fr: "Combat! (Saturnin) - Pokémon Épée/Bouclier (L'île solitaire de l'Armure)",
