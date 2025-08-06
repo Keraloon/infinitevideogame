@@ -4324,8 +4324,16 @@ window.musicListWithLinks = [
     answer: 1080,
   },
   {
+    url: "https://soundcloud.com/municipalsiren4-l/klaras-theme-pokemon-sword-and-shield-ost-isle-of-armor",
+    answer: 1081,
+  },
+  {
     url: "https://soundcloud.com/user-881529531/mt-pyre-outer-wall-pokemon",
     answer: 1082,
+  },
+  {
+    url: "https://soundcloud.com/municipalsiren4-l/averys-theme-pokemon-sword-and-shield-ost-isle-of-armor",
+    answer: 1083,
   },
   {
     url: "https://soundcloud.com/user-881529531/five-in-a-row-pokemon-omega",
