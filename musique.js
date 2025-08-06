@@ -13344,14 +13344,24 @@ window.musicNameList = [
     fr: "Rusti-Cité - Pokémon Légendes: Arceus",
   },
   {
+    id: 1096,
+    en: "Battle! (Person of Hisui) - Pokémon Legends: Arceus",
+    fr: "Combat! (Personne de Hisui) - Pokémon Légendes: Arceus",
+  },
+  {
     id: 1624,
-    en: "Galaxy Expedition Team HQ - Pokémon Legends: Arceus",
+    en: "Galaxy Hall/Expedition Team HQ - Pokémon Legends: Arceus",
     fr: "Siège Groupe Galaxie - Pokémon Légendes: Arceus",
   },
   {
     id: 1626,
     en: "Obsidian Fieldlands (1) - Pokémon Legends: Arceus",
     fr: "Plaines Obsidiennes (1) - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1097,
+    en: "Omen of a Battle/Spotted: 3 - Pokémon Legends: Arceus",
+    fr: "Menace d'un combat/Repéré: 3 - Pokémon Légendes: Arceus",
   },
   {
     id: 1628,
@@ -13362,6 +13372,16 @@ window.musicNameList = [
     id: 1633,
     en: "Battle! (Alpha Pokémon) - Pokémon Legends: Arceus",
     fr: "Combat! (Pokémon Baron) - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1099,
+    en: "Obsidian Fieldlands (2) - Pokémon Legends: Arceus",
+    fr: "Plaines Obsidiennes (2) - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1101,
+    en: "A Dangerous Situation! (Miss Fortunes) - Pokémon Legends: Arceus",
+    fr: "Les Détroussœurs - Pokémon Légendes: Arceus",
   },
   {
     id: 1638,
@@ -13384,9 +13404,49 @@ window.musicNameList = [
     fr: "Combat! (Pokémon monarque) - Pokémon Légendes: Arceus",
   },
   {
+    id: 1102,
+    en: "Target Practice - Pokémon Legends: Arceus",
+    fr: "Vise-et-Tire - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1106,
+    en: "Crimson Mirelands (1) - Pokémon Legends: Arceus",
+    fr: "Marais Carmin (1) - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1108,
+    en: "Crimson Mirelands (2) - Pokémon Legends: Arceus",
+    fr: "Marais Carmin (2) - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1109,
+    en: "Cobalt Coastlands (1) - Pokémon Legends: Arceus",
+    fr: "Côte Lazuli (1) - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1111,
+    en: "Cobalt Coastlands (2) - Pokémon Legends: Arceus",
+    fr: "Côte Lazuli (2) - Pokémon Légendes: Arceus",
+  },
+  {
     id: 1654,
     en: "Firespit Island - Pokémon Legends: Arceus",
     fr: "Île Crache-Feu - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1112,
+    en: "Courage/Palina's Theme - Pokémon Legends: Arceus",
+    fr: "Courage/Thème de Garana - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1113,
+    en: "Wayward Cave - Pokémon Legends: Arceus",
+    fr: "Grotte des Égarés - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1115,
+    en: "Battle! (Clan Warden) - Pokémon Legends: Arceus",
+    fr: "Combat! (Gardien) - Pokémon Légendes: Arceus",
   },
   {
     id: 1659,
@@ -13395,13 +13455,28 @@ window.musicNameList = [
   },
   {
     id: 1666,
-    en: "Disaster Looming - Pokémon Legends: Arceus",
-    fr: "De brusques changements - Pokémon Légendes: Arceus",
+    en: "Anomaly/Disaster Looming - Pokémon Legends: Arceus",
+    fr: "Anomalie/De brusques changements - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1122,
+    en: "Battle! (Dialga/Palkia) - Pokémon Legends: Arceus",
+    fr: "Combat! (Dialga/Palkia) - Pokémon Légendes: Arceus",
   },
   {
     id: 1673,
     en: "Battle! (Dialga/Palkia Origin Form) - Pokémon Legends: Arceus",
     fr: "Combat! (Dialga/Palkia Forme Originelle) - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1123,
+    en: "Omen of a Battle/Spotted: Legendary Pokémon - Pokémon Legends: Arceus",
+    fr: "Menace d'un combat/Repéré: Pokémon légendaire - Pokémon Légendes: Arceus",
+  },
+  {
+    id: 1124,
+    en: "Battle! (Legendary Pokémon) - Pokémon Legends: Arceus",
+    fr: "Combat! (Pokémon légendaire) - Pokémon Légendes: Arceus",
   },
   {
     id: 1676,
