@@ -4384,12 +4384,32 @@ window.musicListWithLinks = [
     answer: 1095,
   },
   {
+    url: "https://soundcloud.com/romualdus-jevon/battle-pokemon-wielder-pokemon-legends-arceus",
+    answer: 1096,
+  },
+  {
+    url: "https://soundcloud.com/diamondpearl-886539488/spotted-ver-3-pokemon-legends",
+    answer: 1097,
+  },
+  {
     url: "https://soundcloud.com/user-881529531/soaring-mirages-pokemon-omega",
     answer: 1098,
   },
   {
+    url: "https://soundcloud.com/iratina/obsidian-fieldlands-poke-mon",
+    answer: 1099,
+  },
+  {
     url: "https://soundcloud.com/user-881529531/ever-grande-city-pokemon-omega",
     answer: 1100,
+  },
+  {
+    url: "https://soundcloud.com/diamondpearl-886539488/trouble-miss-fortunes-pokemon",
+    answer: 1101,
+  },
+  {
+    url: "https://soundcloud.com/vgm-dosage/minigame-pokemon-legends-arceus-gamerip",
+    answer: 1102,
   },
   {
     url: "https://soundcloud.com/user-881529531/rivals-theme-wally-battle",
@@ -4404,16 +4424,44 @@ window.musicListWithLinks = [
     answer: 1105,
   },
   {
+    url: "https://soundcloud.com/iratina/crimson-mirelands-poke-mon",
+    answer: 1106,
+  },
+  {
     url: "https://soundcloud.com/lu-s-ant-nio-costa/battle-steven",
     answer: 1107,
+  },
+  {
+    url: "https://soundcloud.com/iratina/crimson-mirelands-2-poke-mon",
+    answer: 1108,
+  },
+  {
+    url: "https://soundcloud.com/iratina/cobalt-coastlands-poke-mon",
+    answer: 1109,
   },
   {
     url: "https://soundcloud.com/user-881529531/entering-the-hall-of-fame",
     answer: 1110,
   },
   {
+    url: "https://soundcloud.com/iratina/cobalt-coastland-2-poke-mon",
+    answer: 1111,
+  },
+  {
+    url: "https://soundcloud.com/the-togedemaster/pok-mon-legends-arceus-palina",
+    answer: 1112,
+  },
+  {
+    url: "https://soundcloud.com/vgm-dosage/wayward-cave-pokemon-legends-arceus",
+    answer: 1113,
+  },
+  {
     url: "https://soundcloud.com/vinicius-machado-961615358/those-who-inherit-eternity",
     answer: 1114,
+  },
+  {
+    url: "https://soundcloud.com/mimikyugacha-877/pokemon-legends-arceus-ost",
+    answer: 1115,
   },
   {
     url: "https://soundcloud.com/vinicius-machado-961615358/sky-pillar-pokemon-omega-ruby",
@@ -4435,10 +4483,21 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/vinicius-machado-961615358/per-aspera-ad-astra-pokemon",
     answer: 1120,
   },
-
   {
     url: "https://soundcloud.com/vinicius-machado-961615358/deoxys-battle-pokemon-omega",
     answer: 1121,
+  },
+  {
+    url: "https://soundcloud.com/iratina/battle-vs-dialga-palkia",
+    answer: 1122,
+  },
+  {
+    url: "https://soundcloud.com/jacob-morales-32/caution-legendary-pokemon",
+    answer: 1123,
+  },
+  {
+    url: "https://soundcloud.com/iratina/battle-vs-giratina-altered",
+    answer: 1124,
   },
   {
     url: "https://soundcloud.com/vinicius-machado-961615358/trick-house-pokemon-omega-ruby",
