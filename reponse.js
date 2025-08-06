@@ -4336,10 +4336,17 @@ window.musicListWithLinks = [
     answer: 1083,
   },
   {
+    url: "https://soundcloud.com/user-939541039/the-crown-tundra-pokemon-sword",
+    answer: 1084,
+  },
+  {
     url: "https://soundcloud.com/user-881529531/five-in-a-row-pokemon-omega",
     answer: 1085,
   },
-
+  {
+    url: "https://soundcloud.com/user-939541039/peonys-theme-pokemon-sword-and",
+    answer: 1086,
+  },
   {
     url: "https://soundcloud.com/user-881529531/dive-pokemon-omega-ruby-alpha",
     answer: 1087,
@@ -4349,12 +4356,20 @@ window.musicListWithLinks = [
     answer: 1088,
   },
   {
+    url: "https://soundcloud.com/user-939541039/freezington-pokemon-sword-and",
+    answer: 1089,
+  },
+  {
     url: "https://soundcloud.com/user-881529531/team-magma-aqua-leader-battle",
     answer: 1090,
   },
   {
     url: "https://soundcloud.com/user-881529531/drought-pokemon-omega-ruby",
     answer: 1091,
+  },
+  {
+    url: "https://soundcloud.com/diamondpearl-886539488/calyrexs-theme-pokemon-sword",
+    answer: 1092,
   },
   {
     url: "https://soundcloud.com/user-881529531/sootopolis-city-pokemon-omega",
