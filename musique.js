@@ -13044,6 +13044,16 @@ window.musicNameList = [
     fr: "Combat final! (Mustar) - Pokémon Épée/Bouclier (L'île solitaire de l'Armure)",
   },
   {
+    id: 1084,
+    en: "The Crown Tundra - Pokémon Sword/Shield (The Crown Tundra)",
+    fr: "Couronneige - Pokémon Épée/Bouclier (Les terres enneigées de la Couronne)",
+  },
+  {
+    id: 1086,
+    en: "Peony's Theme - Pokémon Sword/Shield (The Crown Tundra)",
+    fr: "Thème de Dhilan - Pokémon Épée/Bouclier (Les terres enneigées de la Couronne)",
+  },
+  {
     id: 1467,
     en: "Battle! (Peony) - Pokémon Sword/Shield (The Crown Tundra)",
     fr: "Combat! (Dhilan) - Pokémon Épée/Bouclier (Les terres enneigées de la Couronne)",
@@ -13062,6 +13072,16 @@ window.musicNameList = [
     id: 1470,
     en: "Battle! (Legendary Max Raid) - Pokémon Sword/Shield (The Crown Tundra)",
     fr: "Combat! (Raid Dynamax de Pokémon légendaire) - Pokémon Épée/Bouclier (Les terres enneigées de la Couronne)",
+  },
+  {
+    id: 1089,
+    en: "Freezington - Pokémon Sword/Shield (The Crown Tundra)",
+    fr: "Hameau Gelé - Pokémon Épée/Bouclier (Les terres enneigées de la Couronne)",
+  },
+  {
+    id: 1092,
+    en: "Calyrex's Theme/King of Bountiful Harvests - Pokémon Sword/Shield (The Crown Tundra)",
+    fr: "Thème de Sylveroy/Le Seigneur des récoltes - Pokémon Épée/Bouclier (Les terres enneigées de la Couronne)",
   },
   {
     id: 1472,
