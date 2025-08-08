@@ -1,4 +1,3 @@
-/* Réinitialisation globale */
 html,
 body {
   position: relative;
@@ -6,7 +5,6 @@ body {
   height: 100%;
 }
 
-/* Styles globaux pour le body */
 body {
   color: #333333;
   margin: 0;
@@ -16,7 +14,6 @@ body {
     Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
 
-/* Styles des liens */
 a {
   color: rgb(0, 100, 200);
   text-decoration: none;
@@ -30,7 +27,6 @@ a:visited {
   color: rgb(0, 80, 160);
 }
 
-/* Styles des éléments de formulaire */
 label {
   display: block;
 }
@@ -71,93 +67,133 @@ button:focus {
   border-color: #666666;
 }
 
-/* Styles spécifiques à l'audio player */
-#audio-player-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 20px;
-  margin: 20px;
-  border-radius: 10px;
-  background-color: #f2f2f2;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.15);
-}
 
-#player {
-  position: fixed;
-  top: 0;
-}
-
-/* Styles du curseur de volume */
-#volume-slider {
-  position: fixed;
-  left: 10px;
-  top: 50%;
-  transform: translateY(-50%) rotate(180deg);
-  width: 80px;
-  height: 25vh;
-  z-index: 1000;
-  writing-mode: vertical-rl;
-  -webkit-appearance: none;
-  appearance: none;
-  outline: none;
-  background: transparent; /* Couleur de fond du curseur */
-  border: none; /* Aucune bordure */
-  border-radius: 50%; /* Forme du curseur (ici, un cercle) */
-}
-
-#volume-slider::-webkit-slider-thumb {
-  -webkit-appearance: none;
-  width: 15px;
-  height: 15px;
-  background: #4caf50;
-  border-radius: 50%;
-  cursor: pointer;
-  transform: translateX(
-    21%
-  ); /* Ajustement pour centrer le curseur horizontalement */
-}
-
-#volume-slider::-webkit-slider-runnable-track {
-  width: 10%;
-  height: 4px; /* Hauteur de la piste */
-  background: #cccccc; /* Couleur de la piste */
-  border-radius: 2px; /* Coins arrondis de la piste */
-}
-
-/* Styles pour les résultats de l'autocomplétion */
 .auto-complete-results {
-  max-height: 450px; /* Ajustez la hauteur maximale selon vos besoins */
+  max-height: 450px;
   overflow-y: auto;
   border: 1px solid #cccccc;
   position: absolute;
   background-color: white;
-  z-index: 1000; /* Assurez-vous qu'il apparaît au-dessus des autres éléments */
+  z-index: 1000;
 }
 
-/* Propriétés personnalisées pour les résultats */
 resultslist: {
   class: "auto-complete-results";
-  noresults: true; /* ou une autre propriété dépendant de la bibliothèque */
+  noresults: true;
 }
 
 #retour {
-    font-size: 15px; /* Taille de la police */
-    background-color: #aa4444; /* Couleur de fond */
-    color: #ffffff; /* Couleur du texte pour un meilleur contraste */
-    cursor: pointer; /* Changer le curseur au survol */
-    border-style: inset; /* Style de la bordure */
-    border-color: #222222; /* Couleur de la bordure */
-    position: absolute; /* Positionnement absolu */
-    top: 20px; /* Ajustez cette valeur pour la position verticale */
-    left: 20px; /* Ajustez cette valeur pour la position horizontale */
-    z-index: 1000; /* Assurez-vous qu'il se trouve au-dessus d'autres éléments */
-}
-/* Effet de survol pour améliorer l'interaction */
-#access-blitz:hover {
-    background-color: #993333; /* Couleur de fond au survol */
+    font-size: 15px; 
+    background-color: #aa4444;
+    color: #ffffff;
+    cursor: pointer; 
+    border-style: inset; 
+    border-color: #222222; 
+    position: absolute; 
+    top: 20px; 
+    left: 20px; 
+    z-index: 1000; 
 }
 
 #retour:hover {
-    background-color: #aa3333; /* Couleur de fond au survol */
+    background-color: #aa3333;
+}
+
+
+.volume-control {
+  width: 100px;
+  position: relative;
+}
+ 
+.container {
+  display: grid;
+  gap: 10px;
+  align-items: center;
+}
+ 
+.container.with-volume {
+  grid-template-columns: 3fr 4fr 7fr 7fr;
+}
+ 
+.container.without-volume {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+ 
+.item1 {
+  grid-column: 1;
+}
+ 
+.item2 {
+  grid-column: 2;
+}
+ 
+.container.with-volume .item3 {
+  grid-column: 3;
+  justify-self: center;
+}
+ 
+.container.with-volume .item4 {
+  grid-column: 4;
+  justify-self: right;
+}
+ 
+.container.without-volume .item3 {
+  grid-column: 2;
+  justify-self: center;
+}
+ 
+.container.without-volume .item4 {
+  grid-column: 3;
+  justify-self: right;
+}
+ 
+.slider {
+  position: relative;
+  height: 10px;
+  background-color: grey;
+  border-radius: 2px;
+  cursor: pointer;
+}
+ 
+.slider-fill {
+  position: absolute;
+  height: 100%;
+  background-color: white;
+  border-radius: 2px;
+}
+ 
+.slider-thumb {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  cursor: pointer;
+}
+ 
+.slider:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 1px #d3d3d3;
+}
+[id^="autoComplete_list"] {
+max-height: 500px; /* Adjust this value as needed */
+overflow-y: auto;
+}
+[id^="autoComplete_list"]::-webkit-scrollbar {
+
+width: 15px;
+}
+[id^="autoComplete_list"]::-webkit-scrollbar-track {
+background: #555;
+
+}
+[id^="autoComplete_list"]::-webkit-scrollbar-thumb {
+background: #f1f1f1;
+}
+
+[id^="autoComplete_list"]::-webkit-scrollbar-thumb:hover {
+background: #888;
 }
