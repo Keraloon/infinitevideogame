@@ -1691,14 +1691,24 @@ window.musicNameList = [
     fr: "Evènements Etranges - Chrono Trigger",
   },
   {
-    id: 1130,
-    en: "Yearnings of the World - Chrono Trigger",
-    fr: "Aspirations du Monde - Chrono Trigger",
-  },
-  {
     id: 1131,
     en: "Secrets of the Forest - Chrono Trigger",
     fr: "Secrets de la Forêt - Chrono Trigger",
+  },
+  {
+    id: 1153,
+    en: "Battle (1) - Chrono Trigger",
+    fr: "Combat (1) - Chrono Trigger",
+  },
+  {
+    id: 1154,
+    en: "Silent Light/Light of Silence - Chrono Trigger",
+    fr: "Lumière Silencieuse - Chrono Trigger",
+  },
+  {
+    id: 1152,
+    en: "Boss Battle (1) - Chrono Trigger",
+    fr: "Combat de Boss (1) - Chrono Trigger",
   },
   {
     id: 1132,
@@ -1706,9 +1716,29 @@ window.musicNameList = [
     fr: "Thème de Frog (Gren) - Chrono Trigger",
   },
   {
+    id: 1156,
+    en: "Fanfare (1) - Chrono Trigger",
+    fr: "Fanfare (1) - Chrono Trigger",
+  },
+  {
     id: 1135,
     en: "The Trial - Chrono Trigger",
     fr: "L'Epreuve - Chrono Trigger",
+  },
+  {
+    id: 1158,
+    en: "Critical Moment/A Shot of Crisis/Danger - Chrono Trigger",
+    fr: "Moment Critique/Danger - Chrono Trigger",
+  },
+  {
+    id: 1159,
+    en: "Site 16 - Chrono Trigger",
+    fr: "Site 16 - Chrono Trigger",
+  },
+  {
+    id: 1160,
+    en: "Those Without the Will to Live/People Without Hope - Chrono Trigger",
+    fr: "Personnes Sans Espoir/Ceux sans Volonté de Vivre - Chrono Trigger",
   },
   {
     id: 1136,
@@ -1716,9 +1746,19 @@ window.musicNameList = [
     fr: "Thème de Lavos - Chrono Trigger",
   },
   {
+    id: 1168,
+    en: "The Last Day of the World - Chrono Trigger",
+    fr: "Le Dernier Jour du Monde - Chrono Trigger",
+  },
+  {
     id: 1138,
     en: "Johnny of the Robo Gang - Chrono Trigger",
     fr: "Johnny du Gang de Robo - Chrono Trigger",
+  },
+  {
+    id: 1161,
+    en: "Bike Chase - Chrono Trigger",
+    fr: "Poursuite à Moto - Chrono Trigger",
   },
   {
     id: 1140,
@@ -1726,9 +1766,9 @@ window.musicNameList = [
     fr: "Thème de Robo - Chrono Trigger",
   },
   {
-    id: 1154,
-    en: "Silent Light/Light of Silence - Chrono Trigger",
-    fr: "Lumière Silencieuse - Chrono Trigger",
+    id: 1162,
+    en: "Battle (2) - Chrono Trigger",
+    fr: "Combat (2) - Chrono Trigger",
   },
   {
     id: 1141,
@@ -1739,6 +1779,21 @@ window.musicNameList = [
     id: 1142,
     en: "Jolly Ol' Spekkio/Delightful Spekkio - Chrono Trigger",
     fr: "Bon Vieux Spekkio - Chrono Trigger",
+  },
+  {
+    id: 1163,
+    en: "Boss Battle (2) - Chrono Trigger",
+    fr: "Combat de Boss (2) - Chrono Trigger",
+  },
+  {
+    id: 1165,
+    en: "Primitive Mountain - Chrono Trigger",
+    fr: "Mont Etrange - Chrono Trigger",
+  },
+  {
+    id: 1166,
+    en: "Burn! Bobonga! Burn! - Chrono Trigger",
+    fr: "Brûle! Bobonga! Brûle! - Chrono Trigger",
   },
   {
     id: 1143,
@@ -1756,69 +1811,9 @@ window.musicNameList = [
     fr: "Sanctuaire Sous-Marin - Chrono Trigger",
   },
   {
-    id: 1159,
-    en: "Site 16 - Chrono Trigger",
-    fr: "Site 16 - Chrono Trigger",
-  },
-  {
-    id: 1160,
-    en: "Those Without the Will to Live/People Without Hope - Chrono Trigger",
-    fr: "Personnes Sans Espoir/Ceux sans Volonté de Vivre - Chrono Trigger",
-  },
-  {
-    id: 1161,
-    en: "Bike Chase - Chrono Trigger",
-    fr: "Poursuite à Moto - Chrono Trigger",
-  },
-  {
-    id: 1158,
-    en: "Critical Moment/A Shot of Crisis/Danger - Chrono Trigger",
-    fr: "Moment Critique/Danger - Chrono Trigger",
-  },
-  {
-    id: 1165,
-    en: "Primitive Mountain - Chrono Trigger",
-    fr: "Mont Etrange - Chrono Trigger",
-  },
-  {
-    id: 1166,
-    en: "Burn! Bobonga! Burn! - Chrono Trigger",
-    fr: "Brûle! Bobonga! Brûle! - Chrono Trigger",
-  },
-  {
     id: 1167,
     en: "Epoch : Wings of Time - Chrono Trigger",
     fr: "Epoch : Ailes du Temps - Chrono Trigger",
-  },
-  {
-    id: 1168,
-    en: "The Last Day of the World - Chrono Trigger",
-    fr: "Le Dernier Jour du Monde - Chrono Trigger",
-  },
-  {
-    id: 1153,
-    en: "Battle (1) - Chrono Trigger",
-    fr: "Combat (1) - Chrono Trigger",
-  },
-  {
-    id: 1162,
-    en: "Battle (2) - Chrono Trigger",
-    fr: "Combat (2) - Chrono Trigger",
-  },
-  {
-    id: 1152,
-    en: "Boss Battle (1) - Chrono Trigger",
-    fr: "Combat de Boss (1) - Chrono Trigger",
-  },
-  {
-    id: 1163,
-    en: "Boss Battle (2) - Chrono Trigger",
-    fr: "Combat de Boss (2) - Chrono Trigger",
-  },
-  {
-    id: 1156,
-    en: "Fanfare (1) - Chrono Trigger",
-    fr: "Fanfare (1) - Chrono Trigger",
   },
   {
     id: 1148,
@@ -1834,6 +1829,11 @@ window.musicNameList = [
     id: 1150,
     en: "Outskirts Of Time - Chrono Trigger",
     fr: "En Dehors du Temps - Chrono Trigger",
+  },
+  {
+    id: 1130,
+    en: "Yearnings of the World - Chrono Trigger",
+    fr: "Aspirations du Monde - Chrono Trigger",
   },
   {
     id: 3388,
