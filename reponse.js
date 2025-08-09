@@ -4676,11 +4676,11 @@ window.musicListWithLinks = [
     answer: 1168,
   },
   {
-    url: "https://soundcloud.com/moderngodman/player-select?in=moderngodman/sets/streets-of-rage-ost",
+    url: "https://soundcloud.com/moderngodman/player-select",
     answer: 1169,
   },
   {
-    url: "https://soundcloud.com/moderngodman/fighting-in-the-streets-stage?in=moderngodman/sets/streets-of-rage-ost",
+    url: "https://soundcloud.com/moderngodman/fighting-in-the-streets-stage",
     answer: 1170,
   },
   {
@@ -4688,23 +4688,23 @@ window.musicListWithLinks = [
     answer: 1171,
   },
   {
-    url: "https://soundcloud.com/moderngodman/dilapadeted-town-stage-2?in=moderngodman/sets/streets-of-rage-ost",
+    url: "https://soundcloud.com/moderngodman/dilapadeted-town-stage-2",
     answer: 1172,
   },
   {
-    url: "https://soundcloud.com/moderngodman/moon-beach-stage-3?in=moderngodman/sets/streets-of-rage-ost",
+    url: "https://soundcloud.com/moderngodman/moon-beach-stage-3",
     answer: 1173,
   },
   {
-    url: "https://soundcloud.com/moderngodman/keep-the-groovin-stage-4?in=moderngodman/sets/streets-of-rage-ost",
+    url: "https://soundcloud.com/moderngodman/keep-the-groovin-stage-4",
     answer: 1174,
   },
   {
-    url: "https://soundcloud.com/moderngodman/beatnik-on-the-ship-stage-5?in=moderngodman/sets/streets-of-rage-ost",
+    url: "https://soundcloud.com/moderngodman/beatnik-on-the-ship-stage-5",
     answer: 1175,
   },
   {
-    url: "https://soundcloud.com/moderngodman/violent-breathing-stage-7?in=moderngodman/sets/streets-of-rage-ost",
+    url: "https://soundcloud.com/moderngodman/violent-breathing-stage-7",
     answer: 1176,
   },
   {
@@ -4712,11 +4712,11 @@ window.musicListWithLinks = [
     answer: 1177,
   },
   {
-    url: "https://soundcloud.com/moderngodman/the-last-soul-stage-8?in=moderngodman/sets/streets-of-rage-ost",
+    url: "https://soundcloud.com/moderngodman/the-last-soul-stage-8",
     answer: 1178,
   },
   {
-    url: "https://soundcloud.com/moderngodman/attack-the-barbarian-boss?in=moderngodman/sets/streets-of-rage-ost",
+    url: "https://soundcloud.com/moderngodman/attack-the-barbarian-boss",
     answer: 1179,
   },
   {
