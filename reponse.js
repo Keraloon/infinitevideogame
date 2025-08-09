@@ -4676,12 +4676,48 @@ window.musicListWithLinks = [
     answer: 1168,
   },
   {
+    url: "https://soundcloud.com/moderngodman/player-select?in=moderngodman/sets/streets-of-rage-ost",
+    answer: 1169,
+  },
+  {
+    url: "https://soundcloud.com/moderngodman/fighting-in-the-streets-stage?in=moderngodman/sets/streets-of-rage-ost",
+    answer: 1170,
+  },
+  {
     url: "https://soundcloud.com/user-633637319/hauoli-city-night",
     answer: 1171,
   },
   {
+    url: "https://soundcloud.com/moderngodman/dilapadeted-town-stage-2?in=moderngodman/sets/streets-of-rage-ost",
+    answer: 1172,
+  },
+  {
+    url: "https://soundcloud.com/moderngodman/moon-beach-stage-3?in=moderngodman/sets/streets-of-rage-ost",
+    answer: 1173,
+  },
+  {
+    url: "https://soundcloud.com/moderngodman/keep-the-groovin-stage-4?in=moderngodman/sets/streets-of-rage-ost",
+    answer: 1174,
+  },
+  {
+    url: "https://soundcloud.com/moderngodman/beatnik-on-the-ship-stage-5?in=moderngodman/sets/streets-of-rage-ost",
+    answer: 1175,
+  },
+  {
+    url: "https://soundcloud.com/moderngodman/violent-breathing-stage-7?in=moderngodman/sets/streets-of-rage-ost",
+    answer: 1176,
+  },
+  {
     url: "https://soundcloud.com/user-633637319/evolution-alola",
     answer: 1177,
+  },
+  {
+    url: "https://soundcloud.com/moderngodman/the-last-soul-stage-8?in=moderngodman/sets/streets-of-rage-ost",
+    answer: 1178,
+  },
+  {
+    url: "https://soundcloud.com/moderngodman/attack-the-barbarian-boss?in=moderngodman/sets/streets-of-rage-ost",
+    answer: 1179,
   },
   {
     url: "https://soundcloud.com/user-633637319/battle-team-skull-feat-kyotaro",
