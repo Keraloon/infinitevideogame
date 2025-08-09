@@ -4500,8 +4500,36 @@ window.musicListWithLinks = [
     answer: 1124,
   },
   {
+    url: "https://soundcloud.com/u22190179361106199754/01-25",
+    answer: 1125,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/02-25",
+    answer: 1126,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/03-25",
+    answer: 1127,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/04-25",
+    answer: 1128,
+  },
+  {
     url: "https://soundcloud.com/vinicius-machado-961615358/trick-house-pokemon-omega-ruby",
     answer: 1129,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/05-25",
+    answer: 1130,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/06-25",
+    answer: 1131,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/07-25",
+    answer: 1132,
   },
   {
     url: "https://soundcloud.com/vinicius-machado-961615358/sea-mauville-pokemon-omega",
@@ -4512,32 +4540,140 @@ window.musicListWithLinks = [
     answer: 1134,
   },
   {
+    url: "https://soundcloud.com/u22190179361106199754/08-25",
+    answer: 1135,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/09-25",
+    answer: 1136,
+  },
+  {
     url: "https://soundcloud.com/vinicius-machado-961615358/battle-resort-pokemon-omega",
     answer: 1137,
   },
   {
-    url: " https://soundcloud.com/vinicius-machado-961615358/chatelaine-battle-pokemon",
+    url: "https://soundcloud.com/u22190179361106199754/10-25",
+    answer: 1138,
+  },
+  {
+    url: "https://soundcloud.com/vinicius-machado-961615358/chatelaine-battle-pokemon",
     answer: 1139,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/11-25",
+    answer: 1140,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/12-25",
+    answer: 1141,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/13-25",
+    answer: 1142,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/15-25",
+    answer: 1143,
   },
   {
     url: "https://soundcloud.com/user-633637319/escape",
     answer: 1144,
   },
   {
+    url: "https://soundcloud.com/u22190179361106199754/17-25",
+    answer: 1145,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/18-25",
+    answer: 1146,
+  },
+  {
     url: "https://soundcloud.com/user-633637319/route-1-on-melemele-island",
     answer: 1147,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/19-25",
+    answer: 1148,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/20-25",
+    answer: 1149,
+  },
+  {
+    url: "https://soundcloud.com/u22190179361106199754/21-25",
+    answer: 1150,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-a-strange",
+    answer: 1151,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-boss-battle-1",
+    answer: 1152,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-battle-i",
+    answer: 1153,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-silent-light",
+    answer: 1154,
   },
   {
     url: "https://soundcloud.com/user-633637319/battle-wild-pokemon",
     answer: 1155,
   },
   {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-fanfare-i",
+    answer: 1156,
+  },
+  {
     url: "https://soundcloud.com/user-633637319/the-festival-in-iki-town",
     answer: 1157,
   },
   {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-a-sho-of-crisis",
+    answer: 1158,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-dome-16s-ruin",
+    answer: 1159,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-people-without",
+    answer: 1160,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-bike-chase",
+    answer: 1161,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-battle-ii",
+    answer: 1162,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-boss-battle-2",
+    answer: 1163,
+  },
+  {
     url: "https://soundcloud.com/user-633637319/festival-plaza-day",
     answer: 1164,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-primitive",
+    answer: 1165,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-burn-bobonga",
+    answer: 1166,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-epoch-wings",
+    answer: 1167,
+  },
+  {
+    url: "https://soundcloud.com/oipowernet/chrono-trigger-the-day-the",
+    answer: 1168,
   },
   {
     url: "https://soundcloud.com/user-633637319/hauoli-city-night",
