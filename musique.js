@@ -20309,6 +20309,51 @@ window.musicNameList = [
     fr: "Stage de Balrog - Street Fighter II",
   },
   {
+    id: 1169,
+    en: "Player Select - Streets of Rage",
+    fr: "Sélection de Personnage - Streets of Rage",
+  },
+  {
+    id: 1170,
+    en: "Fighting in the Streets - Streets of Rage",
+    fr: "Fighting in the Streets - Streets of Rage",
+  },
+  {
+    id: 1172,
+    en: "Dilapadeted Town - Streets of Rage",
+    fr: "Dilapadeted Town - Streets of Rage",
+  },
+  {
+    id: 1173,
+    en: "Moon Beach - Streets of Rage",
+    fr: "Moon Beach - Streets of Rage",
+  },
+  {
+    id: 1174,
+    en: "Keep the Groovin' - Streets of Rage",
+    fr: "Keep the Groovin' - Streets of Rage",
+  },
+  {
+    id: 1175,
+    en: "Beatnik on the Ship - Streets of Rage",
+    fr: "Beatnik on the Ship - Streets of Rage",
+  },
+  {
+    id: 1176,
+    en: "Violent Breathing - Streets of Rage",
+    fr: "Violent Breathing - Streets of Rage",
+  },
+  {
+    id: 1178,
+    en: "The Last Soul - Streets of Rage",
+    fr: "The Last Soul - Streets of Rage",
+  },
+  {
+    id: 1179,
+    en: "Attack the Barbarian - Streets of Rage",
+    fr: "Attack the Barbarian - Streets of Rage",
+  },
+  {
     id: 3016,
     en: "Go Straight - Streets of Rage 2",
     fr: "Go Straight - Streets of Rage 2",
