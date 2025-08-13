@@ -22215,6 +22215,121 @@ window.musicNameList = [
     fr: "Moment de Joie (Victoire) - Mario & Luigi Dream Team",
   },
   {
+    id: 1199,
+    en: "Title Screen - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Ecran Titre - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1201,
+    en: "Main Theme - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Thème Principal - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1204,
+    en: "Alpine Skiing Downhill - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Descente de Ski Alpin - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1205,
+    en: "Ski Jumping Large Hill - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Grand Tremplin de Saut à Ski  - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1208,
+    en: "Freestyle Skiing Moguls - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Ski Acrobatique de Bosses  - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1209,
+    en: "Freestyle Skiing Cross - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Ski Acrobatique Cross  - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1210,
+    en: "Biathlon : Main - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Biathlon : Principal  - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1212,
+    en: "Biathlon : Shooting Area - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Biathlon : Zone de Tir  - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1213,
+    en: "Snowboard Slopestyle - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Snowboard Slopestyle (Descente Acrobatique)  - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1214,
+    en: "Snowboard Cross - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Snowboard Cross - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1217,
+    en: "Figure Skating Pairs : Csárdás - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Patinage Artistique Couple : Csárdás - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1218,
+    en: "Figure Skating Pairs : Ride of the Valkyries - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Patinage Artistique Couple : Chevauchée des Walkyries - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1219,
+    en: "Figure Skating Pairs : Dark Eyes - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Patinage Artistique Couple : Yeux Noirs - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1220,
+    en: "4 Man Bobsleigh - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Bobsleigh à 4 - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1221,
+    en: "Rival : Birdo - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Rival : Birdo - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1224,
+    en: "Rival : Kamek - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Rival : Kamek - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1225,
+    en: "Rival : King Boo - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Rival : Roi Boo - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1226,
+    en: "Rival : Dry Bowser - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Rival : Bowser Skelet - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1228,
+    en: "Rival : Rouge - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Rival : Rouge - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1229,
+    en: "Rival : Jet - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Rival : Jet - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1230,
+    en: "Rival : Omega - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Rival : Omega - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1231,
+    en: "Rival : Eggman Nega - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Rival : Eggman Nega - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
+    id: 1233,
+    en: "Slide Ver. 1 - Mario & Sonic : Olympic Winter 2014 Sochi",
+    fr: "Slide Ver. 1 - Mario & Sonic : Jeux Olympiques d'Hiver 2014 Sochi",
+  },
+  {
     id: 3468,
     en: "Main Menu - Super Monkey Ball",
     fr: "Menu Principal - Super Monkey Ball",
