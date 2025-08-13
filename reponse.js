@@ -4720,20 +4720,80 @@ window.musicListWithLinks = [
     answer: 1179,
   },
   {
+    url: "https://soundcloud.com/zelda-soundtracks/gba-a-link-to-the-past-battle-with-ganon",
+    answer: 1180,
+  },
+  {
+    url: "https://soundcloud.com/anderouspi/dank-dungeons-the-legend-of",
+    answer: 1181,
+  },
+  {
     url: "https://soundcloud.com/user-633637319/battle-team-skull-feat-kyotaro",
     answer: 1182,
+  },
+  {
+    url: "https://soundcloud.com/zhtotk2/black-mist",
+    answer: 1183,
   },
   {
     url: "https://soundcloud.com/user-633637319/verdant-cavern-a-trial-site",
     answer: 1184,
   },
   {
+    url: "https://soundcloud.com/bonniedabunny-19719156/beautiful-hyrule-epilogue-the",
+    answer: 1185,
+  },
+  {
+    url: "https://soundcloud.com/doktor-vgm/prologue-the-legend-of-zelda-four-swords-anniversary-edition",
+    answer: 1186,
+  },
+  {
+    url: "https://soundcloud.com/user-750893959/zelda-four-swords-gba-ost-sea",
+    answer: 1187,
+  },
+  {
+    url: "https://soundcloud.com/doktor-vgm/talus-cave-the-legend-of-zelda-four-swords-anniversary-edition",
+    answer: 1188,
+  },
+  {
+    url: "https://soundcloud.com/doktor-vgm/talus-cave-the-legend-of-zelda",
+    answer: 1189,
+  },
+  {
+    url: "https://soundcloud.com/vgm-dr/title-the-legend-of-zelda-four-swords-adventures",
+    answer: 1190,
+  },
+  {
     url: "https://soundcloud.com/user-633637319/battle-island-kahuna",
     answer: 1191,
   },
   {
+    url: "https://soundcloud.com/vgmdr/map-the-legend-of-zelda-four-swords-adventures",
+    answer: 1192,
+  },
+  {
+    url: "https://soundcloud.com/doktor-vgm/tingles-tower-bgm-the-legend-of-zelda-four-swords-adventures",
+    answer: 1193,
+  },
+  {
+    url: "https://soundcloud.com/doktor-vgm/village-of-blue-maiden-before-the-puzzle-solving-the-legend-of-zelda-four-swords-adventures",
+    answer: 1194,
+  },
+  {
+    url: "https://soundcloud.com/doktor-vgm/mini-boss-battle-bgm-the-legend-of-zelda-four-swords-adventures",
+    answer: 1195,
+  },
+  {
     url: "https://soundcloud.com/user-451976318/heahea-city-day",
     answer: 1196,
+  },
+  {
+    url: "https://soundcloud.com/doktor-vgm/boss-battle-bgm",
+    answer: 1197,
+  },
+  {
+    url: "https://soundcloud.com/vgmdoc/ganon-battle-bgm",
+    answer: 1198,
   },
   {
     url: "https://soundcloud.com/user-451976318/paniola-town-night",
