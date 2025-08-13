@@ -22981,6 +22981,81 @@ window.musicNameList = [
     fr: "Château d'Hyrule - The Legend of Zelda : A Link To The Past",
   },
   {
+    id: 1180,
+    en: "Battle With Ganon - The Legend of Zelda : A Link To The Past",
+    fr: "Combat Contre Ganon - The Legend of Zelda : A Link To The Past",
+  },
+  {
+    id: 1181,
+    en: "Dank Dungeons - The Legend of Zelda : A Link To The Past",
+    fr: "Donjons Humides - The Legend of Zelda : A Link To The Past",
+  },
+  {
+    id: 1183,
+    en: "Death Mountain - The Legend of Zelda : A Link To The Past",
+    fr: "Montagne de la Mort - The Legend of Zelda : A Link To The Past",
+  },
+  {
+    id: 1185,
+    en: "Epilogue (Beautiful Hyrule) - The Legend of Zelda : A Link To The Past",
+    fr: "Epilogue (Belle Hyrule) - The Legend of Zelda : A Link To The Past",
+  },
+  {
+    id: 1186,
+    en: "Prologue - The Legend of Zelda : Four Swords",
+    fr: "Prologue - The Legend of Zelda : Four Swords",
+  },
+  {
+    id: 1187,
+    en: "Sea of Trees - The Legend of Zelda : Four Swords",
+    fr: "Mer d'Arbres - The Legend of Zelda : Four Swords",
+  },
+  {
+    id: 1188,
+    en: "Talus Cave - The Legend of Zelda : Four Swords",
+    fr: "Cave Croulante - The Legend of Zelda : Four Swords",
+  },
+  {
+    id: 1189,
+    en: "Vaati's Palace - The Legend of Zelda : Four Swords",
+    fr: "Palais de Vaati - The Legend of Zelda : Four Swords",
+  },
+  {
+    id: 1190,
+    en: "Title - The Legend of Zelda : Four Swords Adventures",
+    fr: "Ecran Titre - The Legend of Zelda : Four Swords Adventures",
+  },
+  {
+    id: 1192,
+    en: "Map - The Legend of Zelda : Four Swords Adventures",
+    fr: "Carte - The Legend of Zelda : Four Swords Adventures",
+  },
+  {
+    id: 1193,
+    en: "Tingle's Tower - The Legend of Zelda : Four Swords Adventures",
+    fr: "Tour de Tingle - The Legend of Zelda : Four Swords Adventures",
+  },
+  {
+    id: 1194,
+    en: "Village of Blue Maiden - The Legend of Zelda : Four Swords Adventures",
+    fr: "Village de la Jeune Fille Bleue - The Legend of Zelda : Four Swords Adventures",
+  },
+  {
+    id: 1195,
+    en: "Mini Boss - The Legend of Zelda : Four Swords Adventures",
+    fr: "Mini Boss - The Legend of Zelda : Four Swords Adventures",
+  },
+  {
+    id: 1197,
+    en: "Boss - The Legend of Zelda : Four Swords Adventures",
+    fr: "Boss - The Legend of Zelda : Four Swords Adventures",
+  },
+  {
+    id: 1198,
+    en: "Ganon Battle - The Legend of Zelda : Four Swords Adventures",
+    fr: "Combat contre Ganon - The Legend of Zelda : Four Swords Adventures",
+  },
+  {
     id: 3042,
     en: "Dark World - The Legend of Zelda : A Link To The Past",
     fr: "Monde des Ténèbres - The Legend of Zelda : A Link To The Past",
