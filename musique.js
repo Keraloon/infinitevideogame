@@ -23001,6 +23001,11 @@ window.musicNameList = [
     fr: "Epilogue (Belle Hyrule) - The Legend of Zelda : A Link To The Past",
   },
   {
+    id: 3042,
+    en: "Dark World - The Legend of Zelda : A Link To The Past",
+    fr: "Monde des Ténèbres - The Legend of Zelda : A Link To The Past",
+  },
+  {
     id: 1186,
     en: "Prologue - The Legend of Zelda : Four Swords",
     fr: "Prologue - The Legend of Zelda : Four Swords",
@@ -23054,11 +23059,6 @@ window.musicNameList = [
     id: 1198,
     en: "Ganon Battle - The Legend of Zelda : Four Swords Adventures",
     fr: "Combat contre Ganon - The Legend of Zelda : Four Swords Adventures",
-  },
-  {
-    id: 3042,
-    en: "Dark World - The Legend of Zelda : A Link To The Past",
-    fr: "Monde des Ténèbres - The Legend of Zelda : A Link To The Past",
   },
   {
     id: 2430,
