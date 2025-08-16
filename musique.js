@@ -1410,6 +1410,51 @@ window.musicNameList = [
     fr: "Epilogue - Castlevania : Aria Of Sorrow",
   },
   {
+    id: 1235,
+    en: "After Invitation (The Dark Chapel) - Castlevania : Dawn Of Sorrow",
+    fr: "After Invitation (Chapelle) - Castlevania : Dawn Of Sorrow",
+  },
+  {
+    id: 1237,
+    en: "Black Shudder - Castlevania : Dawn Of Sorrow",
+    fr: "Black Shudder - Castlevania : Dawn Of Sorrow",
+  },
+  {
+    id: 1238,
+    en: "Condemned Tower - Castlevania : Dawn Of Sorrow",
+    fr: "Tour Condamnée - Castlevania : Dawn Of Sorrow",
+  },
+  {
+    id: 1239,
+    en: "Cursed Clock Tower - Castlevania : Dawn Of Sorrow",
+    fr: "Cursed Clock Tower (Tour de l'Horloge) - Castlevania : Dawn Of Sorrow",
+  },
+  {
+    id: 1240,
+    en: "Demon Guest House - Castlevania : Dawn Of Sorrow",
+    fr: "Demon Guest House (Pavillon du Démon) - Castlevania : Dawn Of Sorrow",
+  },
+  {
+    id: 1241,
+    en: "Pitch Black Intrusion (The Lost Village) - Castlevania : Dawn Of Sorrow",
+    fr: "Pitch Black Intrusion (Village Perdu) - Castlevania : Dawn Of Sorrow",
+  },
+  {
+    id: 3289,
+    en: "Dracula's Tears (Wizardry Lab) - Castlevania : Dawn Of Sorrow",
+    fr: "Dracula's Tears (Laboratoire) - Castlevania : Dawn Of Sorrow",
+  },
+  {
+    id: 3290,
+    en: "Platinum Moonlight (Garden of Madness) - Castlevania : Dawn Of Sorrow",
+    fr: "Platinum Moonlight (Jardin de la Folie) - Castlevania : Dawn Of Sorrow",
+  },
+  {
+    id: 3291,
+    en: "Subterranean Hell - Castlevania : Dawn Of Sorrow",
+    fr: "Subterranean Hell (Enfer Souterrain) - Castlevania : Dawn Of Sorrow",
+  },
+  {
     id: 3288,
     en: "Evil Invitation (Boss 1) - Castlevania : Dawn Of Sorrow",
     fr: "Evil Invitation (Boss 1) - Castlevania : Dawn Of Sorrow",
@@ -1420,19 +1465,9 @@ window.musicNameList = [
     fr: "Into the Dark Night (Boss 2) - Castlevania : Dawn Of Sorrow",
   },
   {
-    id: 3289,
-    en: "Dracula's Tears - Castlevania : Dawn Of Sorrow",
-    fr: "Dracula's Tears - Castlevania : Dawn Of Sorrow",
-  },
-  {
-    id: 3290,
-    en: "Platinum Moonlight - Castlevania : Dawn Of Sorrow",
-    fr: "Platinum Moonlight - Castlevania : Dawn Of Sorrow",
-  },
-  {
-    id: 3291,
-    en: "Subterranean Hell - Castlevania : Dawn Of Sorrow",
-    fr: "Subterranean Hell - Castlevania : Dawn Of Sorrow",
+    id: 1242,
+    en: "Scarlet Battle Soul (Boss Dmitrii & Dario) - Castlevania : Dawn Of Sorrow",
+    fr: "Scarlet Battle Soul (Boss Dmitrii & Dario) - Castlevania : Dawn Of Sorrow",
   },
   {
     id: 621,
