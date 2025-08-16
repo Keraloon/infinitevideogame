@@ -50,7 +50,7 @@ var app = (function () {
       artist +
       '\' musics. Based on <a href="https://joywave-heardle.glitch.me/" title="Joywave Heardle">Joywave Heardle</a> code and from <a href="https://ninjigalaxy.github.io/mario-heardle-infinite/" title="Mario Heardle Infinite">@NinjiGalaxy</a> (for the better volume slider) and <a href="https://nterrien.github.io/pkmn-infinite-heardle/" title="Pokémon Infinite Heardle">Pokémon Infinite Heardle</a> musics edited.</p><p class="mb-3">Each music is randomly chosen from mainline ' +
       artist +
-      '\' soundtrack.</p><p class="mb-3">Songs are listed along with the name of the games they are featured in.</p><p class="mb-3">Streamers, some musics are copyright claimed.</p><p class="mb-3">Want to make your own Heardle? Check out the <a href="https://glitch.com/edit/#!/pkmn-infinite-heardle?path=README.md">README</a>.</p>',
+      '\' soundtrack.</p><p class="mb-3">Songs are listed along with the name of the games they are featured in.</p><p class="mb-3">Streamers, some musics are copyright claimed.</p><p class="mb-3">Want to make your own Heardle? Check out the <a href="https://github.com/nterrien/pkmn-infinite-heardle/blob/master/README.md">README</a>.</p>',
   };
 
   const supportT = { fr: "support", en: "support" };
