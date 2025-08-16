@@ -4796,7 +4796,7 @@ window.musicListWithLinks = [
     answer: 1198,
   },
   {
-    url: "https://soundcloud.com/faded_boo/title-10?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/title-10",
     answer: 1199,
   },
   {
@@ -4804,7 +4804,7 @@ window.musicListWithLinks = [
     answer: 1200,
   },
   {
-    url: "https://soundcloud.com/faded_boo/main-theme-1?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/main-theme-1",
     answer: 1201,
   },
   {
@@ -4816,11 +4816,11 @@ window.musicListWithLinks = [
     answer: 1203,
   },
   {
-    url: "https://soundcloud.com/faded_boo/alpine-skiing-downhill-1?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/alpine-skiing-downhill-1",
     answer: 1204,
   },
   {
-    url: "https://soundcloud.com/faded_boo/ski-jumping-large-hill?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/ski-jumping-large-hill",
     answer: 1205,
   },
   {
@@ -4832,15 +4832,15 @@ window.musicListWithLinks = [
     answer: 1207,
   },
   {
-    url: "https://soundcloud.com/faded_boo/freestyle-skiing-moguls-2?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/freestyle-skiing-moguls-2",
     answer: 1208,
   },
   {
-    url: "https://soundcloud.com/faded_boo/freestyle-ski-cross?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/freestyle-ski-cross",
     answer: 1209,
   },
   {
-    url: "https://soundcloud.com/faded_boo/biathlon-main?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/biathlon-main",
     answer: 1210,
   },
   {
@@ -4848,15 +4848,15 @@ window.musicListWithLinks = [
     answer: 1211,
   },
   {
-    url: "https://soundcloud.com/faded_boo/biathlon-shooting-area?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/biathlon-shooting-area",
     answer: 1212,
   },
   {
-    url: "https://soundcloud.com/faded_boo/snowboard-slopestyle?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/snowboard-slopestyle",
     answer: 1213,
   },
   {
-    url: "https://soundcloud.com/faded_boo/snowboard-cross?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/snowboard-cross",
     answer: 1214,
   },
   {
@@ -4868,23 +4868,23 @@ window.musicListWithLinks = [
     answer: 1216,
   },
   {
-    url: "https://soundcloud.com/faded_boo/figure-skating-pairs-csardas?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/figure-skating-pairs-csardas",
     answer: 1217,
   },
   {
-    url: "https://soundcloud.com/faded_boo/figure-skating-singles-ride-of-the-valkyries?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/figure-skating-singles-ride-of-the-valkyries",
     answer: 1218,
   },
   {
-    url: "https://soundcloud.com/faded_boo/figure-skating-pairs-dark-eyes?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/figure-skating-pairs-dark-eyes",
     answer: 1219,
   },
   {
-    url: "https://soundcloud.com/faded_boo/4-man-bobsleigh?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/4-man-bobsleigh",
     answer: 1220,
   },
   {
-    url: "https://soundcloud.com/faded_boo/rival-birdo-1?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/rival-birdo-1",
     answer: 1221,
   },
   {
@@ -4896,15 +4896,15 @@ window.musicListWithLinks = [
     answer: 1223,
   },
   {
-    url: "https://soundcloud.com/faded_boo/rival-kamek?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/rival-kamek",
     answer: 1224,
   },
   {
-    url: "https://soundcloud.com/faded_boo/rival-king-boo-2?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/rival-king-boo-2",
     answer: 1225,
   },
   {
-    url: "https://soundcloud.com/faded_boo/rival-dry-bowser-2?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/rival-dry-bowser-2",
     answer: 1226,
   },
   {
@@ -4912,19 +4912,19 @@ window.musicListWithLinks = [
     answer: 1227,
   },
   {
-    url: "https://soundcloud.com/faded_boo/rival-rouge-1?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/rival-rouge-1",
     answer: 1228,
   },
   {
-    url: "https://soundcloud.com/faded_boo/rival-jet-2?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/rival-jet-2",
     answer: 1229,
   },
   {
-    url: "https://soundcloud.com/faded_boo/rival-omega-2?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/rival-omega-2",
     answer: 1230,
   },
   {
-    url: "https://soundcloud.com/faded_boo/rival-eggman-nega-2?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/rival-eggman-nega-2",
     answer: 1231,
   },
   {
@@ -4932,7 +4932,7 @@ window.musicListWithLinks = [
     answer: 1232,
   },
   {
-    url: "https://soundcloud.com/faded_boo/slide-super-mario-64-remix?in=faded_boo/sets/mario-and-sonic-at-the-sochi-2014-olympic-winter-games",
+    url: "https://soundcloud.com/faded_boo/slide-super-mario-64-remix",
     answer: 1233,
   },
   {
@@ -4940,8 +4940,36 @@ window.musicListWithLinks = [
     answer: 1234,
   },
   {
+    url: "https://soundcloud.com/castlevaniasoundsvii/after-confession",
+    answer: 1235,
+  },
+  {
     url: "https://soundcloud.com/articray200/pokemon-sun-moon-aether-foundation-battle-music",
     answer: 1236,
+  },
+  {
+    url: "https://soundcloud.com/castlevaniasoundsvii/black-shudder",
+    answer: 1237,
+  },
+  {
+    url: "https://soundcloud.com/castlevaniasoundsvii/condemned-tower",
+    answer: 1238,
+  },
+  {
+    url: "https://soundcloud.com/castlevaniasoundsvii/cursed-clock-tower",
+    answer: 1239,
+  },
+  {
+    url: "https://soundcloud.com/castlevaniasoundsvii/demon-guest-house",
+    answer: 1240,
+  },
+  {
+    url: "https://soundcloud.com/castlevaniasoundsvii/pitch-black-intrusion",
+    answer: 1241,
+  },
+  {
+    url: "https://soundcloud.com/castlevaniasoundsvii/scarlet-battle-soul",
+    answer: 1242,
   },
   {
     url: "https://soundcloud.com/user-451976318/seafolk-village-day",
