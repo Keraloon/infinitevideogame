@@ -8331,7 +8331,7 @@ window.musicNameList = [
   {
     id: 4450,
     en: "Naru, Embracing the Light - Ori And The Blind Forest",
-    fr: "Naru, Embrassant la Lumière : Ori And The Blind Forest",
+    fr: "Naru, Embrassant la Lumière - Ori And The Blind Forest",
   },
   {
     id: 2904,
