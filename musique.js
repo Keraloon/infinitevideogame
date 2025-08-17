@@ -17884,6 +17884,61 @@ window.musicNameList = [
     fr: "What I'm Made Of - Sonic Heroes",
   },
   {
+    id: 1244,
+    en: "Intro (Game Gear) - Sonic Chaos",
+    fr: "Intro (Game Gear) - Sonic Chaos",
+  },
+  {
+    id: 1245,
+    en: "Intro (Master System) - Sonic Chaos",
+    fr: "Intro (Master System) - Sonic Chaos",
+  },
+  {
+    id: 1246,
+    en: "Title Screen - Sonic Chaos",
+    fr: "Ecran Titre - Sonic Chaos",
+  },
+  {
+    id: 1248,
+    en: "Turquoise Hill - Sonic Chaos",
+    fr: "Turquoise Hill - Sonic Chaos",
+  },
+  {
+    id: 1249,
+    en: "Gigalopolis (Game Gear) - Sonic Chaos",
+    fr: "Gigalopolis (Game Gear) - Sonic Chaos",
+  },
+  {
+    id: 1250,
+    en: "Sleeping Egg - Sonic Chaos",
+    fr: "Sleeping Egg - Sonic Chaos",
+  },
+  {
+    id: 1251,
+    en: "Mecha Green Hill - Sonic Chaos",
+    fr: "Mecha Green Hill - Sonic Chaos",
+  },
+  {
+    id: 1252,
+    en: "Aqua Planet - Sonic Chaos",
+    fr: "Aqua Planet - Sonic Chaos",
+  },
+  {
+    id: 1254,
+    en: "Electric Egg - Sonic Chaos",
+    fr: "Electric Egg - Sonic Chaos",
+  },
+  {
+    id: 1255,
+    en: "Final Boss - Sonic Chaos",
+    fr: "Boss Final - Sonic Chaos",
+  },
+  {
+    id: 1256,
+    en: "Ending - Sonic Chaos",
+    fr: "Fin - Sonic Chaos",
+  },
+  {
     id: 5126,
     en: "Title Screen - Sonic Labyrinth",
     fr: "Ecran Titre - Sonic Labyrinth",
