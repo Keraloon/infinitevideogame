@@ -4976,12 +4976,56 @@ window.musicListWithLinks = [
     answer: 1243,
   },
   {
+    url: "https://soundcloud.com/faded_boo/01-intro",
+    answer: 1244,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/intro-sms",
+    answer: 1245,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/title-screen-414725153",
+    answer: 1246,
+  },
+  {
     url: "https://soundcloud.com/user-451976318/vast-poni-canyon",
     answer: 1247,
   },
   {
+    url: "https://soundcloud.com/faded_boo/turquoise-hill-zone",
+    answer: 1248,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/09-gigapolis-zone",
+    answer: 1249,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sleeping-egg-zone",
+    answer: 1250,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/mecha-green-hill-zone",
+    answer: 1251,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/aqua-planet-zone",
+    answer: 1252,
+  },
+  {
     url: "https://soundcloud.com/user-451976318/showdown-lusamine",
     answer: 1253,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/electric-egg-zone",
+    answer: 1254,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/final-boss-1",
+    answer: 1255,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/ending-3",
+    answer: 1256,
   },
   {
     url: "https://soundcloud.com/user-451976318/battle-solgaleo-lunala",
