@@ -5032,16 +5032,84 @@ window.musicListWithLinks = [
     answer: 1257,
   },
   {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/001-i-am-all-of-me",
+    answer: 1258,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/008-main-menu",
+    answer: 1259,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/003-waking-up",
+    answer: 1260,
+  },
+  {
     url: "https://soundcloud.com/user-451976318/battle-battle-tree-boss",
     answer: 1261,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/013-gylphic-canyon",
+    answer: 1262,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/015-digital-circuit",
+    answer: 1263,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/017-black-bull",
+    answer: 1264,
   },
   {
     url: "https://soundcloud.com/zokathefox97/pokemon-sun-and-moon-ost-elite",
     answer: 1265,
   },
   {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/020-cryptic-castle",
+    answer: 1266,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/022-egg-breaker",
+    answer: 1267,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/025-prison-island",
+    answer: 1268,
+  },
+  {
     url: "https://soundcloud.com/user-451976318/battle-tapu",
     answer: 1269,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/028-sky-troops",
+    answer: 1270,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/030-central-city",
+    answer: 1271,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/032-the-ark",
+    answer: 1272,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/034-blue-falcon",
+    answer: 1273,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/038-gun-fortress",
+    answer: 1274,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/040-black-doom",
+    answer: 1275,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/052-lost-impact",
+    answer: 1276,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/053-the-doom",
+    answer: 1277,
   },
   {
     url: "https://soundcloud.com/user-681426033/ultra-malasada-pokemon-ultra-sun-ultra-moon",
@@ -5052,8 +5120,32 @@ window.musicListWithLinks = [
     answer: 1279,
   },
   {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/057-air-fleet",
+    answer: 1280,
+  },
+  {
     url: "https://soundcloud.com/user-681426033/battle-ultra-recon-squad-pokemon-ultra-sun-ultra-moon",
     answer: 1281,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/060-mad-matrix",
+    answer: 1282,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/062-iron-jungle",
+    answer: 1283,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/063-lava-shelter",
+    answer: 1284,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/065-egg-dealer",
+    answer: 1285,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/070-space-gadget",
+    answer: 1286,
   },
   {
     url: "https://soundcloud.com/user-681426033/ultra-megalopolis-pokemon-ultra-sun-ultra-moon",
@@ -5064,8 +5156,24 @@ window.musicListWithLinks = [
     answer: 1288,
   },
   {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/071-cosmic-fall",
+    answer: 1289,
+  },
+  {
     url: "https://soundcloud.com/user-681426033/ultra-space-6-pokemon-ultra-sun-ultra-moon",
     answer: 1290,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/078-black-comet",
+    answer: 1291,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/081-final-haunt",
+    answer: 1292,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/083-diablon",
+    answer: 1293,
   },
   {
     url: "https://soundcloud.com/user-681426033/ultra-space-4-pokemon-ultra-sun-ultra-moon",
@@ -5074,6 +5182,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/user-681426033/ultra-space-7-pokemon-ultra-sun-ultra-moon",
     answer: 1295,
+  },
+  {
+    url: "https://soundcloud.com/tobyfoxshadowthehedgehog/090-the-last-way",
+    answer: 1296,
   },
   {
     url: "https://soundcloud.com/user-681426033/battle-giovanni-pokemon-ultra-sun-ultra-moon",
