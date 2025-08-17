@@ -20024,14 +20024,14 @@ window.musicNameList = [
     fr: "Salle des Collections - Shadow Generations",
   },
   {
-    id: 3064,
-    en: "All Hail Shadow - Shadow The Hedgehog",
-    fr: "All Hail Shadow - Shadow The Hedgehog",
+    id: 1258,
+    en: "I Am (All Of Me) - Shadow The Hedgehog",
+    fr: "I Am (All Of Me) - Shadow The Hedgehog",
   },
   {
-    id: 3065,
-    en: "Almost Dead - Shadow The Hedgehog",
-    fr: "Almost Dead - Shadow The Hedgehog",
+    id: 1259,
+    en: "Main Menu - Shadow The Hedgehog",
+    fr: "Menu Principal - Shadow The Hedgehog",
   },
   {
     id: 3066,
@@ -20039,9 +20039,34 @@ window.musicNameList = [
     fr: "Westopolis - Shadow The Hedgehog",
   },
   {
+    id: 1262,
+    en: "Glyphic Canyon - Shadow The Hedgehog",
+    fr: "Glyphic Canyon - Shadow The Hedgehog",
+  },
+  {
+    id: 1263,
+    en: "Digital Circuit - Shadow The Hedgehog",
+    fr: "Digital Circuit - Shadow The Hedgehog",
+  },
+  {
+    id: 1266,
+    en: "Cryptic Castle - Shadow The Hedgehog",
+    fr: "Cryptic Castle - Shadow The Hedgehog",
+  },
+  {
+    id: 1267,
+    en: "Egg Breaker - Shadow The Hedgehog",
+    fr: "Egg Breaker - Shadow The Hedgehog",
+  },
+  {
     id: 3067,
     en: "Circus Park - Shadow The Hedgehog",
     fr: "Circus Park - Shadow The Hedgehog",
+  },
+  {
+    id: 1268,
+    en: "Prison Island - Shadow The Hedgehog",
+    fr: "Prison Island - Shadow The Hedgehog",
   },
   {
     id: 3068,
@@ -20049,9 +20074,124 @@ window.musicNameList = [
     fr: "Death Ruins - Shadow The Hedgehog",
   },
   {
+    id: 1270,
+    en: "Sky Troops - Shadow The Hedgehog",
+    fr: "Sky Troops - Shadow The Hedgehog",
+  },
+  {
+    id: 1271,
+    en: "Central City - Shadow The Hedgehog",
+    fr: "Central City - Shadow The Hedgehog",
+  },
+  {
+    id: 1272,
+    en: "The Ark - Shadow The Hedgehog",
+    fr: "The Ark - Shadow The Hedgehog",
+  },
+  {
+    id: 1273,
+    en: "Blue Falcon - Shadow The Hedgehog",
+    fr: "Blue Falcon - Shadow The Hedgehog",
+  },
+  {
+    id: 1274,
+    en: "Gun Fortress - Shadow The Hedgehog",
+    fr: "Gun Fortress - Shadow The Hedgehog",
+  },
+  {
+    id: 1276,
+    en: "Lost Impact - Shadow The Hedgehog",
+    fr: "Lost Impact - Shadow The Hedgehog",
+  },
+  {
+    id: 1277,
+    en: "The Doom - Shadow The Hedgehog",
+    fr: "The Doom - Shadow The Hedgehog",
+  },
+  {
+    id: 1280,
+    en: "Air Fleet - Shadow The Hedgehog",
+    fr: "Air Fleet - Shadow The Hedgehog",
+  },
+  {
+    id: 1282,
+    en: "Mad Matrix - Shadow The Hedgehog",
+    fr: "Mad Matrix - Shadow The Hedgehog",
+  },
+  {
+    id: 1283,
+    en: "Iron Jungle - Shadow The Hedgehog",
+    fr: "Iron Jungle - Shadow The Hedgehog",
+  },
+  {
+    id: 1284,
+    en: "Lava Shelter - Shadow The Hedgehog",
+    fr: "Lava Shelter - Shadow The Hedgehog",
+  },
+  {
+    id: 1286,
+    en: "Space Gadget - Shadow The Hedgehog",
+    fr: "Space Gadget - Shadow The Hedgehog",
+  },
+  {
+    id: 1289,
+    en: "Cosmic Fall - Shadow The Hedgehog",
+    fr: "Cosmic Fall - Shadow The Hedgehog",
+  },
+  {
+    id: 1291,
+    en: "Black Comet - Shadow The Hedgehog",
+    fr: "Black Comet - Shadow The Hedgehog",
+  },
+  {
+    id: 1292,
+    en: "Final Haunt - Shadow The Hedgehog",
+    fr: "Final Haunt - Shadow The Hedgehog",
+  },
+  {
+    id: 1264,
+    en: "Black Bull - Shadow The Hedgehog",
+    fr: "Black Bull - Shadow The Hedgehog",
+  },
+  {
+    id: 1285,
+    en: "Egg Dealer - Shadow The Hedgehog",
+    fr: "Egg Dealer - Shadow The Hedgehog",
+  },
+  {
+    id: 1296,
+    en: "The Last Way - Shadow The Hedgehog",
+    fr: "The Last Way - Shadow The Hedgehog",
+  },
+  {
+    id: 1293,
+    en: "Diablon - Shadow The Hedgehog",
+    fr: "Diablon - Shadow The Hedgehog",
+  },
+  {
+    id: 1275,
+    en: "Black Doom - Shadow The Hedgehog",
+    fr: "Black Doom - Shadow The Hedgehog",
+  },
+  {
     id: 3069,
-    en: "I Am (All Of Me) (VS Final Doom) - Shadow The Hedgehog",
-    fr: "I Am (All Of Me) (VS Final Doom) - Shadow The Hedgehog",
+    en: "I Am (All Of Me) (Final Doom Version) - Shadow The Hedgehog",
+    fr: "I Am (All Of Me) (Version Final Doom) - Shadow The Hedgehog",
+  },
+  {
+    id: 1260,
+    en: "Waking Up - Shadow The Hedgehog",
+    fr: "Waking Up - Shadow The Hedgehog",
+  },
+  {
+    id: 3064,
+    en: "All Hail Shadow - Shadow The Hedgehog",
+    fr: "All Hail Shadow - Shadow The Hedgehog",
+  },
+  {
+    id: 3065,
+    en: "Almost Dead (Dark & Pure Dark End) - Shadow The Hedgehog",
+    fr: "Almost Dead (Fin Dark & Pure Dark) - Shadow The Hedgehog",
   },
   {
     id: 3070,
