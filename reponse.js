@@ -5188,6 +5188,18 @@ window.musicListWithLinks = [
     answer: 1296,
   },
   {
+    url: "https://soundcloud.com/da_masta_t/yuto-theme-yu-gi-oh-duel-link",
+    answer: 1297,
+  },
+  {
+    url: "https://soundcloud.com/diamond-colt/yu-gi-oh-duel-links-declan-akaba-theme",
+    answer: 1298,
+  },
+  {
+    url: "https://soundcloud.com/diamond-colt/yu-gi-oh-duel-links-kite-tenjo-theme",
+    answer: 1299,
+  },
+  {
     url: "https://soundcloud.com/user-681426033/battle-giovanni-pokemon-ultra-sun-ultra-moon",
     answer: 1300,
   },
@@ -5200,13 +5212,84 @@ window.musicListWithLinks = [
     answer: 1302,
   },
   {
+    url: "https://soundcloud.com/da_masta_t/blue-angel-theme-yu-gi-oh-duel",
+    answer: 1303,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/baseball-duel-theme-yu-gi-oh",
+    answer: 1304,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/z-one-theme-yu-gi-oh-duel",
+    answer: 1305,
+  },
+  {
     url: "https://soundcloud.com/user-681426033/battle-giovanni-pokemon-ultra-sun-ultra-moon-1",
     answer: 1306,
   },
-
+  {
+    url: "https://soundcloud.com/da_masta_t/yugo-theme-yu-gi-oh-duel-links",
+    answer: 1307,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/alito-theme-yu-gi-oh-duel",
+    answer: 1308,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/dm-losing-theme-2-yu-gi-oh",
+    answer: 1309,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/gx-losing-theme-2-yu-gi-oh",
+    answer: 1310,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/mimi-theme-yu-gi-oh-duel-links",
+    answer: 1311,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/ghost-gal-theme-yu-gi-oh-duel",
+    answer: 1312,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/mizar-theme-yu-gi-oh-duel",
+    answer: 1313,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/nail-neiru-saionji-theme-yu-gi",
+    answer: 1314,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/spectre-theme-yu-gi-oh-duel",
+    answer: 1315,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/yuo-goha-theme-yu-gi-oh-duel",
+    answer: 1316,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/yuri-theme-yu-gi-oh-duel-links",
+    answer: 1317,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/varis-theme-yu-gi-oh-duel",
+    answer: 1318,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/tour-guide-from-the-underworld",
+    answer: 1319,
+  },
   {
     url: "https://soundcloud.com/diamondpearl-886539488/viridian-forest-pokemon-lets",
     answer: 1320,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/rio-kastle-theme-yu-gi-oh-duel",
+    answer: 1321,
+  },
+  {
+    url: "https://soundcloud.com/da_masta_t/gong-strongs-theme-yu-gi-oh",
+    answer: 1322,
   },
   {
     url: "https://soundcloud.com/vgm-vaccine/pewter-city-theme",
