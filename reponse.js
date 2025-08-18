@@ -5348,16 +5348,56 @@ window.musicListWithLinks = [
     answer: 1336,
   },
   {
+    url: "https://soundcloud.com/faded_boo/opening",
+    answer: 1337,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/route-99-act-1",
+    answer: 1338,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/route-99-act-3",
+    answer: 1339,
+  },
+  {
     url: "https://soundcloud.com/user-681426033/pokemon-tower-pokemon-lets-go-pikachu-lets-go-eevee",
     answer: 1340,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sunset-hill-act-1",
+    answer: 1341,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/ocean-base-act-1",
+    answer: 1342,
   },
   {
     url: "https://soundcloud.com/user-681426033/battle-legendary-pokemon-lets-go-pikachu-lets-go-eevee",
     answer: 1343,
   },
   {
+    url: "https://soundcloud.com/faded_boo/ocean-base-act-2",
+    answer: 1344,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/ocean-base-act-3",
+    answer: 1345,
+  },
+  {
     url: "https://soundcloud.com/user-104839658/catch-go-park-pokemon-lets-go",
     answer: 1346,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/toy-kingdom-act-1",
+    answer: 1347,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/toy-kingdom-act-3",
+    answer: 1348,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/twinkle-snow-act-1",
+    answer: 1349,
   },
   {
     url: "https://soundcloud.com/vgmdr/pokemon-mansion",
@@ -5368,8 +5408,44 @@ window.musicListWithLinks = [
     answer: 1351,
   },
   {
+    url: "https://soundcloud.com/faded_boo/twinkle-snow-act-3",
+    answer: 1352,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/cyber-track-act-2",
+    answer: 1353,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/chaos-angel-act-1",
+    answer: 1354,
+  },
+  {
     url: "https://soundcloud.com/user-681426033/ending-pokemon-lets-go-pikachu-lets-go-eevee",
     answer: 1355,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/cyber-track-map",
+    answer: 1356,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/boss-9",
+    answer: 1357,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/boss-7-pinch-1",
+    answer: 1358,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/final-boss-3",
+    answer: 1359,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/videoplayback",
+    answer: 1360,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/main-menu-3",
+    answer: 1361,
   },
   {
     url: "https://soundcloud.com/user-939541039/route-1-pokemon-sword-and",
