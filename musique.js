@@ -1537,8 +1537,8 @@ window.musicNameList = [
   },
   {
     id: 2611,
-    en: "The Lost Portrait - Castlevania : Harmony Of Despair",
-    fr: "The Lost Portrait - Castlevania : Harmony Of Despair",
+    en: "The Lost Portrait/Lost Painting - Castlevania : Harmony Of Despair",
+    fr: "The Lost Portrait/Lost Painting - Castlevania : Harmony Of Despair",
   },
   {
     id: 2350,
