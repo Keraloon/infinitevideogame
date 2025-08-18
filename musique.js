@@ -6067,6 +6067,31 @@ window.musicNameList = [
     fr: "Good Riddance (ft Ashley Barrett) - Hades",
   },
   {
+    id: 1362,
+    en: "Adrenaline Horror - Half Life",
+    fr: "Adrenaline Horror - Half Life",
+  },
+  {
+    id: 1363,
+    en: "Klaxon Beat - Half Life",
+    fr: "Klaxon Beat - Half Life",
+  },
+  {
+    id: 1366,
+    en: "Diabolical Adrenaline Guitar (Lambda Core) - Half Life",
+    fr: "Diabolical Adrenaline Guitar (Réacteur Lambda) - Half Life",
+  },
+  {
+    id: 1367,
+    en: "Hard Technology Rock - Half Life",
+    fr: "Hard Technology Rock - Half Life",
+  },
+  {
+    id: 1371,
+    en: "Credits - Half Life",
+    fr: "Credits - Half Life",
+  },
+  {
     id: 3085,
     en: "Halo Theme - Halo 3",
     fr: "Thème d'Halo - Halo 3",
