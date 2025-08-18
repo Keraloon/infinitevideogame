@@ -5448,12 +5448,28 @@ window.musicListWithLinks = [
     answer: 1361,
   },
   {
+    url: "https://soundcloud.com/admiralpotamus/adrenaline-horror",
+    answer: 1362,
+  },
+  {
+    url: "https://soundcloud.com/admiralpotamus/klaxon-beat",
+    answer: 1363,
+  },
+  {
     url: "https://soundcloud.com/user-939541039/route-1-pokemon-sword-and",
     answer: 1364,
   },
   {
     url: "https://soundcloud.com/blurry-fandub/pokemon-sword-and-shield-wedgehurst-town-theme",
     answer: 1365,
+  },
+  {
+    url: "https://soundcloud.com/admiralpotamus/diabolical-adrenaline-guitar",
+    answer: 1366,
+  },
+  {
+    url: "https://soundcloud.com/admiralpotamus/hard-technology-rock",
+    answer: 1367,
   },
   {
     url: "https://soundcloud.com/blurry-fandub/pokemon-sword-shield-hop-battle-theme",
@@ -5466,6 +5482,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/piwa31/pokemon-sword-and-shield-wild-battle-official",
     answer: 1370,
+  },
+  {
+    url: "https://soundcloud.com/admiralpotamus/credits-closing-theme-tracking",
+    answer: 1371,
   },
   {
     url: "https://soundcloud.com/harmynya/pokemon-swordshield-zacianzamazenta-battle-theme-mysterious-being",
