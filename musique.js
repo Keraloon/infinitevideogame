@@ -3592,8 +3592,8 @@ window.musicNameList = [
   },
   {
     id: 2312,
-    en: "Frostbite/Angler King/Deadwood (Boss Battle) (Remastered) - Drawn To Life",
-    fr: "Frostbite/Angler King/Deadwood (Combat de Boss) (Remastered) - Dessine Ta Vie",
+    en: "Angler King (Boss Battle) - Drawn To Life",
+    fr: "Angler King (Combat de Boss) - Dessine Ta Vie",
   },
   {
     id: 2302,
