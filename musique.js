@@ -21373,6 +21373,46 @@ window.musicNameList = [
     fr: "Au Dessus des Nuages - Super Mario Odyssey",
   },
   {
+    id: 1378,
+    en: "Title Screen - Super Mario Kart",
+    fr: "Ecran Titre - Super Mario Kart",
+  },
+  {
+    id: 1380,
+    en: "Mario Circuit - Super Mario Kart",
+    fr: "Circuit Mario - Super Mario Kart",
+  },
+  {
+    id: 1381,
+    en: "Koopa Beach - Super Mario Kart",
+    fr: "Plage Koopa - Super Mario Kart",
+  },
+  {
+    id: 1382,
+    en: "Chocolate Island - Super Mario Kart",
+    fr: "Ile Choco - Super Mario Kart",
+  },
+  {
+    id: 1383,
+    en: "Donut Plains - Super Mario Kart",
+    fr: "Plaines Donut - Super Mario Kart",
+  },
+  {
+    id: 1385,
+    en: "Vanilla Lake - Super Mario Kart",
+    fr: "Lac Vanille - Super Mario Kart",
+  },
+  {
+    id: 1386,
+    en: "Bowser Castle - Super Mario Kart",
+    fr: "Chateau de Bowser - Super Mario Kart",
+  },
+  {
+    id: 1387,
+    en: "Rainbow Road - Super Mario Kart",
+    fr: "Route Arc En Ciel - Super Mario Kart",
+  },
+  {
     id: 1028,
     en: "Title Screen - Mario Kart 64",
     fr: "Ecran Titre - Mario Kart 64",
@@ -21420,7 +21460,7 @@ window.musicNameList = [
   {
     id: 1044,
     en: "Rainbow Road - Mario Kart 64",
-    fr: "Route Arc-En-Ciel - Mario Kart 64",
+    fr: "Route Arc En Ciel - Mario Kart 64",
   },
   {
     id: 1045,
