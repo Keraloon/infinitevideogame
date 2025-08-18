@@ -8379,7 +8379,7 @@ window.musicListWithLinks = [
     answer: 2610,
   },
   {
-    url: "https://soundcloud.com/kera-303625942/the-lost-portrait",
+    url: "https://soundcloud.com/startyphoon/lost-paintings",
     answer: 2611,
   },
   {
