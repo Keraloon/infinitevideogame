@@ -5292,8 +5292,36 @@ window.musicListWithLinks = [
     answer: 1322,
   },
   {
+    url: "https://soundcloud.com/anthony-fula/forest-for-the-trees",
+    answer: 1323,
+  },
+  {
     url: "https://soundcloud.com/vgm-vaccine/pewter-city-theme",
     answer: 1324,
+  },
+  {
+    url: "https://soundcloud.com/anthony-fula/chaos-to-order",
+    answer: 1325,
+  },
+  {
+    url: "https://soundcloud.com/anthony-fula/industrial-memories",
+    answer: 1326,
+  },
+  {
+    url: "https://soundcloud.com/anthony-fula/switch-and-spin",
+    answer: 1327,
+  },
+  {
+    url: "https://soundcloud.com/anthony-fula/caught-in-a-trance",
+    answer: 1328,
+  },
+  {
+    url: "https://soundcloud.com/anthony-fula/rapoville",
+    answer: 1329,
+  },
+  {
+    url: "https://soundcloud.com/anthony-fula/mechanical-mayhem",
+    answer: 1330,
   },
   {
     url: "https://soundcloud.com/user-681426033/jessie-james-pokemon-lets-go-pikachu-lets-go-eevee",
