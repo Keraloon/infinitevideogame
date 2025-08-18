@@ -18123,6 +18123,101 @@ window.musicNameList = [
     fr: "Sunset Town : Bonus Track 2 - Sonic The Fighters",
   },
   {
+    id: 1337,
+    en: "Intro - Sonic Advance 3",
+    fr: "Intro - Sonic Advance 3",
+  },
+  {
+    id: 1361,
+    en: "Main Menu - Sonic Advance 3",
+    fr: "Menu Principal - Sonic Advance 3",
+  },
+  {
+    id: 1338,
+    en: "Route 99 Act 1 - Sonic Advance 3",
+    fr: "Route 99 Act 1 - Sonic Advance 3",
+  },
+  {
+    id: 1339,
+    en: "Route 99 Act 3 - Sonic Advance 3",
+    fr: "Route 99 Act 3 - Sonic Advance 3",
+  },
+  {
+    id: 1341,
+    en: "Sunset Hill Act 1 - Sonic Advance 3",
+    fr: "Sunset Hill Act 1 - Sonic Advance 3",
+  },
+  {
+    id: 1342,
+    en: "Ocean Base Act 1 - Sonic Advance 3",
+    fr: "Ocean Base Act 1 - Sonic Advance 3",
+  },
+  {
+    id: 1344,
+    en: "Ocean Base Act 2 - Sonic Advance 3",
+    fr: "Ocean Base Act 2 - Sonic Advance 3",
+  },
+  {
+    id: 1345,
+    en: "Ocean Base Act 3 - Sonic Advance 3",
+    fr: "Ocean Base Act 3 - Sonic Advance 3",
+  },
+  {
+    id: 1347,
+    en: "Toy Kingdom Act 1 - Sonic Advance 3",
+    fr: "Toy Kingdom Act 1 - Sonic Advance 3",
+  },
+  {
+    id: 1348,
+    en: "Toy Kingdom Act 3 - Sonic Advance 3",
+    fr: "Toy Kingdom Act 3 - Sonic Advance 3",
+  },
+  {
+    id: 1349,
+    en: "Twinkle Snow Act 1 - Sonic Advance 3",
+    fr: "Twinkle Snow Act 1 - Sonic Advance 3",
+  },
+  {
+    id: 1352,
+    en: "Twinkle Snow Act 3 - Sonic Advance 3",
+    fr: "Twinkle Snow Act 3 - Sonic Advance 3",
+  },
+  {
+    id: 1353,
+    en: "Cyber Track Act 2 - Sonic Advance 3",
+    fr: "Cyber Track Act 2 - Sonic Advance 3",
+  },
+  {
+    id: 1354,
+    en: "Chaos Angel Act 1 - Sonic Advance 3",
+    fr: "Chaos Angel Act 1 - Sonic Advance 3",
+  },
+  {
+    id: 1356,
+    en: "Cyber Track (Map) - Sonic Advance 3",
+    fr: "Cyber Track (Carte) - Sonic Advance 3",
+  },
+  {
+    id: 1357,
+    en: "Boss - Sonic Advance 3",
+    fr: "Boss - Sonic Advance 3",
+  },
+  {
+    id: 1358,
+    en: "Egg Gravity (Pinch) - Sonic Advance 3",
+    fr: "Egg Gravity (Pinch) - Sonic Advance 3",
+  },
+  {
+    id: 1359,
+    en: "Hyper Eggrobo - Sonic Advance 3",
+    fr: "Hyper Eggrobo - Sonic Advance 3",
+  },
+  {
+    id: 1360,
+    en: "Nonaggression (Ultimate Gemerl) - Sonic Advance 3",
+    fr: "Nonaggression (Ultimate Gemerl) - Sonic Advance 3",
+  },
+  {
     id: 3030,
     en: "Super Sonic Racing - Sonic R",
     fr: "Super Sonic Racing - Sonic R",
