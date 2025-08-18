@@ -4472,6 +4472,16 @@ window.musicNameList = [
     fr: "Protectors of the Starry Sky (Fin) - Dragon Quest 9",
   },
   {
+    id: 1331,
+    en: "Ogre - Dragon Quest 10",
+    fr: "Ogre - Dragon Quest 10",
+  },
+  {
+    id: 1335,
+    en: "Pukulipo - Dragon Quest 10",
+    fr: "Pukulipo (Plaisantrin) - Dragon Quest 10",
+  },
+  {
     id: 2390,
     en: "Clashing Edges (Battle) - Dragon Quest 10",
     fr: "Clashing Edges (Combat) - Dragon Quest 10",
@@ -4485,6 +4495,16 @@ window.musicNameList = [
     id: 3463,
     en: "Drawn Between Two World (VS Nelgel Phase 1) - Dragon Quest 10",
     fr: "Drawn Between Two World (VS Nelgel Phase 1) - Dragon Quest 10",
+  },
+  {
+    id: 1333,
+    en: "Fight with the Spirit Most Evil (VS Nelgel The Netherfiend) - Dragon Quest 10",
+    fr: "Fight with the Spirit Most Evil (VS Infernal Nelgel) - Dragon Quest 10",
+  },
+  {
+    id: 1334,
+    en: "Racing Heart - Dragon Quest 10",
+    fr: "Racing Heart - Dragon Quest 10",
   },
   {
     id: 2370,
