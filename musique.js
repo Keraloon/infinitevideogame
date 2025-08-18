@@ -3645,16 +3645,20 @@ window.musicNameList = [
     en: "Shadow Showdown! (VS Wilfre) - Drawn To Life : The Next Chapter",
     fr: "Shadow Showdown! (VS Wilfre) - Dessine Ton Aventure",
   },
-
+  {
+    id: 2321,
+    en: "80's Wapo Wave - Drawn To Life : Two Realms",
+    fr: "80's Wapo Wave - Drawn To Life : Two Realms",
+  },
   {
     id: 2320,
     en: "90's Wapo Club - Drawn To Life : Two Realms",
     fr: "90's Wapo Club - Drawn To Life : Two Realms",
   },
   {
-    id: 2321,
-    en: "80's Wapo Wave - Drawn To Life : Two Realms",
-    fr: "80's Wapo Wave - Drawn To Life : Two Realms",
+    id: 1329,
+    en: "Rapoville - Drawn To Life : Two Realms",
+    fr: "Rapoville - Drawn To Life : Two Realms",
   },
   {
     id: 2322,
@@ -3662,24 +3666,14 @@ window.musicNameList = [
     fr: "Real Life (Acoustic) - Drawn To Life : Two Realms",
   },
   {
-    id: 2323,
-    en: "Theme Of Shadow - Drawn To Life : Two Realms",
-    fr: "Theme Of Shadow - Drawn To Life : Two Realms",
-  },
-  {
-    id: 2324,
-    en: "Series Of Problem - Drawn To Life : Two Realms",
-    fr: "Series Of Problem - Drawn To Life : Two Realms",
+    id: 2331,
+    en: "Chiptuned - Drawn To Life : Two Realms",
+    fr: "Chiptuned - Drawn To Life : Two Realms",
   },
   {
     id: 2325,
     en: "Two Realms - Drawn To Life : Two Realms",
     fr: "Two Realms - Drawn To Life : Two Realms",
-  },
-  {
-    id: 1329,
-    en: "Rapoville - Drawn To Life : Two Realms",
-    fr: "Rapoville - Drawn To Life : Two Realms",
   },
   {
     id: 2326,
@@ -3712,24 +3706,9 @@ window.musicNameList = [
     fr: "Forest for the Trees - Drawn To Life : Two Realms",
   },
   {
-    id: 1325,
-    en: "Chaos to Order - Drawn To Life : Two Realms",
-    fr: "Chaos to Order - Drawn To Life : Two Realms",
-  },
-  {
-    id: 1326,
-    en: "Industrial Memories - Drawn To Life : Two Realms",
-    fr: "Industrial Memories - Drawn To Life : Two Realms",
-  },
-  {
     id: 1327,
     en: "Switch and Spin - Drawn To Life : Two Realms",
     fr: "Switch and Spin - Drawn To Life : Two Realms",
-  },
-  {
-    id: 1328,
-    en: "Caught in a Trance - Drawn To Life : Two Realms",
-    fr: "Caught in a Trance - Drawn To Life : Two Realms",
   },
   {
     id: 1330,
@@ -3737,9 +3716,29 @@ window.musicNameList = [
     fr: "Mechanical Mayhem - Drawn To Life : Two Realms",
   },
   {
-    id: 2331,
-    en: "Chiptuned - Drawn To Life : Two Realms",
-    fr: "Chiptuned - Drawn To Life : Two Realms",
+    id: 1328,
+    en: "Caught in a Trance - Drawn To Life : Two Realms",
+    fr: "Caught in a Trance - Drawn To Life : Two Realms",
+  },
+  {
+    id: 1326,
+    en: "Industrial Memories - Drawn To Life : Two Realms",
+    fr: "Industrial Memories - Drawn To Life : Two Realms",
+  },
+  {
+    id: 1325,
+    en: "Chaos to Order - Drawn To Life : Two Realms",
+    fr: "Chaos to Order - Drawn To Life : Two Realms",
+  },
+  {
+    id: 2324,
+    en: "Series Of Problem - Drawn To Life : Two Realms",
+    fr: "Series Of Problem - Drawn To Life : Two Realms",
+  },
+  {
+    id: 2323,
+    en: "Theme Of Shadow - Drawn To Life : Two Realms",
+    fr: "Theme Of Shadow - Drawn To Life : Two Realms",
   },
   {
     id: 3079,
