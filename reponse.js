@@ -5503,7 +5503,6 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/user-939541039/pokemon-center-pokemon-sword",
     answer: 1375,
   },
-
   {
     url: "https://soundcloud.com/unsupportive/boutique-shop-music-pokemon-sword-and-shield-ost",
     answer: 1376,
@@ -5513,18 +5512,49 @@ window.musicListWithLinks = [
     answer: 1377,
   },
   {
+    url: "https://soundcloud.com/user-227502204-594364584/super-mario-kart",
+    answer: 1378,
+  },
+  {
     url: "https://soundcloud.com/the-crafty-army/battle-trainer-pokemon-sword-pokemon-shield-ost",
     answer: 1379,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/mario-circuit",
+    answer: 1380,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/koopa-beach",
+    answer: 1381,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/chocolate-island",
+    answer: 1382,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/donut-plains",
+    answer: 1383,
   },
   {
     url: "https://soundcloud.com/user-573053694/battle-max-raid-capture-chance",
     answer: 1384,
   },
   {
+    url: "https://soundcloud.com/user-227502204-594364584/vanilla-lake",
+    answer: 1385,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/bowser-castle",
+    answer: 1386,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/rainbow-road",
+    answer: 1387,
+  },
+  {
     url: "https://soundcloud.com/blurry-fandub/pokemon-sword-shield-team-yell-battle-theme",
     answer: 1389,
   },
-
   {
     url: "https://soundcloud.com/user-939541039/marnies-theme-pokemon-sword",
     answer: 1390,
