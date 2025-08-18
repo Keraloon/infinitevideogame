@@ -5324,8 +5324,24 @@ window.musicListWithLinks = [
     answer: 1330,
   },
   {
+    url: "https://soundcloud.com/kera-303625942/ogre-4",
+    answer: 1331,
+  },
+  {
     url: "https://soundcloud.com/user-681426033/jessie-james-pokemon-lets-go-pikachu-lets-go-eevee",
     answer: 1332,
+  },
+  {
+    url: "https://soundcloud.com/kera-303625942/fight-with-the-spirit-most-evil-3",
+    answer: 1333,
+  },
+  {
+    url: "https://soundcloud.com/kera-303625942/racing-heart-2",
+    answer: 1334,
+  },
+  {
+    url: "https://soundcloud.com/kera-303625942/puklipo-1",
+    answer: 1335,
   },
   {
     url: "https://soundcloud.com/vgm-vaccine/vermilion-city-theme-pokemon-lets-go",
