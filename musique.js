@@ -3677,6 +3677,11 @@ window.musicNameList = [
     fr: "Two Realms - Drawn To Life : Two Realms",
   },
   {
+    id: 1329,
+    en: "Rapoville - Drawn To Life : Two Realms",
+    fr: "Rapoville - Drawn To Life : Two Realms",
+  },
+  {
     id: 2326,
     en: "Every Second Counts - Drawn To Life : Two Realms",
     fr: "Every Second Counts - Drawn To Life : Two Realms",
@@ -3700,6 +3705,36 @@ window.musicNameList = [
     id: 2330,
     en: "In The Back Of Your Mind - Drawn To Life : Two Realms",
     fr: "In The Back Of Your Mind - Drawn To Life : Two Realms",
+  },
+  {
+    id: 1323,
+    en: "Forest for the Trees - Drawn To Life : Two Realms",
+    fr: "Forest for the Trees - Drawn To Life : Two Realms",
+  },
+  {
+    id: 1325,
+    en: "Chaos to Order - Drawn To Life : Two Realms",
+    fr: "Chaos to Order - Drawn To Life : Two Realms",
+  },
+  {
+    id: 1326,
+    en: "Industrial Memories - Drawn To Life : Two Realms",
+    fr: "Industrial Memories - Drawn To Life : Two Realms",
+  },
+  {
+    id: 1327,
+    en: "Switch and Spin - Drawn To Life : Two Realms",
+    fr: "Switch and Spin - Drawn To Life : Two Realms",
+  },
+  {
+    id: 1328,
+    en: "Caught in a Trance - Drawn To Life : Two Realms",
+    fr: "Caught in a Trance - Drawn To Life : Two Realms",
+  },
+  {
+    id: 1330,
+    en: "Mechanical Mayhem - Drawn To Life : Two Realms",
+    fr: "Mechanical Mayhem - Drawn To Life : Two Realms",
   },
   {
     id: 2331,
