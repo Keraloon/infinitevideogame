@@ -5552,6 +5552,10 @@ window.musicListWithLinks = [
     answer: 1387,
   },
   {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-neo-green-hill",
+    answer: 1388,
+  },
+  {
     url: "https://soundcloud.com/blurry-fandub/pokemon-sword-shield-team-yell-battle-theme",
     answer: 1389,
   },
@@ -5560,35 +5564,113 @@ window.musicListWithLinks = [
     answer: 1390,
   },
   {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-ost-neo-green",
+    answer: 1391,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-ost-secret-base",
+    answer: 1392,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-music-secret",
+    answer: 1393,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-ost-casino-1",
+    answer: 1394,
+  },
+  {
     url: "https://soundcloud.com/joremaster/bede-encounter-theme-pokemon-sword-shield",
     answer: 1395,
   },
-
+  {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-ost-casino",
+    answer: 1396,
+  },
   {
     url: "https://soundcloud.com/blurry-fandub/pokemon-sword-shield-bede-battle-theme",
     answer: 1397,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-music-ice",
+    answer: 1398,
   },
   {
     url: "https://soundcloud.com/user-939541039/the-secret-of-stow-on-sides",
     answer: 1399,
   },
   {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-music-angel-1",
+    answer: 1400,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-music-angel",
+    answer: 1401,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-music-egg",
+    answer: 1402,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-ost-cosmic-angel",
+    answer: 1403,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/x-zone",
+    answer: 1404,
+  },
+  {
     url: "https://soundcloud.com/piwa31/pokemon-sword-and-shield-battle-gym-leader",
     answer: 1405,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/boss-battle",
+    answer: 1406,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/boss-intro",
+    answer: 1407,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/metal-knuckles-phase-2",
+    answer: 1408,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-ost-x-zone",
+    answer: 1409,
   },
   {
     url: "https://soundcloud.com/user-939541039/rotom-rally-pokemon-sword-and",
     answer: 1410,
   },
   {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-music-x-zone",
+    answer: 1411,
+  },
+  {
     url: "https://soundcloud.com/piwa31/pokemon-sword-and-shield-marnie",
     answer: 1412,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sonic-advance-ost-x-zone-boss",
+    answer: 1413,
   },
   {
     url: "https://soundcloud.com/user-939541039/hammerlocke-pokemon-sword-and",
     answer: 1414,
   },
-
+  {
+    url: "https://soundcloud.com/faded_boo/special-stage",
+    answer: 1415,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/character-select",
+    answer: 1416,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/tiny-chao-garden",
+    answer: 1417,
+  },
   {
     url: "https://soundcloud.com/user-939541039/stow-on-side-pokemon-sword-and",
     answer: 1418,
@@ -5596,6 +5678,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/user-939541039/glimwood-tangle-pokemon-sword",
     answer: 1419,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/tiny-chao-garden-minigame",
+    answer: 1420,
   },
   {
     url: "https://soundcloud.com/user-939541039/spikemuth-pokemon-sword-and",
