@@ -18148,6 +18148,116 @@ window.musicNameList = [
     fr: "Sunset Town : Bonus Track 2 - Sonic The Fighters",
   },
   {
+    id: 1388,
+    en: "Neo Green Hill Act 1 - Sonic Advance",
+    fr: "Neo Green Hill Act 1 - Sonic Advance",
+  },
+  {
+    id: 1391,
+    en: "Neo Green Hill Act 2 - Sonic Advance",
+    fr: "Neo Green Hill Act 2 - Sonic Advance",
+  },
+  {
+    id: 1392,
+    en: "Secret Base Act 1 - Sonic Advance",
+    fr: "Secret Base Act 1 - Sonic Advance",
+  },
+  {
+    id: 1393,
+    en: "Secret Base Act 2 - Sonic Advance",
+    fr: "Secret Base Act 2 - Sonic Advance",
+  },
+  {
+    id: 1394,
+    en: "Casino Paradise Act 1 - Sonic Advance",
+    fr: "Casino Paradise Act 1 - Sonic Advance",
+  },
+  {
+    id: 1396,
+    en: "Casino Paradise Act 2 - Sonic Advance",
+    fr: "Casino Paradise Act 2 - Sonic Advance",
+  },
+  {
+    id: 1398,
+    en: "Ice Mountain Act 1 - Sonic Advance",
+    fr: "Ice Mountain Act 1 - Sonic Advance",
+  },
+  {
+    id: 1400,
+    en: "Angel Island Act 1 - Sonic Advance",
+    fr: "Angel Island Act 1 - Sonic Advance",
+  },
+  {
+    id: 1401,
+    en: "Angel Island Act 2 - Sonic Advance",
+    fr: "Angel Island Act 2 - Sonic Advance",
+  },
+  {
+    id: 1402,
+    en: "Egg Rocket - Sonic Advance",
+    fr: "Egg Rocket - Sonic Advance",
+  },
+  {
+    id: 1403,
+    en: "Cosmic Angel - Sonic Advance",
+    fr: "Cosmic Angel - Sonic Advance",
+  },
+  {
+    id: 1404,
+    en: "X Zone - Sonic Advance",
+    fr: "X Zone - Sonic Advance",
+  },
+  {
+    id: 1406,
+    en: "Boss - Sonic Advance",
+    fr: "Boss - Sonic Advance",
+  },
+  {
+    id: 1407,
+    en: "Boss Intro - Sonic Advance",
+    fr: "Intro Boss - Sonic Advance",
+  },
+  {
+    id: 1408,
+    en: "Metal Knuckles Phase 2 - Sonic Advance",
+    fr: "Metal Knuckles Phase 2 - Sonic Advance",
+  },
+  {
+    id: 1409,
+    en: "X-Zone Boss (Egg Mobile-H) - Sonic Advance",
+    fr: "X-Zone Boss (Egg Mobile-H) - Sonic Advance",
+  },
+  {
+    id: 1411,
+    en: "X-Zone Boss (Egg Mobile-D) - Sonic Advance",
+    fr: "X-Zone Boss (Egg Mobile-D) - Sonic Advance",
+  },
+  {
+    id: 1413,
+    en: "X-Zone Boss (Egg X) - Sonic Advance",
+    fr: "X-Zone Boss (Egg X) - Sonic Advance",
+  },
+  {
+    id: 1415,
+    en: "Special Stage - Sonic Advance",
+    fr: "Special Stage - Sonic Advance",
+  },
+  {
+    id: 1416,
+    en: "Character Select - Sonic Advance",
+    fr: "Sélection de Personnage - Sonic Advance",
+  },
+  {
+    id: 1417,
+    en: "Tiny Chao Garden - Sonic Advance",
+    fr: "Tiny Chao Garden - Sonic Advance",
+  },
+  {
+    id: 1420,
+    en: "Tiny Chao Garden Minigame - Sonic Advance",
+    fr: "Tiny Chao Garden Minijeu - Sonic Advance",
+  },
+  {
     id: 1337,
     en: "Intro - Sonic Advance 3",
     fr: "Intro - Sonic Advance 3",
