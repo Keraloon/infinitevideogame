@@ -5684,6 +5684,10 @@ window.musicListWithLinks = [
     answer: 1420,
   },
   {
+    url: "https://soundcloud.com/faded_boo/leaf-forest-act-1",
+    answer: 1421,
+  },
+  {
     url: "https://soundcloud.com/user-939541039/spikemuth-pokemon-sword-and",
     answer: 1422,
   },
@@ -5692,8 +5696,36 @@ window.musicListWithLinks = [
     answer: 1423,
   },
   {
+    url: "https://soundcloud.com/faded_boo/hot-crater-act-2",
+    answer: 1424,
+  },
+  {
     url: "https://soundcloud.com/user-939541039/wyndon-pokemon-sword-and",
     answer: 1425,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/music-plant-act-1",
+    answer: 1426,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/music-plant-act-2",
+    answer: 1427,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/ice-paradise-act-1",
+    answer: 1428,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/ice-paradise-act-2",
+    answer: 1429,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sky-canyon-act-1",
+    answer: 1430,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/techno-base-act-1",
+    answer: 1431,
   },
   {
     url: "https://soundcloud.com/user-705219356/pokmon-sword-and-shield-oleana-battle-theme",
@@ -5704,16 +5736,52 @@ window.musicListWithLinks = [
     answer: 1433,
   },
   {
+    url: "https://soundcloud.com/faded_boo/egg-utopia-act-1",
+    answer: 1434,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/boss-5",
+    answer: 1435,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/boss-pinch-2",
+    answer: 1436,
+  },
+  {
     url: "https://soundcloud.com/user-939541039/the-darkest-day-pokemon-sword",
     answer: 1437,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/vs-knucklesg",
+    answer: 1438,
   },
   {
     url: "https://soundcloud.com/jacob-twee/pokemon-sword-shield-chairman-rose-battle-theme",
     answer: 1439,
   },
   {
+    url: "https://soundcloud.com/faded_boo/boss-7",
+    answer: 1440,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/boss-knuckles",
+    answer: 1441,
+  },
+  {
     url: "https://soundcloud.com/goldmatt/pokemon-sword-shield-eternatus-battle-theme-version-3",
     answer: 1442,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/final-zone-xx",
+    answer: 1443,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/final-boss-sa2",
+    answer: 1444,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/extra-demo-2",
+    answer: 1445,
   },
   {
     url: "https://soundcloud.com/9506715635/pokemon-sword-shield-legendary-battle-theme",
