@@ -889,6 +889,10 @@ video {
     color: var(--color-negative)
 }
 
+.text-custom-franchise {
+    color: #FFFF00;
+}
+
 .text-custom-fg {
     color: var(--color-fg)
 }
