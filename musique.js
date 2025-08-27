@@ -18258,6 +18258,91 @@ window.musicNameList = [
     fr: "Tiny Chao Garden Minijeu - Sonic Advance",
   },
   {
+    id: 1421,
+    en: "Leaf Forest Act 1 - Sonic Advance 2",
+    fr: "Leaf Forest Act 1 - Sonic Advance 2",
+  },
+  {
+    id: 1424,
+    en: "Hot Crater Act 2 - Sonic Advance 2",
+    fr: "Hot Crater Act 2 - Sonic Advance 2",
+  },
+  {
+    id: 1426,
+    en: "Music Plant Act 1 - Sonic Advance 2",
+    fr: "Music Plant Act 1 - Sonic Advance 2",
+  },
+  {
+    id: 1427,
+    en: "Music Plant Act 2 - Sonic Advance 2",
+    fr: "Music Plant Act 2 - Sonic Advance 2",
+  },
+  {
+    id: 1428,
+    en: "Ice Paradise Act 1 - Sonic Advance 2",
+    fr: "Ice Paradise Act 1 - Sonic Advance 2",
+  },
+  {
+    id: 1429,
+    en: "Ice Paradise Act 2 - Sonic Advance 2",
+    fr: "Ice Paradise Act 2 - Sonic Advance 2",
+  },
+  {
+    id: 1430,
+    en: "Sky Canyon Act 1 - Sonic Advance 2",
+    fr: "Sky Canyon Act 1 - Sonic Advance 2",
+  },
+  {
+    id: 1431,
+    en: "Techno Base Act 1 - Sonic Advance 2",
+    fr: "Techno Base Act 1 - Sonic Advance 2",
+  },
+  {
+    id: 1434,
+    en: "Egg Utopia Act 1 - Sonic Advance 2",
+    fr: "Egg Utopia Act 1 - Sonic Advance 2",
+  },
+  {
+    id: 1435,
+    en: "Boss - Sonic Advance 2",
+    fr: "Boss - Sonic Advance 2",
+  },
+  {
+    id: 1436,
+    en: "Boss : Pinch - Sonic Advance 2",
+    fr: "Boss : Pinch - Sonic Advance 2",
+  },
+  {
+    id: 1438,
+    en: "Egg Saucer - Sonic Advance 2",
+    fr: "Egg Saucer - Sonic Advance 2",
+  },
+  {
+    id: 1440,
+    en: "Egg Frog - Sonic Advance 2",
+    fr: "Egg Frog - Sonic Advance 2",
+  },
+  {
+    id: 1441,
+    en: "Boss : Knuckles - Sonic Advance 2",
+    fr: "Boss : Knuckles - Sonic Advance 2",
+  },
+  {
+    id: 1443,
+    en: "Final Zone : XX - Sonic Advance 2",
+    fr: "Final Zone : XX - Sonic Advance 2",
+  },
+  {
+    id: 1444,
+    en: "Final Boss - Sonic Advance 2",
+    fr: "Final Boss - Sonic Advance 2",
+  },
+  {
+    id: 1445,
+    en: "Extra Demo 2 - Sonic Advance 2",
+    fr: "Extra Demo 2 - Sonic Advance 2",
+  },
+  {
     id: 1337,
     en: "Intro - Sonic Advance 3",
     fr: "Intro - Sonic Advance 3",
