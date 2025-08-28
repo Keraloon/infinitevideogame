@@ -20683,6 +20683,48 @@ window.musicNameList = [
     franchise : "Sin & Punishment",
   },
   {
+    id: 1446,
+    en: "Green Hill - Sonic 1 (Game Gear/Master System)",
+    fr: "Green Hill - Sonic 1 (Game Gear/Master System)",
+    franchise: "Sonic",
+  },
+  {
+    id: 1447,
+    en: "Bridge Zone - Sonic 1 (Game Gear/Master System)",
+    fr: "Bridge Zone - Sonic 1 (Game Gear/Master System)",
+    franchise: "Sonic",
+  },
+  {
+    id: 1449,
+    en: "Jungle Zone - Sonic 1 (Game Gear/Master System)",
+    fr: "Jungle Zone - Sonic 1 (Game Gear/Master System)",
+    franchise: "Sonic",
+  },
+  {
+    id: 1451,
+    en: "Labyrinth Zone - Sonic 1 (Game Gear/Master System)",
+    fr: "Labyrinth Zone - Sonic 1 (Game Gear/Master System)",
+    franchise: "Sonic",
+  },
+  {
+    id: 1452,
+    en: "Scrap Brain - Sonic 1 (Game Gear/Master System)",
+    fr: "Scrap Brain - Sonic 1 (Game Gear/Master System)",
+    franchise: "Sonic",
+  },
+  {
+    id: 1454,
+    en: "Sky Base - Sonic 1 (Game Gear/Master System)",
+    fr: "Sky Base - Sonic 1 (Game Gear/Master System)",
+    franchise: "Sonic",
+  },
+  {
+    id: 1456,
+    en: "Bonus Stage - Sonic 1 (Game Gear/Master System)",
+    fr: "Bonus Stage - Sonic 1 (Game Gear/Master System)",
+    franchise: "Sonic",
+  },
+  {
     id: 2825,
     en: "Marble Zone - Sonic 1",
     fr: "Marble Zone - Sonic 1",
