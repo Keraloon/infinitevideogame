@@ -1484,6 +1484,8 @@ var app = (function () {
         return Yeye;
       } else if (window.musicNameList.find(a => a.fr === e[0][e[7]].answer)?.franchise === window.musicNameList.find(a => a.id === e[2].correctAnswer)?.franchise) {
         return Yeyeye;
+      } else if (window.musicNameList.find(a => a.en === e[0][e[7]].answer)?.franchise === window.musicNameList.find(a => a.id === e[2].correctAnswer)?.franchise) {
+        return Yeyeye;
       } else {
         return Ye;
       }
