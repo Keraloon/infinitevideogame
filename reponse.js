@@ -5835,7 +5835,10 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/municipalsiren4-l/battle-mustard-pokemon-sword-and-shield-ost-isle-of-armor",
     answer: 1458,
   },
-
+  {
+    url: "https://soundcloud.com/faded_boo/lava-powerhouse",
+    answer: 1459,
+  },
   {
     url: "https://soundcloud.com/municipalsiren4-l/final-battle-mustard-pokemon-sword-and-shield-ost-isle-of-armor",
     answer: 1462,
