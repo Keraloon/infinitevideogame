@@ -21703,6 +21703,12 @@ window.musicNameList = [
     franchise: "Sonic",
   },
   {
+    id: 1459,
+    en: "Lava Powerhouse - Sonic Spinball",
+    fr: "Lava Powerhouse - Sonic Spinball",
+    franchise: "Sonic",
+  },
+  {
     id: 2500,
     en: "Boss - Sonic Spinball",
     fr: "Boss - Sonic Spinball",
