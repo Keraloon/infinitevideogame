@@ -5784,23 +5784,49 @@ window.musicListWithLinks = [
     answer: 1445,
   },
   {
+    url: "https://soundcloud.com/faded_boo/green-hill-zone-2",
+    answer: 1446,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/bridge-zone",
+    answer: 1447,
+  },
+  {
     url: "https://soundcloud.com/9506715635/pokemon-sword-shield-legendary-battle-theme",
     answer: 1448,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/jungle-zone",
+    answer: 1449,
   },
   {
     url: "https://soundcloud.com/piwa31/pokemon-sword-and-shield-theme-by-toby-fox-full",
     answer: 1450,
   },
-
+  {
+    url: "https://soundcloud.com/faded_boo/labyrinth-zone-1",
+    answer: 1451,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/scrap-brain-zone-1",
+    answer: 1452,
+  },
   {
     url: "https://soundcloud.com/municipalsiren4-l/battle-avery-pokemon-sword-and-shield-ost-isle-of-armor",
     answer: 1453,
   },
   {
+    url: "https://soundcloud.com/faded_boo/sky-base",
+    answer: 1454,
+  },
+  {
     url: "https://soundcloud.com/municipalsiren4-l/battle-klara-pokemon-sword-and-shield-ost-gamerip",
     answer: 1455,
   },
-
+  {
+    url: "https://soundcloud.com/faded_boo/special-stage-20",
+    answer: 1456,
+  },
   {
     url: "https://soundcloud.com/municipalsiren4-l/mustards-theme-pokemon-sword-and-shield-ost-isle-of-armor",
     answer: 1457,
