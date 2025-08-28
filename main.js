@@ -1481,6 +1481,8 @@ var app = (function () {
         return Te;
       } else if (e[0][e[7]].answer.split(" - ")[1] === e[2].artist) {
         return Yeye;
+      } else if (window.musicNameList.find(a => a.en === e[0][e[7]].answer)?.franchise === window.musicNameList.find(a => a.id === e[2].correctAnswer)?.franchise) {
+        return Yeyeye;
       } else {
         return Ye;
       }
@@ -1588,6 +1590,7 @@ var app = (function () {
       },
     };
   }
+
   function Yeye(e) {
     let t, n, r;
     return {
@@ -1604,6 +1607,40 @@ var app = (function () {
           M(r, "x2", "18"),
           M(r, "y2", "18"),
           M(t, "class", "text-custom-positive"), // Utilisation de la classe "text-custom-positive" pour la couleur verte
+          M(t, "xmlns", "http://www.w3.org/2000/svg"),
+          M(t, "width", "24"),
+          M(t, "height", "24"),
+          M(t, "viewBox", "0 0 24 24"),
+          M(t, "fill", "none"),
+          M(t, "stroke", "currentColor"),
+          M(t, "stroke-width", "2"),
+          M(t, "stroke-linecap", "round"),
+          M(t, "stroke-linejoin", "round");
+      },
+      m(e, s) {
+        g(e, t, s), p(t, n), p(t, r);
+      },
+      d(e) {
+        e && y(t);
+      },
+    };
+  }
+  function Yeyeye(e) {
+    let t, n, r;
+    return {
+      c() {
+        (t = k("svg")),
+          (n = k("line")),
+          (r = k("line")),
+          M(n, "x1", "18"),
+          M(n, "y1", "6"),
+          M(n, "x2", "6"),
+          M(n, "y2", "18"),
+          M(r, "x1", "6"),
+          M(r, "y1", "6"),
+          M(r, "x2", "18"),
+          M(r, "y2", "18"),
+          M(t, "class", "text-custom-franchise"),
           M(t, "xmlns", "http://www.w3.org/2000/svg"),
           M(t, "width", "24"),
           M(t, "height", "24"),
