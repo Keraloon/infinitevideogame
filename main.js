@@ -1477,8 +1477,7 @@ var app = (function () {
 
     function s(e, t) {
       const song = e[0][e[7]];
-      console.log(window.musicNameList.find(a => a.en === e[0][e[7]].answer)?.franchise);
-      console.log(window.musicNameList.find(a => a.id === e[2].correctAnswer)?.franchise);
+      console.log(window.musicNameList.find(a => a.fr === e[0][e[7]].answer)?.franchise);
       if (e[0][e[7]].isSkipped) {
         return Te;
       } else if (e[0][e[7]].answer.split(" - ")[1] === e[2].artist) {
