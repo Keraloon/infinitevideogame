@@ -20887,7 +20887,7 @@ window.musicNameList = [
     franchise: "Sonic",
   },
   {
-    id: 1481,
+    id: 1482,
     en: "Palmtree Panic (Bad Future) - Sonic CD (JP)",
     fr: "Palmtree Panic (Bad Future) - Sonic CD (JP)",
     franchise: "Sonic",
