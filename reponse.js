@@ -5840,8 +5840,32 @@ window.musicListWithLinks = [
     answer: 1459,
   },
   {
+    url: "https://soundcloud.com/faded_boo/underground-zone",
+    answer: 1460,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sky-high-zone",
+    answer: 1461,
+  },
+  {
     url: "https://soundcloud.com/municipalsiren4-l/final-battle-mustard-pokemon-sword-and-shield-ost-isle-of-armor",
     answer: 1462,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/aqua-lake-zone",
+    answer: 1463,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/green-hill-zone-3",
+    answer: 1464,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/gimmick-mountain-zone",
+    answer: 1465,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/scrambled-egg-zone",
+    answer: 1466,
   },
   {
     url: "https://soundcloud.com/municipalsiren4-l/battle-peony-pokemon-sword-and-shield-ost-the-crown-tundra",
@@ -5851,7 +5875,6 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/user-939541039/max-lair-pokemon-sword-and",
     answer: 1468,
   },
-
   {
     url: "https://soundcloud.com/diamondpearl-886539488/dynamax-adventure-pokemon",
     answer: 1469,
@@ -5861,12 +5884,24 @@ window.musicListWithLinks = [
     answer: 1470,
   },
   {
+    url: "https://soundcloud.com/faded_boo/boss-theme-4",
+    answer: 1471,
+  },
+  {
     url: "https://soundcloud.com/municipalsiren4-l/battle-calyrex-pokemon-sword-and-shield-ost-the-crown-tundra",
     answer: 1472,
   },
   {
+    url: "https://soundcloud.com/faded_boo/boss-theme-master-system",
+    answer: 1473,
+  },
+  {
     url: "https://soundcloud.com/municipalsiren4-l/battle-glastrierspectrier-pokemon-sword-and-shield-ost-the-crown-tundra",
     answer: 1474,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/y2matecom-sonic-the-hedgehog-2-special-remix-under-ground-zone-0dljnh84c3u",
+    answer: 1475,
   },
   {
     url: "https://soundcloud.com/municipalsiren4-l/battle-mounted-calyrex-pokemon-sword-and-shield-ost-the-crown-tundra",
