@@ -5908,6 +5908,10 @@ window.musicListWithLinks = [
     answer: 1476,
   },
   {
+    url: "https://soundcloud.com/faded_boo/you-can-do-anything",
+    answer: 1477,
+  },
+  {
     url: "https://soundcloud.com/municipalsiren4-l/battle-galarian-legendary-birds-pokemon-sword-and-shield-ost-the-crown-tundra",
     answer: 1478,
   },
@@ -5915,10 +5919,81 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/municipalsiren4-l/battle-regi-trio-pokemon-sword-and-shield-ost-the-crown-tundra",
     answer: 1479,
   },
-
+  {
+    url: "https://soundcloud.com/faded_boo/palmtree-panic-present",
+    answer: 1480,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/palmtree-panic-past",
+    answer: 1481,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/palmtree-panic-bad-future",
+    answer: 1482,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/collision-chaos-past",
+    answer: 1483,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/collision-chaos-good-future",
+    answer: 1484,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/tidal-tempest-good-future",
+    answer: 1485,
+  },
   {
     url: "https://soundcloud.com/tropicalfrosty/verity-lake",
     answer: 1486,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/quartz-quadrant-present",
+    answer: 1487,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/quartz-quadrant-past",
+    answer: 1488,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/quartz-quadrant-good-future",
+    answer: 1489,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/wacky-workbench-past",
+    answer: 1490,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/wacky-workbench-bad-future",
+    answer: 1491,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/stardust-speedway-present",
+    answer: 1492,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/stardust-speedway-past",
+    answer: 1493,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/stardust-speedway-good-future",
+    answer: 1494,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/metallic-madness-present",
+    answer: 1495,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/metallic-madness-bad-future",
+    answer: 1496,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/special-stage-4",
+    answer: 1497,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/little-planet",
+    answer: 1498,
   },
   {
     url: "https://soundcloud.com/tropicalfrosty/poke-mart",
@@ -6520,39 +6595,39 @@ window.musicListWithLinks = [
     answer: 1908,
   },
   {
-    url: "https://soundcloud.com/sonic-cd-the-best-sonic/1-09-boss",
+    url: "https://soundcloud.com/faded_boo/boss-theme",
     answer: 1910,
   },
   {
-    url: "https://soundcloud.com/sonic-cd-the-best-sonic/1-10-collision-chaos-jp",
+    url: "https://soundcloud.com/faded_boo/collision-chaos-present",
     answer: 1911,
   },
   {
-    url: "https://soundcloud.com/sonic-cd-the-best-sonic/1-13-collision-chaos-b-mix-jp",
+    url: "https://soundcloud.com/faded_boo/collision-chaos-bad-future",
     answer: 1912,
   },
   {
-    url: "https://soundcloud.com/sonic-cd-the-best-sonic/1-15-tidal-tempest-p-mix",
+    url: "https://soundcloud.com/faded_boo/tidal-tempest-past",
     answer: 1914,
   },
   {
-    url: "https://soundcloud.com/sonic-cd-the-best-sonic/1-17-tidal-tempest-b-mix-jp",
+    url: "https://soundcloud.com/faded_boo/tidal-tempest-bad-future",
     answer: 1915,
   },
   {
-    url: "https://soundcloud.com/sonic-cd-best-sonic-2/2-04-stardust-speedway-b-mix",
+    url: "https://soundcloud.com/faded_boo/stardust-speedway-bad-future",
     answer: 1918,
   },
   {
-    url: "https://soundcloud.com/sonic-cd-best-sonic-2/2-06-metallic-madness-p-mix",
+    url: "https://soundcloud.com/faded_boo/metallic-madness-past",
     answer: 1919,
   },
   {
-    url: "https://soundcloud.com/sonic-cd-best-sonic-2/2-07-metallic-madness-g-mix-jp",
+    url: "https://soundcloud.com/faded_boo/metallic-madness-good-future",
     answer: 1920,
   },
   {
-    url: "https://soundcloud.com/sonic-cd-best-sonic-3/3-01-sonic-boom-opening",
+    url: "https://soundcloud.com/faded_boo/sonic-boom-2",
     answer: 1921,
   },
   {
