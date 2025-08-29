@@ -6100,6 +6100,22 @@ window.musicListWithLinks = [
     answer: 1524,
   },
   {
+    url: "https://soundcloud.com/faded_boo/resort-island",
+    answer: 1525,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/radical-city",
+    answer: 1526,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/reactive-factory",
+    answer: 1527,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/credits-youre-my-number-one",
+    answer: 1528,
+  },
+  {
     url: "https://soundcloud.com/tropicalfrosty/snowpoint-city-day",
     answer: 1532,
   },
