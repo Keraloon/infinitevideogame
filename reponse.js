@@ -6048,6 +6048,10 @@ window.musicListWithLinks = [
     answer: 1511,
   },
   {
+    url: "https://soundcloud.com/faded_boo/opening-theme",
+    answer: 1512,
+  },
+  {
     url: "https://soundcloud.com/matthew-treich/pokemon-bdsp-battle-team-galactic-grunt",
     answer: 1513,
   },
@@ -6056,8 +6060,44 @@ window.musicListWithLinks = [
     answer: 1514,
   },
   {
+    url: "https://soundcloud.com/faded_boo/stages-1-4",
+    answer: 1515,
+  },
+  {
     url: "https://soundcloud.com/mad-doctor-vgm/team-galactic-eterna-building-pokemon-brilliant-diamond-shining-pearl",
     answer: 1516,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/stages-9-12",
+    answer: 1517,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/stage-13",
+    answer: 1518,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/ending-theme",
+    answer: 1519,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/configuration",
+    answer: 1520,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/password-entry",
+    answer: 1521,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/exercise-1",
+    answer: 1522,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/2-player-vs",
+    answer: 1523,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/unused-brave",
+    answer: 1524,
   },
   {
     url: "https://soundcloud.com/tropicalfrosty/snowpoint-city-day",
