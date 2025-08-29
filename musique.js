@@ -22453,9 +22453,33 @@ window.musicNameList = [
     franchise: "Sonic",
   },
   {
+    id: 1525,
+    en: "Resort Island : Can You Feel The Sunshine? - Sonic R",
+    fr: "Resort Island : Can You Feel The Sunshine? - Sonic R",
+    franchise: "Sonic",
+  },
+  {
+    id: 1526,
+    en: "Radical City : Living in the City - Sonic R",
+    fr: "Radical City : Living in the City - Sonic R",
+    franchise: "Sonic",
+  },
+  {
+    id: 1527,
+    en: "Reactive Factory : Work It Out - Sonic R",
+    fr: "Reactive Factory : Work It Out - Sonic R",
+    franchise: "Sonic",
+  },
+  {
     id: 3030,
     en: "Super Sonic Racing - Sonic R",
     fr: "Super Sonic Racing - Sonic R",
+    franchise: "Sonic",
+  },
+  {
+    id: 1528,
+    en: "Credits : You're My Number One - Sonic R",
+    fr: "Credits : You're My Number One - Sonic R",
     franchise: "Sonic",
   },
   {
