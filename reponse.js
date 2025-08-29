@@ -5996,6 +5996,10 @@ window.musicListWithLinks = [
     answer: 1498,
   },
   {
+    url: "https://soundcloud.com/faded_boo/palmtree-panic-present-3",
+    answer: 1499,
+  },
+  {
     url: "https://soundcloud.com/tropicalfrosty/poke-mart",
     answer: 1500,
   },
@@ -6004,8 +6008,44 @@ window.musicListWithLinks = [
     answer: 1501,
   },
   {
+    url: "https://soundcloud.com/faded_boo/collision-chaos-present-2",
+    answer: 1502,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/tidal-tempest-present-2",
+    answer: 1503,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/tidal-tempest-good-future-1",
+    answer: 1504,
+  },
+  {
     url: "https://soundcloud.com/tropicalfrosty/oreburgh-mine",
     answer: 1505,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/quartz-quadrant-present-2",
+    answer: 1506,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/quartz-quadrant-bad-future-1",
+    answer: 1507,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/wacky-workbench-present-2",
+    answer: 1508,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/stardust-speedway-present-2",
+    answer: 1509,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/stardust-speedway-bad-future-1",
+    answer: 1510,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/metallic-madness-present-1",
+    answer: 1511,
   },
   {
     url: "https://soundcloud.com/matthew-treich/pokemon-bdsp-battle-team-galactic-grunt",
