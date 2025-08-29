@@ -6116,8 +6116,24 @@ window.musicListWithLinks = [
     answer: 1528,
   },
   {
+    url: "https://soundcloud.com/faded_boo/seaside-hill-seaside-hill",
+    answer: 1529,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/blizzard-castle-tumbling-xylophone",
+    answer: 1530,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/blizzard-castle-a-jack-in-the-box",
+    answer: 1531,
+  },
+  {
     url: "https://soundcloud.com/tropicalfrosty/snowpoint-city-day",
     answer: 1532,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/casino-park-be-cool-be-wild-be-groovy",
+    answer: 1533,
   },
   {
     url: "https://soundcloud.com/docvgm/battle-team-galactic-boss",
@@ -6131,10 +6147,17 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/vinicius-machado-961615358/mt-coronet-pokemon-brilliant",
     answer: 1536,
   },
-
   {
     url: "https://soundcloud.com/bw2-187523711/spear-pillar-pokemon-brilliant",
     answer: 1537,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/casino-park-super-sonic-racing",
+    answer: 1538,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/studio-amigo-vamos-al-carnaval",
+    answer: 1539,
   },
   {
     url: "https://soundcloud.com/sv-dlc2/battle-dialga-palkia-pokemon-brilliant-diamond-shining-pearl",
@@ -6143,6 +6166,42 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/vinicius-machado-961615358/sunyshore-city-day-pokemon",
     answer: 1541,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/studio-amigo-super-samba",
+    answer: 1542,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/tokyo-to-funky-dealer-1",
+    answer: 1543,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/tokyo-to-the-concept-of-love-1",
+    answer: 1544,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/curien-mansion-theme-of-the-magician-1",
+    answer: 1545,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/curien-mansion-restoration-of-terror-1",
+    answer: 1546,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/final-fortress-final-fortress-1",
+    answer: 1547,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/monkey-island-monkey-island-1",
+    answer: 1548,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/monkey-island-ultra-heaven-1",
+    answer: 1549,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/menu-9",
+    answer: 1550,
   },
   {
     url: "https://soundcloud.com/vinicius-machado-961615358/surf-theme-pokemon-brilliant",
