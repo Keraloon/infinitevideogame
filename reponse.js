@@ -6204,8 +6204,52 @@ window.musicListWithLinks = [
     answer: 1550,
   },
   {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-27",
+    answer: 1551,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-26",
+    answer: 1552,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-24",
+    answer: 1553,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-23",
+    answer: 1554,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-22",
+    answer: 1555,
+  },
+  {
     url: "https://soundcloud.com/vinicius-machado-961615358/surf-theme-pokemon-brilliant",
     answer: 1556,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-21",
+    answer: 1557,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-20",
+    answer: 1558,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-19",
+    answer: 1559,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-18",
+    answer: 1560,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-17",
+    answer: 1561,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-14",
+    answer: 1562,
   },
   {
     url: "https://soundcloud.com/bw2-187523711/eterna-city-night-pokemon",
@@ -6216,8 +6260,92 @@ window.musicListWithLinks = [
     answer: 1564,
   },
   {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-13",
+    answer: 1565,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-12",
+    answer: 1566,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-11",
+    answer: 1567,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-10",
+    answer: 1568,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-7",
+    answer: 1569,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-6",
+    answer: 1570,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-5",
+    answer: 1571,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-2",
+    answer: 1572,
+  },
+  {
     url: "https://soundcloud.com/mad-doctor-vgm/227-game-corner",
     answer: 1573,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-the-9",
+    answer: 1574,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-the-7",
+    answer: 1575,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-the-6",
+    answer: 1576,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-the-4",
+    answer: 1577,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-the",
+    answer: 1578,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-34",
+    answer: 1579,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-35",
+    answer: 1580,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-36",
+    answer: 1581,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-39",
+    answer: 1582,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-38",
+    answer: 1583,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-40",
+    answer: 1584,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-31",
+    answer: 1585,
+  },
+  {
+    url: "https://soundcloud.com/aerione4/jake-kaufman-shantae-and-28",
+    answer: 1586,
   },
   {
     url: "https://soundcloud.com/pandemicvgm/257-battle-tower",
@@ -6227,7 +6355,6 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/docvgm/stark-mountain-pokemon-brilliant-diamond-shining-pearl",
     answer: 1602,
   },
-
   {
     url: "https://soundcloud.com/vinicius-machado-961615358/battle-vs-giratina-pokemon",
     answer: 1616,
