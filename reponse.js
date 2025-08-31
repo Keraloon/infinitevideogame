@@ -6348,6 +6348,42 @@ window.musicListWithLinks = [
     answer: 1586,
   },
   {
+    url: "https://soundcloud.com/james-smith-555071498/sonic-dream-team-main-menu",
+    answer: 1587,
+  },
+  {
+    url: "https://soundcloud.com/james-smith-555071498/scrambled-shores-act-1-2-3",
+    answer: 1588,
+  },
+  {
+    url: "https://soundcloud.com/james-smith-555071498/dr-crabulous-boss",
+    answer: 1589,
+  },
+  {
+    url: "https://soundcloud.com/james-smith-555071498/dream-factory-act-1-2-3",
+    answer: 1590,
+  },
+  {
+    url: "https://soundcloud.com/james-smith-555071498/the-four-man-boss",
+    answer: 1591,
+  },
+  {
+    url: "https://soundcloud.com/james-smith-555071498/nightmare-maze-act-1-2-3",
+    answer: 1592,
+  },
+  {
+    url: "https://soundcloud.com/james-smith-555071498/guardian-hunter-boss",
+    answer: 1593,
+  },
+  {
+    url: "https://soundcloud.com/james-smith-555071498/ego-city-act-1-2-3",
+    answer: 1594,
+  },
+  {
+    url: "https://soundcloud.com/james-smith-555071498/ego-city-boss-final-boss",
+    answer: 1595,
+  },
+  {
     url: "https://soundcloud.com/pandemicvgm/257-battle-tower",
     answer: 1600,
   },
