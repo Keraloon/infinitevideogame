@@ -2261,8 +2261,8 @@ window.musicNameList = [
   },
   {
     id: 3390,
-    en: "The Foolish Smooch Troupe - Chulip",
-    fr: "The Foolish Smooch Troupe - Chulip",
+    en: "Concerned About The Mountain Storehouse - Chulip",
+    fr: "Concerned About The Mountain Storehouse - Chulip",
     franchise : "Chulip",
   },
   {
@@ -2309,8 +2309,8 @@ window.musicNameList = [
   },
   {
     id: 3398,
-    en: "Rare Animal Squad Extinctioner - Chulip",
-    fr: "Rare Animal Squad Extinctioner - Chulip",
+    en: "Tale of the Goldfish Carp - Chulip",
+    fr: "Tale of the Goldfish Carp - Chulip",
     franchise : "Chulip",
   },
   {
