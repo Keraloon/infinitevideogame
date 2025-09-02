@@ -259,7 +259,7 @@ var app = (function () {
     return e();
   }
 
-  function n() {
+  function blank() {
     return Object.create(null);
   }
 
@@ -552,14 +552,14 @@ var app = (function () {
       props: u,
       update: e,
       not_equal: l,
-      bound: n(),
+      bound: blank(),
       on_mount: [],
       on_destroy: [],
       on_disconnect: [],
       before_update: [],
       after_update: [],
       context: new Map(s.context || (h ? h.$$.context : [])),
-      callbacks: n(),
+      callbacks: blank(),
       dirty: d,
       skip_bound: !1,
       root: s.target || h.$$.root,
@@ -746,10 +746,10 @@ var app = (function () {
         let r = e.length;
 
         function s() {
-          (r = --r), r < 1 && n();
+          (r = --r), r < 1 && blank();
         }
         t()
-          ? n()
+          ? blank()
           : e.forEach(
               ({
                 type: e,
@@ -3176,14 +3176,7 @@ var app = (function () {
     };
     return e(t, t.exports), t.exports;
   }
-
-  function vt(e) {
-    throw new Error(
-      'Could not dynamically require "' +
-        e +
-        '". Please configure the dynamicRequireTargets option of @rollup/plugin-commonjs appropriately for this require call to behave properly.'
-    );
-  }
+  
   var wt = yt(function (e, t) {
       var n;
       (n = function () {
@@ -3373,14 +3366,14 @@ var app = (function () {
             return new Promise(function (n, r) {
               var s;
               return (s = e.data).cache && s.store
-                ? n()
+                ? blank()
                 : new Promise(function (e, n) {
                     return "function" == typeof s.src
                       ? s.src(t).then(e, n)
                       : e(s.src);
                   }).then(function (t) {
                     try {
-                      return (e.feedback = s.store = t), d("response", e), n();
+                      return (e.feedback = s.store = t), d("response", e), blank();
                     } catch (e) {
                       return r(e);
                     }
@@ -3467,7 +3460,7 @@ var app = (function () {
                     };
                   })(n.keys);
                 try {
-                  for (c.s(); !(u = c.n()).done; ) l(u.value);
+                  for (c.s(); !(u = c.blank()).done; ) l(u.value);
                 } catch (e) {
                   c.e(e);
                 } finally {
@@ -3688,7 +3681,7 @@ var app = (function () {
                     function () {
                       clearTimeout(s),
                         (s = setTimeout(function () {
-                          return n();
+                          return blank();
                         }, r));
                     }),
                   a = (e.events = t(
@@ -3844,7 +3837,7 @@ var app = (function () {
             D(this);
         };
       }),
-        (e.exports = n());
+        (e.exports = blank());
     }),
     kt = _t(2);
 
@@ -5004,7 +4997,7 @@ var app = (function () {
       super(), re(this, e, null, zt, i, {});
     }
   }
-  const Vt = {
+  const Tries = {
       attemptInterval: 1.5e3,
       attemptIntervalAlt: [1e3, 2e3, 4e3, 7e3, 11e3, 16e3],
       maxAttempts: 6,
@@ -6271,7 +6264,7 @@ var app = (function () {
       (t = new Tn({
         props: {
           userStats: e[4],
-          config: Vt,
+          config: Tries,
           isPrime: e[8].isPrime,
           daysSince: e[11],
           todaysScore: e[6].length,
@@ -6504,7 +6497,7 @@ var app = (function () {
     }
     let i = {
       isPrime: e[8].isPrime,
-      config: Vt,
+      config: Tries,
       allOptions: e[9],
       currentAttempt: e[6].length + 1,
     };
@@ -6569,14 +6562,14 @@ var app = (function () {
       (_ = new Ie({
         props: {
           userGuesses: e[6],
-          maxAttempts: Vt.maxAttempts,
+          maxAttempts: Tries.maxAttempts,
           currentHeardle: e[2],
           todaysGame: e[5],
         },
       })),
       ($ = new mn({
         props: {
-          config: Vt,
+          config: Tries,
           userGuesses: e[6],
           currentHeardle: e[2],
           hasFinished: e[5].hasFinished,
@@ -6586,7 +6579,7 @@ var app = (function () {
         },
       }));
     let N = {
-      config: Vt,
+      config: Tries,
       gameState: e[8],
       currentHeardle: e[2],
       trackDuration: e[2].duration,
@@ -6918,7 +6911,7 @@ var app = (function () {
           ),
           n(5, (f.guessList = v), f),
           localStorage.setItem("userStats", JSON.stringify(h)),
-          (v.length != Vt.maxAttempts && 1 != s) ||
+          (v.length != Tries.maxAttempts && 1 != s) ||
             ((o = s),
             n(8, (w.gameIsActive = !1), w),
             n(5, (f.hasFinished = !0), f),
