@@ -6384,12 +6384,84 @@ window.musicListWithLinks = [
     answer: 1595,
   },
   {
+    url: "https://soundcloud.com/jamescurrier/germinate",
+    answer: 1596,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/veggieville",
+    answer: 1597,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/snack-break",
+    answer: 1598,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/woodling-waltz",
+    answer: 1599,
+  },
+  {
     url: "https://soundcloud.com/pandemicvgm/257-battle-tower",
     answer: 1600,
   },
   {
+    url: "https://soundcloud.com/jamescurrier/dustys-reprise",
+    answer: 1601,
+  },
+  {
     url: "https://soundcloud.com/docvgm/stark-mountain-pokemon-brilliant-diamond-shining-pearl",
     answer: 1602,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/boombloom-blast",
+    answer: 1603,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/bill-collectors",
+    answer: 1604,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/lone-winter-melody",
+    answer: 1605,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/rotton",
+    answer: 1606,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/after-dark",
+    answer: 1607,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/in-the-brush",
+    answer: 1608,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/ghastly-grave",
+    answer: 1609,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/exposure",
+    answer: 1610,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/mutation",
+    answer: 1611,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/paper-trails",
+    answer: 1612,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/three-eyed-lament",
+    answer: 1613,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/vidalia",
+    answer: 1614,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/turnip-boy-go",
+    answer: 1615,
   },
   {
     url: "https://soundcloud.com/vinicius-machado-961615358/battle-vs-giratina-pokemon",
@@ -6404,12 +6476,20 @@ window.musicListWithLinks = [
     answer: 1618,
   },
   {
+    url: "https://soundcloud.com/jamescurrier/sunset-station",
+    answer: 1619,
+  },
+  {
     url: "https://soundcloud.com/bw2-187523711/battle-articuno-zapdos-moltres",
     answer: 1620,
   },
   {
     url: "https://soundcloud.com/tharun-s-89604068/pokemon-legends-arceus-professor-laventon-theme",
     answer: 1621,
+  },
+  {
+    url: "https://soundcloud.com/jamescurrier/engine-ex",
+    answer: 1622,
   },
   {
     url: "https://soundcloud.com/jhong-xina/jubilife-village-outdoor-pokemon-legends-arceus",
