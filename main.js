@@ -663,17 +663,7 @@ var app = (function () {
                   document.body.appendChild(i);
               }
             );
-      })(
-        // TODO Is it possible to remove google tag without breaking anything ?
-        [
-          {
-            type: "script",
-            url: `//www.googletagmanager.com/gtag/js?id=${r[0]}`,
-          },
-        ],
-        de,
-        a
-      );
+      })
     }
 
     function a() {
