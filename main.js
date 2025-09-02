@@ -106,7 +106,7 @@ var app = (function () {
   }
 
   function filterMusicLists() {
-    // Supprimer les musiques filtrées
+    // Supprime les musiques filtrées
     let gameList = [...new Set(getGameOrArtistFromMusicName(musicNameList))];
     let removedGameList = removeGames.map((i) => gameList[i]);
     if (gameList.length === removedGameList.length) {
@@ -124,7 +124,6 @@ var app = (function () {
       idMusic.has(x.answer)
     );
 
-    // Mettre à jour le DOM
     clearAndUpdateDOM();
   }
 
@@ -132,7 +131,6 @@ var app = (function () {
     language = code;
     localStorage.setItem("language", language);
 
-    // Mettre à jour le DOM
     clearAndUpdateDOM();
 
     new (class extends se {
