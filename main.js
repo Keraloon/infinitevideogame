@@ -1481,13 +1481,13 @@ var app = (function () {
       if (e[0][e[7]].isSkipped) {
         return Te;
       } else if (e[0][e[7]].answer.split(" - ")[1] === e[2].artist) {
-        return Yeye;
+        return GreenCross;
       } else if (window.musicNameList.find(a => a.fr === e[0][e[7]].answer)?.franchise === window.musicNameList.find(a => a.id === e[2].correctAnswer)?.franchise) {
-        return Yeyeye;
+        return YellowCross;
       } else if (window.musicNameList.find(a => a.en === e[0][e[7]].answer)?.franchise === window.musicNameList.find(a => a.id === e[2].correctAnswer)?.franchise) {
-        return Yeyeye;
+        return YellowCross;
       } else {
-        return Ye;
+        return RedCross;
       }
     }
 
@@ -1559,7 +1559,7 @@ var app = (function () {
     };
   }
 
-  function Ye(e) {
+  function RedCross(e) {
     let t, n, r;
     return {
       c() {
@@ -1594,7 +1594,7 @@ var app = (function () {
     };
   }
 
-  function Yeye(e) {
+  function GreenCross(e) {
     let t, n, r;
     return {
       c() {
@@ -1628,7 +1628,7 @@ var app = (function () {
       },
     };
   }
-  function Yeyeye(e) {
+  function YellowCross(e) {
     let t, n, r;
     return {
       c() {
