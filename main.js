@@ -580,7 +580,7 @@ var app = (function () {
       ]
     );
   }
-  class ae extends se {
+  class ButtonIcon extends se {
     constructor(e) {
       super(),
         re(this, e, oe, ie, i, {
@@ -953,7 +953,7 @@ var app = (function () {
       mFilter,
       v;
     return (
-      (i = new ae({
+      (i = new ButtonIcon({
         props: {
           $$slots: {
             default: [Info],
@@ -964,7 +964,7 @@ var app = (function () {
         },
       })),
       i.$on("click", e[1]),
-      (a = new ae({
+      (a = new ButtonIcon({
         props: {
           $$slots: {
             default: [Heart],
@@ -975,7 +975,7 @@ var app = (function () {
         },
       })),
       a.$on("click", e[2]),
-      (h = new ae({
+      (h = new ButtonIcon({
         props: {
           $$slots: {
             default: [Stairs],
@@ -986,7 +986,7 @@ var app = (function () {
         },
       })),
       h.$on("click", e[3]),
-      (m = new ae({
+      (m = new ButtonIcon({
         props: {
           $$slots: {
             default: [QMark],
@@ -997,7 +997,7 @@ var app = (function () {
         },
       })),
       m.$on("click", e[4]),
-      (ml = new ae({
+      (ml = new ButtonIcon({
         props: {
           $$slots: {
             default: [mListIco],
@@ -1008,7 +1008,7 @@ var app = (function () {
         },
       })),
       ml.$on("click", e[5]),
-      (mLang = new ae({
+      (mLang = new ButtonIcon({
         props: {
           $$slots: {
             default: [LangIco],
@@ -1019,7 +1019,7 @@ var app = (function () {
         },
       })),
       mLang.$on("click", e[6]),
-      (mFilter = new ae({
+      (mFilter = new ButtonIcon({
         props: {
           $$slots: {
             default: [filterIco],
@@ -1823,7 +1823,7 @@ var app = (function () {
 
   function Ve(e) {
     let t, n, r, s;
-    const i = [Ze, Ke],
+    const i = [WhenError, Ke],
       o = [];
 
     function a(e, t) {
@@ -1943,13 +1943,13 @@ var app = (function () {
     );
   }
 
-  function Ze(e) {
+  function WhenError(e) {
     let t, n, r, s, i;
     return (
-      (s = new ae({
+      (s = new ButtonIcon({
         props: {
           $$slots: {
-            default: [qe],
+            default: [ResetButton],
           },
           $$scope: {
             ctx: e,
@@ -1992,7 +1992,7 @@ var app = (function () {
     );
   }
 
-  function qe(e) {
+  function ResetButton(e) {
     let t, n;
     return {
       c() {
@@ -2115,7 +2115,7 @@ var app = (function () {
     let I = H(e),
       W = I(e);
     return (
-      (D = new ae({
+      (D = new ButtonIcon({
         props: {
           $$slots: {
             default: [ht],
@@ -3857,7 +3857,7 @@ var app = (function () {
   function Dt(e) {
     let t, n, s, i, o, a, l, u, c, d, h, f, m, v, _, b, $, T, Y;
     return (
-      (v = new ae({
+      (v = new ButtonIcon({
         props: {
           secondary: !0,
           $$slots: {
@@ -3869,7 +3869,7 @@ var app = (function () {
         },
       })),
       v.$on("click", e[10]),
-      (b = new ae({
+      (b = new ButtonIcon({
         props: {
           primary: !0,
           $$slots: {
@@ -4987,7 +4987,7 @@ var app = (function () {
       W = I(e),
       R = e[5] && cn();
     return (
-      (d = new ae({
+      (d = new ButtonIcon({
         props: {
           primary: !0,
           $$slots: {
@@ -5522,7 +5522,7 @@ var app = (function () {
   function gn(e) {
     let t, n, r, s, i, o, a, l, u, c, z, v;
     return (
-      (u = new ae({
+      (u = new ButtonIcon({
         props: {
           primary: !0,
           $$slots: {
