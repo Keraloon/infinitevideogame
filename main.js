@@ -10,12 +10,11 @@ var app = (function () {
     }
   }
   
-  
   let removeGames = JSON.parse(localStorage.getItem("removeGames") || "[]");
-
   let filteredMusicNameList = [];
 
   const musicNameList = window.musicNameList;
+  const musicListWithLinks = window.musicListWithLinks;
 
   function updateMusicList() {
     const newItems = new Array(musicNameList.length).fill({
@@ -25,11 +24,7 @@ var app = (function () {
     });
     musicNameList.push(...newItems);
   }
-
   updateMusicList();
-
-  const musicListWithLinks = window.musicListWithLinks;
-
   shuffleMusic();
   let filteredMusicListWithLinks = [];
   filterMusicLists();
@@ -37,120 +32,22 @@ var app = (function () {
      
  
 
-  const flags = {
-    fr: "https://keraloon.github.io/infinitevideogame/FR.png",
-    en: "https://keraloon.github.io/infinitevideogame/US.png",
-  };
-
-  const aboutT = { fr: "A propos", en: "about" };
-  const aboutPopupT = {
-    fr: '<p class="mb-3">Un clone de <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, et du <a href="https://heardle-kpop.glitch.me/" title="K-Pop Heardle">K-Pop Heardle</a> qui peut être joué à l\'infini et avec les musiques de différents jeux. Basé sur le code de <a href="https://joywave-heardle.glitch.me/" title="Joywave Heardle">Joywave Heardle</a> , celui de <a href="https://ninjigalaxy.github.io/mario-heardle-infinite/" title="Mario Heardle Infinite">@NinjiGalaxy</a> (pour la barre de volume plus stable) et sur les musiques du <a href="https://nterrien.github.io/pkmn-infinite-heardle/" title="Pokémon Infinite Heardle">Pokémon Infinite Heardle</a> modifié.</p><p class="mb-3">Chaque musique est choisie au hasard dans la bande originale des jeux.</p><p class="mb-3">Les musiques sont répertoriées avec le nom des jeux dans lesquels elles figurent.</p><p class="mb-3">Les noms français des musiques proviennent des listes officiels sur certains jeux, pour les autres jeux, les traductions sont déduites à partir des jeux déjà traduits ou certains jeux sont traduites à la main à partir des noms anglais.</p><p class="mb-3">Streamers attention, certaines musiques sont Copyright.</p><p class="mb-3">Vous voulez créer votre propre Heardle Infinie ? Consultez le fichier <a href="https://github.com/nterrien/pkmn-infinite-heardle/blob/master/README.md">README</a>.</p>',
-    en:
-      '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="K-Pop Heardle">K-Pop Heardle</a> which can be played infinitely and with ' +
-      artist +
-      '\' musics. Based on <a href="https://joywave-heardle.glitch.me/" title="Joywave Heardle">Joywave Heardle</a> code and from <a href="https://ninjigalaxy.github.io/mario-heardle-infinite/" title="Mario Heardle Infinite">@NinjiGalaxy</a> (for the better volume slider) and <a href="https://nterrien.github.io/pkmn-infinite-heardle/" title="Pokémon Infinite Heardle">Pokémon Infinite Heardle</a> musics edited.</p><p class="mb-3">Each music is randomly chosen from mainline ' +
-      artist +
-      '\' soundtrack.</p><p class="mb-3">Songs are listed along with the name of the games they are featured in.</p><p class="mb-3">Streamers, some musics are copyright claimed.</p><p class="mb-3">Want to make your own Heardle? Check out the <a href="https://github.com/nterrien/pkmn-infinite-heardle/blob/master/README.md">README</a>.</p>',
-  };
-
-  const supportT = { fr: "support", en: "support" };
-  const supportPopupT = {
-    fr:
-      '<p class="mb-3">Vous pouvez jouer au <a href="https://keraloon.github.io/infinitevideogame/index.html" title="Games Heardle">Games Heardle</a> tous les jours!</p><p class="mb-3">Si vous pensez qu\'une musique ou un jeu manque a l\'appel, qu\'un titre n\'est pas bon, que quelque chose ne va pas, faites le moi savoir sur <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter</a> ou <a href="https://bsky.app/profile/keraloon.bsky.social" title="@Keraloon">Bluesky!</a></p><p class="mb-3">Vous pouvez regarder le Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">ici!</a></p><p class="mb-3">Nombre de musiques présentes: ' +
-      filteredMusicListWithLinks.length +
-      "/" +
-      musicListWithLinks.length +
-      "</p>",
-    en:
-      '<p class="mb-3">You can also play <a href="https://keraloon.github.io/infinitevideogame/index.html" title="Games Heardle">Games Heardle</a> daily!</p><p class="mb-3">If you think a music or a game should be here, a title is wrong, or something is weird, let me know on <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter</a> or <a href="https://bsky.app/profile/keraloon.bsky.social" title="@Keraloon">Bluesky!</a></p><p class="mb-3">You can look at the Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">here!</a></p><p class="mb-3">Number of songs available: ' +
-      filteredMusicListWithLinks.length +
-      "/" +
-      musicListWithLinks.length +
-      "</p>",
-  };
-
-  const howToPlayT = { fr: "Comment jouer", en: "how to play" };
-  const howToPlayPopup1T = {
-    fr: "Écoutez l'intro, puis trouvez la bonne musique dans la liste",
-    en:
-      "Listen to the intro, then find the correct " +
-      artist +
-      " song in the list",
-  };
-  const howToPlayPopup2T = {
-    fr: "Les tentatives passées ou incorrectes débloquent une plus grande partie de l'intro.",
-    en: "Skipped or incorrect attempts unlock more of the intro",
-  };
-  const howToPlayPopup3T = {
-    fr: "Répondez en aussi peu d'essais que possible et partagez votre score !",
-    en: "Answer in as few tries as possible and share your score!",
-  };
-  const howToPlayPopup4T = {
-    fr: "Sélectionez les jeux sur lesquels vous voulez jouer.",
-    en: "Select the game you want to play with.",
-  };
-  const howToPlayPopup5T = {
-    fr: "Vous pouvez voir la liste des musiques en cliquant sur le bouton en haut à droite.",
-    en: "You can use the top right button to see the list of tracks.",
-  };
-  const playT = { fr: "Jouer", en: "Play" };
-  const playedT = { fr: "Jouée", en: "Played" };
-  const wonT = { fr: "Trouvée", en: "Won" };
-  const winRateT = { fr: "Taux de réussite", en: "Win rate" };
-  const currentStreakT = { fr: "Série actuelle", en: "Current Streak" };
-  const maxStreakT = { fr: "Série maximum", en: "Max Streak" };
-
-  const statsT = { fr: "stats", en: "stats" };
-
-  const filterT = { fr: "Filtrer", en: "Filter" };
-  const explainationFilterT = {
-    fr: "Les jeux cochés seront sélectionnés. N'oubliez pas de cliquer sur Sauvegarder après avoir fait votre sélection.",
-    en: "Games you check will be selected. Don't forget to click Save after making your selection.",
-  };
-  const warningFilterT = {
-    fr: "Attention : modifier la liste de jeux disponible réinitialise votre série.",
-    en: "Warning: saving will reset your streak.",
-  };
-  const saveT = { fr: "Sauvegarder", en: "Save" };
-  const selectAllT = { fr: "Tout Sélectionner", en: "Select All" };
-  const unselectAllT = { fr: "Tout Désélectionner", en: "Unselect All" };
-
-  const musicListT = { fr: "Liste des musiques", en: "music list" };
-  const langListT = { fr: "Langues", en: "Languages" };
-
-  const volumeT = {
-    fr: "Ajustez le volume et appuyez pour lancer la musique !",
-    en: "Change the volume and tap to start the track!",
-  };
-  const submitT = { fr: "Soumettre", en: "Submit" };
-  const placeholderT = {
-    fr: "Recherchez le titre / le jeu",
-    en: "Know it? Search for the artist / title",
-  };
-  const nextT = { fr: "Suivant", en: "Next" };
-  const skipT = { fr: "Passer", en: "Skip" };
-  const skippedT = { fr: "PASSÉE", en: "SKIPPED" };
-  const goodAnswerT = {
-    fr: "Vous avez trouvé cette musique en ",
-    en: "You got this " + artist + " music within ",
-  };
-  const secondT = { fr: "seconde", en: "second" };
-  const badAnswerT = {
-    fr: "Vous n'avez pas trouvé la musique correspondante",
-    en: "You didn't get this music.",
-  };
-  const errorT = {
-    fr: "Une erreur s'est produite lors du chargement de la musique. Veuillez recharger et réessayer.\n Vous pouvez contactez l'administrateur de ce site si le problème persiste.",
-    en: "There was an error loading the player. Please reload and try again.\n You can contact the site administrator if the problem persists.",
-  };
-  const loadingT = {
-    fr: "Chargement ...",
-    en: "Loading player",
-  };
-
+  const flags = window.flags; const aboutT = window.aboutT; const aboutPopupT = window.aboutPopupT; const supportT = window.supportT;
+  const howToPlayT = window.howToPlayT; const howToPlayPopup1T = window.howToPlayPopup1T; const howToPlayPopup2T = window.howToPlayPopup2T;
+  const howToPlayPopup3T = window.howToPlayPopup3T; const howToPlayPopup4T = window.howToPlayPopup4T; const howToPlayPopup5T = window.howToPlayPopup5T;
+  const playT = window.playT; const playedT = window.playedT; const wonT = window.wonT; const winRateT = window.winRateT; const currentStreakT = window.currentStreakT;
+  const maxStreakT = window.maxStreakT; const statsT = window.statsT; const filterT = window.filterT; const explainationFilterT = window.explainationFilterT;
+  const warningFilterT = window.warningFilterT; const saveT = window.saveT; const selectAllT = window.selectAllT; const unselectAllT = window.unselectAllT;
+  const musicListT = window.musicListT; const langListT = window.langListT; const volumeT = window.volumeT; const submitT = window.submitT;
+  const placeholderT = window.placeholderT; const nextT = window.nextT; const skipT = window.skipT; const skippedT = window.skippedT; const secondT = window.secondT;
+  const goodAnswerT = window.goodAnswerT; const badAnswerT = window.badAnswerT; const errorT = window.errorT; const loadingT = window.loadingT;
   const textMessages = {
     fr: "Ecoutez {title} - {artist} sur SoundCloud",
     en: "Listen to {artist} - {title} on SoundCloud",
+  };
+  const supportPopupT = {
+    fr: '<p class="mb-3">Vous pouvez jouer au <a href="https://keraloon.github.io/infinitevideogame/index.html" title="Games Heardle">Games Heardle</a> tous les jours!</p><p class="mb-3">Si vous pensez qu\'une musique ou un jeu manque a l\'appel, qu\'un titre n\'est pas bon, que quelque chose ne va pas, faites le moi savoir sur <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter</a> ou <a href="https://bsky.app/profile/keraloon.bsky.social" title="@Keraloon">Bluesky!</a></p><p class="mb-3">Vous pouvez regarder le Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">ici!</a></p><p class="mb-3">Nombre de musiques présentes: ' + filteredMusicListWithLinks.length + "/" + musicListWithLinks.length + "</p>",
+    en: '<p class="mb-3">You can also play <a href="https://keraloon.github.io/infinitevideogame/index.html" title="Games Heardle">Games Heardle</a> daily!</p><p class="mb-3">If you think a music or a game should be here, a title is wrong, or something is weird, let me know on <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter</a> or <a href="https://bsky.app/profile/keraloon.bsky.social" title="@Keraloon">Bluesky!</a></p><p class="mb-3">You can look at the Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">here!</a></p><p class="mb-3">Number of songs available: ' + filteredMusicListWithLinks.length + "/" + musicListWithLinks.length + "</p>",
   };
 
   function listenToT(music) {
