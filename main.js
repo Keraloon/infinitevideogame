@@ -52,7 +52,7 @@ var app = (function () {
   };
 
 
-  //Début du vrai code et tout
+  //Début du vrai code et tout (J'essaie de renommer toutes les fonctions, class etc... pour que ce soit lisible)
   function listenToT(music) {
     const template = textMessages[language];
     return template
@@ -85,6 +85,7 @@ var app = (function () {
   }
 
   function clearAndUpdateDOM() {
+    //Garde mon bouton retour à chaque musique
     const retourS = document.getElementById("retour");
     document.body.innerHTML = "";
     document.body.appendChild(retourS.cloneNode(true));
@@ -723,7 +724,7 @@ var app = (function () {
       ]);
   }
 
-  function ge(e) {
+  function Info(e) {
     let t, n, r, s;
     return {
       c() {
@@ -761,7 +762,7 @@ var app = (function () {
     };
   }
 
-  function ye(e) {
+  function Heart(e) {
     let t, n;
     return {
       c() {
@@ -791,7 +792,7 @@ var app = (function () {
     };
   }
 
-  function ve(e) {
+  function Stairs(e) {
     let t, n;
     return {
       c() {
@@ -821,7 +822,7 @@ var app = (function () {
     };
   }
 
-  function we(e) {
+  function QMark(e) {
     let t, n, r, s;
     return {
       c() {
@@ -955,7 +956,7 @@ var app = (function () {
       (i = new ae({
         props: {
           $$slots: {
-            default: [ge],
+            default: [Info],
           },
           $$scope: {
             ctx: e,
@@ -966,7 +967,7 @@ var app = (function () {
       (a = new ae({
         props: {
           $$slots: {
-            default: [ye],
+            default: [Heart],
           },
           $$scope: {
             ctx: e,
@@ -977,7 +978,7 @@ var app = (function () {
       (h = new ae({
         props: {
           $$slots: {
-            default: [ve],
+            default: [Stairs],
           },
           $$scope: {
             ctx: e,
@@ -988,7 +989,7 @@ var app = (function () {
       (m = new ae({
         props: {
           $$slots: {
-            default: [we],
+            default: [QMark],
           },
           $$scope: {
             ctx: e,
