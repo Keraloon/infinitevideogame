@@ -12191,47 +12191,47 @@ window.musicListWithLinks = [
     answer: 3387,
   },
   {
-    url: "https://soundcloud.com/eva-wave/chulip-smooch-echude",
+    url: "https://soundcloud.com/user-325905149/chulip-ost-echude-of-chu",
     answer: 3388,
   },
   {
-    url: "https://soundcloud.com/eva-wave/chulip-happy-shabby-life",
+    url: "https://soundcloud.com/biscotti-music/happy-shabby-life-chulip-ost",
     answer: 3389,
   },
   {
-    url: "https://soundcloud.com/eva-wave/chulip-the-foolish-smooch-troupe",
+    url: "https://soundcloud.com/biscotti-music/concerned-about-the-mountain-storehouse-chulip-ost",
     answer: 3390,
   },
   {
-    url: "https://soundcloud.com/eva-wave/chulip-happy-shabby-life-daytime-walking-on-long-life-town",
+    url: "https://soundcloud.com/biscotti-music/daytime-stroll-in-tsurukame-town-chulip-ost",
     answer: 3391,
   },
   {
-    url: "https://soundcloud.com/eva-wave/chulip-agonizing-jizo-ridge",
+    url: "https://soundcloud.com/biscotti-music/concerned-about-the-mountain-storehouse-chulip-ost",
     answer: 3392,
   },
   {
-    url: "https://soundcloud.com/eva-wave/chulip-widowers-serenade",
+    url: "https://soundcloud.com/biscotti-music/the-male-widow-serenade-chulip-ost",
     answer: 3393,
   },
   {
-    url: "https://soundcloud.com/eva-wave/chulip-a-gentlemans-teabreak",
+    url: "https://soundcloud.com/biscotti-music/a-gentlemans-teabreak-chulip-ost",
     answer: 3394,
   },
   {
-    url: "https://soundcloud.com/eva-wave/chulip-happy-shabby-life-daytime-walking-on-worldly-desire-temple",
+    url: "https://soundcloud.com/biscotti-music/daytime-stroll-in-bonnoudera-chulip-ost",
     answer: 3395,
   },
   {
-    url: "https://soundcloud.com/eva-wave/chulip-happy-shabby-life-daytime-walking-on-scarecrow-field",
+    url: "https://soundcloud.com/biscotti-music/daytime-stroll-in-kakashigahara-chulip-ost",
     answer: 3396,
   },
   {
-    url: "https://soundcloud.com/eva-wave/chulip-urth-middle-school-song",
+    url: "https://soundcloud.com/biscotti-music/strictness-of-the-chitama-middle-school-teachers-chulip-ost",
     answer: 3397,
   },
   {
-    url: "https://soundcloud.com/eva-wave/chulip-rare-animal-squad-extinctioner",
+    url: "https://soundcloud.com/biscotti-music/tale-of-the-goldfish-carp-chulip-ost",
     answer: 3398,
   },
   {
