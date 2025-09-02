@@ -13,6 +13,7 @@ var app = (function () {
   let removeGames = JSON.parse(localStorage.getItem("removeGames") || "[]");
   let filteredMusicNameList = [];
 
+  //musique et answer dans d'autres fichiers, ça prend moins de place.
   const musicNameList = window.musicNameList;
   const musicListWithLinks = window.musicListWithLinks;
 
@@ -31,7 +32,7 @@ var app = (function () {
   var firstLoad = true;
      
  
-
+  //Les constantes sont dans const.js, c'est très moche mais ça prend moins de place.
   const flags = window.flags; const aboutT = window.aboutT; const aboutPopupT = window.aboutPopupT; const supportT = window.supportT;
   const howToPlayT = window.howToPlayT; const howToPlayPopup1T = window.howToPlayPopup1T; const howToPlayPopup2T = window.howToPlayPopup2T;
   const howToPlayPopup3T = window.howToPlayPopup3T; const howToPlayPopup4T = window.howToPlayPopup4T; const howToPlayPopup5T = window.howToPlayPopup5T;
@@ -50,6 +51,8 @@ var app = (function () {
     en: '<p class="mb-3">You can also play <a href="https://keraloon.github.io/infinitevideogame/index.html" title="Games Heardle">Games Heardle</a> daily!</p><p class="mb-3">If you think a music or a game should be here, a title is wrong, or something is weird, let me know on <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter</a> or <a href="https://bsky.app/profile/keraloon.bsky.social" title="@Keraloon">Bluesky!</a></p><p class="mb-3">You can look at the Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">here!</a></p><p class="mb-3">Number of songs available: ' + filteredMusicListWithLinks.length + "/" + musicListWithLinks.length + "</p>",
   };
 
+
+  //Début du vrai code et tout
   function listenToT(music) {
     const template = textMessages[language];
     return template
@@ -62,9 +65,9 @@ var app = (function () {
       '<img style="width:16px;height:16px" src="' + flags[lg] + '" alt="" />';
   }
 
-  const Cn = ue(filteredMusicNameList),
+  const filteredMusicStore = createStore(filteredMusicNameList),
     On = {
-      subscribe: ue(filteredMusicListWithLinks, Pn).subscribe,
+      subscribe: createStore(filteredMusicListWithLinks, Pn).subscribe,
     };
 
   ("use strict");
@@ -587,7 +590,7 @@ var app = (function () {
   }
   const le = [];
 
-  function ue(t, n = e) {
+  function createStore(t, n = e) {
     let r;
     const s = new Set();
 
@@ -619,7 +622,7 @@ var app = (function () {
       },
     };
   }
-  const ce = ue([]);
+  const ce = createStore([]);
 
   function de() {
     return (
@@ -6643,7 +6646,7 @@ var app = (function () {
 
   function jn(e, t, n) {
     let r, s, i, o;
-    u(e, Cn, (e) => n(26, (r = [...filteredMusicNameList]))),
+    u(e, filteredMusicStore, (e) => n(26, (r = [...filteredMusicNameList]))),
       u(e, On, (e) => n(27, (s = e)));
     let a = currentIndex,
       l = {
@@ -6740,7 +6743,7 @@ var app = (function () {
           n(2, (l.date = t.release_date), l),
           (function (e, t, n) {
             e.set(n);
-          })(Cn, (r = [...r, l.correctAnswer]), r),
+          })(filteredMusicStore, (r = [...r, l.correctAnswer]), r),
           n(9, (y = r)),
           n(8, (w.playerIsReady = !0), w),
           f.hasFinished || n(8, (w.gameIsActive = !0), w);
