@@ -259,7 +259,7 @@ var app = (function () {
     return e();
   }
 
-  function blank() {
+  function n() {
     return Object.create(null);
   }
 
@@ -552,14 +552,14 @@ var app = (function () {
       props: u,
       update: e,
       not_equal: l,
-      bound: blank(),
+      bound: n(),
       on_mount: [],
       on_destroy: [],
       on_disconnect: [],
       before_update: [],
       after_update: [],
       context: new Map(s.context || (h ? h.$$.context : [])),
-      callbacks: blank(),
+      callbacks: n(),
       dirty: d,
       skip_bound: !1,
       root: s.target || h.$$.root,
@@ -746,10 +746,10 @@ var app = (function () {
         let r = e.length;
 
         function s() {
-          (r = --r), r < 1 && blank();
+          (r = --r), r < 1 && n();
         }
         t()
-          ? blank()
+          ? n()
           : e.forEach(
               ({
                 type: e,
@@ -3366,14 +3366,14 @@ var app = (function () {
             return new Promise(function (n, r) {
               var s;
               return (s = e.data).cache && s.store
-                ? blank()
+                ? n()
                 : new Promise(function (e, n) {
                     return "function" == typeof s.src
                       ? s.src(t).then(e, n)
                       : e(s.src);
                   }).then(function (t) {
                     try {
-                      return (e.feedback = s.store = t), d("response", e), blank();
+                      return (e.feedback = s.store = t), d("response", e), n();
                     } catch (e) {
                       return r(e);
                     }
@@ -3460,7 +3460,7 @@ var app = (function () {
                     };
                   })(n.keys);
                 try {
-                  for (c.s(); !(u = c.blank()).done; ) l(u.value);
+                  for (c.s(); !(u = c.n()).done; ) l(u.value);
                 } catch (e) {
                   c.e(e);
                 } finally {
@@ -3681,7 +3681,7 @@ var app = (function () {
                     function () {
                       clearTimeout(s),
                         (s = setTimeout(function () {
-                          return blank();
+                          return n();
                         }, r));
                     }),
                   a = (e.events = t(
@@ -3837,7 +3837,7 @@ var app = (function () {
             D(this);
         };
       }),
-        (e.exports = blank());
+        (e.exports = n());
     }),
     kt = _t(2);
 
