@@ -6500,16 +6500,56 @@ window.musicListWithLinks = [
     answer: 1624,
   },
   {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-a-cat",
+    answer: 1625,
+  },
+  {
     url: "https://soundcloud.com/iratina/obsidian-fieldlands-2-poke-mon",
     answer: 1626,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-wolf-bark",
+    answer: 1627,
   },
   {
     url: "https://soundcloud.com/trevor-walton-136612129/pokemon-legends-arceus-wild",
     answer: 1628,
   },
   {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-just",
+    answer: 1629,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-foggy-lens",
+    answer: 1630,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-beartrap",
+    answer: 1631,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-orchid",
+    answer: 1632,
+  },
+  {
     url: "https://soundcloud.com/romualdus-jevon/alphawildpokemon",
     answer: 1633,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-bombcarpet",
+    answer: 1634,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-a-friend",
+    answer: 1635,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-wrecker",
+    answer: 1636,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-anemia",
+    answer: 1637,
   },
   {
     url: "https://soundcloud.com/iratina/the-heartwood-poke-mon-legends",
@@ -6523,14 +6563,77 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/rodrigo-luna-276709614/survey-results-night-pokemon",
     answer: 1640,
   },
-
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-cant-teach",
+    answer: 1641,
+  },
   {
     url: "https://soundcloud.com/piwa31/pokemon-legends-arceus-noble-battle-theme-phase-1-and-phase-2",
     answer: 1642,
   },
   {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-complaint",
+    answer: 1643,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-dear-diary",
+    answer: 1644,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-ever-hear",
+    answer: 1645,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-forward",
+    answer: 1646,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-home",
+    answer: 1647,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-i-am-at",
+    answer: 1648,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-juicer",
+    answer: 1649,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-monkeys",
+    answer: 1650,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-no",
+    answer: 1651,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-pipedream",
+    answer: 1652,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-rabbit",
+    answer: 1653,
+  },
+  {
     url: "https://soundcloud.com/iratina/firespit-island-poke-mon",
     answer: 1654,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-s-o-s",
+    answer: 1655,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-taiga",
+    answer: 1656,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-tyrants",
+    answer: 1657,
+  },
+  {
+    url: "https://soundcloud.com/user-317658784/i-am-your-beast-ost-wetwork",
+    answer: 1658,
   },
   {
     url: "https://soundcloud.com/iratina/alabaster-icelands-poke-mon",
