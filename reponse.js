@@ -6640,32 +6640,152 @@ window.musicListWithLinks = [
     answer: 1659,
   },
   {
+    url: "https://soundcloud.com/papergirl2/intro-story-paper-mario-the",
+    answer: 1660,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/peach-and-the-mysterious-map",
+    answer: 1661,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/peach-and-the-mysterious-map",
+    answer: 1662,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/mail-for-the-mario-brothers",
+    answer: 1663,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/all-aboard-to-rogueport-paper",
+    answer: 1664,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/rogueport-paper-mario-the",
+    answer: 1665,
+  },
+  {
     url: "https://soundcloud.com/iratina/distorted-skies-poke-mon",
     answer: 1666,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/learning-a-new-skill-paper",
+    answer: 1667,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/professor-frankly-paper-mario",
+    answer: 1668,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/tutorial-battle-paper-mario",
+    answer: 1669,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/rogueport-sewers-paper-mario",
+    answer: 1670,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/battle-theme-paper-mario-the",
+    answer: 1671,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/curse-of-the-black-box-paper",
+    answer: 1672,
   },
   {
     url: "https://soundcloud.com/iratina/battle-vs-dialga-palkia-origin",
     answer: 1673,
   },
   {
+    url: "https://soundcloud.com/papergirl2/petal-meadows-paper-mario-the",
+    answer: 1674,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/petalburg-paper-mario-the",
+    answer: 1675,
+  },
+  {
     url: "https://soundcloud.com/steven-valcourt-286783649/pokemon-legends-arceus-music-mesprit-azelf-uxie-battle-theme",
     answer: 1676,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/super-fun-quirk-quiz-paper",
+    answer: 1677,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/hooktails-castle-paper-mario",
+    answer: 1678,
   },
   {
     url: "https://soundcloud.com/vgm-dosage/mt-moon-dance-legends-arceus",
     answer: 1679,
   },
   {
+    url: "https://soundcloud.com/papergirl2/escape-the-falling-ceiling",
+    answer: 1680,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/ms-mowzs-theme-paper-mario-the",
+    answer: 1681,
+  },
+  {
     url: "https://soundcloud.com/iratina/battle-vs-volo-poke-mon",
     answer: 1682,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/hooktail-battle-paper-mario",
+    answer: 1683,
   },
   {
     url: "https://soundcloud.com/zygarde_lagan/battle-volo-giratina-revival-pokemon-legends-arceus",
     answer: 1684,
   },
   {
+    url: "https://soundcloud.com/papergirl3/reunion-paper-mario-the",
+    answer: 1685,
+  },
+  {
+    url: "https://soundcloud.com/papermariofangirl/end-of-chapter-paper-mario-the",
+    answer: 1686,
+  },
+  {
     url: "https://soundcloud.com/iratina/battle-vs-arceus-poke-mon",
     answer: 1687,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/peachs-theme-paper-mario-the",
+    answer: 1688,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/bowsers-castle-paper-mario-the",
+    answer: 1689,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/luigis-theme-paper-mario-the",
+    answer: 1690,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/boggly-woods-paper-mario-the",
+    answer: 1691,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/shadow-sirens-paper-mario-the",
+    answer: 1692,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/the-great-boggly-tree-paper",
+    answer: 1693,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/shadow-sirens-battle-paper",
+    answer: 1694,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/madame-flurrie-paper-mario-the",
+    answer: 1695,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/lord-crumps-theme-paper-mario",
+    answer: 1696,
   },
   {
     url: "https://soundcloud.com/infinitexd3/1-10-battle-nemona",
@@ -6676,16 +6796,56 @@ window.musicListWithLinks = [
     answer: 1698,
   },
   {
+    url: "https://soundcloud.com/papergirl2/magnus-von-grapples-theme",
+    answer: 1699,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/magnus-von-grapple-battle",
+    answer: 1700,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/bowsers-theme-paper-mario-the",
+    answer: 1701,
+  },
+  {
     url: "https://soundcloud.com/infinitexd3/1-17-battle-wild-pokemon-inlet",
     answer: 1702,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/bowsers-theme-paper-mario-the",
+    answer: 1703,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/cheep-cheep-blimp-paper-mario",
+    answer: 1704,
   },
   {
     url: "https://soundcloud.com/infinitexd3/1-20-battle-arven",
     answer: 1705,
   },
   {
+    url: "https://soundcloud.com/papergirl3/ishnail-theme-paper-mario-the",
+    answer: 1706,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/glitzville-paper-mario-the",
+    answer: 1707,
+  },
+  {
     url: "https://soundcloud.com/infiniteshadowx34/2-1-trainers-eyes-meet",
     answer: 1708,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/glitz-pit-paper-mario-the",
+    answer: 1709,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/grubbas-theme-paper-mario-the",
+    answer: 1710,
+  },
+  {
+    url: "https://soundcloud.com/papermariofangirl/event-battle-paper-mario-the",
+    answer: 1711,
   },
   {
     url: "https://soundcloud.com/infinitexd3/1-30-pokemon-center",
@@ -6696,8 +6856,32 @@ window.musicListWithLinks = [
     answer: 1713,
   },
   {
+    url: "https://soundcloud.com/papergirl3/glitz-pit-mysteries-paper",
+    answer: 1714,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/rawk-hawk-battle-paper-mario",
+    answer: 1715,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/macho-grubbas-theme-paper",
+    answer: 1716,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/macho-grubba-battle-paper",
+    answer: 1717,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/sadness-and-happiness-paper",
+    answer: 1718,
+  },
+  {
     url: "https://soundcloud.com/infinitexd3/1-39-battle-team-star",
     answer: 1719,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/twilight-town-paper-mario-the",
+    answer: 1720,
   },
   {
     url: "https://soundcloud.com/infinitexd3/1-41-professor-sada-professor",
@@ -6708,12 +6892,32 @@ window.musicListWithLinks = [
     answer: 1722,
   },
   {
+    url: "https://soundcloud.com/papergirl3/twilight-trail-paper-mario-the",
+    answer: 1723,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/creepy-steeple-paper-mario-the",
+    answer: 1724,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/doopliss-theme-paper-mario-the",
+    answer: 1725,
+  },
+  {
     url: "https://soundcloud.com/infinitexd3/1-48-taste-test",
     answer: 1726,
   },
   {
+    url: "https://soundcloud.com/papergirl2/doopliss-battle-paper-mario",
+    answer: 1727,
+  },
+  {
     url: "https://soundcloud.com/infinitexd3/1-50-gym-lobby",
     answer: 1728,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/super-koopa-bros-world-2-paper",
+    answer: 1729,
   },
   {
     url: "https://soundcloud.com/infinitexd3/1-53-a-gym-leader-appears",
@@ -6722,6 +6926,26 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/infinitexd3/1-54-battle-gym-leader",
     answer: 1731,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/keelhaul-key-paper-mario-the",
+    answer: 1732,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/pirates-grotto-paper-mario-the",
+    answer: 1733,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/cortezs-theme-paper-mario-the",
+    answer: 1734,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/cortez-battle-paper-mario-the",
+    answer: 1735,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/cooking-with-zess-t-paper",
+    answer: 1736,
   },
   {
     url: "https://soundcloud.com/infinitexd3/1-63-lets-make-a-sandwich",
@@ -6740,12 +6964,32 @@ window.musicListWithLinks = [
     answer: 1740,
   },
   {
+    url: "https://soundcloud.com/papergirl2/pianta-parlor-paper-mario-the",
+    answer: 1741,
+  },
+  {
     url: "https://soundcloud.com/infinitexd3/1-69-clives-theme",
     answer: 1742,
   },
   {
+    url: "https://soundcloud.com/papergirl3/pianta-parlor-mini-game-paper",
+    answer: 1743,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/debug-menu-unused-paper-mario",
+    answer: 1744,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/train-travel-paper-mario-the",
+    answer: 1745,
+  },
+  {
     url: "https://soundcloud.com/infinitexd3/1-73-battle-team-star-boss",
     answer: 1746,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/detective-pennington-paper",
+    answer: 1747,
   },
   {
     url: "https://soundcloud.com/infinitexd3/1-75-a-year-and-a-half-ago",
@@ -6756,8 +7000,84 @@ window.musicListWithLinks = [
     answer: 1749,
   },
   {
+    url: "https://soundcloud.com/papergirl3/riverside-station-paper-mario",
+    answer: 1750,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/beta-riverside-station-unused",
+    answer: 1751,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/poshley-heights-paper-mario",
+    answer: 1752,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/grodus-theme-paper-mario-the",
+    answer: 1753,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/super-koopa-bros-world-3-paper",
+    answer: 1754,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/blast-off-to-the-moon-paper",
+    answer: 1755,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/x-naut-fortress-paper-mario",
+    answer: 1756,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/palace-of-shadow-paper-mario",
+    answer: 1757,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/riddle-tower-paper-mario-the",
+    answer: 1758,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/grodus-battle-paper-mario-the",
+    answer: 1759,
+  },
+  {
+    url: "https://soundcloud.com/papergirl2/bowser-battle-paper-mario-the",
+    answer: 1760,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/shadow-queens-theme-paper",
+    answer: 1761,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/shadow-peach-battle-paper",
+    answer: 1762,
+  },
+  {
+    url: "https://soundcloud.com/papergirl3/final-battle-paper-mario-the",
+    answer: 1763,
+  },
+  {
+    url: "https://soundcloud.com/chonzo101/battle-chapter-2",
+    answer: 1764,
+  },
+  {
+    url: "https://soundcloud.com/chonzo101/time-bombs-ticking-battle",
+    answer: 1765,
+  },
+  {
+    url: "https://soundcloud.com/chonzo101/battle-chapter-3",
+    answer: 1766,
+  },
+  {
+    url: "https://soundcloud.com/chonzo101/event-battle-the-champ",
+    answer: 1767,
+  },
+  {
     url: "https://soundcloud.com/infiniteshadowx34/1-96-montenevera",
     answer: 1768,
+  },
+  {
+    url: "https://soundcloud.com/chonzo101/battle-prince-mush",
+    answer: 1769,
   },
   {
     url: "https://soundcloud.com/sv-dlc2/305-soulful-beat-pokemon-scarlet-and-violet",
@@ -6768,12 +7088,40 @@ window.musicListWithLinks = [
     answer: 1771,
   },
   {
+    url: "https://soundcloud.com/chonzo101/battle-chapter-4",
+    answer: 1772,
+  },
+  {
+    url: "https://soundcloud.com/chonzo101/event-battle-atomic-boo",
+    answer: 1773,
+  },
+  {
     url: "https://soundcloud.com/infiniteshadowx34/1-102-battle-director-clavell",
     answer: 1774,
   },
   {
+    url: "https://soundcloud.com/chonzo101/battle-chapter-5",
+    answer: 1775,
+  },
+  {
     url: "https://soundcloud.com/infiniteshadowx34/1-104-battle-cassiopeia",
     answer: 1776,
+  },
+  {
+    url: "https://soundcloud.com/chonzo101/battle-chapter-6",
+    answer: 1777,
+  },
+  {
+    url: "https://soundcloud.com/chonzo101/battle-chapter-7",
+    answer: 1778,
+  },
+  {
+    url: "https://soundcloud.com/chonzo101/battle-the-moon",
+    answer: 1779,
+  },
+  {
+    url: "https://soundcloud.com/chonzo101/battle-grodus",
+    answer: 1780,
   },
   {
     url: "https://soundcloud.com/infiniteshadowx34/1-109-pokemon-league-lobby",
