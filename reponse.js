@@ -6804,7 +6804,7 @@ window.musicListWithLinks = [
     answer: 1700,
   },
   {
-    url: "https://soundcloud.com/papergirl2/bowsers-theme-paper-mario-the",
+    url: "https://soundcloud.com/papergirl3/super-koopa-bros-world-1-paper",
     answer: 1701,
   },
   {
