@@ -7132,8 +7132,24 @@ window.musicListWithLinks = [
     answer: 1782,
   },
   {
+    url: "https://soundcloud.com/jelen-sovskij/akira-yamaoka-silent-hill",
+    answer: 1783,
+  },
+  {
+    url: "https://soundcloud.com/jelen-sovskij/akira-yamaoka-claw-finger",
+    answer: 1784,
+  },
+  {
+    url: "https://soundcloud.com/jelen-sovskij/akira-yamaoka-not-tomorrow-1",
+    answer: 1785,
+  },
+  {
     url: "https://soundcloud.com/ssj4-beat/pokemon-scarlet-violet-nemona-final-battle-theme-hq",
     answer: 1786,
+  },
+  {
+    url: "https://soundcloud.com/jelen-sovskij/akira-yamaoka-tears-of",
+    answer: 1787,
   },
   {
     url: "https://soundcloud.com/rse-548363113/to-the-great-crater-of-paldea",
@@ -7152,8 +7168,20 @@ window.musicListWithLinks = [
     answer: 1791,
   },
   {
+    url: "https://soundcloud.com/jelen-sovskij/akira-yamaoka-killing-time",
+    answer: 1792,
+  },
+  {
+    url: "https://soundcloud.com/jelen-sovskij/akira-yamaoka-she",
+    answer: 1793,
+  },
+  {
     url: "https://soundcloud.com/user-657324383/pokemon-scarlet-and-violet-vs",
     answer: 1794,
+  },
+  {
+    url: "https://soundcloud.com/jelen-sovskij/akira-yamaoka-esperandote",
+    answer: 1795,
   },
   {
     url: "https://soundcloud.com/rse-548363113/battle-paradise-protection-protocol-phase-1-pokemon-scarlet-violet",
