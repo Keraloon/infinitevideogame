@@ -18811,6 +18811,12 @@ window.musicNameList = [
     franchise : "Rayman",
   },
   {
+    id: 1797,
+    en: "The Magician's Challenge - Rayman",
+    fr: "Le Challenge du Magicien - Rayman",
+    franchise : "Rayman",
+  },
+  {
     id: 2848,
     en: "Betilla the Fairy - Rayman",
     fr: "Bétilla la Fée - Rayman",
@@ -18820,6 +18826,42 @@ window.musicNameList = [
     id: 2849,
     en: "Bzzit Attacks - Rayman",
     fr: "Bzzit Attaque - Rayman",
+    franchise : "Rayman",
+  },
+  {
+    id: 1799,
+    en: "Flight of the Mosquito - Rayman",
+    fr: "Le Vol du Moustique - Rayman",
+    franchise : "Rayman",
+  },
+  {
+    id: 1800,
+    en: "Moskito's Rage - Rayman",
+    fr: "Rage du Moustique - Rayman",
+    franchise : "Rayman",
+  },
+  {
+    id: 1801,
+    en: "Blazing Brass - Rayman",
+    fr: "Cuivres Enflammés - Rayman",
+    franchise : "Rayman",
+  },
+  {
+    id: 1802,
+    en: "Duet with Mr. Sax - Rayman",
+    fr: "Charivari de Mr. Sax - Rayman",
+    franchise : "Rayman",
+  },
+  {
+    id: 1803,
+    en: "Peaceful Peaks - Rayman",
+    fr: "Le Chaos du Cauchemar (Pics Paisible) - Rayman",
+    franchise : "Rayman",
+  },
+  {
+    id: 1805,
+    en: "Call of the Mountain - Rayman",
+    fr: "Le Chaos du Cauchemar (Appel de la Montagne) - Rayman",
     franchise : "Rayman",
   },
   {
@@ -32510,6 +32552,12 @@ window.musicNameList = [
     en: "Pumpin' Jumpin' - Warp Drive",
     fr: "Pumpin' Jumpin' - Warp Drive",
     franchise: "Warp Drive",
+  },
+  {
+    id: 1796,
+    en: "Menu - Wheel of Fortune (Genesis/MegaDrive)",
+    fr: "Menu - Wheel of Fortune (Genesis/MegaDrive)",
+    franchise: "Console",
   },
   {
     id: 2786,
