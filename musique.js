@@ -21013,6 +21013,48 @@ window.musicNameList = [
     franchise : "Shantae",
   },
   {
+    id: 1783,
+    en: "Silent Hill - Silent Hill",
+    fr: "Silent Hill - Silent Hill",
+    franchise : "Silent Hill",
+  },
+  {
+    id: 1784,
+    en: "Claw Finger - Silent Hill",
+    fr: "Claw Finger - Silent Hill",
+    franchise : "Silent Hill",
+  },
+  {
+    id: 1785,
+    en: "Not Tomorrow 1 - Silent Hill",
+    fr: "Not Tomorrow 1 - Silent Hill",
+    franchise : "Silent Hill",
+  },
+  {
+    id: 1787,
+    en: "Tears Of... - Silent Hill",
+    fr: "Tears Of... - Silent Hill",
+    franchise : "Silent Hill",
+  },
+  {
+    id: 1792,
+    en: "Killing Time - Silent Hill",
+    fr: "Killing Time - Silent Hill",
+    franchise : "Silent Hill",
+  },
+  {
+    id: 1793,
+    en: "She - Silent Hill",
+    fr: "She - Silent Hill",
+    franchise : "Silent Hill",
+  },
+  {
+    id: 1795,
+    en: "Esperandote - Silent Hill",
+    fr: "Esperandote - Silent Hill",
+    franchise : "Silent Hill",
+  },
+  {
     id: 5258,
     en: "Menu - Silver Surfer",
     fr: "Menu - Silver Surfer",
