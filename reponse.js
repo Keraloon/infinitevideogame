@@ -7184,12 +7184,44 @@ window.musicListWithLinks = [
     answer: 1795,
   },
   {
+    url: "https://soundcloud.com/saariemi/wheel-of-fortune-genesis-title-screen",
+    answer: 1796,
+  },
+  {
+    url: "https://soundcloud.com/lamingaming/rayman-ost-the-magicians-challenge-ripped-from-ps1-disc",
+    answer: 1797,
+  },
+  {
     url: "https://soundcloud.com/rse-548363113/battle-paradise-protection-protocol-phase-1-pokemon-scarlet-violet",
     answer: 1798,
   },
   {
+    url: "https://soundcloud.com/lamingaming/rayman-ost-flight-of-the-mosquito-ripped-from-ps1-disc",
+    answer: 1799,
+  },
+  {
+    url: "https://soundcloud.com/lamingaming/rayman-ost-moskitos-rage-ripped-from-ps1-disc",
+    answer: 1800,
+  },
+  {
+    url: "https://soundcloud.com/lamingaming/rayman-ost-blazing-brass-ripped-from-ps1-disc",
+    answer: 1801,
+  },
+  {
+    url: "https://soundcloud.com/lamingaming/rayman-ost-duet-with-mr-sax-ripped-from-ps1-disc",
+    answer: 1802,
+  },
+  {
+    url: "https://soundcloud.com/lamingaming/rayman-ost-peaceful-peaks-ripped-from-ps1-disc",
+    answer: 1803,
+  },
+  {
     url: "https://soundcloud.com/user-657324383/pokemon-scarlet-and-violet",
     answer: 1804,
+  },
+  {
+    url: "https://soundcloud.com/lamingaming/rayman-ost-call-of-the-mountain-ripped-from-ps1-disc",
+    answer: 1805,
   },
   {
     url: "https://soundcloud.com/kera-303625942/no-tomorrow-ft-serj-tankian",
