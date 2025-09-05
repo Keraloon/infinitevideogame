@@ -7224,8 +7224,28 @@ window.musicListWithLinks = [
     answer: 1805,
   },
   {
+    url: "https://soundcloud.com/faded_boo/title",
+    answer: 1806,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/emerald-beach",
+    answer: 1807,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/tails-lab",
+    answer: 1808,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/chao-ruins",
+    answer: 1809,
+  },
+  {
     url: "https://soundcloud.com/kera-303625942/no-tomorrow-ft-serj-tankian",
     answer: 1810,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/battle-highway",
+    answer: 1811,
   },
   {
     url: "https://soundcloud.com/pieceoflembas/metal-hellsinger-blood-and-law-ft-mikael-stanne-of-dark-tranquillity",
@@ -7284,8 +7304,28 @@ window.musicListWithLinks = [
     answer: 1825,
   },
   {
+    url: "https://soundcloud.com/faded_boo/battle-highway",
+    answer: 1826,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/amys-room",
+    answer: 1827,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/library",
+    answer: 1828,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/metal-depot",
+    answer: 1829,
+  },
+  {
     url: "https://soundcloud.com/emil-bruun-318322528/monster-hunter-world-astera-day-theme",
     answer: 1830,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/metal-depot",
+    answer: 1831,
   },
   {
     url: "https://soundcloud.com/user-507136898-734821580/monster-hunter-world-ost-8",
@@ -7302,6 +7342,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/user-507136898-734821580/monster-hunter-world-ost",
     answer: 1835,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/dr-eggman",
+    answer: 1836,
   },
   {
     url: "https://soundcloud.com/user-507136898-734821580/monster-hunter-world-ost-proof",
@@ -7358,6 +7402,30 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/user-489743366-371390758/monster-hunter-world-iceborne-ost-seliana-day-theme",
     answer: 1850,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/phi-battle",
+    answer: 1851,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/chaos-battle",
+    answer: 1852,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/credits-11",
+    answer: 1853,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/holly-summit",
+    answer: 1854,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/central-city-2",
+    answer: 1855,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/emerl-configuration",
+    answer: 1856,
   },
   {
     url: "https://soundcloud.com/faded_boo/title-screen-733394423",
