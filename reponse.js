@@ -7428,6 +7428,18 @@ window.musicListWithLinks = [
     answer: 1856,
   },
   {
+    url: "https://soundcloud.com/demolitemusic/001-sandy-ruins-sand-stage",
+    answer: 1857,
+  },
+  {
+    url: "https://soundcloud.com/demolitemusic/002-the-first-encounter-sand",
+    answer: 1858,
+  },
+  {
+    url: "https://soundcloud.com/demolitemusic/003-beat-on-the-drums-jungle",
+    answer: 1859,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/title-screen-733394423",
     answer: 1860,
   },
@@ -7476,6 +7488,10 @@ window.musicListWithLinks = [
     answer: 1871,
   },
   {
+    url: "https://soundcloud.com/demolitemusic/004-rocketstorm-jungle-boss",
+    answer: 1872,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/solaris-ver-2",
     answer: 1873,
   },
@@ -7488,8 +7504,20 @@ window.musicListWithLinks = [
     answer: 1875,
   },
   {
+    url: "https://soundcloud.com/demolitemusic/005-storm-the-castle-medieval",
+    answer: 1876,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/silver-dreams-of-absolution",
     answer: 1877,
+  },
+  {
+    url: "https://soundcloud.com/demolitemusic/006-flaming-death-medieval",
+    answer: 1878,
+  },
+  {
+    url: "https://soundcloud.com/sonicunleashed/sonic-adventure-2-escape-from-the-city",
+    answer: 1879,
   },
   {
     url: "https://soundcloud.com/user-624896213/my-sweet-passion-theme-of-amy-rose",
@@ -7504,16 +7532,20 @@ window.musicListWithLinks = [
     answer: 1882,
   },
   {
+    url: "https://soundcloud.com/demolitemusic/008-lazertime-caves-boss",
+    answer: 1883,
+  },
+  {
     url: "https://soundcloud.com/user-624896213/eggman-theme-of-dr-eggman",
     answer: 1884,
   },
   {
-    url: "https://soundcloud.com/leoriosairutsa/unknown-from-me",
-    answer: 1886,
+    url: "https://soundcloud.com/demolitemusic/009-suspension-greek-stage",
+    answer: 1885,
   },
   {
-    url: "https://soundcloud.com/sonicunleashed/sonic-adventure-2-escape-from-the-city",
-    answer: 1879,
+    url: "https://soundcloud.com/leoriosairutsa/unknown-from-me",
+    answer: 1886,
   },
   {
     url: "https://soundcloud.com/faded_boo/h02-wild-canyon",
@@ -7536,6 +7568,10 @@ window.musicListWithLinks = [
     answer: 1891,
   },
   {
+    url: "https://soundcloud.com/demolitemusic/007-deep-diving-caves-stage",
+    answer: 1892,
+  },
+  {
     url: "https://soundcloud.com/lamingaming/sonic-2-aquatic-ruin-zone-recorded-from-sega-mega-drive-mk1-va6",
     answer: 1893,
   },
@@ -7552,8 +7588,28 @@ window.musicListWithLinks = [
     answer: 1896,
   },
   {
+    url: "https://soundcloud.com/demolitemusic/010-chopping-away-greek-boss",
+    answer: 1897,
+  },
+  {
     url: "https://soundcloud.com/lamingaming/sonic-2-oil-ocean-zone-recorded-from-sega-mega-drive-mk1-va6",
     answer: 1898,
+  },
+  {
+    url: "https://soundcloud.com/demolitemusic/011-oh-blyat-final-boss-theme",
+    answer: 1899,
+  },
+  {
+    url: "https://soundcloud.com/demolitemusic/012-ring-the-bells-ss-war4",
+    answer: 1900,
+  },
+  {
+    url: "https://soundcloud.com/demolitemusic/013-carnival-of-credits",
+    answer: 1901,
+  },
+  {
+    url: "https://soundcloud.com/demolitemusic/015-music-that-didnt-make-it",
+    answer: 1902,
   },
   {
     url: "https://soundcloud.com/lamingaming/sonic-2-death-egg-zone-part-2-recorded-from-sega-mega-drive-mk1-va6",
