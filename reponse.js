@@ -7724,12 +7724,32 @@ window.musicListWithLinks = [
     answer: 1930,
   },
   {
+    url: "https://soundcloud.com/yoshiheardle/title-theme",
+    answer: 1931,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/emerald-coast-azure-blue-world",
     answer: 1932,
   },
   {
+    url: "https://soundcloud.com/yoshiheardle/mushroom-music-a",
+    answer: 1933,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/fire-flower-music-b",
+    answer: 1934,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/starman-music-c",
+    answer: 1935,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/casinopolis-the-dreamy-stage",
     answer: 1936,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/2p-battle-mode",
+    answer: 1937,
   },
   {
     url: "https://soundcloud.com/faded_boo/red-mountain-red-hot-skull",
