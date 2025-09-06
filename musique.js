@@ -27902,6 +27902,36 @@ window.musicNameList = [
     franchise: "Mario",
   },
   {
+    id: 1931,
+    en: "Title Theme - Yoshi (Mario & Yoshi)",
+    fr: "Ecran Titre - Yoshi (Mario & Yoshi)",
+    franchise: "Mario",
+  },
+  {
+    id: 1933,
+    en: "Mushroom (Music A) - Yoshi (Mario & Yoshi)",
+    fr: "Champignon (Musique A) - Yoshi (Mario & Yoshi)",
+    franchise: "Mario",
+  },
+  {
+    id: 1934,
+    en: "Fire Flower (Music B) - Yoshi (Mario & Yoshi)",
+    fr: "Fleur de Feu (Musique B) - Yoshi (Mario & Yoshi)",
+    franchise: "Mario",
+  },
+  {
+    id: 1935,
+    en: "Starman (Music C) - Yoshi (Mario & Yoshi)",
+    fr: "Super Etoile (Musique C) - Yoshi (Mario & Yoshi)",
+    franchise: "Mario",
+  },
+  {
+    id: 1937,
+    en: "2 Player Battle Mode - Yoshi (Mario & Yoshi)",
+    fr: "Mode Bataille 2 Joueurs - Yoshi (Mario & Yoshi)",
+    franchise: "Mario",
+  },
+  {
     id: 5580,
     en: "Main Theme - Mario Paint",
     fr: "Thème Principal - Mario Paint",
