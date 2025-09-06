@@ -7616,8 +7616,16 @@ window.musicListWithLinks = [
     answer: 1903,
   },
   {
+    url: "https://soundcloud.com/yoshiheardle/title-screen-panel-de-pon",
+    answer: 1904,
+  },
+  {
     url: "https://soundcloud.com/lamingaming/sonic-2-casino-night-zone-2p-recorded-from-sega-mega-drive-mk1-va6",
     answer: 1905,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/title-screen-tetris-attack",
+    answer: 1906,
   },
   {
     url: "https://soundcloud.com/lamingaming/sonic-2-special-stage-recorded-from-sega-mega-drive-mk1-va6",
@@ -7626,6 +7634,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/lamingaming/sonic-2-boss-recorded-from-sega-mega-drive-mk1-va6",
     answer: 1908,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/game-select",
+    answer: 1909,
   },
   {
     url: "https://soundcloud.com/faded_boo/boss-theme",
@@ -7640,12 +7652,24 @@ window.musicListWithLinks = [
     answer: 1912,
   },
   {
+    url: "https://soundcloud.com/yoshiheardle/lips-stage-tutorial",
+    answer: 1913,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/tidal-tempest-past",
     answer: 1914,
   },
   {
     url: "https://soundcloud.com/faded_boo/tidal-tempest-bad-future",
     answer: 1915,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/yoshis-stage",
+    answer: 1916,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/windys-stage-breeze-stage",
+    answer: 1917,
   },
   {
     url: "https://soundcloud.com/faded_boo/stardust-speedway-bad-future",
@@ -7662,6 +7686,38 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/faded_boo/sonic-boom-2",
     answer: 1921,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/sherbets-stage-glacial-stage",
+    answer: 1922,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/rubys-stage-flower-stage",
+    answer: 1923,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/flares-stage-blaze-stage",
+    answer: 1924,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/neris-stage-sea-stage",
+    answer: 1925,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/neris-stage-sea-stage-critical",
+    answer: 1926,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/selenes-stage-lunar-stage-1",
+    answer: 1927,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/boss-encounter",
+    answer: 1928,
+  },
+  {
+    url: "https://soundcloud.com/yoshiheardle/boss-stage",
+    answer: 1929,
   },
   {
     url: "https://soundcloud.com/faded_boo/station-square",
