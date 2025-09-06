@@ -7752,6 +7752,14 @@ window.musicListWithLinks = [
     answer: 1937,
   },
   {
+    url: "https://soundcloud.com/user-227502204-594364584/labyrinth",
+    answer: 1938,
+  },
+  {
+    url: "https://soundcloud.com/user-227502204-594364584/death-mountain",
+    answer: 1939,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/red-mountain-red-hot-skull",
     answer: 1940,
   },
