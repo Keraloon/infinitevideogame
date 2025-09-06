@@ -30164,6 +30164,18 @@ window.musicNameList = [
     franchise: "TLOU",
   },
   {
+    id: 1938,
+    en: "Labyrinth - The Legend of Zelda",
+    fr: "Labyrinthe - The Legend of Zelda",
+    franchise: "Zelda",
+  },
+  {
+    id: 1939,
+    en: "Death Mountain - The Legend of Zelda",
+    fr: "Mont de la Mort - The Legend of Zelda",
+    franchise: "Zelda",
+  },
+  {
     id: 5081,
     en: "Title Screen - Zelda II : The Adventure Of Link",
     fr: "Ecran Titre - Zelda II : The Adventure Of Link",
