@@ -7768,6 +7768,38 @@ window.musicListWithLinks = [
     answer: 1941,
   },
   {
+    url: "https://soundcloud.com/mizukikamata/summer",
+    answer: 1942,
+  },
+  {
+    url: "https://soundcloud.com/jniquenicole-music/rainbow-overload",
+    answer: 1943,
+  },
+  {
+    url: "https://soundcloud.com/robertwilson-music/pop",
+    answer: 1944,
+  },
+  {
+    url: "https://soundcloud.com/kuniyukitakahashi/cleaning-up",
+    answer: 1945,
+  },
+  {
+    url: "https://soundcloud.com/blackcatpopo/ring-a-ding-ding",
+    answer: 1946,
+  },
+  {
+    url: "https://soundcloud.com/jniquenicole-music/high-on-life",
+    answer: 1947,
+  },
+  {
+    url: "https://soundcloud.com/imanijdawson/to-the-top",
+    answer: 1948,
+  },
+  {
+    url: "https://soundcloud.com/jniquenicole-music/miracle-groovin",
+    answer: 1949,
+  },
+  {
     url: "https://soundcloud.com/fawfulhasfury/1-right-there-ride-on-sonic",
     answer: 1950,
   },
@@ -7798,6 +7830,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/fawfulhasfury/8-a-new-day-sonic-rush",
     answer: 1957,
+  },
+  {
+    url: "https://soundcloud.com/kuniyukitakahashi/between-the-devil-and-the-deep",
+    answer: 1958,
   },
   {
     url: "https://soundcloud.com/fawfulhasfury/16-metal-scratchin-sonic-rush",
@@ -7834,6 +7870,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/rman41/sonic-knuckles-mushroom-hill-zone-act-1",
     answer: 1967,
+  },
+  {
+    url: "https://soundcloud.com/keitainoue/break",
+    answer: 1968,
   },
   {
     url: "https://soundcloud.com/rman41/sonic-knuckles-sandopolis-zone-act-1",
@@ -7876,8 +7916,16 @@ window.musicListWithLinks = [
     answer: 1978,
   },
   {
+    url: "https://soundcloud.com/olivergood-music/a-little-bit-of-hope",
+    answer: 1979,
+  },
+  {
     url: "https://soundcloud.com/user-304781955/sonic-forces-ost-fist-bump",
     answer: 1980,
+  },
+  {
+    url: "https://soundcloud.com/olivergood-music/mmm",
+    answer: 1981,
   },
   {
     url: "https://soundcloud.com/user-304781955/sonic-forces-ost-spaceport",
@@ -7900,6 +7948,10 @@ window.musicListWithLinks = [
     answer: 1986,
   },
   {
+    url: "https://soundcloud.com/olivergood-music/sweet",
+    answer: 1987,
+  },
+  {
     url: "https://soundcloud.com/user-304781955/sonic-forces-ost-arsenal-pyramid-inside",
     answer: 1988,
   },
@@ -7908,8 +7960,20 @@ window.musicListWithLinks = [
     answer: 1989,
   },
   {
+    url: "https://soundcloud.com/kuniyukitakahashi/all-that-glitters",
+    answer: 1990,
+  },
+  {
+    url: "https://soundcloud.com/keitainoue/came-to-play",
+    answer: 1991,
+  },
+  {
     url: "https://soundcloud.com/user-304781955/sonic-forces-ost-vs-eggman",
     answer: 1992,
+  },
+  {
+    url: "https://soundcloud.com/olivergood-music/wipedown",
+    answer: 1993,
   },
   {
     url: "https://soundcloud.com/user-304781955/sonic-forces-ost-park-avenue",
@@ -7932,6 +7996,14 @@ window.musicListWithLinks = [
     answer: 1998,
   },
   {
+    url: "https://soundcloud.com/shotaroseo/dustin",
+    answer: 1999,
+  },
+  {
+    url: "https://soundcloud.com/yukinoorita/vida-limpa",
+    answer: 2000,
+  },
+  {
     url: "https://soundcloud.com/user-304781955/sonic-forces-ost-network-terminal-inside",
     answer: 2001,
   },
@@ -7940,8 +8012,24 @@ window.musicListWithLinks = [
     answer: 2002,
   },
   {
+    url: "https://soundcloud.com/blackcatpopo/a-little-bit-of-happiness",
+    answer: 2003,
+  },
+  {
+    url: "https://soundcloud.com/monaca-music/vitamin-u",
+    answer: 2004,
+  },
+  {
+    url: "https://soundcloud.com/keitainoue/ironclad-d",
+    answer: 2005,
+  },
+  {
     url: "https://soundcloud.com/user-304781955/sonic-forces-ost-imperial-tower",
     answer: 2006,
+  },
+  {
+    url: "https://soundcloud.com/keitainoue/a-small-wonder",
+    answer: 2007,
   },
   {
     url: "https://soundcloud.com/user-304781955/sonic-forces-ost-iron-fortress",
@@ -7956,12 +8044,40 @@ window.musicListWithLinks = [
     answer: 2010,
   },
   {
+    url: "https://soundcloud.com/monaca-music/the-down-low",
+    answer: 2011,
+  },
+  {
+    url: "https://soundcloud.com/keitainoue/moonlight-paradise",
+    answer: 2012,
+  },
+  {
     url: "https://soundcloud.com/oof2u/sonic-forces-ost-final-boss-battle",
     answer: 2013,
   },
   {
     url: "https://soundcloud.com/user-102302750/sonic-forces-ost-infinite-themefull",
     answer: 2014,
+  },
+  {
+    url: "https://soundcloud.com/kuniyukitakahashi/out-to-dry",
+    answer: 2015,
+  },
+  {
+    url: "https://soundcloud.com/shotaroseo/spin-cycle",
+    answer: 2016,
+  },
+  {
+    url: "https://soundcloud.com/kuniyukitakahashi/foaming-at-the-mouth",
+    answer: 2017,
+  },
+  {
+    url: "https://soundcloud.com/keigohoashi/spotless",
+    answer: 2018,
+  },
+  {
+    url: "https://soundcloud.com/monaca-music/t-g-i-yay",
+    answer: 2019,
   },
   {
     url: "https://soundcloud.com/faded_boo/reach-for-the-stars-re-1",
