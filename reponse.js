@@ -8328,6 +8328,10 @@ window.musicListWithLinks = [
     answer: 2081,
   },
   {
+    url: "https://soundcloud.com/faded_boo/this-horizon",
+    answer: 2082,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/chun-nan-day",
     answer: 2083,
   },
@@ -8340,12 +8344,24 @@ window.musicListWithLinks = [
     answer: 2085,
   },
   {
+    url: "https://soundcloud.com/faded_boo/labyrinth-1",
+    answer: 2086,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/amazing-arena",
+    answer: 2087,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/boss-night",
     answer: 2088,
   },
   {
     url: "https://soundcloud.com/faded_boo/titanbig-mother",
     answer: 2089,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/isolated-island",
+    answer: 2090,
   },
   {
     url: "https://soundcloud.com/faded_boo/super-sonic-vs-perfect-dark-gaia",
@@ -8366,6 +8382,22 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/kera-303625942/dragon-quest-x-casino",
     answer: 2095,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/walkin",
+    answer: 2096,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/hyper-hyper",
+    answer: 2097,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/evening-star",
+    answer: 2098,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/speed-slider",
+    answer: 2099,
   },
   {
     url: "https://soundcloud.com/user-192292150/top-menu-theme",
@@ -8454,6 +8486,38 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/user-192292150/palkias-onslaught",
     answer: 2121,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/marina-madness",
+    answer: 2122,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/botanic-base",
+    answer: 2123,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/techno-tower-robotnik",
+    answer: 2124,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/speed-slider-robotnik",
+    answer: 2125,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/marina-madness-robotnik",
+    answer: 2126,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/surprise",
+    answer: 2127,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/tube-panic",
+    answer: 2128,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/have-a-happy-day",
+    answer: 2129,
   },
   {
     url: "https://soundcloud.com/super-mario-rpg-switch/battling-monsters",
