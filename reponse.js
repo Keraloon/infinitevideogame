@@ -8096,12 +8096,24 @@ window.musicListWithLinks = [
     answer: 2023,
   },
   {
+    url: "https://soundcloud.com/mudeth/intro-cinematic",
+    answer: 2024,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/planet-wisp-act-1-remix",
     answer: 2025,
   },
   {
+    url: "https://soundcloud.com/mudeth/esc",
+    answer: 2026,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/aquarium-park-act-7",
     answer: 2027,
+  },
+  {
+    url: "https://soundcloud.com/mudeth/gloria-filio",
+    answer: 2028,
   },
   {
     url: "https://soundcloud.com/faded_boo/terminal-velocity-act-1-remix",
@@ -8110,6 +8122,42 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/faded_boo/speak-with-your-heart-rainbow",
     answer: 2030,
+  },
+  {
+    url: "https://soundcloud.com/mudeth/innocence-lost",
+    answer: 2031,
+  },
+  {
+    url: "https://soundcloud.com/mudeth/machine-in-the-walls",
+    answer: 2032,
+  },
+  {
+    url: "https://soundcloud.com/mudeth/memento-mori",
+    answer: 2033,
+  },
+  {
+    url: "https://soundcloud.com/mudeth/tandava",
+    answer: 2034,
+  },
+  {
+    url: "https://soundcloud.com/mudeth/ultimort",
+    answer: 2035,
+  },
+  {
+    url: "https://soundcloud.com/mudeth/marble-forest-catacombs",
+    answer: 2036,
+  },
+  {
+    url: "https://soundcloud.com/mudeth/the-turn-mom-fight",
+    answer: 2037,
+  },
+  {
+    url: "https://soundcloud.com/mudeth/non-funkible-token-ultra-greed",
+    answer: 2038,
+  },
+  {
+    url: "https://soundcloud.com/mudeth/foreigner-in-zeal-flooded-caves",
+    answer: 2039,
   },
   {
     url: "https://soundcloud.com/faded_boo/desert-ruins-zone-4",
