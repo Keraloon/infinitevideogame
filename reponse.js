@@ -8168,6 +8168,10 @@ window.musicListWithLinks = [
     answer: 2041,
   },
   {
+    url: "https://soundcloud.com/tyler-hughes-65/01-eternals-redout-ost",
+    answer: 2042,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/midnight-owl",
     answer: 2043,
   },
@@ -8208,6 +8212,38 @@ window.musicListWithLinks = [
     answer: 2052,
   },
   {
+    url: "https://soundcloud.com/tyler-hughes-65/02-desert-druids-redout-ost",
+    answer: 2053,
+  },
+  {
+    url: "https://soundcloud.com/tyler-hughes-65/03-sand-wars-redout-ost",
+    answer: 2054,
+  },
+  {
+    url: "https://soundcloud.com/tyler-hughes-65/04-heat-and-havoc-redout-ost",
+    answer: 2055,
+  },
+  {
+    url: "https://soundcloud.com/tyler-hughes-65/05-on-my-own-redout-ost",
+    answer: 2056,
+  },
+  {
+    url: "https://soundcloud.com/tyler-hughes-65/07-legends-of-anxanum-redout-ost",
+    answer: 2057,
+  },
+  {
+    url: "https://soundcloud.com/tyler-hughes-65/08-the-flame-of-life-redout-ost",
+    answer: 2058,
+  },
+  {
+    url: "https://soundcloud.com/tyler-hughes-65/09-you-will-burn-redout-ost",
+    answer: 2059,
+  },
+  {
+    url: "https://soundcloud.com/tyler-hughes-65/12-conamara-redout-ost",
+    answer: 2060,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/windmill-isle-day",
     answer: 2061,
   },
@@ -8218,6 +8254,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/faded_boo/savannah-citadel-day",
     answer: 2063,
+  },
+  {
+    url: "https://soundcloud.com/tyler-hughes-65/13-great-dark-spot-redout-ost",
+    answer: 2064,
   },
   {
     url: "https://soundcloud.com/faded_boo/dragon-road-day",
@@ -8248,6 +8288,10 @@ window.musicListWithLinks = [
     answer: 2071,
   },
   {
+    url: "https://soundcloud.com/tyler-hughes-65/15-zero-point-energy-redout-ost",
+    answer: 2072,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/cool-edge-night",
     answer: 2073,
   },
@@ -8260,8 +8304,16 @@ window.musicListWithLinks = [
     answer: 2075,
   },
   {
+    url: "https://soundcloud.com/tyler-hughes-65/16-chaos-potential-redout-ost",
+    answer: 2076,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/jungle-joyride-night",
     answer: 2077,
+  },
+  {
+    url: "https://soundcloud.com/tyler-hughes-65/17-arabia-terra-redout-ost",
+    answer: 2078,
   },
   {
     url: "https://soundcloud.com/faded_boo/apotos-day",
@@ -8270,6 +8322,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/faded_boo/spagonia-day",
     answer: 2080,
+  },
+  {
+    url: "https://soundcloud.com/tyler-hughes-65/18-nearby-stars-redout-ost",
+    answer: 2081,
   },
   {
     url: "https://soundcloud.com/faded_boo/chun-nan-day",
