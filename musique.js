@@ -1272,6 +1272,36 @@ window.musicNameList = [
     franchise : "Bomb Rush",
   },
   {
+    id: 2157,
+    en: "Glacial - Borderlands 2",
+    fr: "Glacial - Borderlands 2",
+    franchise : "Borderlands",
+  },
+  {
+    id: 2158,
+    en: "Hyperion - Borderlands 2",
+    fr: "Hyperion - Borderlands 2",
+    franchise : "Borderlands",
+  },
+  {
+    id: 2159,
+    en: "Interlude Combat - Borderlands 2",
+    fr: "Interlude Combat - Borderlands 2",
+    franchise : "Borderlands",
+  },
+  {
+    id: 2259,
+    en: "Lynchwood Sheriff Combat - Borderlands 2",
+    fr: "Combat Shérif de Lynchwood - Borderlands 2",
+    franchise : "Borderlands",
+  },
+  {
+    id: 2291,
+    en: "Vog Fight - Borderlands 2",
+    fr: "Combat Vog - Borderlands 2",
+    franchise : "Borderlands",
+  },
+  {
     id: 3128,
     en: "The Quest Begins (Main Theme) - Bubble Bobble",
     fr: "La Quête Commence (Thème Principal) - Bubble Bobble",
