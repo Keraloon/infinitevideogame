@@ -9168,6 +9168,46 @@ window.musicListWithLinks = [
     answer: 2291,
   },
   {
+    url: "https://soundcloud.com/faded_boo/title-screen-112642905",
+    answer: 2292,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/samba-studios-intro",
+    answer: 2293,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/after-burner-final-take-off",
+    answer: 2294,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/flight-dragon-canyon",
+    answer: 2295,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/temple-trouble-intro",
+    answer: 2296,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/jungle-world-monkey-island",
+    answer: 2297,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/starlight-carnival",
+    answer: 2298,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/seasonal-shrines-intro",
+    answer: 2299,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/idaten-japonesque",
+    answer: 2300,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/dream-valley-intro",
+    answer: 2301,
+  },
+  {
     url: "https://soundcloud.com/dtltncost/time-to-draw-a-hero",
     answer: 2302,
   },
@@ -9210,6 +9250,34 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/dtlost/angler-king",
     answer: 2312,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/graffiti-city-intro",
+    answer: 2313,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/thats-enough-everybody-jump-around",
+    answer: 2314,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sky-sanctuary-back-in-time",
+    answer: 2315,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/theme-of-the-magician-revenge",
+    answer: 2316,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/the-wilderness-turtle-village-1",
+    answer: 2317,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/burning-depths-intro",
+    answer: 2318,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/we-are-burning-rangers",
+    answer: 2319,
   },
   {
     url: "https://soundcloud.com/anthony-fula/90s-wapo-club",
@@ -9312,6 +9380,26 @@ window.musicListWithLinks = [
     answer: 2344,
   },
   {
+    url: "https://soundcloud.com/faded_boo/space-harrier",
+    answer: 2345,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/splash-wave",
+    answer: 2346,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-star-theme-bd-joe",
+    answer: 2347,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-star-theme-beat",
+    answer: 2348,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-star-theme-ulala",
+    answer: 2349,
+  },
+  {
     url: "https://soundcloud.com/jared-trigg-729677288/official-celeste-original-20",
     answer: 2350,
   },
@@ -9358,6 +9446,38 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/user-856334924/wavedashppt-celeste",
     answer: 2361,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-star-theme-xbox-live-avatar",
+    answer: 2362,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-star-theme-nintendo-mii",
+    answer: 2363,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-star-theme-pudding",
+    answer: 2364,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-star-theme-football-manager",
+    answer: 2365,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-star-theme-general-winter",
+    answer: 2366,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-star-theme-willemus",
+    answer: 2367,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-star-theme-danica-patrick",
+    answer: 2368,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-star-theme-wreck-it-ralph",
+    answer: 2369,
   },
   {
     url: "https://soundcloud.com/shomalon/overture",
@@ -9534,6 +9654,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/hpam/dragon-quest-monsters-2-towns-appearance",
     answer: 2413,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-star-theme-team-fortress",
+    answer: 2414,
   },
   {
     url: "https://soundcloud.com/user-445991624/sonic-mania-main-menu",
