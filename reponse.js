@@ -8628,6 +8628,18 @@ window.musicListWithLinks = [
     answer: 2156,
   },
   {
+    url: "https://soundcloud.com/user999500346/glacial",
+    answer: 2157,
+  },
+  {
+    url: "https://soundcloud.com/user999500346/hyperion",
+    answer: 2158,
+  },
+  {
+    url: "https://soundcloud.com/user999500346/interlude-combat",
+    answer: 2159,
+  },
+  {
     url: "https://soundcloud.com/user-602684896/mario-kart-8",
     answer: 2160,
   },
@@ -9024,6 +9036,10 @@ window.musicListWithLinks = [
     answer: 2258,
   },
   {
+    url: "https://soundcloud.com/user999500346/lynchwood-sheriff-combat",
+    answer: 2259,
+  },
+  {
     url: "https://soundcloud.com/aceaxer-37823992/dirtmouth",
     answer: 2260,
   },
@@ -9146,6 +9162,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/brayden-mentzer-821191369/the-eternal-ordeal-title",
     answer: 2290,
+  },
+  {
+    url: "https://soundcloud.com/user999500346/vog-fight",
+    answer: 2291,
   },
   {
     url: "https://soundcloud.com/dtltncost/time-to-draw-a-hero",
