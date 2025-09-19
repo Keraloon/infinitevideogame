@@ -9704,6 +9704,22 @@ window.musicListWithLinks = [
     answer: 2425,
   },
   {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-shop",
+    answer: 2426,
+  },
+  {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-stage-7",
+    answer: 2427,
+  },
+  {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-stage-6",
+    answer: 2428,
+  },
+  {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-stage-6",
+    answer: 2429,
+  },
+  {
     url: "https://soundcloud.com/zelda-soundtracks/n64-ocarina-of-time-title",
     answer: 2430,
   },
@@ -9768,6 +9784,10 @@ window.musicListWithLinks = [
     answer: 2445,
   },
   {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-stage-2",
+    answer: 2446,
+  },
+  {
     url: "https://soundcloud.com/vgminfiniteheardle/aria-of-sorrow-battle-with",
     answer: 2447,
   },
@@ -9799,7 +9819,6 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/kera-303625942/with-all-ones-might-boss-dragon-quest-x",
     answer: 2454,
   },
-
   {
     url: "https://soundcloud.com/fizzd/a-dance-of-fire-and-ice",
     answer: 2455,
@@ -9837,6 +9856,30 @@ window.musicListWithLinks = [
     answer: 2463,
   },
   {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-stage-1",
+    answer: 2464,
+  },
+  {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-stage-3",
+    answer: 2465,
+  },
+  {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-stage",
+    answer: 2466,
+  },
+  {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-stage-4",
+    answer: 2467,
+  },
+  {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-final-3",
+    answer: 2468,
+  },
+  {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-final-2",
+    answer: 2469,
+  },
+  {
     url: "https://soundcloud.com/pit2/06-chapter-20-palutenas-temple",
     answer: 2470,
   },
@@ -9851,6 +9894,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/pit2/19-solo-menu-kid-icarus-uprising",
     answer: 2473,
+  },
+  {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-final-1",
+    answer: 2474,
   },
   {
     url: "https://soundcloud.com/kera-303625942/mysterious-invaders",
@@ -10005,6 +10052,10 @@ window.musicListWithLinks = [
     answer: 2512,
   },
   {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-final",
+    answer: 2513,
+  },
+  {
     url: "https://soundcloud.com/user-155806785/professor-layton-and-the-17",
     answer: 2514,
   },
@@ -10013,12 +10064,20 @@ window.musicListWithLinks = [
     answer: 2515,
   },
   {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-credits",
+    answer: 2516,
+  },
+  {
     url: "https://soundcloud.com/user-155806785/professor-layton-and-the-23",
     answer: 2517,
   },
   {
     url: "https://soundcloud.com/chillkj/professor-layton-and-the",
     answer: 2518,
+  },
+  {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-extra-boss-maidens-capriccio",
+    answer: 2519,
   },
   {
     url: "https://soundcloud.com/limb92/professor-layton-and-the",
@@ -10097,8 +10156,16 @@ window.musicListWithLinks = [
     answer: 2538,
   },
   {
+    url: "https://soundcloud.com/ph-m-th-ng-470556148/touhou-luna-nights-bgm-extra-stage-ending-a-soul-as-red-as-a-ground-cherry",
+    answer: 2539,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/kron-colony",
     answer: 2540,
+  },
+  {
+    url: "https://soundcloud.com/user-883757021/touhou-luna-nights-ost-26-beloved-tomboyish-daughter",
+    answer: 2541,
   },
   {
     url: "https://soundcloud.com/faded_boo/metropolis-ground-zero",
