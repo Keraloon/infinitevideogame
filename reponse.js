@@ -10184,12 +10184,28 @@ window.musicListWithLinks = [
     answer: 2545,
   },
   {
+    url: "https://soundcloud.com/faded_boo/introduction",
+    answer: 2546,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/voxai-colony-beta",
     answer: 2547,
   },
   {
     url: "https://soundcloud.com/faded_boo/zoah-colony",
     answer: 2548,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/great-turquoise-zone",
+    answer: 2549,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sunset-park-zone",
+    answer: 2550,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sunset-park-zone-train",
+    answer: 2551,
   },
   {
     url: "https://soundcloud.com/faded_boo/ix-final-boss",
@@ -10216,6 +10232,10 @@ window.musicListWithLinks = [
     answer: 2557,
   },
   {
+    url: "https://soundcloud.com/faded_boo/meta-junglira-zone",
+    answer: 2558,
+  },
+  {
     url: "https://soundcloud.com/kera-303625942/boss",
     answer: 2559,
   },
@@ -10223,7 +10243,6 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/kera-303625942/mad",
     answer: 2560,
   },
-
   {
     url: "https://soundcloud.com/aeridynex/toby-fox-undertale-1",
     answer: 2561,
@@ -10751,6 +10770,10 @@ window.musicListWithLinks = [
     answer: 2691,
   },
   {
+    url: "https://soundcloud.com/faded_boo/robotnik-winter-zone",
+    answer: 2692,
+  },
+  {
     url: "https://soundcloud.com/djviofficial/djvi-cycles",
     answer: 2693,
   },
@@ -10882,7 +10905,6 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/dappafuster-2/above-the-clouds-super-mario-odyssey-soundtrack",
     answer: 2725,
   },
-
   {
     url: "https://soundcloud.com/brayden944/genesis-22-10-the-binding-of",
     answer: 2726,
@@ -10918,6 +10940,14 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/brayden944/tboi-ost-acceptance-you-died",
     answer: 2734,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/tidal-plant-zone",
+    answer: 2735,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/atomic-destroyer-zone",
+    answer: 2736,
   },
   {
     url: "https://soundcloud.com/brayden944/tboi-ost-hericide-satan-fight",
@@ -11047,10 +11077,13 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/brayden-mentzer-677583042/tboi-ost-final-ending",
     answer: 2768,
   },
-
   {
     url: "https://soundcloud.com/vityushaexmachina/no-escape",
     answer: 2769,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/nack-the-weasel",
+    answer: 2770,
   },
   {
     url: "https://soundcloud.com/vityushaexmachina/the-painful-way",
@@ -11495,6 +11528,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/ninlistener/main-theme-extended-english-super-smash-bros-ultimate",
     answer: 2881,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/ending-12",
+    answer: 2882,
   },
   {
     url: "https://soundcloud.com/ninlistener/gangplank-galleon-super-smash-bros-ultimate",
