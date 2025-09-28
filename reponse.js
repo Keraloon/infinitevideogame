@@ -11566,6 +11566,14 @@ window.musicListWithLinks = [
     answer: 2890,
   },
   {
+    url: "https://soundcloud.com/shellsnore-games-music/trapped-in-amber",
+    answer: 2891,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/enic",
+    answer: 2892,
+  },
+  {
     url: "https://soundcloud.com/user-313249665/lets-go-to-seoul-fatal-fury-2",
     answer: 2893,
   },
@@ -11604,6 +11612,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/bluerhapzody14/fire-emblem-three-houses-1",
     answer: 2902,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/foothills",
+    answer: 2903,
   },
   {
     url: "https://soundcloud.com/aktersnurra95/the-spirit-tree",
@@ -12294,6 +12306,10 @@ window.musicListWithLinks = [
     answer: 3075,
   },
   {
+    url: "https://soundcloud.com/shellsnore-games-music/james",
+    answer: 3076,
+  },
+  {
     url: "https://soundcloud.com/doomguyvol1/command-and-control",
     answer: 3077,
   },
@@ -12515,7 +12531,7 @@ window.musicListWithLinks = [
   },
   {
     url: "https://soundcloud.com/cow-ravine/minish-woods",
-   answer: 3132,
+    answer: 3132,
   },
   {
     url: "https://soundcloud.com/user485151016/minish-village-the-legend-of",
@@ -12544,6 +12560,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/tas-runs/termina-field",
     answer: 3139,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/stosia",
+    answer: 3140,
   },
   {
     url: "https://soundcloud.com/superbearneo/aboda-village-legend-of-zelda",
@@ -12906,6 +12926,10 @@ window.musicListWithLinks = [
     answer: 3231,
   },
   {
+    url: "https://soundcloud.com/shellsnore-games-music/glacial-tunnels",
+    answer: 3232,
+  },
+  {
     url: "https://soundcloud.com/max-yoshi12/advance-wars-dual-strike-nells-theme",
     answer: 3233,
   },
@@ -13232,6 +13256,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/alveus_x/som-the-color-of-the-summer",
     answer: 3314,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/the-last-defense",
+    answer: 3315,
   },
   {
     url: "https://soundcloud.com/alveus_x/som-distant-thunder",
@@ -13830,6 +13858,18 @@ window.musicListWithLinks = [
     answer: 3464,
   },
   {
+    url: "https://soundcloud.com/shellsnore-games-music/ascent",
+    answer: 3465,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/northern-barracks",
+    answer: 3466,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/northern-barracks",
+    answer: 3467,
+  },
+  {
     url: "https://soundcloud.com/qwertysucks/super-monkey-ball-ost-alternate-main-menu",
     answer: 3468,
   },
@@ -13989,7 +14029,10 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/user-137132857/110-tomodachi-life-news-3",
     answer: 3507,
   },
-
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/canopy",
+    answer: 3508,
+  },
   {
     url: "https://soundcloud.com/user-137132857/131-tomodachi-life-ranking",
     answer: 3509,
@@ -14001,6 +14044,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/user-137132857/155-tomodachi-life-staff-roll",
     answer: 3511,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/forest-floor",
+    answer: 3512,
   },
   {
     url: "https://soundcloud.com/vgminfiniteheardle/tomodachi-quest-battle",
@@ -14103,6 +14150,10 @@ window.musicListWithLinks = [
     answer: 3537,
   },
   {
+    url: "https://soundcloud.com/shellsnore-games-music/blood-in-the-engine",
+    answer: 3538,
+  },
+  {
     url: "https://soundcloud.com/susumi-sama/super-monkey-ball-2-world-1",
     answer: 3539,
   },
@@ -14117,6 +14168,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/susumi-sama/super-monkey-ball-2-world-7",
     answer: 3542,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/the-honorable-troth-the-eighth",
+    answer: 3543,
   },
   {
     url: "https://soundcloud.com/susumi-sama/super-monkey-ball-2-world-8",
@@ -14683,6 +14738,10 @@ window.musicListWithLinks = [
     answer: 3684,
   },
   {
+    url: "https://soundcloud.com/shellsnore-games-music/amethyst-laboratory",
+    answer: 3685,
+  },
+  {
     url: "https://soundcloud.com/sandra-sobreira/final-fantasy-x-soundtrack-6",
     answer: 3686,
   },
@@ -14827,6 +14886,10 @@ window.musicListWithLinks = [
     answer: 3721,
   },
   {
+    url: "https://soundcloud.com/shellsnore-games-music/alvoet-colony",
+    answer: 3722,
+  },
+  {
     url: "https://soundcloud.com/vincent-thompson-763471057/20-koopa-junior-bgm",
     answer: 3723,
   },
@@ -14933,6 +14996,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/max-buzmakov/lorn-set-me-free",
     answer: 3749,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/chasm",
+    answer: 3750,
   },
   {
     url: "https://soundcloud.com/max-buzmakov/the-toxic-avenger-make-this-right",
@@ -15173,6 +15240,14 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/user-465666019/killing-floor-2-ost-relentless",
     answer: 3810,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/the-eighth-descendant",
+    answer: 3811,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/james-house",
+    answer: 3812,
   },
   {
     url: "https://soundcloud.com/queenofhora/zynthetic-step-right-up-killing-floor-2-summer-sideshow",
@@ -15573,6 +15648,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/supercoke1000/silver-surfer-nes-backround-2",
     answer: 3912,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/seashore",
+    answer: 3913,
   },
   {
     url: "https://soundcloud.com/vgminfiniteheardle/brinstar-theme",
@@ -16243,6 +16322,10 @@ window.musicListWithLinks = [
     answer: 4080,
   },
   {
+    url: "https://soundcloud.com/shellsnore-games-music/submerged-hollow",
+    answer: 4081,
+  },
+  {
     url: "https://soundcloud.com/user-555839654/plvsaa-in-the-dark-the-witches-prelude",
     answer: 4082,
   },
@@ -16421,6 +16504,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/user-187491854-537828493/devil-may-cry-5-ost-dantes-dance-music",
     answer: 4126,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/duel-of-vengeance",
+    answer: 4127,
   },
   {
     url: "https://soundcloud.com/user-317881134/02-travel-journal",
@@ -17061,6 +17148,38 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/brain-fluid/main-theme-nintendogs",
     answer: 4287,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/reef",
+    answer: 4288,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/redemption",
+    answer: 4289,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/luminescence",
+    answer: 4290,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/lord-of-the-depths",
+    answer: 4291,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/floating-islands",
+    answer: 4292,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/shining-city",
+    answer: 4293,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/ouroboros",
+    answer: 4294,
+  },
+  {
+    url: "https://soundcloud.com/shellsnore-games-music/once-the-tide-falls",
+    answer: 4295,
   },
   {
     url: "https://soundcloud.com/talabarbe/20m25lmmvc3q",
