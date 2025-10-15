@@ -17182,6 +17182,30 @@ window.musicListWithLinks = [
     answer: 4295,
   },
   {
+    url: "https://soundcloud.com/blood-moon-lantia/spore-ost-space",
+    answer: 4296,
+  },
+  {
+    url: "https://soundcloud.com/esporo/your-own-personal-universe",
+    answer: 4297,
+  },
+  {
+    url: "https://soundcloud.com/esporo/a-universe-in-your-hands",
+    answer: 4298,
+  },
+  {
+    url: "https://soundcloud.com/esporo/a-scrapbook-of-the-past",
+    answer: 4299,
+  },
+  {
+    url: "https://soundcloud.com/esporo/primordial-soup-for-dinner",
+    answer: 4300,
+  },
+  {
+    url: "https://soundcloud.com/esporo/under-a-microscope",
+    answer: 4301,
+  },
+  {
     url: "https://soundcloud.com/talabarbe/20m25lmmvc3q",
     answer: 4302,
   },
@@ -17286,6 +17310,10 @@ window.musicListWithLinks = [
     answer: 4327,
   },
   {
+    url: "https://soundcloud.com/esporo/colour-a-cell",
+    answer: 4328,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/battle-fortress",
     answer: 4329,
   },
@@ -17328,6 +17356,18 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/vgminfiniteheardle/winner-shop-bgm",
     answer: 4339,
+  },
+  {
+    url: "https://soundcloud.com/esporo/build-a-better-being",
+    answer: 4340,
+  },
+  {
+    url: "https://soundcloud.com/esporo/ancient-attire",
+    answer: 4341,
+  },
+  {
+    url: "https://soundcloud.com/esporo/raze-and-pillage",
+    answer: 4342,
   },
   {
     url: "https://soundcloud.com/flora-loon/peaceful-town",
