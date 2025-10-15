@@ -8501,6 +8501,12 @@ window.musicNameList = [
     franchise : "Jaded",
   },
   {
+    id: 3466,
+    en: "A National Crisis - Jaded",
+    fr: "A National Crisis - Jaded",
+    franchise : "Jaded",
+  },
+  {
     id: 3508,
     en: "Canopy - Jaded",
     fr: "Canopy - Jaded",
