@@ -17394,6 +17394,42 @@ window.musicListWithLinks = [
     answer: 4348,
   },
   {
+    url: "https://soundcloud.com/faded_boo/wave-ocean-the-waters-edge",
+    answer: 4349,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/wave-ocean-the-inlet",
+    answer: 4350,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/radical-train-the-abadoned-mine",
+    answer: 4351,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/radical-train-the-chase",
+    answer: 4352,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/egg-wyvern",
+    answer: 4353,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/iblis",
+    answer: 4354,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/elise-my-destiny",
+    answer: 4355,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/extras-1",
+    answer: 4356,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/results",
+    answer: 4357,
+  },
+  {
     url: "https://soundcloud.com/flora-loon/peaceful-town",
     answer: 4371,
   },
