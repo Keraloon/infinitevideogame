@@ -17370,6 +17370,30 @@ window.musicListWithLinks = [
     answer: 4342,
   },
   {
+    url: "https://soundcloud.com/esporo/lets-end-this-on-a-high-note-1",
+    answer: 4343,
+  },
+  {
+    url: "https://soundcloud.com/esporo/sweet-love-to-the-lady-1",
+    answer: 4344,
+  },
+  {
+    url: "https://soundcloud.com/esporo/at-the-end-of-a-long-day-1",
+    answer: 4345,
+  },
+  {
+    url: "https://soundcloud.com/esporo/learning-from-childhood",
+    answer: 4346,
+  },
+  {
+    url: "https://soundcloud.com/esporo/array-of-flowers",
+    answer: 4347,
+  },
+  {
+    url: "https://soundcloud.com/esporo/giddy-up",
+    answer: 4348,
+  },
+  {
     url: "https://soundcloud.com/flora-loon/peaceful-town",
     answer: 4371,
   },
