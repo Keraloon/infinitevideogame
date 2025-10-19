@@ -24253,6 +24253,18 @@ window.musicNameList = [
     franchise: "Sonic",
   },
   {
+    id: 4349,
+    en: "Wave Ocean : The Water's Edge - Sonic The Hedgehog 2006",
+    fr: "Wave Ocean : Au Bord de l'Eau - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
+    id: 4350,
+    en: "Wave Ocean : The Inlet - Sonic The Hedgehog 2006",
+    fr: "Wave Ocean : L'Entrée - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
     id: 1861,
     en: "Kingdom Valley - Sonic The Hedgehog 2006",
     fr: "Kingdom Valley - Sonic The Hedgehog 2006",
@@ -24274,6 +24286,18 @@ window.musicNameList = [
     id: 1864,
     en: "Flame Core : Volcano - Sonic The Hedgehog 2006",
     fr: "Flame Core : Volcan - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
+    id: 4351,
+    en: "Radical Train : The Abandoned Mine - Sonic The Hedgehog 2006",
+    fr: "Radical Train : La Mine Abandonnée - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
+    id: 4352,
+    en: "Radical Train : The Chase - Sonic The Hedgehog 2006",
+    fr: "Radical Train : La Poursuite - Sonic The Hedgehog 2006",
     franchise: "Sonic",
   },
   {
@@ -24307,6 +24331,12 @@ window.musicNameList = [
     franchise: "Sonic",
   },
   {
+    id: 4353,
+    en: "Egg Wyvern - Sonic The Hedgehog 2006",
+    fr: "Egg Wyvern - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
     id: 1870,
     en: "VS Character (Sonic/Shadow/Silver) - Sonic The Hedgehog 2006",
     fr: "VS Personnage (Sonic/Shadow/Silver) - Sonic The Hedgehog 2006",
@@ -24316,6 +24346,12 @@ window.musicNameList = [
     id: 1871,
     en: "VS Mephiles 1 - Sonic The Hedgehog 2006",
     fr: "VS Mephiles 1 - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
+    id: 4554,
+    en: "VS Iblis 1 - Sonic The Hedgehog 2006",
+    fr: "VS Iblis 1 - Sonic The Hedgehog 2006",
     franchise: "Sonic",
   },
   {
@@ -24334,6 +24370,24 @@ window.musicNameList = [
     id: 1875,
     en: "Soleanna New City - Sonic The Hedgehog 2006",
     fr: "Nouvelle Soleanna - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
+    id: 4555,
+    en: "My Destiny (Elise Theme) - Sonic The Hedgehog 2006",
+    fr: "My Destiny (Thème d'Elise) - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
+    id: 4556,
+    en: "Extras - Sonic The Hedgehog 2006",
+    fr: "Extras - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
+    id: 4557,
+    en: "Results - Sonic The Hedgehog 2006",
+    fr: "Résultats - Sonic The Hedgehog 2006",
     franchise: "Sonic",
   },
   {
