@@ -26911,6 +26911,42 @@ window.musicNameList = [
     franchise: "Spore",
   },
   {
+    id: 4343,
+    en: "Let's End This On A High Note - Spore",
+    fr: "Let's End This On A High Note - Spore",
+    franchise: "Spore",
+  },
+  {
+    id: 4344,
+    en: "Sweet Love to The Lady - Spore",
+    fr: "Sweet Love to The Lady - Spore",
+    franchise: "Spore",
+  },
+  {
+    id: 4345,
+    en: "At The End Of A Long Day - Spore",
+    fr: "At The End Of A Long Day - Spore",
+    franchise: "Spore",
+  },
+  {
+    id: 4346,
+    en: "Learning From Childhood - Spore",
+    fr: "Learning From Childhood - Spore",
+    franchise: "Spore",
+  },
+  {
+    id: 4347,
+    en: "Array of Flowers - Spore",
+    fr: "Array of Flowers - Spore",
+    franchise: "Spore",
+  },
+  {
+    id: 4348,
+    en: "Giddy-Up! - Spore",
+    fr: "Giddy-Up! - Spore",
+    franchise: "Spore",
+  },
+  {
     id: 3887,
     en: "Overture - Stardew Valley",
     fr: "Ouverture - Stardew Valley",
