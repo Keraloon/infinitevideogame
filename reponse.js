@@ -17430,6 +17430,58 @@ window.musicListWithLinks = [
     answer: 4357,
   },
   {
+    url: "https://soundcloud.com/minecraftwizards/01-c418-key",
+    answer: 4358,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/02-c418-door",
+    answer: 4359,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/06-c418-moog-city",
+    answer: 4360,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/08-c418-minecraft",
+    answer: 4361,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/10-c418-quinoxe",
+    answer: 4362,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/11-c418-mice-on-venus",
+    answer: 4363,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/14-c418-clark",
+    answer: 4364,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/15-c418-chris",
+    answer: 4365,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/16-c418-thirteen",
+    answer: 4366,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/17-c418-excuse",
+    answer: 4367,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/21-c418-danny",
+    answer: 4368,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/24-c418-droopy-likes-your-face",
+    answer: 4369,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/05-c418-flake",
+    answer: 4370,
+  },
+  {
     url: "https://soundcloud.com/flora-loon/peaceful-town",
     answer: 4371,
   },
@@ -17790,6 +17842,14 @@ window.musicListWithLinks = [
     answer: 4460,
   },
   {
+    url: "https://soundcloud.com/minecraftwizards/06-c418-moog-city-2",
+    answer: 4461,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/09-c418-mutation",
+    answer: 4462,
+  },
+  {
     url: "https://soundcloud.com/widoyod332/cheerful-meadow",
     answer: 4463,
   },
@@ -17806,8 +17866,16 @@ window.musicListWithLinks = [
     answer: 4466,
   },
   {
+    url: "https://soundcloud.com/minecraftwizards/10-c418-haunt-muskie",
+    answer: 4467,
+  },
+  {
     url: "https://soundcloud.com/widoyod332/marsh-valley",
     answer: 4468,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/floating-trees",
+    answer: 4469,
   },
   {
     url: "https://soundcloud.com/widoyod332/mica-lake",
@@ -17920,6 +17988,98 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/bumblebro/advance-wars-dual-strike-55-power",
     answer: 4497,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/13-c418-aria-math",
+    answer: 4498,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/14-c418-kyoto",
+    answer: 4499,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/17-c418-beginning-2",
+    answer: 4500,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/21-c418-wait",
+    answer: 4501,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/22-c418-mellohi",
+    answer: 4502,
+  },
+  {
+    url: "https://soundcloud.com/minecraftwizards/23-c418-stal",
+    answer: 4503,
+  },
+  {
+    url: "https://soundcloud.com/minecraft-ost-2/ward-minecraft-volume-beta",
+    answer: 4504,
+  },
+  {
+    url: "https://soundcloud.com/minecraft-ost-2/mall-minecraft-volume-beta",
+    answer: 4505,
+  },
+  {
+    url: "https://soundcloud.com/minecraft-ost-2/blocks-minecraft-volume-beta",
+    answer: 4506,
+  },
+  {
+    url: "https://soundcloud.com/minecraft-ost-2/far-minecraft-volume-beta",
+    answer: 4507,
+  },
+  {
+    url: "https://soundcloud.com/aaroncherof/echo-in-the-wind",
+    answer: 4508,
+  },
+  {
+    url: "https://soundcloud.com/aaroncherof/a-familiar-room",
+    answer: 4509,
+  },
+  {
+    url: "https://soundcloud.com/aaroncherof/bromeliad",
+    answer: 4510,
+  },
+  {
+    url: "https://soundcloud.com/aaroncherof/crescent-dunes",
+    answer: 4511,
+  },
+  {
+    url: "https://soundcloud.com/aaroncherof/relic",
+    answer: 4512,
+  },
+  {
+    url: "https://soundcloud.com/minecraft-scmusic/lilypad",
+    answer: 4513,
+  },
+  {
+    url: "https://soundcloud.com/minecraft-scmusic/below-and-above",
+    answer: 4514,
+  },
+  {
+    url: "https://soundcloud.com/minecraft-scmusic/os-piano",
+    answer: 4515,
+  },
+  {
+    url: "https://soundcloud.com/minecraft-scmusic/broken-clocks",
+    answer: 4516,
+  },
+  {
+    url: "https://soundcloud.com/minecraft-scmusic/fireflies",
+    answer: 4517,
+  },
+  {
+    url: "https://soundcloud.com/minecraft-scmusic/tears",
+    answer: 4518,
+  },
+  {
+    url: "https://soundcloud.com/zeke-adams-854278133/minecraft-precipice",
+    answer: 4519,
+  },
+  {
+    url: "https://soundcloud.com/minecraft-scmusic/minecraft-lava-chicken",
+    answer: 4520,
   },
   {
     url: "https://soundcloud.com/alveus_x/som-phantom-and-a-rose",
