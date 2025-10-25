@@ -14925,12 +14925,6 @@ window.musicNameList = [
     franchise : "Pokémon",
   },
   {
-    id: 325,
-    en: "Route 21/22 (Winter) - Pokémon Black 2/White 2",
-    fr: "Route 21/22 (Hiver) - Pokémon Noir 2/Blanc 2",
-    franchise : "Pokémon",
-  },
-  {
     id: 326,
     en: "Battle! (Champion Iris) - Pokémon Black 2/White 2",
     fr: "Combat! (Maître Iris) - Pokémon Noir 2/Blanc 2",
