@@ -600,7 +600,7 @@ window.musicListWithLinks = [
     answer: 149,
   },
   {
-    url: "https://soundcloud.com/jalyn894/pokemon-platinum-giratina-battle-music",
+    url: "https://soundcloud.com/giratina-405005217/pokemon-platinum-battle-giratina-used",
     answer: 150,
   },
   {
@@ -5692,7 +5692,7 @@ window.musicListWithLinks = [
     answer: 1422,
   },
   {
-    url: "https://soundcloud.com/lordofthehoodies/pokemon-sword-shield-piers-battle-theme",
+    url: "https://soundcloud.com/user-653054379/battle-gym-leader-piers",
     answer: 1423,
   },
   {
@@ -9948,7 +9948,7 @@ window.musicListWithLinks = [
     answer: 2486,
   },
   {
-    url: "https://soundcloud.com/smart-gaming-166773353/main-theme",
+    url: "https://soundcloud.com/musicforpeople/super-mario-64-main-theme-music-bob-omb-battlefield",
     answer: 2487,
   },
   {
