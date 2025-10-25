@@ -19007,7 +19007,7 @@ window.musicListWithLinks = [
   },
   {
     url: "https://soundcloud.com/faded_boo/speed-highway-run-through-the-speed-highway",
-    answer: 4768,
+    answer: 4769,
   },
   {
     url: "https://soundcloud.com/faded_boo/perfect-chaos-open-your-heart",
@@ -20290,7 +20290,7 @@ window.musicListWithLinks = [
     answer: 5107,
   },
   {
-    url: "https://soundcloud.com/craloscl/drummer-duel",
+    url: "https://soundcloud.com/craloscl/love-lab",
     answer: 5108,
   },
   {
@@ -23661,5 +23661,9 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/user-104839658/go-park-pokemon-lets-go-ost",
     answer: 5976,
+  },
+  {
+    url: "https://soundcloud.com/rse-548363113/may-pokemon-ruby-sapphire",
+    answer: 5977,
   },
 ];
