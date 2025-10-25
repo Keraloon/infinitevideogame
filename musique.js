@@ -24583,7 +24583,7 @@ window.musicNameList = [
     franchise: "Sonic",
   },
   {
-    id: 4554,
+    id: 4354,
     en: "VS Iblis 1 - Sonic The Hedgehog 2006",
     fr: "VS Iblis 1 - Sonic The Hedgehog 2006",
     franchise: "Sonic",
@@ -24607,19 +24607,19 @@ window.musicNameList = [
     franchise: "Sonic",
   },
   {
-    id: 4555,
+    id: 4355,
     en: "My Destiny (Elise Theme) - Sonic The Hedgehog 2006",
     fr: "My Destiny (Thème d'Elise) - Sonic The Hedgehog 2006",
     franchise: "Sonic",
   },
   {
-    id: 4556,
+    id: 4356,
     en: "Extras - Sonic The Hedgehog 2006",
     fr: "Extras - Sonic The Hedgehog 2006",
     franchise: "Sonic",
   },
   {
-    id: 4557,
+    id: 4357,
     en: "Results - Sonic The Hedgehog 2006",
     fr: "Résultats - Sonic The Hedgehog 2006",
     franchise: "Sonic",
