@@ -3226,6 +3226,13 @@ window.musicNameList = [
     franchise : "CS"
   },
   {
+    id: 4521,
+    en: "Title Screen - Fortune Street",
+    fr: "Ecran Titre - Course à la Fortune",
+    franchise : "Mario",
+    franchise : "Dragon Quest"
+  },
+  {
     id: 3545,
     en: "Main Theme - Crash Bandicoot",
     fr: "Ecran Principal - Crash Bandicoot",
