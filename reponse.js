@@ -18082,6 +18082,10 @@ window.musicListWithLinks = [
     answer: 4520,
   },
   {
+    url: "https://soundcloud.com/fortunestreetost/title-screen?in=fortunestreetost/sets/fortune-street",
+    answer: 4521,
+  },
+  {
     url: "https://soundcloud.com/alveus_x/som-phantom-and-a-rose",
     answer: 4522,
   },
