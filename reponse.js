@@ -18082,7 +18082,7 @@ window.musicListWithLinks = [
     answer: 4520,
   },
   {
-    url: "https://soundcloud.com/fortunestreetost/title-screen?in=fortunestreetost/sets/fortune-street",
+    url: "https://soundcloud.com/fortunestreetost/title-screen",
     answer: 4521,
   },
   {
@@ -18120,6 +18120,14 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/alveus_x/som-prophecy",
     answer: 4530,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/main-menu",
+    answer: 4531,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/wifi-menu",
+    answer: 4532,
   },
   {
     url: "https://soundcloud.com/alveus_x/som-now-flightless-wings",
@@ -19006,6 +19014,62 @@ window.musicListWithLinks = [
     answer: 4753,
   },
   {
+    url: "https://soundcloud.com/fortunestreetost/ending-mario",
+    answer: 4754,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/winner-mario",
+    answer: 4755,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/winner-dragon-quest",
+    answer: 4756,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/chance-card-yoshis-island",
+    answer: 4757,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/stocks",
+    answer: 4758,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/casino-slot-mario",
+    answer: 4759,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/mario-curcuit",
+    answer: 4760,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/peachs-castle",
+    answer: 4761,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/mario-stadium",
+    answer: 4762,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/bowsers-castle",
+    answer: 4763,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/starship-mario",
+    answer: 4764,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/good-egg-galaxy",
+    answer: 4765,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/castle-trodain",
+    answer: 4766,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/wagon-wheels-march",
+    answer: 4767,
+  },
+  {
     url: "https://soundcloud.com/faded_boo/twinkle-park-twinkle-cart",
     answer: 4768,
   },
@@ -19100,6 +19164,22 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/vgminfiniteheardle/final-fight-stage-two",
     answer: 4791,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/robbin-hood-ruins",
+    answer: 4792,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/alltrades-abbey",
+    answer: 4793,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/observatory-heavens-prayer",
+    answer: 4794,
+  },
+  {
+    url: "https://soundcloud.com/fortunestreetost/the-evil-king-bowser-super",
+    answer: 4795,
   },
   {
     url: "https://soundcloud.com/kera-303625942/dbz-aots-battle",
