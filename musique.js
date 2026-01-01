@@ -2968,6 +2968,42 @@ window.musicNameList = [
     franchise : "Clair Obscur"
   },
   {
+    id: 4796,
+    en: "Osquio (Verso's Drafts) - Clair Obscur: Expedition 33",
+    fr: "Osquio (Esquisses de Verso) - Clair Obscur: Expedition 33",
+    franchise : "Clair Obscur"
+  },
+  {
+    id: 4797,
+    en: "Whee Whoo Days (Verso's Drafts) - Clair Obscur: Expedition 33",
+    fr: "Whee Whoo Days (Esquisses de Verso) - Clair Obscur: Expedition 33",
+    franchise : "Clair Obscur"
+  },
+  {
+    id: 4798,
+    en: "Time to Swim Swim (Verso's Drafts) - Clair Obscur: Expedition 33",
+    fr: "Time to Swim Swim (Esquisses de Verso) - Clair Obscur: Expedition 33",
+    franchise : "Clair Obscur"
+  },
+  {
+    id: 4799,
+    en: "Where He Used to Play (Verso's Drafts) - Clair Obscur: Expedition 33",
+    fr: "Where He Used to Play (Esquisses de Verso) - Clair Obscur: Expedition 33",
+    franchise : "Clair Obscur"
+  },
+  {
+    id: 4800,
+    en: "The End in Me (Verso's Drafts) - Clair Obscur: Expedition 33",
+    fr: "The End in Me (Esquisses de Verso) - Clair Obscur: Expedition 33",
+    franchise : "Clair Obscur"
+  },
+  {
+    id: 4801,
+    en: "Pour que Naisse un Bouquet (Verso's Drafts) - Clair Obscur: Expedition 33",
+    fr: "Pour que Naisse un Bouquet (Esquisses de Verso) - Clair Obscur: Expedition 33",
+    franchise : "Clair Obscur"
+  },
+  {
     id: 631,
     en: "Epoch - Cobalt Core",
     fr: "Epoch - Cobalt Core",
