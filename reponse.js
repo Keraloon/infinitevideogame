@@ -19182,6 +19182,30 @@ window.musicListWithLinks = [
     answer: 4795,
   },
   {
+    url: "https://soundcloud.com/lorientestard/osquio",
+    answer: 4796,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/whee-whoo-days",
+    answer: 4797,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/time-to-swim-swim",
+    answer: 4798,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/where-he-used-to-play",
+    answer: 4799,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/the-end-in-me",
+    answer: 4800,
+  },
+  {
+    url: "https://soundcloud.com/lorientestard/pour-que-naisse-un-bouquet",
+    answer: 4801,
+  },
+  {
     url: "https://soundcloud.com/kera-303625942/dbz-aots-battle",
     answer: 4803,
   },
