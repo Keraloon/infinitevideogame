@@ -3856,6 +3856,42 @@ window.musicNameList = [
     franchise : "Dark Souls",
   },
   {
+    id: 5179,
+    en: "Let's Go Away (Attract Mode) - Daytona USA",
+    fr: "Let's Go Away (Attract Mode) - Daytona USA",
+    franchise : "Daytona",
+  },
+  {
+    id: 5180,
+    en: "Awaiting Other Challengers - Daytona USA",
+    fr: "Awaiting Other Challengers - Daytona USA",
+    franchise : "Daytona",
+  },
+  {
+    id: 5181,
+    en: "Start Your Engines (Car Selection) - Daytona USA",
+    fr: "Start Your Engines (Sélection de Voiture) - Daytona USA",
+    franchise : "Daytona",
+  },
+  {
+    id: 5182,
+    en: "Sky High - Daytona USA",
+    fr: "Sky High - Daytona USA",
+    franchise : "Daytona",
+  },
+  {
+    id: 5183,
+    en: "Pounding Pavement - Daytona USA",
+    fr: "Pounding Pavement - Daytona USA",
+    franchise : "Daytona",
+  },
+  {
+    id: 5184,
+    en: "Rolling Start (Ending - Short) - Daytona USA",
+    fr: "Rolling Start (Fin - Courte) - Daytona USA",
+    franchise : "Daytona",
+  },
+  {
     id: 3725,
     en: "The Choir Invisible - Deadbolt",
     fr: "The Choir Invisible - Deadbolt",
