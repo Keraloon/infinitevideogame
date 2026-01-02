@@ -21979,6 +21979,30 @@ window.musicNameList = [
     franchise : "SEGA Rally",
   },
   {
+    id: 5979,
+    en: "BREAK THE EMOTION - SEGA Rally 2006",
+    fr: "BREAK THE EMOTION - SEGA Rally 2006",
+    franchise : "SEGA Rally",
+  },
+  {
+    id: 5980,
+    en: "Steppin Pedal - SEGA Rally 2006",
+    fr: "Steppin Pedal - SEGA Rally 2006",
+    franchise : "SEGA Rally",
+  },
+  {
+    id: 5981,
+    en: "Boosted - SEGA Rally 2006",
+    fr: "Boosted - SEGA Rally 2006",
+    franchise : "SEGA Rally",
+  },
+  {
+    id: 5982,
+    en: "BEAT OF MY HEART - SEGA Rally 2006",
+    fr: "BEAT OF MY HEART - SEGA Rally 2006",
+    franchise : "SEGA Rally",
+  },
+  {
     id: 1551,
     en: "Title - Shantae And The Pirate's Curse",
     fr: "Titre - Shantae And The Pirate's Curse",
