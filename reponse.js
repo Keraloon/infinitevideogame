@@ -20730,6 +20730,58 @@ window.musicListWithLinks = [
     answer: 5184,
   },
   {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-go-go-sega-rally",
+    answer: 5185,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-till-you-see-the",
+    answer: 5186,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-ratio-911",
+    answer: 5187,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-route-246",
+    answer: 5188,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-big-sur",
+    answer: 5189,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-riviera-stage-mnf",
+    answer: 5190,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-estra-novada",
+    answer: 5191,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-night-groovin",
+    answer: 5192,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-king-of-island",
+    answer: 5193,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-evolution",
+    answer: 5194,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-main-menu-theme",
+    answer: 5195,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-slippin",
+    answer: 5196,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-drive-select-1",
+    answer: 5197,
+  },
+  {
     url: "https://soundcloud.com/echo-da-dolphin/everybody-falls-fall-guys",
     answer: 5198,
   },
@@ -23849,5 +23901,9 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/rse-548363113/may-pokemon-ruby-sapphire",
     answer: 5977,
+  },
+  {
+    url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-desert-stage-soul",
+    answer: 5978,
   },
 ];
