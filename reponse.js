@@ -23906,4 +23906,20 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/user-392553790-506984866/sega-rally-2-desert-stage-soul",
     answer: 5978,
   },
+  {
+    url: "https://soundcloud.com/random-factor233/sega-rally-2006-jun-senoue",
+    answer: 5979,
+  },
+  {
+    url: "https://soundcloud.com/random-factor233/sega-rally-2006-tomoya-ohtani",
+    answer: 5980,
+  },
+  {
+    url: "https://soundcloud.com/random-factor233/sega-rally-2006-hideki",
+    answer: 5981,
+  },
+  {
+    url: "https://soundcloud.com/werdah-aldajih/sega-rally-2006-jun-senoue",
+    answer: 5982,
+  },
 ];
