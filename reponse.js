@@ -20262,6 +20262,10 @@ window.musicListWithLinks = [
     answer: 5067,
   },
   {
+    url: "https://soundcloud.com/darter69/sega-rally-01-power-games",
+    answer: 5068,
+  },
+  {
     url: "https://soundcloud.com/shitpostalert/yakuza-3-ost-hear-this-in-the-game",
     answer: 5069,
   },
@@ -20672,6 +20676,34 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/medi101/credits-part-time-ufo-ost",
     answer: 5171,
+  },
+  {
+    url: "https://soundcloud.com/darter69/sega-rally-02-judgement",
+    answer: 5172,
+  },
+  {
+    url: "https://soundcloud.com/darter69/sega-rally-03-desert-land",
+    answer: 5173,
+  },
+  {
+    url: "https://soundcloud.com/darter69/sega-rally-04-getting-muddy",
+    answer: 5174,
+  },
+  {
+    url: "https://soundcloud.com/darter69/sega-rally-05-reckless-running",
+    answer: 5175,
+  },
+  {
+    url: "https://soundcloud.com/darter69/sega-rally-06-ignition",
+    answer: 5176,
+  },
+  {
+    url: "https://soundcloud.com/darter69/sega-rally-07-aroundletter",
+    answer: 5177,
+  },
+  {
+    url: "https://soundcloud.com/darter69/sega-rally-08-my-dear-friend",
+    answer: 5178,
   },
   {
     url: "https://soundcloud.com/echo-da-dolphin/everybody-falls-fall-guys",
