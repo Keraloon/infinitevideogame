@@ -33616,8 +33616,8 @@ window.musicNameList = [
   },
   {
     id: 5793,
-    en: "WORN OUT TAPES - UNBEATABLE",
-    fr: "WORN OUT TAPES - UNBEATABLE",
+    en: "WORN OUT TAPES [tally-ho version] - UNBEATABLE",
+    fr: "WORN OUT TAPES [tally-ho version] - UNBEATABLE",
     franchise: "UNBEATABLE",
   },
   {
