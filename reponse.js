@@ -20706,6 +20706,30 @@ window.musicListWithLinks = [
     answer: 5178,
   },
   {
+    url: "https://soundcloud.com/darter69/daytona-usa-lets-go-away-2",
+    answer: 5179,
+  },
+  {
+    url: "https://soundcloud.com/darter69/daytona-usa-awaiting-other",
+    answer: 5180,
+  },
+  {
+    url: "https://soundcloud.com/darter69/daytona-usa-start-your-engines",
+    answer: 5181,
+  },
+  {
+    url: "https://soundcloud.com/darter69/daytona-usa-sky-high-long",
+    answer: 5182,
+  },
+  {
+    url: "https://soundcloud.com/darter69/daytona-usa-pounding-2",
+    answer: 5183,
+  },
+  {
+    url: "https://soundcloud.com/darter69/daytona-usa-rolling-start",
+    answer: 5184,
+  },
+  {
     url: "https://soundcloud.com/echo-da-dolphin/everybody-falls-fall-guys",
     answer: 5198,
   },
