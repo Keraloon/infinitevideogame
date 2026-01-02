@@ -12,7 +12,7 @@ window.musicListWithLinks = [
     answer: 2,
   },
   {
-    url: "https://soundcloud.com/lu-s-ant-nio-costa/005-littleroot-town-1",
+    url: "https://soundcloud.com/lu-s-ant-nio-fcosta/005-littleroot-town-1",
     answer: 3,
   },
   {
@@ -10530,7 +10530,7 @@ window.musicListWithLinks = [
     answer: 2631,
   },
   {
-    url: "https://soundcloud.com/kera-303625942/boss-battle",
+    url: "https://soundcloud.com/vgm-dr/boss-battle-learn-with-pokemon-typing-adventure",
     answer: 2632,
   },
   {
@@ -12382,7 +12382,7 @@ window.musicListWithLinks = [
     answer: 3094,
   },
   {
-    url: "https://soundcloud.com/kera-303625942/saudade-re2",
+    url: "https://soundcloud.com/user-154990743/resident-evil-2-remake-ost",
     answer: 3095,
   },
   {
@@ -19206,6 +19206,10 @@ window.musicListWithLinks = [
     answer: 4801,
   },
   {
+    url: "https://soundcloud.com/vgm-dr/title-screen-learn-with-pokemon-typing-adventure",
+    answer: 4802,
+  },
+  {
     url: "https://soundcloud.com/kera-303625942/dbz-aots-battle",
     answer: 4803,
   },
@@ -19616,6 +19620,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/procrastinating-reality/the-lumpy-pumpkin-skyward-sword",
     answer: 4905,
+  },
+  {
+    url: "https://soundcloud.com/the-treyceratops-389/main-menu-learn-with-pokemon-typing-adventure",
+    answer: 4906,
   },
   {
     url: "https://soundcloud.com/extrapolation/fun-fun-island-the-legend-of-zelda-skyward-sword",
