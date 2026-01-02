@@ -5706,26 +5706,26 @@ window.musicNameList = [
   },
   {
     id: 2450,
-    en: "Fun Encounter (Synthesis) - Dragon Quest Monsters",
-    fr: "Fun Encounter (Synthèse) - Dragon Quest Monsters",
+    en: "Fun Encounter (Synthesis) - Dragon Quest Monsters 3 : The Dark Prince",
+    fr: "Fun Encounter (Synthèse) - Dragon Quest Monsters 3 : Le Prince des Ombres",
     franchise : "Dragon Quest",
   },
   {
     id: 2778,
-    en: "CELL Headquarters/Laboratorium - Dragon Quest Monsters",
-    fr: "CELLULE/Labhorratoire - Dragon Quest Monsters",
+    en: "CELL Headquarters/Laboratorium - Dragon Quest Monsters 3 : The Dark Prince",
+    fr: "CELLULE/Labhorratoire - Dragon Quest Monsters 3 : Le Prince des Ombres",
     franchise : "Dragon Quest",
   },
   {
     id: 2452,
-    en: "Trainer Battle - Dragon Quest Monsters",
-    fr: "Combat contre un Dresseur - Dragon Quest Monsters",
+    en: "Trainer Battle - Dragon Quest Monsters 3 : The Dark Prince",
+    fr: "Combat contre un Dresseur - Dragon Quest Monsters 3 : Le Prince des Ombres",
     franchise : "Dragon Quest",
   },
   {
     id: 2453,
-    en: "Final Boss - Dragon Quest Monsters",
-    fr: "Final Boss - Dragon Quest Monsters",
+    en: "VS Milly/Final Boss - Dragon Quest Monsters 3 : The Dark Prince",
+    fr: "VS Emilie/Final Boss - Dragon Quest Monsters 3 : Le Prince des Ombres",
     franchise : "Dragon Quest",
   },
   {
@@ -18639,6 +18639,18 @@ window.musicNameList = [
     id: 4996,
     en: "End Credits - Pokémon Pinball",
     fr: "Crédits de Fin - Pokémon Pinball",
+    franchise : "Pokémon",
+  },
+  {
+    id: 4802,
+    en: "Title Screen - Learn With Pokémon Typing Adventure",
+    fr: "Ecran Titre - Pokémon à la Conquête du Clavier",
+    franchise : "Pokémon",
+  },
+  {
+    id: 4906,
+    en: "Main Menu - Learn With Pokémon Typing Adventure",
+    fr: "Menu Principal - Pokémon à la Conquête du Clavier",
     franchise : "Pokémon",
   },
   {
