@@ -19634,6 +19634,10 @@ window.musicListWithLinks = [
     answer: 4908,
   },
   {
+    url: "https://soundcloud.com/looking_swager_than_don/unbeatable-ost-homework-salad",
+    answer: 4909,
+  },
+  {
     url: "https://soundcloud.com/chloe-j-england/skyward-sword-music-guardians",
     answer: 4910,
   },
@@ -19916,6 +19920,10 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/ckdgb6iucusa/saints-row-4-dubstep-gun-dlc",
     answer: 4982,
+  },
+  {
+    url: "https://soundcloud.com/duffin-19027746/sleeping-in",
+    answer: 4983,
   },
   {
     url: "https://soundcloud.com/tsuchiphox/pokemon-pinball-ost-pokedex",
