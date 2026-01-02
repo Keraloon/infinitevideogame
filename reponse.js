@@ -23922,4 +23922,84 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/werdah-aldajih/sega-rally-2006-jun-senoue",
     answer: 5982,
   },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-title",
+    answer: 5983,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-windward",
+    answer: 5984,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-crested-torrent-uth-duna-theme",
+    answer: 5985,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-rey-dau",
+    answer: 5986,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-ebon-hellfire-nu-udra-theme",
+    answer: 5987,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-shadows-dancing-on-ice-iceshard-cliffs-large-monster",
+    answer: 5988,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-lord-of-the-ice-scowl-jin-dahaad-phase-1",
+    answer: 5989,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-grand-hub-theme",
+    answer: 5990,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-invented-incisors-ruins-of-wyveria-threat-lv3",
+    answer: 5991,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-invented-incisors-quake-ruins-of-wyveria-threat-lv-4",
+    answer: 5992,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-the-white-wraith-repel-arkveld-theme",
+    answer: 5993,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-radiant-cry-of-life-slay-arkveld-theme",
+    answer: 5994,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-arrant-calamity-final-boss-phase-1",
+    answer: 5995,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-justice-breaks-forth-final-boss-phase-2",
+    answer: 5996,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/everlasting-words-flamfetetri-diva-song-monster-hunter-wilds",
+    answer: 5997,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-bubbling-crimson-flowers-mizutsune-theme",
+    answer: 5998,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-tremors-on-land-and-sea-lagiacrus-theme",
+    answer: 5999,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/monster-hunter-wilds-the-1",
+    answer: 6000,
+  },
+  {
+    url: "https://soundcloud.com/sophmusicthief/gogmazios-theme-monster-hunter",
+    answer: 6001,
+  },
+  {
+    url: "https://soundcloud.com/michael-hernandez-528007604/omega-planetes-phase-2-theme",
+    answer: 6002,
+  },
 ];
