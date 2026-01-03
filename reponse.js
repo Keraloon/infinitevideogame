@@ -12574,6 +12574,10 @@ window.musicListWithLinks = [
     answer: 3142,
   },
   {
+    url: "https://soundcloud.com/edwin-gabriel-497577843/sonic-racing-cross-the-worlds",
+    answer: 3143,
+  },
+  {
     url: "https://soundcloud.com/user-767636085/the-legend-of-zelda-spirit-tracks-music-realm-overworld",
     answer: 3144,
   },
@@ -19662,12 +19666,20 @@ window.musicListWithLinks = [
     answer: 4915,
   },
   {
+    url: "https://soundcloud.com/sktachi10/cross-the-worlds-final-lap",
+    answer: 4916,
+  },
+  {
     url: "https://soundcloud.com/derkmakes/the-demon-king-demise-battle-rising",
     answer: 4917,
   },
   {
     url: "https://soundcloud.com/craigcaleb/skyward-sword-staff-roll",
     answer: 4918,
+  },
+  {
+    url: "https://soundcloud.com/someaccount8/apotos-first-lap-sonic-racing",
+    answer: 4919,
   },
   {
     url: "https://soundcloud.com/everythingparappa_ptr2/noodle-monster",
@@ -24001,5 +24013,237 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/michael-hernandez-528007604/omega-planetes-phase-2-theme",
     answer: 6002,
+  },
+  {
+    url: "https://soundcloud.com/someaccount8/apotos-final-lap-sonic-racing",
+    answer: 6003,
+  },
+  {
+    url: "https://soundcloud.com/someaccount8/sand-road-first-lap-sonic",
+    answer: 6004,
+  },
+  {
+    url: "https://soundcloud.com/someaccount8/sand-road-final-lap-sonic",
+    answer: 6005,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/wonder-museum-first-lap-sonic",
+    answer: 6006,
+  },
+  {
+    url: "https://soundcloud.com/someaccount8/wonder-museum-final-lap-sonic",
+    answer: 6007,
+  },
+  {
+    url: "https://soundcloud.com/someaccount8/water-palace-first-lap-sonic",
+    answer: 6008,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/water-palace-hq-final-lap",
+    answer: 6009,
+  },
+  {
+    url: "https://soundcloud.com/someaccount8/colorful-mall-first-lap-sonic",
+    answer: 6010,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/colorful-mall-final-lap-chants",
+    answer: 6011,
+  },
+  {
+    url: "https://soundcloud.com/someaccount8/e-stadium-first-lap-sonic",
+    answer: 6012,
+  },
+  {
+    url: "https://soundcloud.com/infiniteshadow2335/e-stadium-final-lap-chants-sonic-racing-crossworlds-ost-12",
+    answer: 6013,
+  },
+  {
+    url: "https://soundcloud.com/someaccount8/metal-harbor-first-lap-sonic",
+    answer: 6014,
+  },
+  {
+    url: "https://soundcloud.com/infiniteshadow2335/metal-harbor-final-lap-chants-sonic-racing-crossworlds-ost-1",
+    answer: 6015,
+  },
+  {
+    url: "https://soundcloud.com/someaccount8/luminous-forest-first-lap-ost",
+    answer: 6016,
+  },
+  {
+    url: "https://soundcloud.com/someaccount8/luminous-forest-final-lap",
+    answer: 6017,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/rainbow-garden-first-lap-sonic",
+    answer: 6018,
+  },
+  {
+    url: "https://soundcloud.com/edwin-gabriel-497577843/rainbow-garden-final-lap",
+    answer: 6019,
+  },
+  {
+    url: "https://soundcloud.com/edwin-gabriel-497577843/digital-circuit-first-lap",
+    answer: 6020,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/digital-circuit-final-lap",
+    answer: 6021,
+  },
+  {
+    url: "https://soundcloud.com/edwin-gabriel-497577843/donpa-factory-first-lap",
+    answer: 6022,
+  },
+  {
+    url: "https://soundcloud.com/edwin-gabriel-497577843/ocean-view-first-lap",
+    answer: 6023,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/ocean-view-final-lap-sonic",
+    answer: 6024,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/market-street-first-lap-sonic",
+    answer: 6025,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/sweet-mountain-first-lap-sonic",
+    answer: 6026,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/cyber-space-final-lap-hq-sonic",
+    answer: 6027,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/golden-temple-first-lap-sonic",
+    answer: 6028,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/coral-town-first-lap-sonic",
+    answer: 6029,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/pumpkin-mansion-first-lap",
+    answer: 6030,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/pumpkin-mansion-final-lap",
+    answer: 6031,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/aqua-forest-first-lap-sonic",
+    answer: 6032,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/kronos-island-first-lap-sonic",
+    answer: 6033,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/kronos-island-final-lap-hq",
+    answer: 6034,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/crystal-mine-first-lap-sonic",
+    answer: 6035,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/radical-highway-crossworlds",
+    answer: 6036,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/white-space-first-lap-sonic",
+    answer: 6037,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/white-space-final-lap-sonic",
+    answer: 6038,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/steampunk-city-first-lap-sonic",
+    answer: 6039,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/steampunk-city-final-lap-sonic",
+    answer: 6040,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/eggman-expo-first-lap-sonic",
+    answer: 6041,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/eggman-expo-final-lap-sonic",
+    answer: 6042,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/urban-canyon-final-lap-sonic",
+    answer: 6043,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/chao-park-first-lap-sonic",
+    answer: 6044,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/northstar-islands-first-lap",
+    answer: 6045,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/northstar-islands-final-lap",
+    answer: 6046,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/blizzard-valley-first-lap",
+    answer: 6047,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/blizzard-valley-final-lap",
+    answer: 6048,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/minecraft-world-first-lap",
+    answer: 6049,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/minecraft-nether-first-lap",
+    answer: 6050,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/minecraft-world-final-lap",
+    answer: 6051,
+  },
+  {
+    url: "https://soundcloud.com/sktachi10/minecraft-world-the-end-final",
+    answer: 6052,
+  },
+  {
+    url: "https://soundcloud.com/infiniteshadow2335/dragon-road-sonic-racing-crossworlds-ost-14",
+    answer: 6053,
+  },
+  {
+    url: "https://soundcloud.com/infiniteshadow2335/holoska-sonic-racing-crossworlds-ost-15",
+    answer: 6054,
+  },
+  {
+    url: "https://soundcloud.com/infiniteshadow2335/dinosaur-jungle-sonic-racing-crossworlds-ost-16",
+    answer: 6055,
+  },
+  {
+    url: "https://soundcloud.com/infiniteshadow2335/roulette-road-sonic-racing-crossworlds-ost-9",
+    answer: 6056,
+  },
+  {
+    url: "https://soundcloud.com/infiniteshadow2335/magma-planet-sonic-racing-crossworlds-ost-10",
+    answer: 6057,
+  },
+  {
+    url: "https://soundcloud.com/infiniteshadow2335/kraken-bay-sonic-racing-crossworlds-ost-11",
+    answer: 6058,
+  },
+  {
+    url: "https://soundcloud.com/infiniteshadow2335/sky-road-sonic-racing-crossworlds-ost-13",
+    answer: 6059,
+  },
+  {
+    url: "https://soundcloud.com/someaccount9/hidden-world-first-lap-sonic",
+    answer: 6060,
   },
 ];
