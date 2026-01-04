@@ -24246,4 +24246,200 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/someaccount9/hidden-world-first-lap-sonic",
     answer: 6060,
   },
+  {
+    url: "https://soundcloud.com/ilalticc/combat-beneath-the-waves",
+    answer: 6061,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/inevitable-conflict",
+    answer: 6062,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/hang-by-a-thread",
+    answer: 6063,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/die-mittsommernacht-fantasie",
+    answer: 6064,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/elogia-cinerosa",
+    answer: 6065,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/sumeru",
+    answer: 6066,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/for-riddles-for-wonders",
+    answer: 6067,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/hustle-and-bustle-of-ormos",
+    answer: 6068,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/swirls-of-shamshir",
+    answer: 6069,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/dance-of-sabzeruz",
+    answer: 6070,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/her-wishes",
+    answer: 6071,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/maidens-of-sanctity",
+    answer: 6072,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/chasing-starlight-with-you",
+    answer: 6073,
+  },
+  {
+    url: "https://soundcloud.com/panzerwafflez/genshin-impact-fontaine-main-theme-2?in=noir-noirnoir/sets/genshin-impact-fontaine-ost",
+    answer: 6074,
+  },
+  {
+    url: "https://soundcloud.com/genshinimpact/02-le-souvenir-avec-le",
+    answer: 6075,
+  },
+  {
+    url: "https://soundcloud.com/honkaistarrail/le-spectacle-doit-continuer",
+    answer: 6076,
+  },
+  {
+    url: "https://soundcloud.com/honkaistarrail/lamentation-et-triomphe",
+    answer: 6077,
+  },
+  {
+    url: "https://soundcloud.com/user-279419025/pluie-sur-la-ville-mp3",
+    answer: 6078,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/la-vaguelette",
+    answer: 6079,
+  },
+  {
+    url: "https://soundcloud.com/honkaistarrail/glory-and-decay",
+    answer: 6080,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/caelestinum-finale-termini",
+    answer: 6081,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/whirl-of-boreal-wind",
+    answer: 6082,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/symphony-of-boreal-wind",
+    answer: 6083,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/never-ending-performance",
+    answer: 6084,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/wrath-of-monoceros-caeli",
+    answer: 6085,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/dance-with-the-great-vortex",
+    answer: 6086,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/ode-to-azhdaha",
+    answer: 6087,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/rage-beneath-the-mountains",
+    answer: 6088,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/chrysalis-suspirii",
+    answer: 6089,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/saltatio-favillae",
+    answer: 6090,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/bane-of-ambitions",
+    answer: 6091,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/thunderings-of-the-merciless",
+    answer: 6092,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/rhapsodia-roscida",
+    answer: 6093,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/polumnia-omnia",
+    answer: 6094,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/god-devouring-mania",
+    answer: 6095,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/eschatologia-iudicata",
+    answer: 6096,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/silhouette-of-catastrophe",
+    answer: 6097,
+  },
+  {
+    url: "https://soundcloud.com/honkaistarrail/chorus-cinericius",
+    answer: 6098,
+  },
+  {
+    url: "https://soundcloud.com/honkaistarrail/absolutio-absoluta",
+    answer: 6099,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/lets-go-crimson-knight",
+    answer: 6100,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/rex-incognito",
+    answer: 6101,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/any-last-words",
+    answer: 6102,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/dance-of-aphros",
+    answer: 6103,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/blossoms-of-summer-night",
+    answer: 6104,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/termination-of-desires",
+    answer: 6105,
+  },
+  {
+    url: "https://soundcloud.com/user-279419025/caprice-of-the-leaves-collei",
+    answer: 6106,
+  },
+  {
+    url: "https://soundcloud.com/user-279419025/surasthana-fantasia-nahida-ost",
+    answer: 6107,
+  },
+  {
+    url: "https://soundcloud.com/tmparfum/parousia-diluvi",
+    answer: 6108,
+  },
+  {
+    url: "https://soundcloud.com/ilalticc/se-mettre-sur-son-trente-et-un",
+    answer: 6109,
+  },
 ];
