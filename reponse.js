@@ -24462,4 +24462,52 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/clarence-penumbra/half-life-opposing-force-ost",
     answer: 6114,
   },
+  {
+    url: "https://soundcloud.com/teelopes-music/grand-contest-of-myths",
+    answer: 6115,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/beach-brawl",
+    answer: 6116,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/battle-time",
+    answer: 6117,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/rise-of-the-underworld",
+    answer: 6118,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/lets-get-started",
+    answer: 6119,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/fierce-fight",
+    answer: 6120,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/lava-lair",
+    answer: 6121,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/super-scrimmage",
+    answer: 6122,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/shopping-groove",
+    answer: 6123,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/arctic-action",
+    answer: 6124,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/to-the-skyline",
+    answer: 6125,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/digital-experiments",
+    answer: 6126,
+  },
 ];
