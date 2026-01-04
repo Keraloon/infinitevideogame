@@ -8069,6 +8069,36 @@ window.musicNameList = [
     franchise : "Half Life",
   },
   {
+    id: 6110,
+    en: "Orbit - Half Life Opposing Force",
+    fr: "Orbit - Half Life Opposing Force",
+    franchise : "Half Life",
+  },
+  {
+    id: 6111,
+    en: "Storm - Half Life Opposing Force",
+    fr: "Storm - Half Life Opposing Force",
+    franchise : "Half Life",
+  },
+  {
+    id: 6112,
+    en: "Soothing Antagonist - Half Life Opposing Force",
+    fr: "Soothing Antagonist - Half Life Opposing Force",
+    franchise : "Half Life",
+  },
+  {
+    id: 6113,
+    en: "Alien Forces - Half Life Opposing Force",
+    fr: "Alien Forces - Half Life Opposing Force",
+    franchise : "Half Life",
+  },
+  {
+    id: 6114,
+    en: "Planet - Half Life Opposing Force",
+    fr: "Planet - Half Life Opposing Force",
+    franchise : "Half Life",
+  },
+  {
     id: 3085,
     en: "Halo Theme - Halo 3",
     fr: "Thème d'Halo - Halo 3",
