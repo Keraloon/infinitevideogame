@@ -7482,8 +7482,8 @@ window.musicNameList = [
   },
   {
     id: 6107,
-    en: "Surasthana Fantasia - Genshin Impact",
-    fr: "Fantaisie de Surasthana - Genshin Impact",
+    en: "Surasthana Fantasia (Nahida's Theme) - Genshin Impact",
+    fr: "Fantaisie de Surasthana (Thème de Nahida) - Genshin Impact",
     franchise : "Genshin",
   },
   {
