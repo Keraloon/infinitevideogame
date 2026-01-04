@@ -24442,4 +24442,24 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/ilalticc/se-mettre-sur-son-trente-et-un",
     answer: 6109,
   },
+  {
+    url: "https://soundcloud.com/clarence-penumbra/half-life-opposing-force-7",
+    answer: 6110,
+  },
+  {
+    url: "https://soundcloud.com/clarence-penumbra/half-life-opposing-force-3",
+    answer: 6111,
+  },
+  {
+    url: "https://soundcloud.com/clarence-penumbra/half-life-opposing-force-ost-7",
+    answer: 6112,
+  },
+  {
+    url: "https://soundcloud.com/clarence-penumbra/half-life-opposing-force-ost-1",
+    answer: 6113,
+  },
+  {
+    url: "https://soundcloud.com/clarence-penumbra/half-life-opposing-force-ost",
+    answer: 6114,
+  },
 ];
