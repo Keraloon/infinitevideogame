@@ -24534,4 +24534,28 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/faded_boo/all-over-credits",
     answer: 6132,
   },
+  {
+    url: "https://soundcloud.com/faded_boo/dusty-desert-quicksand",
+    answer: 6133,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/dusty-desert-the-ruins",
+    answer: 6134,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/tropical-jungle-the-jungle-the-swamp",
+    answer: 6135,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/tropical-jungle-the-ruins",
+    answer: 6136,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/white-acropolis-the-base",
+    answer: 6137,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/dr-eggmans-theme",
+    answer: 6138,
+  },
 ];
