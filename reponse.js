@@ -24510,4 +24510,28 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/teelopes-music/digital-experiments",
     answer: 6126,
   },
+  {
+    url: "https://soundcloud.com/faded_boo/eggmans-island-ill-get-you-yet",
+    answer: 6127,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/intro-quick-escape",
+    answer: 6128,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/icy-isle-ice-water",
+    answer: 6129,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/desert-dodge-hot-pursuit",
+    answer: 6130,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/trap-tower",
+    answer: 6131,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/all-over-credits",
+    answer: 6132,
+  },
 ];
