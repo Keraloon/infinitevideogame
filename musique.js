@@ -25485,13 +25485,37 @@ window.musicNameList = [
   {
     id: 4349,
     en: "Wave Ocean : The Water's Edge - Sonic The Hedgehog 2006",
-    fr: "Wave Ocean : Au Bord de l'Eau - Sonic The Hedgehog 2006",
+    fr: "Wave Ocean : The Water's Edge - Sonic The Hedgehog 2006",
     franchise: "Sonic",
   },
   {
     id: 4350,
     en: "Wave Ocean : The Inlet - Sonic The Hedgehog 2006",
-    fr: "Wave Ocean : L'Entrée - Sonic The Hedgehog 2006",
+    fr: "Wave Ocean : The Inlet - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
+    id: 6133,
+    en: "Dusty Desert : Quicksand - Sonic The Hedgehog 2006",
+    fr: "Dusty Desert : Quicksand - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
+    id: 6134,
+    en: "Dusty Desert : The Ruins - Sonic The Hedgehog 2006",
+    fr: "Dusty Desert : The Ruins - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
+    id: 6135,
+    en: "Tropical Jungle : The Jungle/The Swamp - Sonic The Hedgehog 2006",
+    fr: "Tropical Jungle : The Jungle/The Swamp - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
+    id: 6136,
+    en: "Tropical Jungle : The Ruins - Sonic The Hedgehog 2006",
+    fr: "Tropical Jungle : The Ruins - Sonic The Hedgehog 2006",
     franchise: "Sonic",
   },
   {
@@ -25507,27 +25531,33 @@ window.musicNameList = [
     franchise: "Sonic",
   },
   {
+    id: 6137,
+    en: "White Acropolis : The Base - Sonic The Hedgehog 2006",
+    fr: "White Acropolis : The Base - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
     id: 1863,
     en: "Flame Core : The Cavern - Sonic The Hedgehog 2006",
-    fr: "Flame Core : Caverne - Sonic The Hedgehog 2006",
+    fr: "Flame Core : The Cavern - Sonic The Hedgehog 2006",
     franchise: "Sonic",
   },
   {
     id: 1864,
     en: "Flame Core : Volcano - Sonic The Hedgehog 2006",
-    fr: "Flame Core : Volcan - Sonic The Hedgehog 2006",
+    fr: "Flame Core : Volcano - Sonic The Hedgehog 2006",
     franchise: "Sonic",
   },
   {
     id: 4351,
     en: "Radical Train : The Abandoned Mine - Sonic The Hedgehog 2006",
-    fr: "Radical Train : La Mine Abandonnée - Sonic The Hedgehog 2006",
+    fr: "Radical Train : The Abandoned Mine - Sonic The Hedgehog 2006",
     franchise: "Sonic",
   },
   {
     id: 4352,
     en: "Radical Train : The Chase - Sonic The Hedgehog 2006",
-    fr: "Radical Train : La Poursuite - Sonic The Hedgehog 2006",
+    fr: "Radical Train : The Chase - Sonic The Hedgehog 2006",
     franchise: "Sonic",
   },
   {
@@ -25606,6 +25636,12 @@ window.musicNameList = [
     id: 4355,
     en: "My Destiny (Elise Theme) - Sonic The Hedgehog 2006",
     fr: "My Destiny (Thème d'Elise) - Sonic The Hedgehog 2006",
+    franchise: "Sonic",
+  },
+  {
+    id: 6138,
+    en: "Dr.Eggman's Theme - Sonic The Hedgehog 2006",
+    fr: "Thème du Dr.Eggman - Sonic The Hedgehog 2006",
     franchise: "Sonic",
   },
   {
