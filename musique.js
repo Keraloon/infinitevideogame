@@ -6307,7 +6307,7 @@ window.musicNameList = [
   {
     id: 4557,
     en: "Red Wings - Final Fantasy IV",
-    fr: "Ailes Rouges - Final Fantasy IV",
+    fr: "Red Wings - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
@@ -6319,7 +6319,7 @@ window.musicNameList = [
   {
     id: 4559,
     en: "Theme of Love - Final Fantasy IV",
-    fr: "Thème de l'Amour - Final Fantasy IV",
+    fr: "Theme of Love - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
@@ -6331,7 +6331,7 @@ window.musicNameList = [
   {
     id: 4561,
     en: "Welcome to Our Town! - Final Fantasy IV",
-    fr: "Bienvenue dans Notre Ville! - Final Fantasy IV",
+    fr: "Welcome to Our Town! - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
@@ -6349,13 +6349,13 @@ window.musicNameList = [
   {
     id: 4564,
     en: "Hello! Big Chocobo! - Final Fantasy IV",
-    fr: "Bonjour! Grand Chocobo! - Final Fantasy IV",
+    fr: "Hello! Big Chocobo! - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
     id: 4565,
     en: "Into the Darkness - Final Fantasy IV",
-    fr: "Dans les Ténèbres - Final Fantasy IV",
+    fr: "Into the Darkness - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
@@ -6409,7 +6409,7 @@ window.musicNameList = [
   {
     id: 4574,
     en: "Golbez, Clad in Dark - Final Fantasy IV",
-    fr: "Golbez, Vêtu de Noir - Final Fantasy IV",
+    fr: "Golbez, Clad in Dark - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
@@ -6421,13 +6421,13 @@ window.musicNameList = [
   {
     id: 4576,
     en: "Mystic Mysidia - Final Fantasy IV",
-    fr: "Mysidia Mystique - Final Fantasy IV",
+    fr: "Mystic Mysidia - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
     id: 4577,
     en: "Long Way to Go - Final Fantasy IV",
-    fr: "Long Chemin à Parcourir - Final Fantasy IV",
+    fr: "Long Way to Go - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
@@ -6457,13 +6457,13 @@ window.musicNameList = [
   {
     id: 4582,
     en: "Land of Dwarved - Final Fantasy IV",
-    fr: "Terre des Nains - Final Fantasy IV",
+    fr: "Land of Dwarved - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
     id: 4583,
     en: "Dancing Calcobrina - Final Fantasy IV",
-    fr: "Calcobrina Dansante - Final Fantasy IV",
+    fr: "Dancing Calcobrina - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
@@ -6481,13 +6481,13 @@ window.musicNameList = [
   {
     id: 4586,
     en: "The Big Whale - Final Fantasy IV",
-    fr: "La Grande Baleine - Final Fantasy IV",
+    fr: "The Big Whale - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
     id: 4587,
     en: "Within the Giant - Final Fantasy IV",
-    fr: "A L'Intérieur du Géant - Final Fantasy IV",
+    fr: "Within the Giant - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
@@ -6505,13 +6505,13 @@ window.musicNameList = [
   {
     id: 4590,
     en: "Lunar Subterrane - Final Fantasy IV",
-    fr: "Souterrain Lunaire - Final Fantasy IV",
+    fr: "Lunar Subterrane - Final Fantasy IV",
     franchise : "Final Fantasy",
   },
   {
     id: 4591,
     en: "Bombing Mission - Final Fantasy VII",
-    fr: "Mission Bombardement - Final Fantasy VII",
+    fr: "Bombing Mission - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
@@ -6529,13 +6529,13 @@ window.musicNameList = [
   {
     id: 4592,
     en: "Hurry! - Final Fantasy VII",
-    fr: "Dépêche! - Final Fantasy VII",
+    fr: "Hurry! - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
     id: 3148,
     en: "Lurking in the Darkness - Final Fantasy VII",
-    fr: "Tapi dans l'Ombre - Final Fantasy VII",
+    fr: "Lurking in the Darkness - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
@@ -6559,7 +6559,7 @@ window.musicNameList = [
   {
     id: 4594,
     en: "Underneath the Rotting Pizza - Final Fantasy VII",
-    fr: "Sous la Pizza Pourrie - Final Fantasy VII",
+    fr: "Underneath the Rotting Pizza - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
@@ -6571,7 +6571,7 @@ window.musicNameList = [
   {
     id: 3151,
     en: "Who Are You ? - Final Fantasy VII",
-    fr: "Qui Es Tu ? - Final Fantasy VII",
+    fr: "Who Are You ? - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
@@ -6595,13 +6595,13 @@ window.musicNameList = [
   {
     id: 3155,
     en: "Stolen Materia - Final Fantasy VII",
-    fr: "Materia Volée - Final Fantasy VII",
+    fr: "Stolen Materia - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
     id: 4611,
     en: "Tango of Tears - Final Fantasy VII",
-    fr: "Tango des Lames - Final Fantasy VII",
+    fr: "Tango of Tears - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
@@ -6613,7 +6613,7 @@ window.musicNameList = [
   {
     id: 4609,
     en: "You Can Hear the Cry of the Planet - Final Fantasy VII",
-    fr: "On Peut Entendre le Cri de la Planète - Final Fantasy VII",
+    fr: "You Can Hear the Cry of the Planet - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
@@ -6625,31 +6625,31 @@ window.musicNameList = [
   {
     id: 4607,
     en: "Buried in the Snow - Final Fantasy VII",
-    fr: "Enfoui dans la Neige - Final Fantasy VII",
+    fr: "Buried in the Snow - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
     id: 4606,
     en: "Reunion - Final Fantasy VII",
-    fr: "Réunion - Final Fantasy VII",
+    fr: "Reunion - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
     id: 4605,
     en: "Who Am I!? - Final Fantasy VII",
-    fr: "Qui Suis-je!? - Final Fantasy VII",
+    fr: "Who Am I!? - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
     id: 4604,
     en: "Full-Scale Attack - Final Fantasy VII",
-    fr: "Attaque de Grande Envergure - Final Fantasy VII",
+    fr: "Full-Scale Attack - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
     id: 4603,
     en: "A Secret Sleeping in the Deep Sea - Final Fantasy VII",
-    fr: "Un Secret Endormi au Fond de l'Océan - Final Fantasy VII",
+    fr: "A Secret Sleeping in the Deep Sea - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
@@ -6661,25 +6661,25 @@ window.musicNameList = [
   {
     id: 4601,
     en: "Off the Edge of Despair - Final Fantasy VII",
-    fr: "Au Bord du Désespoir - Final Fantasy VII",
+    fr: "Off the Edge of Despair - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
     id: 4600,
     en: "On the Other Side of the Mountain - Final Fantasy VII",
-    fr: "De l'Autre Coté de la Montagne - Final Fantasy VII",
+    fr: "On the Other Side of the Mountain - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
     id: 4599,
     en: "The Countdown Begins - Final Fantasy VII",
-    fr: "Le Compte à Rebours Commence - Final Fantasy VII",
+    fr: "The Countdown Begins - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
     id: 4598,
     en: "If You Open Your Heart... - Final Fantasy VII",
-    fr: "Si Tu Ouvres Ton Coeur... - Final Fantasy VII",
+    fr: "If You Open Your Heart... - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
@@ -6691,7 +6691,7 @@ window.musicNameList = [
   {
     id: 4596,
     en: "Birth of God - Final Fantasy VII",
-    fr: "Naissance de Dieu - Final Fantasy VII",
+    fr: "Birth of God - Final Fantasy VII",
     franchise : "Final Fantasy",
   },
   {
@@ -6701,9 +6701,105 @@ window.musicNameList = [
     franchise : "Final Fantasy",
   },
   {
+    id: 6139,
+    en: "A Place to Call Home - Final Fantasy IX",
+    fr: "A Place to Call Home - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6140,
+    en: "Sky of Alexandria (Night in Alexandria) - Final Fantasy IX",
+    fr: "Sky of Alexandria (Night in Alexandria) - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6141,
+    en: "Vivi's Theme - Final Fantasy IX",
+    fr: "Thème de Vivi - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6142,
+    en: "Swords of Fury - Final Fantasy IX",
+    fr: "Swords of Fury - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6143,
+    en: "Vamo'alla Flamenco - Final Fantasy IX",
+    fr: "Vamo'alla Flamenco - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6144,
+    en: "Find the Princess - Final Fantasy IX",
+    fr: "Find the Princess - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6145,
+    en: "Court Jesters - Final Fantasy IX",
+    fr: "Court Jesters - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6146,
+    en: "Steiner's Theme - Final Fantasy IX",
+    fr: "Thème de Steiner - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6147,
+    en: "Prima Vista Orchestra - Final Fantasy IX",
+    fr: "Prima Vista Orchestra - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6148,
+    en: "Eye to Eye - Final Fantasy IX",
+    fr: "Eye to Eye - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6149,
+    en: "Tragic Love - Final Fantasy IX",
+    fr: "Tragic Love - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6150,
+    en: "Danger in the Forest - Final Fantasy IX",
+    fr: "Danger in the Forest - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6151,
+    en: "Battle 1 - Final Fantasy IX",
+    fr: "Combat 1 - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6152,
+    en: "Fanfare - Final Fantasy IX",
+    fr: "Fanfare - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6153,
+    en: "Battle 2 - Final Fantasy IX",
+    fr: "Combat 2 - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6154,
+    en: "Game Over - Final Fantasy IX",
+    fr: "Game Over - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
     id: 3157,
     en: "To Zanarkand - Final Fantasy X",
-    fr: "A Zanarkand - Final Fantasy X",
+    fr: "To Zanarkand - Final Fantasy X",
     franchise : "Final Fantasy",
   },
   {
@@ -6727,13 +6823,13 @@ window.musicNameList = [
   {
     id: 3161,
     en: "Calm Before the Storm - Final Fantasy X",
-    fr: "Calme avant la Tempête - Final Fantasy X",
+    fr: "Calm Before the Storm - Final Fantasy X",
     franchise : "Final Fantasy",
   },
   {
     id: 3686,
     en: "Path of Repentance - Final Fantasy X",
-    fr: "Chemin de la Repentance - Final Fantasy X",
+    fr: "Path of Repentance - Final Fantasy X",
     franchise : "Final Fantasy",
   },
   {
