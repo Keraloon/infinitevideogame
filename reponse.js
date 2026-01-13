@@ -24558,4 +24558,68 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/faded_boo/dr-eggmans-theme",
     answer: 6138,
   },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/a-place-to-call-home-1",
+    answer: 6139,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/sky-of-alexandria-night-in",
+    answer: 6140,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/vivis-theme",
+    answer: 6141,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/swords-of-fury",
+    answer: 6142,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/vamoalla-flamenco",
+    answer: 6143,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/find-the-princess",
+    answer: 6144,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/court-jesters",
+    answer: 6145,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/steiners-theme",
+    answer: 6146,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/prima-vista-orchestra",
+    answer: 6147,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/eye-to-eye",
+    answer: 6148,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/tragic-love",
+    answer: 6149,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/danger-in-the-forest",
+    answer: 6150,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/battle-1-3",
+    answer: 6151,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/fanfare-7",
+    answer: 6152,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/battle-2-1",
+    answer: 6153,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/game-over-4",
+    answer: 6154,
+  },
 ];
