@@ -24622,4 +24622,32 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/nobuouematsu-music/game-over-4",
     answer: 6154,
   },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/run-2",
+    answer: 6155,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/over-the-hill",
+    answer: 6156,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/ice-cavern",
+    answer: 6157,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/village-of-dali-1",
+    answer: 6158,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/steiners-delusion",
+    answer: 6159,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/fleeting-life",
+    answer: 6160,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/zidanes-theme",
+    answer: 6161,
+  },
 ];
