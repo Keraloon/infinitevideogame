@@ -6797,6 +6797,48 @@ window.musicNameList = [
     franchise : "Final Fantasy",
   },
   {
+    id: 6155,
+    en: "Run! - Final Fantasy IX",
+    fr: "Run! - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6156,
+    en: "Over the Hill - Final Fantasy IX",
+    fr: "Over the Hill - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6157,
+    en: "Ice Cavern - Final Fantasy IX",
+    fr: "Ice Cavern - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6158,
+    en: "Village of Dali - Final Fantasy IX",
+    fr: "Village de Dali - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6159,
+    en: "Steiner's Delusion - Final Fantasy IX",
+    fr: "Steiner's Delusion - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6160,
+    en: "Fleeting Life - Final Fantasy IX",
+    fr: "Fleeting Life - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
+    id: 6161,
+    en: "Zidane's Theme - Final Fantasy IX",
+    fr: "Thème de Zidane - Final Fantasy IX",
+    franchise : "Final Fantasy",
+  },
+  {
     id: 3157,
     en: "To Zanarkand - Final Fantasy X",
     fr: "To Zanarkand - Final Fantasy X",
