@@ -24650,4 +24650,224 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/nobuouematsu-music/zidanes-theme",
     answer: 6161,
   },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/the-black-waltz",
+    answer: 6162,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/cids-theme-1",
+    answer: 6163,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/out-of-the-frying-pan",
+    answer: 6164,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/a-song-from-her-memory",
+    answer: 6165,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/festival-of-the-hunt",
+    answer: 6166,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/quinas-theme",
+    answer: 6167,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/aloha-de-chocobo",
+    answer: 6168,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/ukulele-de-chocobo",
+    answer: 6169,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/freyas-theme",
+    answer: 6170,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/faerie-battle",
+    answer: 6171,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/kingdom-of-burmecia",
+    answer: 6172,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/unforgettable-silhouette",
+    answer: 6173,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/kujas-theme",
+    answer: 6174,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/the-wavering-blade",
+    answer: 6175,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/tantaluss-theme",
+    answer: 6176,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/garnets-theme",
+    answer: 6177,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/cleyras-trunk",
+    answer: 6178,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/cleyra-settlement",
+    answer: 6179,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/eternal-harvest-1",
+    answer: 6180,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/the-extraction",
+    answer: 6181,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/city-under-siege",
+    answer: 6182,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/roses-of-may-1",
+    answer: 6183,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/fossil-roo",
+    answer: 6184,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/conde-petie",
+    answer: 6185,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/black-mage-village",
+    answer: 6186,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/unrequited-love-1",
+    answer: 6187,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/eikos-theme",
+    answer: 6188,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/madain-sari-village-of-the",
+    answer: 6189,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/eidolon-wall",
+    answer: 6190,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/iifa-the-ancient-tree-of-life",
+    answer: 6191,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/amarants-theme",
+    answer: 6192,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/outlaws",
+    answer: 6193,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/foolproof-love-letter-scheme",
+    answer: 6194,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/tetra-master",
+    answer: 6195,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/moogles-theme-2",
+    answer: 6196,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/something-to-protect",
+    answer: 6197,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/master-of-time",
+    answer: 6198,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/oeilvert",
+    answer: 6199,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/chamber-of-a-thousand-faces",
+    answer: 6200,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/look-back-see-the-frog",
+    answer: 6201,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/mount-gulug",
+    answer: 6202,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/aboard-the-hilda-garde",
+    answer: 6203,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/guardians",
+    answer: 6204,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/terra",
+    answer: 6205,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/bran-bal-the-soulless-1",
+    answer: 6206,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/not-alone-1",
+    answer: 6207,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/unforgettable-sorrow-1",
+    answer: 6208,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/silver-dragon",
+    answer: 6209,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/memoria",
+    answer: 6210,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/crystal-world",
+    answer: 6211,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/the-darkness-of-eternity",
+    answer: 6212,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/the-final-battle-3",
+    answer: 6213,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/star-crossed-lovers",
+    answer: 6214,
+  },
+  {
+    url: "https://soundcloud.com/nobuouematsu-music/behind-the-door",
+    answer: 6215,
+  },
+  {
+    url: "https://soundcloud.com/emikoshiratori/melodies-of-life-the-layers-of",
+    answer: 6216,
+  },
 ];
