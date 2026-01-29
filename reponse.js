@@ -24870,4 +24870,56 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/emikoshiratori/melodies-of-life-the-layers-of",
     answer: 6216,
   },
+  {
+    url: "https://soundcloud.com/jernix-849068891/system-menu-sonic-rumble-ost",
+    answer: 6217,
+  },
+  {
+    url: "https://soundcloud.com/jernix-849068891/system-stage-roulette-sonic",
+    answer: 6218,
+  },
+  {
+    url: "https://soundcloud.com/jernix-849068891/green-hill-sonic-rumble-ost",
+    answer: 6219,
+  },
+  {
+    url: "https://soundcloud.com/jernix-849068891/chemical-plant-sonic-rumble-ost",
+    answer: 6220,
+  },
+  {
+    url: "https://soundcloud.com/jernix-849068891/sky-sanctuary-sonic-rumble-ost",
+    answer: 6221,
+  },
+  {
+    url: "https://soundcloud.com/jernix-849068891/seaside-hill-sonic-rumble-ost",
+    answer: 6222,
+  },
+  {
+    url: "https://soundcloud.com/jernix-849068891/starlight-carnival-sonic",
+    answer: 6223,
+  },
+  {
+    url: "https://soundcloud.com/jernix-849068891/frozen-factory-sonic-rumble",
+    answer: 6224,
+  },
+  {
+    url: "https://soundcloud.com/jernix-849068891/silent-forest-sonic-rumble-ost",
+    answer: 6225,
+  },
+  {
+    url: "https://soundcloud.com/jernix-849068891/lava-mountain-sonic-rumble-ost",
+    answer: 6226,
+  },
+  {
+    url: "https://soundcloud.com/jernix-849068891/desert-ruins-sonic-rumble-ost",
+    answer: 6227,
+  },
+  {
+    url: "https://soundcloud.com/jernix-849068891/pinball-carnival-sonic-rumble",
+    answer: 6228,
+  },
+  {
+    url: "https://soundcloud.com/jernix-849068891/co-op-battle-sonic-rumble-ost",
+    answer: 6229,
+  },
 ];
