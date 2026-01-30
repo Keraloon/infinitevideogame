@@ -24922,4 +24922,112 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/jernix-849068891/co-op-battle-sonic-rumble-ost",
     answer: 6229,
   },
+  {
+    url: "https://soundcloud.com/fantasygone/01-prelude",
+    answer: 6230,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/02-opening-theme",
+    answer: 6231,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/03-castle-cornelia",
+    answer: 6232,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/04-main-theme",
+    answer: 6233,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/05-chaos-shrine",
+    answer: 6234,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/06-matoyas-cave",
+    answer: 6235,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/07-town",
+    answer: 6236,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/08-shop",
+    answer: 6237,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/09-the-ship",
+    answer: 6238,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/10-sunken-shrine",
+    answer: 6239,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/11-dungeon",
+    answer: 6240,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/12-menu-screen",
+    answer: 6241,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/13-the-airship",
+    answer: 6242,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/14-mount-gulg",
+    answer: 6243,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/15-flying-fortress",
+    answer: 6244,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/16-battle",
+    answer: 6245,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/17-victory",
+    answer: 6246,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/18-game-over",
+    answer: 6247,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/20-ending-theme",
+    answer: 6248,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/21-church",
+    answer: 6249,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/22-derelict-keep",
+    answer: 6250,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/23-lute",
+    answer: 6251,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/28-inn",
+    answer: 6252,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/29-miniboss-battle",
+    answer: 6253,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/30-boss-battle-a",
+    answer: 6254,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/31-boss-battle-b",
+    answer: 6255,
+  },
+  {
+    url: "https://soundcloud.com/fantasygone/32-final-battle",
+    answer: 6256,
+  },
 ];
