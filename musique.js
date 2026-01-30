@@ -11009,12 +11009,6 @@ window.musicNameList = [
     franchise : "Metal Slug",
   },
   {
-    id: 6278,
-    en: "Stand up, Soldier! - Metal Slug Tactics",
-    fr: "Stand up, Soldier! - Metal Slug Tactics",
-    franchise : "Metal Slug",
-  },
-  {
     id: 6279,
     en: "Aeshi Strikes - Metal Slug Tactics",
     fr: "Aeshi Strikes - Metal Slug Tactics",
@@ -11099,7 +11093,7 @@ window.musicNameList = [
     franchise : "Metal Slug",
   },
   {
-    id: 6293,
+    id: 6278,
     en: "Crisis Ahead - Metal Slug Tactics",
     fr: "Crisis Ahead - Metal Slug Tactics",
     franchise : "Metal Slug",
