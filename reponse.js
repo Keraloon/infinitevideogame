@@ -25115,7 +25115,7 @@ window.musicListWithLinks = [
     answer: 6277,
   },
   {
-    url: "https://soundcloud.com/teelopes-music/stand-up-soldier",
+    url: "https://soundcloud.com/teelopes-music/crisis-ahead",
     answer: 6278,
   },
   {
@@ -25173,9 +25173,5 @@ window.musicListWithLinks = [
   {
     url: "https://soundcloud.com/teelopes-music/true-story-bro",
     answer: 6292,
-  },
-  {
-    url: "https://soundcloud.com/teelopes-music/crisis-ahead",
-    answer: 6293,
   },
 ];
