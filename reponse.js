@@ -25030,4 +25030,152 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/fantasygone/32-final-battle",
     answer: 6256,
   },
+  {
+    url: "https://soundcloud.com/teelopes-music/the-call-to-glory",
+    answer: 6257,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/arena-de-arena",
+    answer: 6258,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/arena-de-arena-ii",
+    answer: 6259,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/all-grenades-no-shade",
+    answer: 6260,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/all-grenades-no-shade-ii",
+    answer: 6261,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/merciless-land",
+    answer: 6262,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/merciless-land-ii",
+    answer: 6263,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/in-the-heat-of-it",
+    answer: 6264,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/in-the-heat-of-it-ii",
+    answer: 6265,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/sundown-siege",
+    answer: 6266,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/trailblazers",
+    answer: 6267,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/trailblazers-ii",
+    answer: 6268,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/struggle-in-the-jungle",
+    answer: 6269,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/struggle-in-the-jungle-ii",
+    answer: 6270,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/street-clash",
+    answer: 6271,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/street-clash-ii",
+    answer: 6272,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/urban-ops",
+    answer: 6273,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/urban-ops-ii",
+    answer: 6274,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/mordens-return",
+    answer: 6275,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/mordens-return-ii",
+    answer: 6276,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/medal-of-valor",
+    answer: 6277,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/stand-up-soldier",
+    answer: 6278,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/aeshi-strikes",
+    answer: 6279,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/the-dragons-fury",
+    answer: 6280,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/bullet-duet",
+    answer: 6281,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/strategic-assault",
+    answer: 6282,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/trigger-happy",
+    answer: 6283,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/tough-as-oneils",
+    answer: 6284,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/fire-rain-dance",
+    answer: 6285,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/morden-wars",
+    answer: 6286,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/demon-of-the-seas",
+    answer: 6287,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/the-real-heroes",
+    answer: 6288,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/terror-from-above",
+    answer: 6289,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/mechattack",
+    answer: 6290,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/last-stand",
+    answer: 6291,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/true-story-bro",
+    answer: 6292,
+  },
+  {
+    url: "https://soundcloud.com/teelopes-music/crisis-ahead",
+    answer: 6293,
+  },
 ];
