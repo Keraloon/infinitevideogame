@@ -25450,4 +25450,60 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/lego-nightwing/persona-3-reload-ost-burn-my",
     answer: 6361,
   },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/overture-super-mario-galaxy",
+    answer: 6362,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/file-select-super-mario-galaxy",
+    answer: 6363,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/luma-super-mario-galaxy",
+    answer: 6364,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/attack-of-the-airships-super-mario-galaxy",
+    answer: 6365,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/star-festival-super-mario-galaxy",
+    answer: 6366,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/catastrophe-super-mario-galaxy",
+    answer: 6367,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/peachs-castle-is-stolen-super-mario-galaxy",
+    answer: 6368,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/to-the-gateway-super-mario-galaxy",
+    answer: 6369,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/enter-the-galaxy-super-mario-galaxy",
+    answer: 6370,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/observation-dome-super-mario-galaxy",
+    answer: 6371,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/egg-planet-super-mario-galaxy",
+    answer: 6372,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/dino-piranha-super-mario-galaxy",
+    answer: 6373,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/rosalina-in-the-observatory-1-super-mario-galaxy",
+    answer: 6374,
+  },
+  {
+    url: "https://soundcloud.com/dylan-dylan-298845181/honeyhive-galaxy-super-mario-galaxy",
+    answer: 6375,
+  },
 ];
