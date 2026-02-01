@@ -25174,4 +25174,124 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/teelopes-music/true-story-bro",
     answer: 6292,
   },
+  {
+    url: "https://soundcloud.com/faded_boo/splash-hill-zone-act-1",
+    answer: 6293,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/splash-hill-zone-act-2",
+    answer: 6294,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/splash-hill-zone-act-3",
+    answer: 6295,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/casino-street-zone-act-1",
+    answer: 6296,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/casino-street-zone-act-2-mobile-ver-1",
+    answer: 6297,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/lost-labyrinth-zone-act-1",
+    answer: 6298,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/lost-labyrinth-zone-act-2",
+    answer: 6299,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/lost-labyrinth-zone-act-3",
+    answer: 6300,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/mad-gear-zone-act-1",
+    answer: 6301,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/mad-gear-zone-act-1",
+    answer: 6302,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/mad-gear-zone-act-3",
+    answer: 6303,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/egg-station-the-final-zone",
+    answer: 6304,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/boss-type-i",
+    answer: 6305,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/boss-pinch-1",
+    answer: 6306,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/special-stage-12",
+    answer: 6307,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sylvania-castle-zone-act-1",
+    answer: 6308,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sylvania-castle-zone-act-3",
+    answer: 6309,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/white-park-zone-act-1",
+    answer: 6310,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/white-park-zone-act-3",
+    answer: 6311,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/oil-desert-zone-act-1",
+    answer: 6312,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/oil-desert-zone-act-3",
+    answer: 6313,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sky-fortress-zone-act-1",
+    answer: 6314,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sky-fortress-zone-act-2",
+    answer: 6315,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/sky-fortress-zone-act-3",
+    answer: 6316,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/death-egg-mkii-zone-act-1",
+    answer: 6317,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/death-egg-mkii-zone-act-2",
+    answer: 6318,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/dr-eggman-1",
+    answer: 6319,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/metal-sonic-ver-1",
+    answer: 6320,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/metal-sonic-ver-2",
+    answer: 6321,
+  },
+  {
+    url: "https://soundcloud.com/faded_boo/special-stage-13",
+    answer: 6322,
+  },
 ];
