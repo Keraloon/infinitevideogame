@@ -25294,4 +25294,160 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/faded_boo/special-stage-13",
     answer: 6322,
   },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-full-moon",
+    answer: 6323,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-aria-of-the",
+    answer: 6324,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-this",
+    answer: 6325,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-want-to-be",
+    answer: 6326,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-troubled",
+    answer: 6327,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-crisis",
+    answer: 6328,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-shadow",
+    answer: 6329,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-unvoidable",
+    answer: 6330,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-tranquility",
+    answer: 6331,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-when-the",
+    answer: 6332,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-iwatodai-dorm",
+    answer: 6333,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-the-voice",
+    answer: 6334,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-tartarus-0d01",
+    answer: 6335,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-mass",
+    answer: 6336,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-after-the",
+    answer: 6337,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-color-of-your",
+    answer: 6338,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-deep-breath",
+    answer: 6339,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-master-of",
+    answer: 6340,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-paulownia",
+    answer: 6341,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-the-meaning",
+    answer: 6342,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-an-unexpected",
+    answer: 6343,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-fearful",
+    answer: 6344,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-calamity",
+    answer: 6345,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-durning-the",
+    answer: 6346,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-everyone",
+    answer: 6347,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-joy",
+    answer: 6348,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-deep",
+    answer: 6349,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-its-going-1",
+    answer: 6350,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-changing",
+    answer: 6351,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-basment",
+    answer: 6352,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-master-of-1",
+    answer: 6353,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-living-with",
+    answer: 6354,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-afternoon",
+    answer: 6355,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-tanakas",
+    answer: 6356,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-ost-1",
+    answer: 6357,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-ost-3",
+    answer: 6358,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-ost-that",
+    answer: 6359,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-ost-battle",
+    answer: 6360,
+  },
+  {
+    url: "https://soundcloud.com/lego-nightwing/persona-3-reload-ost-burn-my",
+    answer: 6361,
+  },
 ];
