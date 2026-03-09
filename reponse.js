@@ -9328,39 +9328,39 @@ window.musicListWithLinks = [
     answer: 2331,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/03-c418-subwoofer-lullaby",
+    url: "https://soundcloud.com/ghostly/c418-subwoofer-lullaby",
     answer: 2332,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/07-c418-haggstrom",
+    url: "https://soundcloud.com/withered-aspectmage/haggstrom?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 2333,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/12-c418-dry-hands",
+    url: "https://soundcloud.com/withered-aspectmage/dry-hands?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 2334,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/13-c418-wet-hands",
+    url: "https://soundcloud.com/withered-aspectmage/wet-hands?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 2335,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/18-c418-sweden",
+    url: "https://soundcloud.com/withered-aspectmage/sweden?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 2336,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/19-c418-cat",
+    url: "https://soundcloud.com/withered-aspectmage/cat?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 2337,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/20-c418-dog",
+    url: "https://soundcloud.com/withered-aspectmage/dog?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 2338,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/20-c418-chirp",
+    url: "https://soundcloud.com/withered-aspectmage/chirp",
     answer: 2339,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/24-c418-strad",
+    url: "https://soundcloud.com/withered-aspectmage/strad",
     answer: 2340,
   },
   {
@@ -17434,55 +17434,55 @@ window.musicListWithLinks = [
     answer: 4357,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/01-c418-key",
+    url: "https://soundcloud.com/withered-aspectmage/key?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 4358,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/02-c418-door",
+    url: "https://soundcloud.com/withered-aspectmage/door?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 4359,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/06-c418-moog-city",
+    url: "https://soundcloud.com/withered-aspectmage/moog-city?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 4360,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/08-c418-minecraft",
+    url: "https://soundcloud.com/withered-aspectmage/minecraft?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 4361,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/10-c418-quinoxe",
+    url: "https://soundcloud.com/withered-aspectmage/equinoxe?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 4362,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/11-c418-mice-on-venus",
+    url: "https://soundcloud.com/withered-aspectmage/mice-on-venus?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 4363,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/14-c418-clark",
+    url: "https://soundcloud.com/withered-aspectmage/clark?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 4364,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/15-c418-chris",
+    url: "https://soundcloud.com/withered-aspectmage/chris?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 4365,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/16-c418-thirteen",
+    url: "https://soundcloud.com/withered-aspectmage/thirteen?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 4366,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/17-c418-excuse",
+    url: "https://soundcloud.com/withered-aspectmage/excuse?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 4367,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/21-c418-danny",
+    url: "https://soundcloud.com/withered-aspectmage/danny?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 4368,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/24-c418-droopy-likes-your-face",
+    url: "https://soundcloud.com/withered-aspectmage/droopy-likes-your-face?in=withered-aspectmage/sets/minecraft-volume-alpha-c418",
     answer: 4369,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/05-c418-flake",
+    url: "https://soundcloud.com/withered-aspectmage/flake",
     answer: 4370,
   },
   {
@@ -17846,11 +17846,11 @@ window.musicListWithLinks = [
     answer: 4460,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/06-c418-moog-city-2",
+    url: "https://soundcloud.com/withered-aspectmage/moog-city-2",
     answer: 4461,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/09-c418-mutation",
+    url: "https://soundcloud.com/withered-aspectmage/mutation",
     answer: 4462,
   },
   {
@@ -17870,7 +17870,7 @@ window.musicListWithLinks = [
     answer: 4466,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/10-c418-haunt-muskie",
+    url: "https://soundcloud.com/withered-aspectmage/haunt-muskie",
     answer: 4467,
   },
   {
@@ -17878,7 +17878,7 @@ window.musicListWithLinks = [
     answer: 4468,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/floating-trees",
+    url: "https://soundcloud.com/withered-aspectmage/floating-trees",
     answer: 4469,
   },
   {
@@ -17994,27 +17994,27 @@ window.musicListWithLinks = [
     answer: 4497,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/13-c418-aria-math",
+    url: "https://soundcloud.com/withered-aspectmage/aria-math",
     answer: 4498,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/14-c418-kyoto",
+    url: "https://soundcloud.com/withered-aspectmage/kyoto",
     answer: 4499,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/17-c418-beginning-2",
+    url: "https://soundcloud.com/withered-aspectmage/beginning-2",
     answer: 4500,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/21-c418-wait",
+    url: "https://soundcloud.com/withered-aspectmage/wait",
     answer: 4501,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/22-c418-mellohi",
+    url: "https://soundcloud.com/withered-aspectmage/mellohi",
     answer: 4502,
   },
   {
-    url: "https://soundcloud.com/minecraftwizards/23-c418-stal",
+    url: "https://soundcloud.com/withered-aspectmage/stal",
     answer: 4503,
   },
   {
