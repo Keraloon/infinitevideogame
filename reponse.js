@@ -18018,19 +18018,19 @@ window.musicListWithLinks = [
     answer: 4503,
   },
   {
-    url: "https://soundcloud.com/minecraft-ost-2/ward-minecraft-volume-beta",
+    url: "https://soundcloud.com/withered-aspectmage/ward",
     answer: 4504,
   },
   {
-    url: "https://soundcloud.com/minecraft-ost-2/mall-minecraft-volume-beta",
+    url: "https://soundcloud.com/withered-aspectmage/mall",
     answer: 4505,
   },
   {
-    url: "https://soundcloud.com/minecraft-ost-2/blocks-minecraft-volume-beta",
+    url: "https://soundcloud.com/withered-aspectmage/blocks",
     answer: 4506,
   },
   {
-    url: "https://soundcloud.com/minecraft-ost-2/far-minecraft-volume-beta",
+    url: "https://soundcloud.com/withered-aspectmage/far",
     answer: 4507,
   },
   {
