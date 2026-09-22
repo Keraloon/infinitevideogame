@@ -15682,12 +15682,6 @@ window.musicNameList = [
     franchise : "Pokémon",
   },
   {
-    id: 627,
-    en: "Route 1 - Pokémon Black/White",
-    fr: "Route 1 - Pokémon Noir/Blanc",
-    franchise : "Pokémon",
-  },
-  {
     id: 214,
     en: "Professor Juniper - Pokémon Black/White",
     fr: "Professeure Keteleeria - Pokémon Noir/Blanc",
@@ -20142,7 +20136,7 @@ window.musicNameList = [
     franchise: "Pokémon",
   },
   {
-    id: 6434,
+    id: 627,
     en: "Battle! (Rogue Mega Rayquaza) - Pokémon Legends: Z-A (Mega Dimension)",
     fr: "Combat! (Méga-Rayquaza) - Légendes Pokémon : Z-A (Méga-Dimension)",
     franchise: "Pokémon",
